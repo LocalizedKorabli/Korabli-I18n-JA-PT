@@ -1,0 +1,3400 @@
+#
+msgid ""
+msgstr ""
+
+#, fuzzy
+msgid "IDS_ABUSE_REASON_GRIEFER"
+msgstr "Создание помех союзникам"
+
+#, fuzzy
+msgid "IDS_ABUSE_REASON_TKILL"
+msgstr "Нанесение урона союзникам"
+
+#, fuzzy
+msgid "IDS_ABUSE_REASON_TSHOTS"
+msgstr "Огонь по кораблям союзников"
+
+#, fuzzy
+msgid "IDS_ACCOUNT_COMPLETION_PASSWORD_WRONG_CHARACTERS"
+msgstr ""
+"Введён недопустимый символ.\n"
+"Используйте латинские буквы, цифры и нижнее подчёркивание."
+
+#, fuzzy
+msgid "IDS_ACCOUNT_COMPLETION_TAKE_REWARD"
+msgstr "Забрать награды"
+
+#, fuzzy
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC030_TITLE"
+msgstr "Нанесите урон"
+
+#, fuzzy
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC031_TITLE"
+msgstr "Нанесите урон"
+
+#, fuzzy
+msgid "IDS_ACHIEVEMENT_GROUP_EXPLORING"
+msgstr "Прогресс"
+
+#, fuzzy
+msgid "IDS_ALTERNATE_INTERFACE"
+msgstr "Вид интерфейса"
+
+#, fuzzy
+msgid "IDS_ARC_EVENT_COMMON_EVENT_TITLE"
+msgstr "Троецарствие"
+
+#, fuzzy
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_TASK_TOOLTIP_LINE_SUBHEADER_PERSONAL_POINTS"
+msgstr "Очки прогресса"
+
+#, fuzzy
+msgid "IDS_ASYMM_2POINT_COOP"
+msgstr "Асимметричный бой"
+
+#, fuzzy
+msgid "IDS_ASYMM_3POINT_COOP"
+msgstr "Асимметричный бой"
+
+#, fuzzy
+msgid "IDS_BATTLEPASS_INFO_TOOLTIP_POINTS_TITLE"
+msgstr "Очки Боевого пропуска"
+
+#, fuzzy
+msgid "IDS_BATTLEPASS_STATUS_BUTTON_REWARD"
+msgstr "Забрать награду"
+
+#, fuzzy
+msgid "IDS_BATTLE_STATS_ALLIES_TECHNICAL_RESULTS"
+msgstr "Наша команда выполнила боевую задачу."
+
+#, fuzzy
+msgid "IDS_BATTLE_STATS_DAMAGED_BY_29"
+msgstr "уничтожен миной"
+
+#, fuzzy
+msgid "IDS_BATTLE_STATS_ENEMIES_TECHNICAL_RESULTS"
+msgstr "Команда противника выполнила боевую задачу."
+
+#, fuzzy
+msgid "IDS_BYVALYJ"
+msgstr "Бывалый"
+
+#, fuzzy
+msgid "IDS_BY_EXPERIENCE"
+msgstr "Чистый опыт"
+
+#, fuzzy
+msgid "IDS_CREW_RANK_RUSSIA_5"
+msgstr "Капитан 2-го ранга"
+
+#, fuzzy
+msgid "IDS_CURRENCY_CLIENTUM_2"
+msgstr "Жетоны прогресса"
+
+#, fuzzy
+msgid "IDS_CURRENCY_CREDITS_GET_DESCRIPTION"
+msgstr "Зарабатывается в бою."
+
+#, fuzzy
+msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE"
+msgstr "Торпеды"
+
+#, fuzzy
+msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE_SUPERSHIP"
+msgstr "Торпеды"
+
+#, fuzzy
+msgid "IDS_DOCK_BANNER_BATTLEPASS"
+msgstr "Боевой пропуск"
+
+#, fuzzy
+msgid "IDS_DOCK_BANNER_BATTLEPASS_TOOLTIP_HEADER"
+msgstr "Боевой пропуск"
+
+#, fuzzy
+msgid "IDS_DOCK_BANNER_CAMPAIGNS"
+msgstr "Кампании"
+
+#, fuzzy
+msgid "IDS_DOCK_BANNER_CASUAL_CVC"
+msgstr "Морское сражение"
+
+#, fuzzy
+msgid "IDS_DOCK_BANNER_KEY_TARGET"
+msgstr "Ключевая цель"
+
+#, fuzzy
+msgid "IDS_DOCK_BANNER_METASHOP"
+msgstr "Адмиралтейство"
+
+#, fuzzy
+msgid "IDS_DOCK_BANNER_SNOWFLAKES"
+msgstr "Награды"
+
+#, fuzzy
+msgid "IDS_DOCK_BANNER_SSE_NEWBIE_QUESTS"
+msgstr "Вводные задачи"
+
+#, fuzzy
+msgid "IDS_DOGTAGS_EMBLEM_SPECIAL_SUBGROUP_MODMAKER"
+msgstr "Мододел"
+
+#, fuzzy
+msgid "IDS_DOGTAG_PCNB008_NAME"
+msgstr "Енот"
+
+#, fuzzy
+msgid "IDS_DOGTAG_PCNB398_NAME"
+msgstr "Бывалый"
+
+#, fuzzy
+msgid "IDS_DOGTAG_PCNB412_DESCRIPTION"
+msgstr "В честь восьмого дня рождения игры."
+
+#, fuzzy
+msgid "IDS_ECONOMIC_BOOST_SUMMARY_CLANBOOST_ITEM_TOOLTIP"
+msgstr "Клановый бонус"
+
+#, fuzzy
+msgid "IDS_EFFECT_CARRIER_ENGINE_CRIT"
+msgstr "Двигатель авианосца выведен из строя!"
+
+#, fuzzy
+msgid "IDS_EFFECT_CARRIER_STEERING_GEAR_CRIT"
+msgstr "Рули авианосца выведены из строя!"
+
+#, fuzzy
+msgid "IDS_EQUIPMENT"
+msgstr "Оснащение"
+
+#, fuzzy
+msgid "IDS_GO_TO_MISSIONS"
+msgstr "Перейти к миссии"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_134_DESC"
+msgstr "Проведите обслуживание корабля или выберите другой корабль."
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_134_HEADER"
+msgstr "Камуфляж корабля"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_14_HEADER"
+msgstr "Внешний вид корабля"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_15_HEADER"
+msgstr "Камуфляж корабля"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_16_HEADER"
+msgstr "Постоянные камуфляжи"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_20_DESC"
+msgstr ""
+"Установите на корабль сигналы, чтобы улучшить его боевые характеристики."
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_22_HEADER"
+msgstr "Исследование кораблей и модулей"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_23_HEADER"
+msgstr "Исследование модулей"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_24_HEADER"
+msgstr "Свободный опыт"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_250_HEADER"
+msgstr "Бюро исследований"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_253_HEADER"
+msgstr "Праздничные награды"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_256_HEADER"
+msgstr "Морское братство"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_279_HEADER"
+msgstr "Награды"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_27_HEADER"
+msgstr "Свободный опыт"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_282_HEADER"
+msgstr "Установка сигналов"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_283_HEADER"
+msgstr "Сигналы"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_284_DESC"
+msgstr "Из контейнеров вы можете получить различное имущество."
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_285_DESC"
+msgstr "Из контейнеров вы можете получить различное имущество."
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_286_HEADER"
+msgstr "Очки навыков командира"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_287_HEADER"
+msgstr "Очки навыков командира"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_28_HEADER"
+msgstr "Экономические бонусы"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_291_HEADER"
+msgstr "Новый командир"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_292_HEADER"
+msgstr "Установка модернизаций"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_306_HEADER"
+msgstr "Особенности кораблей"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_31_HEADER"
+msgstr "Контейнеры"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_32_HEADER"
+msgstr "Вам доступны контейнеры"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_61_HEADER"
+msgstr "Камуфляж корабля"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_80_HEADER"
+msgstr "Внешний вид корабля"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_81_HEADER"
+msgstr "Камуфляж корабля"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_82_HEADER"
+msgstr "Постоянные камуфляжи"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_83_HEADER"
+msgstr "Расходуемые камуфляжи"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_87_HEADER"
+msgstr "Исследование кораблей и модулей"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_88_HEADER"
+msgstr "Исследование модулей"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_89_HEADER"
+msgstr "Свободный опыт"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_93_HEADER"
+msgstr "Экономические бонусы"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_95_HEADER"
+msgstr "Экономические бонусы"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_96_HEADER"
+msgstr "Контейнеры"
+
+#, fuzzy
+msgid "IDS_GUIDING_TIP_97_HEADER"
+msgstr "Контейнеры"
+
+#, fuzzy
+msgid "IDS_HELP"
+msgstr "ПОМОЩЬ"
+
+#, fuzzy
+msgid "IDS_HELP_AVIATION"
+msgstr "Авиация"
+
+#, fuzzy
+msgid "IDS_HELP_DETECTION_INDICATORS"
+msgstr "Обнаружение"
+
+#, fuzzy
+msgid "IDS_HELP_FIGHTER"
+msgstr "Истребитель"
+
+#, fuzzy
+msgid "IDS_HELP_RELOAD"
+msgstr "Перезарядка"
+
+#, fuzzy
+msgid "IDS_HELP_TORPEDO"
+msgstr "Торпеды"
+
+#, fuzzy
+msgid "IDS_HIGHEST_RANK"
+msgstr "Максимальный уровень командира"
+
+#, fuzzy
+msgid "IDS_KEY_TARGET"
+msgstr "Ключевая цель"
+
+#, fuzzy
+msgid "IDS_KEY_TARGET_ALLY"
+msgstr "Ключевая цель"
+
+#, fuzzy
+msgid "IDS_KEY_TARGET_SELF"
+msgstr "Вы назначены Ключевой целью"
+
+#, fuzzy
+msgid "IDS_LOADING_TOOLTIP_LEVEL2_34"
+msgstr ""
+"Автопилот: удерживая [KEY_SHIFT], вы можете задать до пяти точек назначения "
+"на тактической карте."
+
+#, fuzzy
+msgid "IDS_LOADING_TOOLTIP_LEVEL2_35"
+msgstr ""
+"Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком "
+"близко к суше, вы рискуете сесть на мель."
+
+#, fuzzy
+msgid "IDS_LOADING_TOOLTIP_LEVEL3_50"
+msgstr ""
+"Автопилот: удерживая [KEY_SHIFT], вы можете задать до пяти точек назначения "
+"на тактической карте."
+
+#, fuzzy
+msgid "IDS_LOADING_TOOLTIP_LEVEL3_51"
+msgstr ""
+"Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком "
+"близко к суше, вы рискуете сесть на мель."
+
+#, fuzzy
+msgid "IDS_LOADING_TOOLTIP_LEVEL4_48"
+msgstr ""
+"Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком "
+"близко к суше, вы рискуете сесть на мель."
+
+#, fuzzy
+msgid "IDS_LOADING_TOOLTIP_LEVEL4_49"
+msgstr ""
+"Окружность вокруг вашего корабля на мини-карте обозначает дальность действия"
+" выбранного вооружения."
+
+#, fuzzy
+msgid "IDS_LOADING_TOOLTIP_LEVEL5_34"
+msgstr ""
+"Автопилот: удерживая [KEY_SHIFT], вы можете задать до пяти точек назначения "
+"на тактической карте."
+
+#, fuzzy
+msgid "IDS_LOADING_TOOLTIP_LEVEL5_35"
+msgstr ""
+"Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком "
+"близко к суше, вы рискуете сесть на мель."
+
+#, fuzzy
+msgid "IDS_LOADING_TOOLTIP_LEVEL5_36"
+msgstr ""
+"Бронебойные (ББ) снаряды неэффективны против слабо бронированных кораблей. "
+"Снаряды пробьют корабль насквозь, не нанеся ощутимого урона."
+
+#, fuzzy
+msgid "IDS_LOADING_TOOLTIP_LEVEL5_37"
+msgstr ""
+"Окружность вокруг вашего корабля на мини-карте обозначает дальность действия"
+" выбранного вооружения."
+
+#, fuzzy
+msgid "IDS_LOOTBOX_GOT"
+msgstr "Получен"
+
+#, fuzzy
+msgid "IDS_MISSIONS"
+msgstr "Миссии"
+
+#, fuzzy
+msgid "IDS_MISSION_STATE_COMPLETED"
+msgstr "Миссия пройдена"
+
+#, fuzzy
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_HEADER"
+msgstr "Эпоха Троецарствия"
+
+#, fuzzy
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_HEADER"
+msgstr "Прогресс"
+
+#, fuzzy
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_HEADER"
+msgstr "Условия участия"
+
+#, fuzzy
+msgid "IDS_MODAL_WINDOW_PCVE017_RULES_PARAGRAPH_1_TEXT_2"
+msgstr ""
+"Команда сопровождения должна провести хотя бы один транспорт к точке "
+"назначения или уничтожить все корабли команды атаки."
+
+#, fuzzy
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_1_HEADER"
+msgstr "Задача"
+
+#, fuzzy
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_2_HEADER"
+msgstr "Волномёт"
+
+#, fuzzy
+msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_HEADER"
+msgstr "Награды"
+
+#, fuzzy
+msgid "IDS_MODAL_WINDOW_PVEBATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "Задачи"
+
+#, fuzzy
+msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr ""
+"Вам предстоит сразиться вместе с другими игроками в битве между двумя "
+"командами."
+
+#, fuzzy
+msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_4_HEADER"
+msgstr "Звёзды"
+
+#, fuzzy
+msgid "IDS_MODULES"
+msgstr "Модули"
+
+#, fuzzy
+msgid "IDS_OPEN_LOOTBOX"
+msgstr "Открыть"
+
+#, fuzzy
+msgid "IDS_OP_01_04_0031_DEFENSE_MAIN_TASK_SUCCESS"
+msgstr ""
+"Операция выполнена!\n"
+"Силы противника уничтожены."
+
+#, fuzzy
+msgid "IDS_OUT_OF_ORDER"
+msgstr "Выведено из строя"
+
+#, fuzzy
+msgid "IDS_PAAB218_YORKTOWN_TOP"
+msgstr "SB2C Helldiver"
+
+#, fuzzy
+msgid "IDS_PAAD118_YORKTOWN_STOCK"
+msgstr "SBD Dauntless"
+
+#, fuzzy
+msgid "IDS_PAAD218_YORKTOWN_TOP"
+msgstr "SB2C Helldiver"
+
+#, fuzzy
+msgid "IDS_PAAF118_YORKTOWN_STOCK"
+msgstr "F6F Hellcat"
+
+#, fuzzy
+msgid "IDS_PAGM053_406MM_45_MK7_11"
+msgstr "406-мм/45 Mk.5 в башенной установке"
+
+#, fuzzy
+msgid "IDS_PAPB101_DELAWARE_STOCK"
+msgstr "AN-M64"
+
+#, fuzzy
+msgid "IDS_PAPB102_DELAWARE_TOP"
+msgstr "AN-M64"
+
+#, fuzzy
+msgid "IDS_PAPB118_YORKTOWN_STOCK"
+msgstr "AN-M65"
+
+#, fuzzy
+msgid "IDS_PAPB128_NEBRASKA_STOCK"
+msgstr "AN-M64"
+
+#, fuzzy
+msgid "IDS_PAPB218_YORKTOWN_TOP"
+msgstr "AN-M65"
+
+#, fuzzy
+msgid "IDS_PAPB228_NEBRASKA_TOP"
+msgstr "AN-M64"
+
+#, fuzzy
+msgid "IDS_PAPB230_LOUISIANA_TOP"
+msgstr "AN-M64"
+
+#, fuzzy
+msgid "IDS_PAPB538_HORNET_TACT"
+msgstr "AN-M64"
+
+#, fuzzy
+msgid "IDS_PAPR118_YORKTOWN_STOCK"
+msgstr "5-inch FFAR"
+
+#, fuzzy
+msgid "IDS_PAPT008_MK_17"
+msgstr "Mk17"
+
+#, fuzzy
+msgid "IDS_PAPT018_MK_15_MOD_3"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAPT027_MK_16_MOD_1"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAPT029_MK_15_MOD_ATLANTA"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAPT031_KIDD"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAPT033_MONAGHAN_MK15"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAPT035_TST_GEARING_1"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAPT047_MK_11_CONSTELLATION"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAPT051_533MM_MK15_S_DIEGO"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAPT118_YORKTOWN_STOCK"
+msgstr "Torpedo Mk.13-2"
+
+#, fuzzy
+msgid "IDS_PAPT218_YORKTOWN_TOP"
+msgstr "Torpedo Mk.13-2"
+
+#, fuzzy
+msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_2"
+msgstr ""
+"Привязанные экономические комплекты и постоянные камуфляжи останутся "
+"доступны на кораблях, когда вы их снова исследуете."
+
+#, fuzzy
+msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_3"
+msgstr "Модернизации будут бесплатно демонтированы."
+
+#, fuzzy
+msgid "IDS_PARAMS_MODIFIER_ALLCONSUMABLERELOADTIME"
+msgstr "Время подготовки и перезарядки снаряжения"
+
+#, fuzzy
+msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSWORKTIMECOEFF"
+msgstr "Время работы снаряжения корабля"
+
+#, fuzzy
+msgid "IDS_PARAMS_MODIFIER_CONSUMABLESWORKTIME"
+msgstr "Время работы снаряжения"
+
+#, fuzzy
+msgid "IDS_PARAMS_MODIFIER_HEALTHREGEN"
+msgstr "Боеспособность корабля в секунду"
+
+#, fuzzy
+msgid "IDS_PARAMS_MODIFIER_PLANEBUBBLEARMORCOEFF"
+msgstr "Урон от разрывов снарядов ПВО"
+
+#, fuzzy
+msgid "IDS_PARAMS_MODIFIER_PLANECONSUMABLERELOADTIME"
+msgstr "Время перезарядки снаряжения эскадрилий"
+
+#, fuzzy
+msgid "IDS_PARAMS_MODIFIER_SCOUTRELOADCOEFF"
+msgstr "Время перезарядки снаряжения «Корректировщик огня»"
+
+#, fuzzy
+msgid "IDS_PARAMS_MODIFIER_SMOKEGENERATORWORKTIMECOEFF"
+msgstr "Время работы снаряжения"
+
+#, fuzzy
+msgid "IDS_PARAMS_MODIFIER_SMOKEGENERATORWORKTIMECOEFF_SKILL"
+msgstr "Время работы снаряжения «Дымогенератор»"
+
+#, fuzzy
+msgid "IDS_PARAMS_MODIFIER_SPEEDBOOSTERSWORKTIMECOEFF"
+msgstr "Время работы снаряжения «Форсаж»"
+
+#, fuzzy
+msgid "IDS_PASA006_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASB013"
+msgstr "Arkansas Beta"
+
+#, fuzzy
+msgid "IDS_PASB018_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASB109_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASB111_YEAR"
+msgstr "1955 г."
+
+#, fuzzy
+msgid "IDS_PASB507_FULL"
+msgstr "West Virginia '41"
+
+#, fuzzy
+msgid "IDS_PASB710_YEAR"
+msgstr "1953 г."
+
+#, fuzzy
+msgid "IDS_PASB990_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PASC017_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASC019_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASC108_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASD508_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASD519_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASD529_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASD709_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASD710_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PASS110_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PASS910_YEAR"
+msgstr "1941 г."
+
+#, fuzzy
+msgid "IDS_PAUA713_BB8_ART_STOCK"
+msgstr "406-мм/45 Mk.5 в башенной установке"
+
+#, fuzzy
+msgid "IDS_PAUB707_CV8_TORP_TOP"
+msgstr "SB2C Helldiver"
+
+#, fuzzy
+msgid "IDS_PAUD700_CV8_DB_STOCK"
+msgstr "SBD Dauntless"
+
+#, fuzzy
+msgid "IDS_PAUD711_CV8_DB_TOP"
+msgstr "SB2C Helldiver"
+
+#, fuzzy
+msgid "IDS_PAUE111_ENGINE_7500"
+msgstr "ЭУ 7 500 л.с."
+
+#, fuzzy
+msgid "IDS_PAUE400_ENG_RATTLEHEAD"
+msgstr "ЭУ 90 000 л.с."
+
+#, fuzzy
+msgid "IDS_PAUE710_S8_ENG_STOCK"
+msgstr "ЭУ 5 500 л.с."
+
+#, fuzzy
+msgid "IDS_PAUE720_S8_ENG_STOCK"
+msgstr "ЭУ 5 500 л.с."
+
+#, fuzzy
+msgid "IDS_PAUE814_ENG_BLACK_BLACK"
+msgstr "ЭУ 60 000 л.с."
+
+#, fuzzy
+msgid "IDS_PAUF301_FLIGHTCONTROL_1"
+msgstr "Mk4 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUF302_FLIGHTCONTROL_2"
+msgstr "Mk4 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF311_FLIGHTCONTROL_1"
+msgstr "Mk4 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUF312_FLIGHTCONTROL_2_A"
+msgstr "Mk4 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF391_FC1_LANGLEY"
+msgstr "Mk4 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUF501_FLIGHTCONTROL_1"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUF502_FLIGHTCONTROL_2"
+msgstr "Mk6 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF511_FLIGHTCONTROL_1"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUF512_FLIGHTCONTROL_2_A"
+msgstr "Mk6 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF591_FC1_RANGER"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUF601_FLIGHTCONTROL_1"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUF602_FLIGHTCONTROL_2"
+msgstr "Mk7 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF611_FLIGHTCONTROL_1"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUF612_FLIGHTCONTROL_2_A"
+msgstr "Mk7 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF621_SAIPAN"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUF702_FLIGHTCONTROL_2"
+msgstr "Mk8 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF712_FLIGHTCONTROL_2_A"
+msgstr "Mk8 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF802_FLIGHTCONTROL_2"
+msgstr "Mk9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF812_FLIGHTCONTROL_2_A"
+msgstr "Mk9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF912_FLIGHTCONTROL_2_A"
+msgstr "Mk10 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUF975_FC_2A_MIDWAY"
+msgstr "Mk10 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUH461_CINCINNATI"
+msgstr "Marblehead L"
+
+#, fuzzy
+msgid "IDS_PAUI700_CV8_F_STOCK"
+msgstr "F6F Hellcat"
+
+#, fuzzy
+msgid "IDS_PAUI709_CV8_F_TOP"
+msgstr ""
+"F4U-1D Corsair\n"
+"HVAR 127 mm"
+
+#, fuzzy
+msgid "IDS_PAUS001_SUO"
+msgstr "Mk1 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS011_SUO"
+msgstr "Mk1 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS101_SUO"
+msgstr "Mk2 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS102_SUO"
+msgstr "Mk2 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS121_SUO"
+msgstr "Mk2 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS131_SUO_SMITH"
+msgstr "Mk2 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS201_SUO"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS202_SUO"
+msgstr "Mk III mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS203_SUO_CHARLSTON"
+msgstr "Mk3 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS211_SUO"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS212_SUO"
+msgstr "Mk III mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS213_SUO_CS"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS221_SUO"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS222_SUO"
+msgstr "Mk III mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS231_SUO"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS232_SUO"
+msgstr "Mk III mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS233_SUO_CS"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS301_SUO"
+msgstr "Mk4 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS302_SUO"
+msgstr "Mk4 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS311_SUO"
+msgstr "Mk4 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS312_SUO"
+msgstr "Mk4 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS321_SUO"
+msgstr "Mk4 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS322_SUO"
+msgstr "Mk4 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS331_SUO_ARK_PREM"
+msgstr "Mk4 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS400_SUO_RATTLEHEAD"
+msgstr "Mk5 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS401_SUO"
+msgstr "Mk5 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS402_SUO"
+msgstr "Mk5 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS403_SUO_HILL"
+msgstr "Mk5 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS404_SUO_OKLAHOMA"
+msgstr "Mk5 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS411_SUO"
+msgstr "Mk5 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS412_SUO"
+msgstr "Mk5 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS419_SUO_MB"
+msgstr "Mk5 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS421_SUO"
+msgstr "Mk5 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS422_SUO"
+msgstr "Mk5 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS431_SUO_CINCINNATI"
+msgstr "Mk5 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS441_SUO_TEXAS"
+msgstr "Mk5 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS501_SUO"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS502_SUO"
+msgstr "Mk6 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS503_CL6_STOCK_SUO"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS504_CL6_TOP_SUO"
+msgstr "Mk6 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS506_MONAGHAN"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS507_CA6_STOCK_SUO"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS508_CA6_TOP_SUO"
+msgstr "Mk6 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS509_SUO_WVIRGINIA"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS511_SUO"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS512_SUO"
+msgstr "Mk6 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS521_SUO"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS531_SUO"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS532_SUO"
+msgstr "Mk6 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS541_SUO_ARIZONA"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS601_SUO"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS602_SUO"
+msgstr "Mk7 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS603_CL7_STOCK_SUO"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS604_CL7_TOP_SUO"
+msgstr "Mk7 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS605_CA7_STOCK_SUO"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS606_CA7_TOP_SUO"
+msgstr "Mk7 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS607_SUO_CALIFORNIA"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS608_SUO_FLORIDA"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS609_SUO_BLACK_ATLANTA"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS610_SUO_WVIRGINIA_44"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS611_SUO"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS612_SUO"
+msgstr "Mk7 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS621_SUO"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS631_SUO"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS632_SUO"
+msgstr "Mk7 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS641_SUO_INDIANAPOLIS"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS651_SUO_FLINT"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS680_SUO_BLACK_SIMS"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS691_C7_SUO_JULIO"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS700_SUO_COLORFUL_N_CAROLINA"
+msgstr "Mk8 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS702_SUO"
+msgstr "Mk8 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS705_CL8_TOP_SUO"
+msgstr "Mk8 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS707_CA8_TOP_SUO"
+msgstr "Mk8 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS712_SUO"
+msgstr "Mk8 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS714_BB8_SUO_TOP"
+msgstr "Mk8 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS721_SUO"
+msgstr "Mk7 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUS732_SUO"
+msgstr "Mk8 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS802_SUO"
+msgstr "Mk9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS804_CL9_TOP_SUO"
+msgstr "Mk9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS806_CA9_TOP_SUO"
+msgstr "Mk9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS810_BB9_SUO_TOP"
+msgstr "Mk9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS812_SUO"
+msgstr "Mk9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS822_SUO"
+msgstr "Mk9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUS902_SUO"
+msgstr "Mk10 mod. 2"
+
+#, fuzzy
+msgid "IDS_PAUT502_533_MARK_15_MOD_3"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAUT503_533_MARK_15_MOD_3_ATLANTA"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAUT504_FLINT"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAUT507_MONAGHAN2"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAUT603_TORP_BLACK_ATLANTA"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAUT702_D8_TORP_TOP"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAUT704_TORP_KIDD"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAUT706_TORP_ANCHORAGE"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUT707_TORP_S_DIEGO"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAUT713_TORP_CONSTELLATION"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAUT801_D9_TORP_STOCK"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PAUT804_D9_TORP_TOP"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUT902_D10_NEW_STOCK"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUT903_TORP_TST_GEARING"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUT908_TORP_AUSTIN"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PAUT975_TORP_GEARING"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PBPR121_EAGLE_JET"
+msgstr "RP-3 60 lb No2 Mk.I"
+
+#, fuzzy
+msgid "IDS_PBPT112_MALTA_STOCK"
+msgstr "Mark XVII"
+
+#, fuzzy
+msgid "IDS_PBSC910_YEAR"
+msgstr "1949 г."
+
+#, fuzzy
+msgid "IDS_PBSS108_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PBUF301_CV4_FC"
+msgstr "Mk4 mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUF501_CV6_FC"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUF502_FC_ARKROYAL"
+msgstr "Mk6 mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS001_C1_SUO_STOCK"
+msgstr "Mk I mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS101_C2_SUO_STOCK"
+msgstr "Mk II mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS103_D2_SUO_STOCK"
+msgstr "Mk II mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS201_SUO_CAMPBELTOWN"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS202_D3_SUO_STOCK"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS203_D3_SUO_TOP"
+msgstr "Mk III mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS204_SUO_DRED"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS211_C3_SUO_STOCK"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS212_C3_SUO_TOP"
+msgstr "Mk III mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS221_B3_SUO_STOCK"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS222_B3_SUO_TOP"
+msgstr "Mk III mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS301_C4_SUO_STOCK"
+msgstr "Mk IV mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS302_C4_SUO_TOP"
+msgstr "Mk IV mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS303_D4_SUO_STOCK"
+msgstr "Mk IV mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS304_D4_SUO_TOP"
+msgstr "Mk IV mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS305_B4_SUO_STOCK"
+msgstr "Mk IV mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS306_B4_SUO_TOP"
+msgstr "Mk IV mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS311_B4_SUO_STOCK"
+msgstr "Mk IV mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS312_B4_SUO_TOP"
+msgstr "Mk IV mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS401_C5_SUO_STOCK"
+msgstr "Mk V mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS402_C5_SUO_TOP"
+msgstr "Mk V mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS403_SUO_ANT"
+msgstr "Mk V mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS404_D5_SUO_STOCK"
+msgstr "Mk V mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS405_D5_SUO_TOP"
+msgstr "Mk V mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS406_SUO_EXETER"
+msgstr "Mk V mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS407_CA5_SUO_STOCK"
+msgstr "Mk V mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS408_CA5_SUO_TOP"
+msgstr "Mk V mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS409_SUO_AGINCOURT"
+msgstr "Mk V mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS411_B5_SUO_STOCK"
+msgstr "Mk V mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS412_B5_SUO_TOP"
+msgstr "Mk V mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS413_B5_SUO_STOCK"
+msgstr "Mk V mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS414_B5_SUO_TOP"
+msgstr "Mk V mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS501_SUO"
+msgstr "Mk VI mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS502_SUO_GAL"
+msgstr "Mk VI mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS503_D6_SUO_STOCK"
+msgstr "Mk VI mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS504_D6_SUO_TOP"
+msgstr "Mk VI mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS505_CA6_SUO_STOCK"
+msgstr "Mk VI mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS506_CA6_SUO_TOP"
+msgstr "Mk VI mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS507_SUO_LONDON"
+msgstr "Mk VI mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS511_C6_SUO_STOCK"
+msgstr "Mk VI mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS512_C6_SUO_TOP"
+msgstr "Mk VI mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS521_B6_SUO_STOCK"
+msgstr "Mk VI mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS522_B6_SUO_TOP"
+msgstr "Mk VI mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS628_SUO_COSSACK"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS700_SUO_EDINBURGH_PR"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS701_C8_SUO_STOCK"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS702_C8_SUO_TOP"
+msgstr "Mk VIII mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS703_D8_SUO_STOCK"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS704_D8_SUO_TOP"
+msgstr "Mk VIII mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS705_SUO_VANGUARD"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS706_CA8_SUO_STOCK"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS707_CA8_SUO_TOP"
+msgstr "Mk VIII mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS708_SUO_BELFAST2"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS711_B8_SUO_STOCK"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS712_B8_SUO_TOP"
+msgstr "Mk VIII mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS713_CA8_SUO_CHESHIRE"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS714_SUO_BLACK_COSSACK"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS718_SUO_AZUR_CHESHIRE"
+msgstr "Mk VIII mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS800_B9_SUO_STOCK"
+msgstr "Mk IX mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS801_C9_SUO_STOCK"
+msgstr "Mk IX mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS802_C9_SUO_TOP"
+msgstr "Mk IX mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS803_D9_SUO_STOCK"
+msgstr "Mk IX mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS804_D9_SUO_TOP"
+msgstr "Mk IX mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS805_CA9_SUO_STOCK"
+msgstr "Mk IX mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS806_CA9_SUO_TOP"
+msgstr "Mk IX mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS807_SUO_MARLBOROUGH"
+msgstr "Mk IX mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS808_B9_SUO_TOP"
+msgstr "Mk IX mod. 2"
+
+#, fuzzy
+msgid "IDS_PBUS810_SUO_SOMME"
+msgstr "Mk IX mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS811_B9_SUO_STOCK"
+msgstr "Mk IX mod. 1"
+
+#, fuzzy
+msgid "IDS_PBUS812_B9_SUO_TOP"
+msgstr "Mk IX mod. 2"
+
+#, fuzzy
+msgid "IDS_PCEE392_VERIZON_FLAG"
+msgstr "Чемпион"
+
+#, fuzzy
+msgid "IDS_PCQT405_1"
+msgid_plural "IDS_PCQT405_1"
+msgstr[0] "Нанесите %(count)s ед. урона линкорам противника."
+
+#, fuzzy
+msgid "IDS_PCQT679_1"
+msgid_plural "IDS_PCQT679_1"
+msgstr[0] "Получите %(count)s ед. потенциального урона."
+
+#, fuzzy
+msgid "IDS_PCQT686_1"
+msgid_plural "IDS_PCQT686_1"
+msgstr[0] "Получите %(count)s ед. потенциального урона."
+
+#, fuzzy
+msgid "IDS_PECULARITY_FILTER_SCARLET_FUTURE"
+msgstr "Во имя прогресса!"
+
+#, fuzzy
+msgid "IDS_PFGT000_INVISIBLE_TA"
+msgstr "550-мм tube lance-torpilles"
+
+#, fuzzy
+msgid "IDS_PFPT005_550_44V"
+msgstr "550-мм 44V"
+
+#, fuzzy
+msgid "IDS_PFSC106"
+msgstr "La Galissonnière"
+
+#, fuzzy
+msgid "IDS_PFSC106_FULL"
+msgstr "La Galissonnière"
+
+#, fuzzy
+msgid "IDS_PFSC506"
+msgstr "De Grasse"
+
+#, fuzzy
+msgid "IDS_PFSC506_FULL"
+msgstr "De Grasse"
+
+#, fuzzy
+msgid "IDS_PFSD108"
+msgstr "Le Fantasque"
+
+#, fuzzy
+msgid "IDS_PFSD108_FULL"
+msgstr "Le Fantasque"
+
+#, fuzzy
+msgid "IDS_PFSD508"
+msgstr "Le Terrible"
+
+#, fuzzy
+msgid "IDS_PFSD508_FULL"
+msgstr "Le Terrible"
+
+#, fuzzy
+msgid "IDS_PGPS951_W_VOSS_TOP"
+msgstr "SC 1000"
+
+#, fuzzy
+msgid "IDS_PGSA110_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSA510_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSA610_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSA990_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSB111_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSB310_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSB509_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSB518_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSB538_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSB599_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSB610_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSB999_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSC111_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSC519_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSC529_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSD110_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PGSD111_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSD508_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PGSD518_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PGSD610_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PGSD990_YEAR"
+msgstr "1940 г."
+
+#, fuzzy
+msgid "IDS_PGUE724_ENG_BLACK_BRANDENBURG"
+msgstr "ЭУ 180 000 л.с."
+
+#, fuzzy
+msgid "IDS_PGUE922_ENG_U4501"
+msgstr "ЭУ 7 500 л.с."
+
+#, fuzzy
+msgid "IDS_PGUH907_PREUSSEN"
+msgstr "Preussen"
+
+#, fuzzy
+msgid "IDS_PGUH911_GROSSDEUTSCHLAND_A"
+msgstr "Grosser Kurfürst"
+
+#, fuzzy
+msgid "IDS_PHSC710_YEAR"
+msgstr "1939 г."
+
+#, fuzzy
+msgid "IDS_PHSC990_YEAR"
+msgstr "1940 г."
+
+#, fuzzy
+msgid "IDS_PHUS101_C2_SUO_STOCK"
+msgstr "SUO Mk 2 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS102_C2_SUO_TOP"
+msgstr "SUO Mk 2 Mod. 2"
+
+#, fuzzy
+msgid "IDS_PHUS201_C3_SUO_STOCK"
+msgstr "SUO Mk 3 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS202_C3_SUO_TOP"
+msgstr "SUO Mk 3 Mod. 2"
+
+#, fuzzy
+msgid "IDS_PHUS301_C4_SUO_STOCK"
+msgstr "SUO Mk 4 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS302_C4_SUO_TOP"
+msgstr "SUO Mk 4 Mod. 2"
+
+#, fuzzy
+msgid "IDS_PHUS401_C5_SUO_STOCK"
+msgstr "SUO Mk 5 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS402_C5_SUO_TOP"
+msgstr "SUO Mk 5 Mod. 2"
+
+#, fuzzy
+msgid "IDS_PHUS501_C6_SUO_STOCK"
+msgstr "SUO Mk 6 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS502_C6_SUO_TOP"
+msgstr "SUO Mk 6 Mod. 2"
+
+#, fuzzy
+msgid "IDS_PHUS601_C7_SUO_STOCK"
+msgstr "SUO Mk 7 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS602_C7_SUO_TOP"
+msgstr "SUO Mk 7 Mod. 2"
+
+#, fuzzy
+msgid "IDS_PHUS701_C8_SUO_STOCK"
+msgstr "SUO Mk 8 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS702_C8_SUO_TOP"
+msgstr "SUO Mk 8 Mod. 2"
+
+#, fuzzy
+msgid "IDS_PHUS703_SUO_DE_ZEVEN_PRO"
+msgstr "SUO Mk 8 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS801_C9_SUO_STOCK"
+msgstr "SUO Mk 9 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS802_C9_SUO_TOP"
+msgstr "SUO Mk 9 Mod. 2"
+
+#, fuzzy
+msgid "IDS_PHUS804_SUO_SPEIJK"
+msgstr "SUO Mk 9 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS901_C10_SUO_STOCK"
+msgstr "SUO Mk 10 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS902_SUO_TROMP"
+msgstr "SUO Mk 10 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PHUS903_C10_SUO_STOCK"
+msgstr "SUO Mk 10 Mod. 1"
+
+#, fuzzy
+msgid "IDS_PIGM112_152MM_55_4_BARRELS_M1935"
+msgstr "152-мм/55 Model 1934 в установке Model 1935"
+
+#, fuzzy
+msgid "IDS_PISB109_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PISB990_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PISC110_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PISC517_YEAR"
+msgstr "1937 г."
+
+#, fuzzy
+msgid "IDS_PISC990_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PISD108_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PJPR121_SEKIRYU_JET"
+msgstr "Type 5 No. 6 Mk. 9"
+
+#, fuzzy
+msgid "IDS_PJPT018_610MM_TYPE90_MOD_1"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJPT020_610_TYPE93_MODEL_3"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJPT021_610_TYPE93_MODEL_2"
+msgstr "Type93 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJPT029_610MM_HAREKAZE"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJPT035_TST_ZAO_2"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJPT038_YOSHINO"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJPT040_TYPE93_HAYATE"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJPT041_610MM_HAREKAZE_2"
+msgstr "Type93 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJPT046_610MM_T11"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJPT061_610MM_DAISEN"
+msgstr "Type93 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJPT122_SEKIRYU_JET"
+msgstr "Type 91 mod. 7"
+
+#, fuzzy
+msgid "IDS_PJPT718_610MM_TYPE90_MOD_1"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJPT917_610MM_TYPE90_MOD_1"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJPT918_610MM_TYPE90_MOD_1"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJPT919_610MM_TYPE90_MOD_1"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJSA108_YEAR"
+msgstr "1941 г."
+
+#, fuzzy
+msgid "IDS_PJSA111_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PJSA908_YEAR"
+msgstr "1941 г."
+
+#, fuzzy
+msgid "IDS_PJSB111_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PJSB999_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PJSD210_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PJSD507_YEAR"
+msgstr "1937 г."
+
+#, fuzzy
+msgid "IDS_PJSD510_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PJSD518_YEAR"
+msgstr "1937 г."
+
+#, fuzzy
+msgid "IDS_PJSD598_YEAR"
+msgstr "1937 г."
+
+#, fuzzy
+msgid "IDS_PJSD912_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PJUE740_ENG_I58"
+msgstr "ЭУ 9 400 л.с."
+
+#, fuzzy
+msgid "IDS_PJUE809_ENG_BLACK_IWAMI"
+msgstr "ЭУ 145 000 л.с."
+
+#, fuzzy
+msgid "IDS_PJUF801_FLIGHTCONTROL_1"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUF802_FLIGHTCONTROL_2_A"
+msgstr "Type9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUS495_SUO_KONGOU"
+msgstr "Type5"
+
+#, fuzzy
+msgid "IDS_PJUS496_SUO_KIRISHIMA"
+msgstr "Type5"
+
+#, fuzzy
+msgid "IDS_PJUS497_SUO_HARUNA"
+msgstr "Type5"
+
+#, fuzzy
+msgid "IDS_PJUS498_SUO_HIEI"
+msgstr "Type5"
+
+#, fuzzy
+msgid "IDS_PJUS606_SUO_MAYA2"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS621_SUO"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS701_SUO"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS703_SUO_YUKIKAZE"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS705_C8_SUO_STOCK"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS707_B8_SUO_STOCK"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS711_SUO"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS713_SUO_RAGNAROK"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS714_SUO_IGNIS_PURGATIO"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS715_SUO_MAYA"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS761_SUO_ATAGO"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS762_SUO_ASASHIO"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS763_SUO_BLACK_ATAGO"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS764_SUO_BLACK_ASASHIO"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS781_SUO_HAREKAZE"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS797_SUO_TAKAO"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS798_SUO_KII"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS800_SUO_IWAMI"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS801_SUO"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS802_SUO"
+msgstr "Type9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUS803_D8_SUO_STOCK_2"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS805_D8_SUO_STOCK"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS807_D8_SUO_STOCK"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS812_SUO"
+msgstr "Type9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUS813_C9_SUO_STOCK"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS814_C9_SUO_TOP"
+msgstr "Type9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUS816_SUO_KITAKAZE_PR"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS817_SUO_TSURUGI"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS820_SUO_BLACK_IWAMI"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS821_SUO"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS822_SUO"
+msgstr "Type9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUS831_SUO"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS841_D9_SUO_STOCK_2"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS842_D9_SUO_TOP_2"
+msgstr "Type9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUS843_D9_SUO_STOCK_3"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUS844_D9_SUO_TOP_3"
+msgstr "Type9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUT409_D5_TORP_STOCK_2"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT500_TORP_BLACK_SHINONOME"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT501_D6_TORP_STOCK"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT505_D6_TORP_STOCK_2"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT507_TORP_SHINO"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT508_D6_TORP_STOCK"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT510_D6_TORP_STOCK_2"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT602_C7_TORP_TOP"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT604_D7_TORP_TOP"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT606_D7_TORP_TOP_1"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT622_D7_TORP_TOP_2"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT694_610_TYPE_90_MOD_1_MYOKO"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT695_610_TYPE_90_MOD_1_HAGURO"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT696_610_TYPE_90_MOD_1_ASHIGARA"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT697_610_YELLOW_DRAGON"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT698_610_BLUE_DRAGON"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT699_610_NACHI"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT701_C8_TORP_STOCK"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT703_D8_TORP_STOCK"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT705_D8_TORP_TOP"
+msgstr "Type93 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUT706_D8_TORP_STOCK_2"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT707_D8_TORP_TOP_2"
+msgstr "Type93 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUT708_D8_TORP_STOCK"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT709_D8_TORP_TOP"
+msgstr "Type93 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUT710_TORP_BLACK_ATAGO"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT713_TORP_MAYA"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT771_TORP_TONE"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT772_TORP_TONE"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT773_TORP_TONE"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT781_TORP_HAREKAZE"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT791_TORP_TAKAO"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT800_TORP_IWAMI"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT801_C9_TORP_STOCK"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT802_C9_TORP_TOP"
+msgstr "Type93 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUT803_D9_TORP_STOCK"
+msgstr "Type93 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUT804_610_ATAGO"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT811_D9_TORP_STOCK_2"
+msgstr "Type93 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUT813_D9_TORP_TOP_3"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT814_D9_TORP_STOCK_4"
+msgstr "Type93 mod. 2"
+
+#, fuzzy
+msgid "IDS_PJUT815_D9_TORP_MED_4"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT817_TORP_BLACK_IWAMI"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PJUT904_D10_TORP_MED"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT906_D10_TORP_STOCK_2"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT909_C10_TORP_TOP"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT910_TORP_TST_ZAO_1"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT912_TORP_YOSHINO"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT914_TORP_HAYATE"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT916_TORP_BLACK_YOSHINO"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT917_TORP_BLACK_YOSHINO"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT930_D11_TORPEDOES_STOCK"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT976_TORP2_SHIM"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PJUT978_TORP_ZAO_TOP"
+msgstr "Type93 mod. 3"
+
+#, fuzzy
+msgid "IDS_PORTAL_HW2023"
+msgstr "Внимание!"
+
+#, fuzzy
+msgid "IDS_PRIME_TIME_TILL_END"
+msgstr "До окончания: %(_timeLeft)s"
+
+#, fuzzy
+msgid "IDS_PRIME_TIME_TILL_START"
+msgstr "До начала: %(_timeLeft)s"
+
+#, fuzzy
+msgid "IDS_PRPT031_53_39_TASH41"
+msgstr "53-39 мод. 4"
+
+#, fuzzy
+msgid "IDS_PRPT039_53_39_MOD4"
+msgstr "53-39 мод. 4"
+
+#, fuzzy
+msgid "IDS_PRPT053_533MM_S189"
+msgstr "53-38"
+
+#, fuzzy
+msgid "IDS_PRPT059_533MM_SUB"
+msgstr "53-38"
+
+#, fuzzy
+msgid "IDS_PRPT062_533MM_SUB"
+msgstr "53-38У"
+
+#, fuzzy
+msgid "IDS_PRSA598_DESCR"
+msgstr ""
+"Дальнейшая разработка авианосца по проекту 71 продолжилась в рамках проекта "
+"«большого авианосца» с индексом 71Б. Корабль позволял бы главным силам флота"
+" оперативно использовать авиацию в открытом море и у берегов в отдалённых "
+"от баз районах. Проект не был реализован из-за начала Второй мировой войны."
+
+#, fuzzy
+msgid "IDS_PRSB709_FULL"
+msgstr "AL Советская Россия"
+
+#, fuzzy
+msgid "IDS_PRSB710_YEAR"
+msgstr "1950 г."
+
+#, fuzzy
+msgid "IDS_PRSC209_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PRSC990_YEAR"
+msgstr "1947 г."
+
+#, fuzzy
+msgid "IDS_PRUA201_C3_ART_STOCK"
+msgstr "130-мм/55 обр. 1913 г."
+
+#, fuzzy
+msgid "IDS_PRUA722_D8_ART_STOCK_2"
+msgstr "130-мм/55 в установке Б-2У"
+
+#, fuzzy
+msgid "IDS_PRUA804_D9_ART_STOCK_4"
+msgstr "130-мм/55 в установке Б-2У"
+
+#, fuzzy
+msgid "IDS_PRUE512_S6_ENG_STOCK"
+msgstr "ЭУ 4 000 л.с."
+
+#, fuzzy
+msgid "IDS_PRUE805_B9_ENG_STOCK"
+msgstr "ЭУ 231 000 л.с."
+
+#, fuzzy
+msgid "IDS_PRUE807_ENG_AZUR_SOV_RUSSIA"
+msgstr "ЭУ 231 000 л.с."
+
+#, fuzzy
+msgid "IDS_PRUE808_ENG_NAVARIN"
+msgstr "ЭУ 100 000 л.с."
+
+#, fuzzy
+msgid "IDS_PRUE812_ENG_KRON"
+msgstr "ЭУ 231 000 л.с."
+
+#, fuzzy
+msgid "IDS_PRUE909_ENG_R10"
+msgstr "ЭУ 231 000 л.с."
+
+#, fuzzy
+msgid "IDS_PRUE915_CV10_ENG"
+msgstr "ЭУ 231 000 л.с."
+
+#, fuzzy
+msgid "IDS_PRUE918_ENG_KOMISSAR"
+msgstr "ЭУ 140 000 л.с."
+
+#, fuzzy
+msgid "IDS_PRUH111_PALLADA_1905"
+msgstr "Диана L"
+
+#, fuzzy
+msgid "IDS_PRUH703_D8_HULL_STOCK_2"
+msgstr "Огневой"
+
+#, fuzzy
+msgid "IDS_PRUS801_SUO"
+msgstr "СУО IX мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS803_B9_SUO_STOCK"
+msgstr "СУО IX мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS805_SUO_AZUR_SOV_RUSSIA"
+msgstr "СУО IX мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS811_SUO"
+msgstr "СУО IX мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS813_D9_SUO_STOCK_2"
+msgstr "СУО IX мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS815_D9_SUO_STOCK_3"
+msgstr "СУО IX мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS817_D9_SUO_STOCK_4"
+msgstr "СУО IX мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS819_SUO_KRON"
+msgstr "СУО IX мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS820_SUO_NEUSTR"
+msgstr "СУО IX мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS821_CA9_SUO_STOCK"
+msgstr "СУО IX мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS901_SUO"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS903_B10_SUO_TOP"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS906_SUO_SMOLENSK"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS907_SUO_R10"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS908_D10_SUO_STOCK"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS910_SUO_BLACK_SMOLENSK"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS911_SUO"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS912_D10_SUO_STOCK_2"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS913_D10_SUO_STOCK_3"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS914_CA10_SUO_STOCK"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS915_CA10_SUO_STOCK"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS916_SEVASTOPOL"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS974_SUO_MOSK"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS975_SUO_GROZ"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS976_STALINGRAD"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUS977_STALINGRAD"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PRUT423_D5_TORP_STOCK_2"
+msgstr "53-38"
+
+#, fuzzy
+msgid "IDS_PRUT603_D7_TORP_STOCK_2"
+msgstr "53-38У"
+
+#, fuzzy
+msgid "IDS_PRUT703_TORP_S189"
+msgstr "533-мм"
+
+#, fuzzy
+msgid "IDS_PRUT725_D8_TORP_STOCK_3"
+msgstr "53-36 мод. 2"
+
+#, fuzzy
+msgid "IDS_PRUT802_D9_TORP_TOP"
+msgstr "53-39 мод. 4"
+
+#, fuzzy
+msgid "IDS_PRUT807_D9_TORP_STOCK_4"
+msgstr "53-39 мод. 2"
+
+#, fuzzy
+msgid "IDS_PURCHASE_COST"
+msgstr "Покупка"
+
+#, fuzzy
+msgid "IDS_PURCHASE_COST_TTH"
+msgstr "Покупка"
+
+#, fuzzy
+msgid "IDS_PUSC509_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PUSD507_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PUSD517_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PUUS501_SUO_PERTH"
+msgstr "Mk VI mod. 1"
+
+#, fuzzy
+msgid "IDS_PUUS502_SUO_MYSORE"
+msgstr "Mk VI mod. 1"
+
+#, fuzzy
+msgid "IDS_PVE_OPERATION_RESULTS_DONE"
+msgstr "Операция выполнена!"
+
+#, fuzzy
+msgid "IDS_PVSB505"
+msgstr "Rio de Janeiro"
+
+#, fuzzy
+msgid "IDS_PVSB505_FULL"
+msgstr "Rio de Janeiro"
+
+#, fuzzy
+msgid "IDS_PVSB508_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PWSD105_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PWSD206_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PWSD509_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PWSD990_YEAR"
+msgstr "1955 г."
+
+#, fuzzy
+msgid "IDS_PXSA004"
+msgstr "The Great Gorgon"
+
+#, fuzzy
+msgid "IDS_PXSA004_FULL"
+msgstr "The Great Gorgon"
+
+#, fuzzy
+msgid "IDS_PXUS003_SUO_FRANKY"
+msgstr "Mk III mod. 2"
+
+#, fuzzy
+msgid "IDS_PXUS705_SUO_MOGAMI_H2018"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PXUS807_D8_SUO_STOCK"
+msgstr "Type8 mod. 1"
+
+#, fuzzy
+msgid "IDS_PXUT707_MOGAMI_H2018_TORP"
+msgstr "Type90 mod. 1"
+
+#, fuzzy
+msgid "IDS_PZGA009_40MM_BOFORS_MK1"
+msgstr "40-мм Bofors в установке Mk.1"
+
+#, fuzzy
+msgid "IDS_PZGA023_40MM_BOFORS_MK2"
+msgstr "40-мм Bofors в установке Mk.2"
+
+#, fuzzy
+msgid "IDS_PZPA066_419MM_HE_LOUCHUAN"
+msgstr "419-мм HE Mk Ia"
+
+#, fuzzy
+msgid "IDS_PZPA067_419MM_AP_LOUCHUAN"
+msgstr "419-мм AP Mk IIa"
+
+#, fuzzy
+msgid "IDS_PZPT005_MK15_LO_YANG"
+msgstr "533-мм Mk15 mod. 0"
+
+#, fuzzy
+msgid "IDS_PZPT018_MK_15_MOD3_C"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PZPT019_MK_15_MOD3_D"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PZPT020_MK16_MOD1_C"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PZPT021_MK16_MOD1_D"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PZSB519_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PZSB539_YEAR"
+msgstr "1938 г."
+
+#, fuzzy
+msgid "IDS_PZSC529_YEAR"
+msgstr "1945 г."
+
+#, fuzzy
+msgid "IDS_PZSD109_YEAR"
+msgstr "1943 г."
+
+#, fuzzy
+msgid "IDS_PZUE806_ENG_SUN_YAT_SEN"
+msgstr "ЭУ 231 000 л.с."
+
+#, fuzzy
+msgid "IDS_PZUE807_ENG_LOUCHUAN"
+msgstr "ЭУ 130 000 л.с."
+
+#, fuzzy
+msgid "IDS_PZUS201_D3_SUO_STOCK"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PZUS202_D3_SUO_TOP"
+msgstr "Mk III mod. 2"
+
+#, fuzzy
+msgid "IDS_PZUS203_SUO_NING_HAI"
+msgstr "Mk III mod. 1"
+
+#, fuzzy
+msgid "IDS_PZUS301_D4_SUO_STOCK"
+msgstr "Mk4 mod. 1"
+
+#, fuzzy
+msgid "IDS_PZUS302_D4_SUO_TOP"
+msgstr "Mk4 mod. 2"
+
+#, fuzzy
+msgid "IDS_PZUS401_D5_SUO_STOCK"
+msgstr "Mk V mod. 1"
+
+#, fuzzy
+msgid "IDS_PZUS402_D5_SUO_TOP"
+msgstr "Mk V mod. 2"
+
+#, fuzzy
+msgid "IDS_PZUS403_C5_SUO_STOCK"
+msgstr "Mk V mod. 1"
+
+#, fuzzy
+msgid "IDS_PZUS404_C5_SUO_TOP"
+msgstr "Mk V mod. 2"
+
+#, fuzzy
+msgid "IDS_PZUS703_D8_SUO_TOP"
+msgstr "Mk8 mod. 2"
+
+#, fuzzy
+msgid "IDS_PZUS802_D9_SUO_TOP"
+msgstr "Mk9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PZUS803_SUO_IZUMO_CN"
+msgstr "Type9 mod. 1"
+
+#, fuzzy
+msgid "IDS_PZUS807_C9_SUO_TOP"
+msgstr "Mk9 mod. 2"
+
+#, fuzzy
+msgid "IDS_PZUS809_SUO_LOUCHUAN"
+msgstr "Mk IX mod. 1"
+
+#, fuzzy
+msgid "IDS_PZUS903_SUO_LUSHUN"
+msgstr "СУО X мод. 1"
+
+#, fuzzy
+msgid "IDS_PZUT704_D8_TORP_TOP"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PZUT710_TORP_BLACK_LOYANG"
+msgstr "533-мм Mk15 mod. 0"
+
+#, fuzzy
+msgid "IDS_PZUT801_D9_TORP_STOCK"
+msgstr "Mk15 mod. 3"
+
+#, fuzzy
+msgid "IDS_PZUT802_D9_TORP_TOP"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PZUT900_D11_TORP_STOCK"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_PZUT903_C10_TORP_STOCK"
+msgstr "Mk16 mod. 1"
+
+#, fuzzy
+msgid "IDS_RANKED_QUALIFICATION_DESC"
+msgstr "Пройдите квалификацию, чтобы перейти в следующую лигу."
+
+#, fuzzy
+msgid "IDS_RANKED_REWARDS_TITLE"
+msgstr "Награды"
+
+#, fuzzy
+msgid "IDS_RESEARCH_COST"
+msgstr "Исследование"
+
+#, fuzzy
+msgid "IDS_RESEARCH_COST_TTX"
+msgstr "Исследование"
+
+#, fuzzy
+msgid "IDS_REWARD_BPPOINTS_TITLE"
+msgstr "Очки Боевого пропуска"
+
+#, fuzzy
+msgid "IDS_REWARD_CLIENTUM_2_TITLE"
+msgstr "Жетоны прогресса"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_TITLE_FULL"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Особый корабль X уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X уровень"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Премиум корабль VIII–IX уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VIII–IX уровень"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль VI–VIII уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "VI–VIII уровень"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль IX–X уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "IX–X уровень"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_TITLE_FULL"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль VI–VIII уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль IX–X уровня"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль IX уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX уровень"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль VI–VIII уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VI–VIII уровень"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Корабль"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Корабль"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль VIII–IX уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "V уровень"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль X уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X уровень"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль IX–X уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX–X уровень"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль VII–VIII уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VII–VIII уровень"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Корабль IX–X уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX–X уровень"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Корабль VII–VIII уровня"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VII–VIII уровень"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Премиум корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL144_JUTLAND0110_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Постоянный камуфляж или премиум корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL152_UK_PSHIPS_0117_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Особый или премиум корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL162_GOLDEN_WEEK_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Особый или премиум корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL163_GOLDEN_WEEK_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Особый или премиум корабль"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_TITLE_FULL"
+msgstr "Корабль"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Особый или премиум корабль"
+
+#, fuzzy
+msgid "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_TITLE_FULL"
+msgstr "Корабль"
+
+#, fuzzy
+msgid ""
+"IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Особый или премиум корабль"
+
+#, fuzzy
+msgid "IDS_REWARD_STRATEGIC_POINTS_TITLE"
+msgstr "Очки прогресса"
+
+#, fuzzy
+msgid "IDS_SEASON_RESTRICTIONS_TOOLTIP_HEADER"
+msgstr "Ограничения"
+
+#, fuzzy
+msgid "IDS_SHIP_PARAM_AIR_SUPPORT_MAX_DIST"
+msgstr "Максимальная дальность"
+
+#, fuzzy
+msgid "IDS_SHIP_PARAM_HEADER_WEATHER_PCOW017_USS_CL_LIGHT"
+msgstr "Осветительная бомба"
+
+#, fuzzy
+msgid "IDS_SHIP_PARAM_PLANE_NAME_BOMBER"
+msgstr "Торпедоносцы"
+
+#, fuzzy
+msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_TORPEDO_ALTERNATIVE"
+msgstr "Торпеда"
+
+#, fuzzy
+msgid "IDS_SHIP_PARAM_TORPEDO_ALTERNATIVE_AMMO"
+msgstr "Торпеда"
+
+#, fuzzy
+msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE"
+msgstr "Заметность с самолётов"
+
+#, fuzzy
+msgid "IDS_SHIP_PARAM_WAVE_GUN_MAX_DIST"
+msgstr "Максимальная дальность"
+
+#, fuzzy
+msgid "IDS_SHIP_PARAM_WAVE_GUN_SPEED"
+msgstr "Скорость волны"
+
+#, fuzzy
+msgid "IDS_SKILL_AA_DAMAGE_CONSTANT_BUBBLES"
+msgstr "Мастер огневой подготовки"
+
+#, fuzzy
+msgid "IDS_SKILL_ATBA_UPGRADE"
+msgstr "Мастер ближнего боя"
+
+#, fuzzy
+msgid "IDS_SNOWFLAKES_TAKE_BONUSES_BUTTON"
+msgstr "Забрать награды"
+
+#, fuzzy
+msgid "IDS_SOUND_MOD_MOSFILM_BYVALYJ"
+msgstr "Бывалый"
+
+#, fuzzy
+msgid "IDS_STRATEGIC_ACTIONS_INFO_POINTS"
+msgstr "Очки прогресса"
+
+#, fuzzy
+msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TITLE_1"
+msgstr "Операции"
+
+#, fuzzy
+msgid "IDS_STRATEGIC_ACTIONS_TASK"
+msgstr "Задачи"
+
+#, fuzzy
+msgid "IDS_STRATEGIC_ACTIONS_TOOLTIP_PROGRESSBAR_TITLE"
+msgstr "До следующей награды:"
+
+#, fuzzy
+msgid "IDS_SYS_MSG_BOUGHT_CLIENTUM_2"
+msgstr "Жетоны прогресса куплены"
+
+#, fuzzy
+msgid "IDS_SYS_MSG_CHECK_ALL_ITEMS"
+msgstr "Посмотреть все награды"
+
+#, fuzzy
+msgid "IDS_SYS_MSG_COMPENSATION_RECEIVED"
+msgstr "Компенсация"
+
+#, fuzzy
+msgid "IDS_SYS_MSG_CREW_DISEMBARK"
+msgstr "Командир отправлен в резерв"
+
+#, fuzzy
+msgid "IDS_SYS_MSG_NEWBIE_QUEST_REWARDED"
+msgstr "Вводная задача выполнена"
+
+#, fuzzy
+msgid "IDS_SYS_MSG_RECEIVED_CLIENTUM_2"
+msgstr "Получены жетоны прогресса"
+
+#, fuzzy
+msgid "IDS_SYS_MSG_RECEIVED_STRATEGIC_POINTS"
+msgstr "Получены очки прогресса"
+
+#, fuzzy
+msgid "IDS_SYS_MSG_WRITTEN_OFF_CLIENTUM_2"
+msgstr "Списаны жетоны прогресса"
+
+#, fuzzy
+msgid "IDS_TAKE_REWARD"
+msgstr "Забрать награды"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_BB_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_BB_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_CA_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_DD_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_DD_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_BB_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_BB_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_CA_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_CA_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_DD_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_DD_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_AA"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_BB_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_CA_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_CA_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_DD_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_DD_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_BB_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_BB_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_CA_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_CA_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_DD_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_DD_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_AA"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_BB_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_BB_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_CA_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_CA_2"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_DD_1"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_DD_3"
+msgstr "Условия выполнения:"
+
+#, fuzzy
+msgid "IDS_TIPS_PINGED_SECTOR_ON_SHIP"
+msgstr "Импульс сонара"
+
+#, fuzzy
+msgid "IDS_TIPS_PLANE_SMOKES"
+msgstr "Авиационный дымогенератор"
+
+#, fuzzy
+msgid "IDS_TIPS_PLANE_SMOKES_DESCRIPTION"
+msgstr ""
+"Создаёт дымовую завесу, уменьшающую вероятность обнаружения противником "
+"союзных кораблей."
+
+#, fuzzy
+msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE"
+msgstr "Обнаружение подводных лодок"
+
+#, fuzzy
+msgid "IDS_TITLE_PCM002_TORPEDO_MOD_I"
+msgstr "Торпедные аппараты Модификация 2"
+
+#, fuzzy
+msgid "IDS_TITLE_PCM007_TORPEDO_MOD_II"
+msgstr "Торпедные аппараты Модификация 3"
+
+#, fuzzy
+msgid "IDS_TITLE_PCM009_FLIGHTCONTROL_MOD_I"
+msgstr "Полётный контроль Модификация 2"
+
+#, fuzzy
+msgid "IDS_TITLE_PCM012_SECONDARYGUN_MOD_II"
+msgstr "Вспомогательное вооружение Модификация 1"
+
+#, fuzzy
+msgid "IDS_TITLE_PCM014_TORPEDO_MOD_III"
+msgstr "Торпедные аппараты Модификация 3"
+
+#, fuzzy
+msgid "IDS_TITLE_PCM070_TORPEDO_MOD_IV"
+msgstr "Торпедные аппараты Модификация 2"
+
+#, fuzzy
+msgid "IDS_TITLE_PCM085_PINGER_MOD_II"
+msgstr "Сонар Модификация 1"
+
+#, fuzzy
+msgid "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_DEPTHCHARGE"
+msgstr "Эскадрилья"
+
+#, fuzzy
+msgid "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_HE"
+msgstr "Эскадрилья"
+
+#, fuzzy
+msgid "IDS_TOOLTIP_RANDOMBATTLE_LEAVEQUEUE"
+msgstr "Отменить"
+
+#, fuzzy
+msgid "IDS_TOWER1_HW2023"
+msgstr "Внимание!"
+
+#, fuzzy
+msgid "IDS_TOWER2_HW2023"
+msgstr "Внимание!"
+
+#, fuzzy
+msgid "IDS_TOWER3_HW2023"
+msgstr "Внимание!"
+
+#, fuzzy
+msgid "IDS_UNLOCKS_6"
+msgstr "Получайте ежедневно до трёх контейнеров с наградами."
+
+#, fuzzy
+msgid "IDS_UNLOCKS_7"
+msgstr "Приобретайте новое имущество в Адмиралтействе."
+
+#, fuzzy
+msgid "IDS_WAREHOUSE_LOOTBOXES"
+msgstr "В наличии"

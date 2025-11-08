@@ -1,3302 +1,2214 @@
 #
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.6\n"
 
-#, fuzzy
 msgid "IDS_ABILITY_ARTILLERY_RELOAD_BOOSTER_AVAILABLE"
-msgstr "Доступно снаряжение «Ускорение перезарядки ГК»"
+msgstr "消耗品「主砲装填ブースター」を使用できる"
 
-#, fuzzy
 msgid "IDS_ABILITY_SMOKE_AVAILABLE"
-msgstr "Доступно снаряжение «Дымогенератор»"
+msgstr "消耗品「発煙装置」を使用できる"
 
-#, fuzzy
 msgid "IDS_ABILITY_SMOKE_FULL_SPEED"
-msgstr "Доступно снаряжение «Дымогенератор полного хода»"
+msgstr "消耗品「排気発煙装置」を使用できる"
 
-#, fuzzy
 msgid "IDS_ABILITY_SMOKE_NOT_AVAILABLE"
-msgstr "Недоступно снаряжение «Дымогенератор»"
+msgstr "消耗品「発煙装置」を使用できない"
 
-#, fuzzy
 msgid "IDS_ABILITY_SONAR_AVAILABLE"
-msgstr "Доступно снаряжение «Гидроакустический поиск»"
+msgstr "消耗品「水中聴音」を使用できる"
 
-#, fuzzy
 msgid "IDS_ABILITY_TORPEDO_RELOAD_BOOSTER_AVAILABLE"
-msgstr "Доступно снаряжение «Ускорение перезарядки торпед»"
+msgstr "消耗品「魚雷装填ブースター」を使用できる"
 
-#, fuzzy
 msgid "IDS_ABUSE_ECONOMICALLY_PUNISHED"
-msgstr "Вам не будут начислены заработанные ресурсы."
+msgstr "取得したリソースがアカウントに加算されません。"
 
-#, fuzzy
 msgid "IDS_ABUSE_REASON_COMPLAINTS_WITH_BULLET"
-msgstr "• Жалобы от игроков"
+msgstr "• プレイヤーからの通報"
 
-#, fuzzy
 msgid "IDS_ABUSE_REASON_GRIEFER_WITH_BULLET"
-msgstr "• Создание помех союзникам"
+msgstr "• 味方を妨害"
 
-#, fuzzy
 msgid "IDS_ABUSE_REASON_LEAVER_WITH_BULLET"
-msgstr "• Преждевременный выход из боя"
+msgstr "• 戦闘からの早期退出"
 
-#, fuzzy
 msgid "IDS_ABUSE_REASON_TKILL_WITH_BULLET"
-msgstr "• Нанесение урона союзникам"
+msgstr "• 同士討ち"
 
-#, fuzzy
 msgid "IDS_ABUSE_REASON_TSHOTS_WITH_BULLET"
-msgstr "• Огонь по кораблям союзников"
+msgstr "• 同士討ち"
 
-#, fuzzy
 msgid "IDS_ABUSE_STATUS_NORMAL_DESCRIPTION"
-msgstr "За соблюдение правил игры вы освобождены от наказания."
+msgstr "ゲームルールを順守していただいたため、懲戒ペナルティは解除されました。"
 
-#, fuzzy
 msgid "IDS_ABUSE_STATUS_SUSPECT_DESCRIPTION"
-msgstr ""
-"Ваше имя отображается розовым цветом. Если нарушения продолжатся, мера "
-"наказания усилится. Вам будут временно недоступны все типы боя, кроме "
-"Кооперативного, Кланового и Тренировочного."
+msgstr "あなたのプレイヤー名がピンク色で表示されています。再度ルール違反を犯した場合には、より厳しいペナルティが科されます。Co-op 戦、クラン戦、トレーニング戦を除く全ての戦闘タイプへのアクセスが一時的にブロックされます。"
 
-#, fuzzy
 msgid "IDS_ABUSE_STATUS_WARNING"
-msgstr "Неспортивное поведение"
+msgstr "スポーツマンシップ違反"
 
-#, fuzzy
 msgid "IDS_ACCEPT_INVITATION_TO_DIVISION"
-msgstr "Принять"
+msgstr "承諾"
 
-#, fuzzy
 msgid "IDS_ACCOUNT_COMPLETION_REWARD_TOOLTIP_HEADER_PREMIUM"
-msgstr "Преимущества"
+msgstr "利点"
 
-#, fuzzy
 msgid "IDS_ACCOUNT_COMPLETION_REWARD_TOOLTIP_HOW_TO_GET_DESC_MK_PREMIUM"
-msgstr ""
-"Можно купить в Адмиралтействе и Премиум магазине, а также получить "
-"из контейнеров."
+msgstr "武器庫とプレミアムショップで購入できる他、各種のコンテナから取得することもできます。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_COLLECTION_MKBIRTHDAY_COMPLETED"
-msgstr "Второй день рождения игры"
+msgstr "2 周年"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC025_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC026_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC027_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC028_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC029_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC032_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC033_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC034_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC035_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC036_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC037_TITLE"
-msgstr "Уничтожьте корабль"
+msgstr "1 隻撃沈する"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC038_TITLE"
-msgstr "Нанесите урон"
+msgstr "ダメージを与える"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECTION_MKBIRTHDAY_COMPLETED"
-msgstr "Собрать коллекцию «Второй день рождения игры»."
+msgstr "「2 周年」コレクションを完成させる。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_ATBA_CALIBER"
-msgstr ""
-"Уничтожить корабль противника с нанесением последнего урона огнём орудий "
-"ПМК."
+msgstr "敵艦艇にダメージを与え、撃沈する。その際、最後の直接ダメージを副砲により与えること。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_DOUBLE_KILL"
-msgstr ""
-"Уничтожить 2 корабля противника с интервалом не более "
-"%(timeInterval)s секунд."
+msgstr "敵艦艇を %(timeInterval)s 秒以内に 2 隻撃沈する。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_FIRST_BLOOD"
-msgstr "Первым в бою уничтожить корабль противника."
+msgstr "戦闘において最初に敵艦艇を 1 隻撃沈する。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_HEADBUTT"
-msgstr "Уничтожить тараном корабль противника и выжить."
+msgstr "敵艦を体当たりにより 1 隻撃沈した上で生還する。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_INSTANT_KILL"
-msgstr ""
-"В течение 5 секунд нанести кораблю противника любым вооружением урон, "
-"составляющий не менее %(_damageRatio_percent)s от его штатной "
-"боеспособности, и уничтожить его."
+msgstr "任意の兵装で敵艦艇 1 隻を 5 秒以内に撃沈する。その艦艇に与えたダメージがその基本 HP の %(_damageRatio_percent)s 以上である必要がある。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_RETRIBUTION"
-msgstr "Уничтожить корабль противника после уничтожения своего корабля."
+msgstr "自艦が撃沈された後に、敵艦を 1 隻撃沈する。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_UNSINKABLE"
-msgstr ""
-"Получить урон от затопления, составляющий не менее %(damageRatio_percent)s "
-"от штатной боеспособности корабля, и выжить в бою."
+msgstr "浸水により自艦の基本 HP の %(damageRatio_percent)s 以上のダメージを被った上で生還する。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_EVENT_WARRIOR"
-msgstr "Уничтожить %(victimsCount)s кораблей противника или более."
+msgstr "敵艦艇を %(victimsCount)s 隻以上撃沈する。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_MKBD6_COMPLETED"
-msgstr "Собрать коллекцию «Шестой день рождения игры»."
+msgstr "「6 周年」コレクションを完成させる。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_MKBD7_2022_COMPLETED"
-msgstr "Собрать коллекцию «Семь морей»."
+msgstr "「七つの海」コレクションを完成させる。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SPB_STAFF"
-msgstr "Сотрудник команды разработки."
+msgstr "開発チームのメンバーに対して。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT_COOP"
-msgstr ""
-"Повредить %(victimsCount)s кораблей противника или более. Урон, нанесённый "
-"каждому кораблю, должен составлять не менее %(damageRatio_percent)s от его "
-"штатной боеспособности."
+msgstr "%(victimsCount)s 隻以上の敵艦艇にダメージを与える。各艦艇に対し、その基本 HP の %(damageRatio_percent)s 以上のダメージを与えること。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_TWITCH"
-msgstr "Добро пожаловать в игру!"
+msgstr "海戦の世界へようこそ!"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_COOP"
-msgstr "Уничтожить %(victimsCount)s кораблей противника или более."
+msgstr "敵艦艇を %(victimsCount)s 隻以上撃沈する。"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_EV24SPACE_SPACEMAN"
-msgstr "Поехали!"
+msgstr "Poekhali (行こう)!"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_FILLALBUM_MKBD6_COMPLETED"
-msgstr "Шестой день рождения игры"
+msgstr "6 周年"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_FILLALBUM_MKBD7_2022_COMPLETED"
-msgstr "Семь морей"
+msgstr "七つの海"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_MAIN_CALIBER_DISTANCE_COOP"
-msgstr "Флагман"
+msgstr "旗艦"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_RVR_THREE_KINGDOMS"
-msgstr "Троецарствие"
+msgstr "三国志"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_SPB_STAFF"
-msgstr "Разработчик"
+msgstr "開発者"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_COOPERATIVE"
-msgstr "Кооперативные бои"
+msgstr "Co-op 戦"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_EVENT_ACHIEVEMENTS"
-msgstr "События"
+msgstr "イベント"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_TWITCH"
 msgstr "Twitch Welcome"
 
-#, fuzzy
 msgid "IDS_ACHIEVEMENT_VANGUARD"
-msgstr "Авангард"
+msgstr "前衛"
 
-#, fuzzy
 msgid "IDS_ACOUSTIC_TORPEDO_ALPHA_DAMAGE_HIGH"
-msgstr "Каждая торпеда с акустическим наведением наносит большой урон"
+msgstr "音響誘導魚雷 1 本あたりの威力が高い"
 
-#, fuzzy
 msgid "IDS_ACOUSTIC_TORPEDO_MAX_DIST_HIGH"
-msgstr "Большая дальность хода торпед с акустическим наведением"
+msgstr "音響誘導魚雷の射程が長い"
 
-#, fuzzy
 msgid "IDS_ACOUSTIC_TORPEDO_MAX_DIST_LOW"
-msgstr "Малая дальность хода торпед с акустическим наведением"
+msgstr "音響誘導魚雷の射程が短い"
 
-#, fuzzy
 msgid "IDS_ACTION_LOG_ENGINE_DAMAGED"
-msgstr "Двигатель повреждён."
+msgstr "主機損傷"
 
-#, fuzzy
 msgid "IDS_AC_CAS_INCLIN"
-msgstr "Скос"
+msgstr "スロープ"
 
-#, fuzzy
 msgid "IDS_AC_DUAL_CAS_SSC_HANG"
-msgstr "Обшивка ангара"
+msgstr "格納庫装甲板"
 
-#, fuzzy
 msgid "IDS_AC_DUAL_SSC_BOW_HANG"
-msgstr "Обшивка ангара"
+msgstr "格納庫装甲板"
 
-#, fuzzy
 msgid "IDS_AC_DUAL_SSC_BOW_INCLIN"
-msgstr "Скос"
+msgstr "スロープ"
 
-#, fuzzy
 msgid "IDS_AC_DUAL_SSC_SS_DECK"
-msgstr "Палуба"
+msgstr "甲板"
 
-#, fuzzy
 msgid "IDS_AC_DUAL_SSC_ST_HANG"
-msgstr "Обшивка ангара"
+msgstr "格納庫装甲板"
 
-#, fuzzy
 msgid "IDS_AC_DUAL_SSC_ST_INCLIN"
-msgstr "Скос"
+msgstr "スロープ"
 
-#, fuzzy
 msgid "IDS_AC_SSC_INCLIN"
-msgstr "Скос"
+msgstr "スロープ"
 
-#, fuzzy
 msgid "IDS_AGAINST_BOTS"
-msgstr "Против ботов"
+msgstr "プレイヤー対ボット"
 
-#, fuzzy
 msgid "IDS_AGAINST_PLAYERS"
-msgstr "Против игроков"
+msgstr "プレイヤー対プレイヤー"
 
-#, fuzzy
 msgid "IDS_AIR_DEFENSE_DISTANCE_HIGH"
-msgstr "Большая дальность стрельбы ПВО"
+msgstr "長射程の対空兵装"
 
-#, fuzzy
 msgid "IDS_AIR_DEFENSE_DISTANCE_LOW"
-msgstr "Малая дальность стрельбы ПВО"
+msgstr "対空兵装の射程が短い"
 
-#, fuzzy
 msgid "IDS_AI_LEVEL_10"
-msgstr "Высокий"
+msgstr "高"
 
-#, fuzzy
 msgid "IDS_AI_LEVEL_2"
-msgstr "Низкий"
+msgstr "低"
 
-#, fuzzy
 msgid "IDS_ALLY_START_CAPTURE_BASE_WITH_POINTS"
-msgstr "Наша команда начала захват базы."
+msgstr "味方が陣地の占領を開始"
 
-#, fuzzy
 msgid "IDS_ALLY_START_CAPTURE_BUILDING_CP"
-msgstr "Наша команда начала захват сектора."
+msgstr "味方がセクターの占領を開始"
 
-#, fuzzy
 msgid "IDS_ALLY_START_CAPTURE_EPICENTER_CP"
-msgstr "Наша команда начала захват точки."
+msgstr "味方がエリアの占領を開始"
 
-#, fuzzy
 msgid "IDS_ALL_CREW_BUTTON"
-msgstr "ЗАМЕНИТЬ КОМАНДИРА"
+msgstr "艦長の変更"
 
-#, fuzzy
 msgid "IDS_APPLIED_FILTER_HINT_CREWNATION"
-msgstr "Отфильтровать по нации"
+msgstr "国家でフィルター"
 
-#, fuzzy
 msgid "IDS_ARC_EVENT_COMMON_STATUS_ALL_PRIMETIMES_ENDED"
-msgstr "Задачи завершены"
+msgstr "ミッション終了"
 
-#, fuzzy
 msgid "IDS_ARC_EVENT_PORT_STATUS_ALL_REWARDS_RECEIVED"
-msgstr "Все награды получены"
+msgstr "全ての褒賞を取得済み"
 
-#, fuzzy
 msgid "IDS_ASYMM_COOP_SPECIAL"
-msgstr "Асимметричный бой"
+msgstr "非対称戦"
 
-#, fuzzy
 msgid "IDS_AVIATION_BOMBERS_JET_BOMB_ATTACK_COUNT_HIGH"
-msgstr "Самолёты несут большое количество бомб"
+msgstr "航空機の爆弾搭載数が多い"
 
-#, fuzzy
 msgid "IDS_AVIATION_BOMB_ATTACK_COUNT_HIGH"
-msgstr "Самолёты несут большое количество бомб"
+msgstr "航空機の爆弾搭載数が多い"
 
-#, fuzzy
 msgid "IDS_AVIATION_BOMB_ATTACK_COUNT_LOW"
-msgstr "Самолёты несут малое количество бомб"
+msgstr "航空機の爆弾搭載数が少ない"
 
-#, fuzzy
 msgid "IDS_AVIATION_BOMB_TIME_TO_RESTORE_SLOW"
-msgstr "Медленная подготовка бомбардировщиков"
+msgstr "爆撃機の整備時間が長い"
 
-#, fuzzy
 msgid "IDS_AVIATION_ONE_ATTACK"
-msgstr "Эскадрилья совершает одну атаку"
+msgstr "1 個中隊あたり 1 回のみ攻撃できる"
 
-#, fuzzy
 msgid "IDS_AVIATION_ROCKET_ATTACK_COUNT_HIGH"
-msgstr "Самолёты несут большое количество ракет"
+msgstr "航空機のロケット弾搭載数が多い"
 
-#, fuzzy
 msgid "IDS_AVIATION_ROCKET_ATTACK_COUNT_LOW"
-msgstr "Самолёты несут малое количество ракет"
+msgstr "航空機のロケット弾搭載数が少ない"
 
-#, fuzzy
 msgid "IDS_AVIATION_SKIP_BOMB_AVAILABLE"
-msgstr "Топмачтовое бомбометание"
+msgstr "反跳爆撃"
 
-#, fuzzy
 msgid "IDS_AVIATION_TORPEDOES_SPEED_HIGH"
-msgstr "Высокая скорость торпедоносцев"
+msgstr "高速な雷撃機"
 
-#, fuzzy
 msgid "IDS_AVIATION_TORPEDOES_SPEED_LOW"
-msgstr "Низкая скорость торпедоносцев"
+msgstr "雷撃機の速力が低い"
 
-#, fuzzy
 msgid "IDS_AVIATION_TORPEDO_TIME_TO_RESTORE_FAST"
-msgstr "Быстрая подготовка торпедоносцев"
+msgstr "雷撃機の整備時間が短い"
 
-#, fuzzy
 msgid "IDS_BATTERY_CAPACITY_HIGH"
-msgstr "Большой запас автономности"
+msgstr "潜行能力が高い"
 
-#, fuzzy
 msgid "IDS_BATTERY_CAPACITY_LOW"
-msgstr "Малый запас автономности"
+msgstr "潜行能力が低い"
 
-#, fuzzy
 msgid "IDS_BATTERY_REGEN_RATE_HIGH"
-msgstr "Быстрое восстановление автономности"
+msgstr "潜行能力の回復が速い"
 
-#, fuzzy
 msgid "IDS_BATTERY_REGEN_RATE_LOW"
-msgstr "Медленное восстановление автономности"
+msgstr "潜行能力の回復が遅い"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_LEVEL_STATUS_LOCKED"
-msgstr "Вы ещё не достигли этого уровня"
+msgstr "このレベルに未到達"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_ONBOARDING_BUTTON_MAIN"
-msgstr "Начать"
+msgstr "開始"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_ONBOARDING_TITLE_1"
-msgstr "Награды"
+msgstr "褒賞"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_ONBOARDING_TITLE_2"
-msgstr "Постпрогресс"
+msgstr "追加進行"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_FIRST_WIN_XP_COEF"
-msgstr "Ежедневный бонус за победу"
+msgstr "デイリーウィンボーナス"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_RESOURCES_COEF"
-msgstr "Уголь, сталь и очки исследования"
+msgstr "石炭、鋼鉄、研究ポイント"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_REGULAR_TEXT_2"
-msgstr "Награды Улучшенного пропуска"
+msgstr "プレミアムパス褒賞"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_PURCHASE_STATUS"
-msgstr "Получено"
+msgstr "取得"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_PURCHASE_STATUS_BONUSES"
-msgstr "Получено"
+msgstr "取得"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_PURCHASE_TITLE"
-msgstr "Улучшение и бонусы"
+msgstr "バトルパス・アップグレードとボーナス"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_STATUS_BUTTON_CLAIM_REWARDS"
-msgstr "Забрать награды"
+msgstr "褒賞を取得"
 
-#, fuzzy
 msgid "IDS_BATTLEPASS_TYPE_FREE_SHORT_TITLE"
-msgstr "Базовый"
+msgstr "初期"
 
-#, fuzzy
 msgid "IDS_BATTLE_SIGNAL_RARITY_2"
-msgstr "Особый сигнал"
+msgstr "特別信号旗"
 
-#, fuzzy
 msgid "IDS_BATTLE_STATS_CLOSE"
-msgstr "ЗАКРЫТЬ"
+msgstr "閉じる"
 
-#, fuzzy
 msgid "IDS_BONUS_OTVINTA"
-msgstr "Бонус"
+msgstr "ボーナス"
 
-#, fuzzy
 msgid "IDS_BOUGHT_MK_PREMIUM_ACCOUNT"
-msgstr "Корабельный премиум аккаунт куплен"
+msgstr "MK プレミアムアカウント購入完了"
 
-#, fuzzy
 msgid "IDS_BUFF_ACTIVE_IN_BATTLE"
-msgstr "Активируется в бою"
+msgstr "戦闘中に発動"
 
-#, fuzzy
 msgid "IDS_BUFF_POSITIVE"
-msgstr "Улучшение"
+msgstr "強化"
 
-#, fuzzy
 msgid "IDS_BUOYANCY_SPEED_LOW"
-msgstr "Медленное погружение и всплытие"
+msgstr "潜航および浮上が遅い"
 
-#, fuzzy
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_ABSTRACT_PATTERN"
-msgstr "Абстрактные"
+msgstr "抽象"
 
-#, fuzzy
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_COMMON"
-msgstr "Стандартные"
+msgstr "標準"
 
-#, fuzzy
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_PAINTWORK"
-msgstr "Тематические"
+msgstr "テーマ"
 
-#, fuzzy
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_SINGLE_COLOR"
-msgstr "Одноцветные"
+msgstr "単色"
 
-#, fuzzy
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_UNPURCHASEABLE_UNIQUE"
-msgstr "Уникальные"
+msgstr "特別"
 
-#, fuzzy
 msgid "IDS_CAMPAIGNS_TITLE"
-msgstr "Кампании"
+msgstr "キャンペーン"
 
-#, fuzzy
 msgid "IDS_CAMPAIGN_TASK_COMPLETED"
-msgstr "Выполнено"
+msgstr "達成済み"
 
-#, fuzzy
 msgid "IDS_CAMPAIGN_TASK_IS_LOOTED_REWARDS"
-msgstr "Получено"
+msgstr "入手済み"
 
-#, fuzzy
 msgid "IDS_CANCEL_ACTION"
-msgstr "Отменить"
+msgstr "キャンセル"
 
-#, fuzzy
 msgid "IDS_CANNOT_HIT_TARGET_NOT_PINGABLE"
-msgstr "ИМПУЛЬС БУДЕТ РАССЕЯН"
+msgstr "ソナーピンガーが無効化されます"
 
-#, fuzzy
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_LEVEL"
-msgstr "Отфильтровать по уровню"
+msgstr "Tier でフィルター"
 
-#, fuzzy
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_NATION"
-msgstr "Отфильтровать по нации"
+msgstr "国家でフィルター"
 
-#, fuzzy
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SHIPTYPE"
-msgstr "Отфильтровать по классу"
+msgstr "艦種でフィルター"
 
-#, fuzzy
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SPECIAL"
-msgstr "Отфильтровать по категории «Особые»"
+msgstr "「その他」のカテゴリーでフィルター"
 
-#, fuzzy
 msgid "IDS_CAROUSEL_PCVE026_FILTER"
-msgstr "Фильтр кораблей, подходящих для участия в событии «Скрытые манёвры»"
+msgstr "「隠密作戦」イベントに適合する艦艇をフィルター"
 
-#, fuzzy
 msgid "IDS_CAROUSEL_SORT_COLON"
-msgstr "Сортировка:"
+msgstr "ソート:"
 
-#, fuzzy
 msgid "IDS_CAROUSEL_VIEW_ROW_ONE"
-msgstr "стандартная"
+msgstr "標準"
 
-#, fuzzy
 msgid "IDS_CHALLENGES_LOADING_DESCRIPTION_HEADER"
-msgstr "Брифинг"
+msgstr "ブリーフィング"
 
-#, fuzzy
 msgid "IDS_CHERNOMOR"
-msgstr "Черномор"
+msgstr "Chernomor"
 
-#, fuzzy
 msgid "IDS_CHOOSED_NAME_IS_TAKEN_IN_MK"
-msgstr "Выбранное имя уже занято. Попробуйте выбрать другое имя."
+msgstr "このユーザー名は既に使用されています。別のユーザー名をお試しください。"
 
-#, fuzzy
 msgid "IDS_CHOOSED_NAME_IS_TAKEN_IN_MK_SUGGESTIONS"
-msgstr ""
-"Выбранное имя уже занято. Попробуйте выбрать другое имя или выберите "
-"из предложенных."
+msgstr "このユーザー名は既に使用されています。別のユーザー名をお試しいただくか、提案されたユーザー名から選択してください。"
 
-#, fuzzy
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE023"
-msgstr "Выбрать Асимметричный бой"
+msgstr "非対称戦を選択"
 
-#, fuzzy
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE026"
-msgstr "Выбрать тип боя «Скрытые манёвры»"
+msgstr "戦闘タイプ「隠密作戦」を選択"
 
-#, fuzzy
 msgid "IDS_CHOOSE_MK_NAME"
 msgstr ""
-"Выберите имя.\n"
-"Имя нельзя будет изменить после входа в игру."
+"ユーザー名を選択してください。\n"
+"ゲームにログインした後は、ユーザー名を変更できません。"
 
-#, fuzzy
 msgid "IDS_CLICK_TO_SET_PORT"
-msgstr ""
-"Нажмите на изображение Порта, чтобы установить его Портом по умолчанию."
+msgstr "港の画像をクリックしてデフォルトとして設定"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE"
-msgstr "%(player)s! Нужна поддержка с воздуха!"
+msgstr "%(player)s! 航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SPY"
-msgstr "%(player)s! Нужна поддержка с воздуха!"
+msgstr "%(player)s! 航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_CONSUMABLE_CALLFIGHTER"
-msgstr "%(player)s! Нужна поддержка с воздуха!"
+msgstr "%(player)s! 航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_CONSUMABLE_CALLFIGHTER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_CONSUMABLE_CALLFIGHTER_NO_OWNER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_CONSUMABLE_MINEBOMBER"
-msgstr "%(player)s! Нужна поддержка с воздуха!"
+msgstr "%(player)s! 航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_MINEBOMBER"
-msgstr "%(player)s! Нужна поддержка с воздуха!"
+msgstr "%(player)s! 航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_CALLFIGHTER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_CALLFIGHTER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_CALLFIGHTER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_CALLFIGHTER_NO_OWNER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_MINEBOMBER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_MINEBOMBER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SPY"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_CONSUMABLE_CALLFIGHTER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_CONSUMABLE_CALLFIGHTER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_CONSUMABLE_CALLFIGHTER_NO_OWNER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_CONSUMABLE_MINEBOMBER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
-msgid ""
-"IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNER"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "航空支援を求む!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_RLS_SMALLWINDOW"
-msgstr "Использую РЛС!"
+msgstr "警戒レーダーを使用中!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_RLS_WINDOW"
-msgstr "Использую РЛС!"
+msgstr "警戒レーダーを使用中!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_SONAR_SMALLWINDOW"
-msgstr "Использую ГАП!"
+msgstr "水中聴音を使用中!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_SONAR_WINDOW"
-msgstr "Использую ГАП!"
+msgstr "水中聴音を使用中!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_SUBMARINE_LOCATOR_SMALLWINDOW"
-msgstr "Провожу подводный поиск!"
+msgstr "潜水艦探知機を使用中!"
 
-#, fuzzy
 msgid "IDS_CMD_QUICK_SUBMARINE_LOCATOR_WINDOW"
-msgstr "Провожу подводный поиск!"
+msgstr "潜水艦探知機を使用中!"
 
-#, fuzzy
 msgid "IDS_COLLECTION_DESCRIPTION_BUTTON"
-msgstr "Описание коллекции"
+msgstr "コレクションの説明"
 
-#, fuzzy
 msgid "IDS_COLLECTION_DESCRIPTION_BUTTON_TOOLTIP"
-msgstr "Перейти к описанию коллекции"
+msgstr "コレクションの説明へ"
 
-#, fuzzy
 msgid "IDS_COLLECTION_DUPLICATES_TOOLTIP_HEADER"
-msgstr "Дубликаты"
+msgstr "重複"
 
-#, fuzzy
 msgid "IDS_COMMON_PREMIUM_ACCOUNT_ENDS_TIME"
-msgstr "Осталось %(timeLeft)s Общего премиума"
+msgstr "MK プレミアムアカウントの残期間: %(timeLeft)s"
 
-#, fuzzy
 msgid "IDS_COMPENDIUM_RESET"
-msgstr "Сбросить"
+msgstr "リセット"
 
-#, fuzzy
 msgid "IDS_COMPLEXITY"
-msgstr "Сложность"
+msgstr "難易度"
 
-#, fuzzy
 msgid "IDS_CONDITIONS"
-msgstr "Условия участия"
+msgstr "参加条件"
 
-#, fuzzy
 msgid "IDS_CONVERT_CREDITS_SHORT"
-msgstr "Обменять"
+msgstr "次を交換:"
 
-#, fuzzy
 msgid "IDS_CONVERT_ELITE_EXPERIENCE_SHORT"
-msgstr "Перевести"
+msgstr "変換しますか?"
 
-#, fuzzy
 msgid "IDS_CONVERT_FREE_EXPERIENCE_SHORT"
-msgstr "Перевести"
+msgstr "変換しますか?"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_1"
 msgstr "Juan"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_10"
 msgstr "Edgar"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_13"
 msgstr "Miguel"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_14"
 msgstr "Carlos"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_16"
 msgstr "Alejandro"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_2"
 msgstr "Jorge"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_22"
 msgstr "Lucas"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_23"
 msgstr "Rafael"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_24"
 msgstr "Manuel"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_25"
 msgstr "Ernesto"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_26"
 msgstr "Ricardo"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_28"
 msgstr "Antonio"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_3"
 msgstr "Fernando"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_4"
 msgstr "Ramón"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_5"
 msgstr "José"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_6"
 msgstr "Daniel"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_7"
 msgstr "Luis"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_8"
 msgstr "Hugo"
 
-#, fuzzy
 msgid "IDS_CREW_FIRSTNAME_WAFFENTRAGER_0"
-msgstr "Особый"
+msgstr "特別"
 
-#, fuzzy
 msgid "IDS_CREW_LASTNAME_WAFFENTRAGER_0"
-msgstr "командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_CREW_RANK_VENEZUELA_0"
 msgstr "Guardiamarina"
 
-#, fuzzy
 msgid "IDS_CREW_RANK_VENEZUELA_7"
 msgstr "Contraalmirante"
 
-#, fuzzy
 msgid "IDS_CREW_RANK_VENEZUELA_8"
 msgstr "Vicealmirante"
 
-#, fuzzy
 msgid "IDS_CREW_RANK_VENEZUELA_9"
 msgstr "Almirante"
 
-#, fuzzy
 msgid "IDS_CREW_TYPE"
-msgstr "Редкость"
+msgstr "レアリティー"
 
-#, fuzzy
 msgid "IDS_CREW_TYPE_COMMON"
-msgstr "Стандартные"
+msgstr "標準"
 
-#, fuzzy
 msgid "IDS_CREW_TYPE_ELITE"
-msgstr "Элитные"
+msgstr "エリート"
 
-#, fuzzy
 msgid "IDS_CREW_TYPE_UNCOMMON"
-msgstr "Особые"
+msgstr "特別"
 
-#, fuzzy
 msgid "IDS_CURRENCY_CLANRESOURCE"
-msgstr "Нефть"
+msgstr "オイル"
 
-#, fuzzy
 msgid "IDS_CURRENCY_ELITEXP_MOUSE_INSTRUCTION"
-msgstr "Перевести опыт в свободный"
+msgstr "EXP をフリー EXP に変換"
 
-#, fuzzy
 msgid "IDS_CURRENCY_EVENTUM_SUBTYPE"
-msgstr "Временный ресурс"
+msgstr "暫定リソース"
 
-#, fuzzy
 msgid "IDS_DEMO_SHIP"
-msgstr "Тестовый корабль"
+msgstr "テスト艦艇"
 
-#, fuzzy
 msgid "IDS_DESCRIPTION_PCZA035_JAP_BB_DRAGONS"
-msgstr ""
-"Конец октября. Благословенный жемчуг, спрятанный в морской пучине, хранят "
-"три стража. Во власти бури, моряки сражаются со стихией — словно тигр, "
-"столкнувшийся в схватке с драконом. Их непременно ждёт победа."
+msgstr "10 月後半。3 匹の守護者たちが深海に隠された祝福の真珠を守っている。嵐に翻弄されながらも、船乗りたちは龍に立ち向かう虎のように悪天候と戦っている。彼らは必ず勝利するだろう。"
 
-#, fuzzy
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
-msgstr "Вашей команде временно недоступно снаряжение."
+msgstr "味方チームの消耗品が一時的にブロックされています。"
 
-#, fuzzy
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_FIGHTER_FIGHTER"
-msgstr "Перехватчики"
+msgstr "迎撃機"
 
-#, fuzzy
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_SEAMINE"
-msgstr "Минное заграждение"
+msgstr "機雷原"
 
-#, fuzzy
 msgid "IDS_DOCK_AMMO_TITLE_AP_SEC"
-msgstr "Бронебойные снаряды (ББ)"
+msgstr "徹甲弾 (AP)"
 
-#, fuzzy
 msgid "IDS_DOCK_AMMO_TITLE_CS_SEC"
-msgstr "Полубронебойные снаряды (ПББ)"
+msgstr "半徹甲弾 (SAP)"
 
-#, fuzzy
 msgid "IDS_DOCK_AMMO_TITLE_HE_SEC"
-msgstr "Осколочно-фугасные снаряды (ОФ)"
+msgstr "榴弾 (HE)"
 
-#, fuzzy
 msgid "IDS_DOCK_AMMO_TITLE_SECTOR_WAVE_SMF_WAVE_GUN"
-msgstr "Волномёт"
+msgstr "ウェーブキャスター"
 
-#, fuzzy
 msgid "IDS_DOCK_AMMO_TITLE_SKIP_HE_ALT"
-msgstr "Топмачтовые бомбардировщики (ОФ)"
+msgstr "(HE) 反跳爆撃機"
 
-#, fuzzy
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_DEEPWATER_SUBCRIT"
-msgstr "Глубоководные торпеды (ГТ)"
+msgstr "深度魚雷 (DT)"
 
-#, fuzzy
 msgid "IDS_DOCK_BANNER_RANKS_TOOLTIP_HEADER"
-msgstr "Ранговые бои"
+msgstr "ランク戦"
 
-#, fuzzy
 msgid "IDS_DOCK_BANNER_RANK_BATTLES"
-msgstr "Ранговые бои"
+msgstr "ランク戦"
 
-#, fuzzy
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY510_TURNAROUND_SMF2024"
-msgstr ""
-"Моментально разворачивает ваш корабль на 180°, чтобы вы могли быстро уйти "
-"от опасности."
+msgstr "素早く 180° 旋回することで危険から素早く逃れることができます。"
 
-#, fuzzy
 msgid "IDS_DOCK_CONSUME_TITLE_PCY013_SPOTTERACCURACY"
-msgstr "Корректировщик огня с высокоточной оптикой"
+msgstr "高精度着弾観測機"
 
-#, fuzzy
 msgid "IDS_DOCK_CONSUME_TITLE_PXY509_SPEEDBOOSTER_SMF2024"
-msgstr "Форсаж"
+msgstr "アフターバーナー"
 
-#, fuzzy
 msgid "IDS_DOCK_CONSUME_TITLE_PXY510_TURNAROUND_SMF2024"
-msgstr "Разворот"
+msgstr "U ターン"
 
-#, fuzzy
 msgid "IDS_DOCK_CONSUME_TITLE_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
-msgstr "Командный форсаж"
+msgstr "チーム・エンジンブースト"
 
-#, fuzzy
 msgid "IDS_DOCK_CONSUME_TITLE_PXY525_2025WT_HOUNDSINVULNERABLE"
-msgstr "Энергощит"
+msgstr "エナジーシールド"
 
-#, fuzzy
 msgid "IDS_DOCK_CONSUME_TITLE_REGENERATIONHPSPEED_WORKTIME_YAMAMOTO"
-msgstr "Восстановление боеспособности"
+msgstr "HP 回復"
 
-#, fuzzy
 msgid "IDS_DOCK_FIRE_MODE_TITLE_DRUM"
-msgstr "Серия залпов"
+msgstr "バースト射撃"
 
-#, fuzzy
 msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_MINE"
-msgstr "Минное заграждение"
+msgstr "機雷原"
 
-#, fuzzy
 msgid "IDS_DOCK_TAB_LOCKED_REASON_TOOLTIP_NO_SHIPS"
-msgstr "Нет кораблей"
+msgstr "艦艇なし"
 
-#, fuzzy
 msgid "IDS_DOGTAGS_BGBORDERCOLOR_GROUP_BASIC"
-msgstr "Базовые"
+msgstr "基本"
 
-#, fuzzy
 msgid "IDS_DOGTAGS_BGCOLOR_GROUP_BASIC"
-msgstr "Базовые"
+msgstr "基本"
 
-#, fuzzy
 msgid "IDS_DOGTAGS_BGMATERIAL_GROUP_BASIC"
-msgstr "Базовые"
+msgstr "基本"
 
-#, fuzzy
 msgid "IDS_DOGTAGS_BGSHAPE_GROUP_BASIC_COLORIZABLE"
-msgstr "Перекрашиваемые базовые"
+msgstr "色変更可能な基本"
 
-#, fuzzy
 msgid "IDS_DOGTAGS_BGSHAPE_GROUP_UNIQUE"
-msgstr "Уникальные"
+msgstr "特別"
 
-#, fuzzy
 msgid "IDS_DOGTAGS_EMBLEM_GROUP_TOURNAMENTS"
-msgstr "Турниры"
+msgstr "トーナメント"
 
-#, fuzzy
 msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_1"
-msgstr "Нашивка"
+msgstr "パッチ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_COMPONENT_REWARD_CATEGORY_2"
-msgstr "Эмблема"
+msgstr "エンブレム"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB043_DESCRIPTION"
-msgstr ""
-"Вместе с дубиной, ножом и топором копьё — один из первых и важнейших "
-"инструментов, созданных человеком. Копьё использовалось на протяжении всей "
-"истории для охоты и рыбалки. В качестве оружия оно использовалось "
-"практически во всех конфликтах в истории вплоть до современности, при этом "
-"даже сегодня оно сохраняется в виде штыка на ружьях."
+msgstr "槍は、こん棒、ナイフ、斧と並んで、人類によって作られた最初で最も重要な道具の 1 つでした。槍は歴史を通じて狩猟や漁業に使用されてきました。現代に至るまでの歴史上のほぼすべての紛争で武器として使用されており、今でも小銃の銃剣の形で残されています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB043_NAME"
-msgstr "Копья"
+msgstr "槍"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB057_DESCRIPTION"
-msgstr ""
-"Револьвером называется многозарядное короткоствольное оружие с вращающимся "
-"барабаном, состоящим из нескольких камор, в каждой из которых располагается "
-"один патрон. Незаменимый атрибут Дикого Запада, револьвер потерял "
-"популярность, проиграв более удобным самозарядным пистолетам, но до сих пор "
-"используется в спорте и охоте."
+msgstr "リヴォルヴァーは、銃身が短く、連射速度が速いのが特徴の銃です。複数のチャンバーを備えた回転ドラムが特徴で、それぞれに 1 発の弾が装填されます。西部開拓時代の真の象徴であるリヴォルヴァーは、最終的にはより便利な半自動ピストルに人気を奪われましたが、今でもスポーツや狩猟で使用されています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB057_NAME"
-msgstr "Револьвер"
+msgstr "リヴォルヴァー"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB059_DESCRIPTION"
-msgstr ""
-"Стрельба по-македонски — одновременное использование двух огнестрельных "
-"орудий, по одному в каждой руке. Хотя такой метод ведения огня получил "
-"распространение в массовой культуре, он считается неэффективным "
-"и на практике обычно не применяется."
+msgstr "マケドニア式の射撃は、両手に 1 挺ずつ、2 挺の銃器を同時に使用します。この発砲方法は大衆文化では一般的ですが、効果がないと考えられており、実際には通常使用されません。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB059_NAME"
-msgstr "Два ствола"
+msgstr "2 本の銃身"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB063_DESCRIPTION"
-msgstr ""
-"Лук и стрелы широко применялись человеком с древнейших времён до раннего "
-"Нового времени, но начали терять актуальность с развитием более мощного "
-"и точного огнестрельного оружия. Сегодня лук используют в основном для охоты"
-" и в спорте."
+msgstr "弓矢は古代から近世まで人類によって広く使用されてきました。しかし、より強力で精密な銃器の出現により、その重要性は薄れていきました。現在、弓は主に狩猟やスポーツに使用されています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB063_NAME"
-msgstr "Лук"
+msgstr "弓"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB067_NAME"
-msgstr "Молот"
+msgstr "ハンマー"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB078_DESCRIPTION"
-msgstr "Спасибо за ваш вклад в развитие сообщества!"
+msgstr "コミュニティに貢献していただき感謝いたします!"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB078_NAME"
-msgstr "Контрибьютор"
+msgstr "コントリビューター"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB080_NAME"
-msgstr "Адмирал Хэлси"
+msgstr "ハルゼー提督"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB086_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB086_NAME"
-msgstr "Англия"
+msgstr "イングランド"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB087_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB087_NAME"
-msgstr "Россия"
+msgstr "ロシア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB088_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB088_NAME"
-msgstr "Франция"
+msgstr "フランス"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB089_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB089_NAME"
-msgstr "Испания"
+msgstr "スペイン"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB090_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB090_NAME"
-msgstr "Колумбия"
+msgstr "コロンビア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB091_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB091_NAME"
-msgstr "Бразилия"
+msgstr "ブラジル"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB092_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB092_NAME"
-msgstr "Панама"
+msgstr "パナマ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB093_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB093_NAME"
-msgstr "Япония"
+msgstr "日本"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB094_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB094_NAME"
-msgstr "Республика Корея"
+msgstr "大韓民国"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB095_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB095_NAME"
-msgstr "Хорватия"
+msgstr "クロアチア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB096_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB096_NAME"
-msgstr "Германия"
+msgstr "ドイツ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB097_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB097_NAME"
-msgstr "Марокко"
+msgstr "モロッコ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB098_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB098_NAME"
-msgstr "Тунис"
+msgstr "チュニジア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB099_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB099_NAME"
-msgstr "Уругвай"
+msgstr "ウルグアイ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB100_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB100_NAME"
-msgstr "Египет"
+msgstr "エジプト"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB101_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB101_NAME"
-msgstr "Нигерия"
+msgstr "ナイジェリア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB102_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB102_NAME"
-msgstr "Мексика"
+msgstr "メキシコ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB103_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB103_NAME"
-msgstr "Сенегал"
+msgstr "セネガル"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB104_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB104_NAME"
-msgstr "Сербия"
+msgstr "セルビア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB105_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB105_NAME"
-msgstr "Иран"
+msgstr "イラン"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB106_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB106_NAME"
-msgstr "Перу"
+msgstr "ペルー"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB107_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB107_NAME"
-msgstr "Бельгия"
+msgstr "ベルギー"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB108_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB108_NAME"
-msgstr "Дания"
+msgstr "デンマーク"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB109_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB109_NAME"
-msgstr "Исландия"
+msgstr "アイスランド"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB110_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB110_NAME"
-msgstr "Австралия"
+msgstr "オーストラリア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB111_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB111_NAME"
-msgstr "Саудовская Аравия"
+msgstr "サウジアラビア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB112_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB112_NAME"
-msgstr "Швеция"
+msgstr "スウェーデン"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB113_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB113_NAME"
-msgstr "Швейцария"
+msgstr "スイス"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB114_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB114_NAME"
-msgstr "Польша"
+msgstr "ポーランド"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB115_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB115_NAME"
-msgstr "Аргентина"
+msgstr "アルゼンチン"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB116_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB116_NAME"
-msgstr "Португалия"
+msgstr "ポルトガル"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB117_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных и "
-"целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは本質的に、相容れない競争の精神であり、最後まで献身的に戦う最も野心的な競技者同士の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB117_NAME"
-msgstr "Коста-Рика"
+msgstr "コスタリカ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB120_DESCRIPTION"
-msgstr ""
-"1 ноября 1943 г. американская морская пехота под прикрытием боевых кораблей "
-"высадилась в заливе Императрицы Августы на острове Бугенвиль с целью "
-"создания берегового плацдарма. В ответ Япония направила авиацию и эскадру "
-"крейсеров. Сражение продлилось до 2 ноября и завершилось решительной победой"
-" американского соединения."
+msgstr "1943 年 11 月 1 日、戦艦が援護射撃を行う中、アメリカ海兵隊は橋頭堡を確立することを目的として、エンプレス・オーガスタ湾からブーゲンヴィル島に上陸しました。これに応じて、日本は航空隊と巡洋艦の戦隊を出撃させました。その後の海戦は 11 月 2 日まで続き、アメリカ海軍の完全勝利に終わりました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB120_NAME"
-msgstr "Цветок Сакуры"
+msgstr "チェリーブロッサム"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB123_DESCRIPTION"
-msgstr "В честь соревнования Go Navy!"
+msgstr "「Go Navy!」コンペティションを記念して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB123_NAME"
-msgstr "Команда Sharks"
+msgstr "Sharks チーム"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB124_DESCRIPTION"
-msgstr "В честь соревнования Go Navy!"
+msgstr "「Go Navy!」コンペティションを記念して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB124_NAME"
-msgstr "Команда Eagles"
+msgstr "Eagles チーム"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB132_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "ピンナップ・ミュージックビデオの公開を記念して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB132_NAME"
-msgstr "Командир Даша"
+msgstr "Dasha 艦長"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB133_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "ピンナップ・ミュージックビデオの公開を記念して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB133_NAME"
-msgstr "Командир Алёна"
+msgstr "Alena 艦長"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB134_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "ピンナップ・ミュージックビデオの公開を記念して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB134_NAME"
-msgstr "Пилот"
+msgstr "海軍飛行士"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB135_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "ピンナップ・ミュージックビデオの公開を記念して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB135_NAME"
-msgstr "Кок"
+msgstr "調理師"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB136_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "ピンナップ・ミュージックビデオの公開を記念して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB136_NAME"
-msgstr "Наводчик"
+msgstr "掌砲手"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB137_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "ピンナップ・ミュージックビデオの公開を記念して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB137_NAME"
-msgstr "Сигнальщик"
+msgstr "信号手"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB138_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "ピンナップ・ミュージックビデオの公開を記念して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB138_NAME"
-msgstr "Матрос"
+msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB142_DESCRIPTION"
-msgstr "Визитная карточка члена клуба «Коллекционеры»."
+msgstr "コレクターズクラブ会員の名刺。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB142_NAME"
-msgstr "Член клуба «Коллекционеры»"
+msgstr "コレクターズクラブ会員"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB148_DESCRIPTION"
-msgstr ""
-"В рамках конкурса «Нашивка командира» участникам предлагалось самим "
-"нарисовать знак различия, который они хотели бы видеть в игре. Работы "
-"победителей были добавлены после подведения итогов конкурса."
+msgstr "艦長パッチ・コンテストの一環として、参加者はゲーム内で見たい独自のマークをデザインするよう求められました。コンテストの結果が確定した後、入賞作品がゲームに追加されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB148_NAME"
-msgstr "Благословение Посейдона"
+msgstr "ポセイドーンの祝福"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB155_DESCRIPTION"
-msgstr ""
-"В рамках конкурса «Нашивка командира» участникам предлагалось самим "
-"нарисовать знак различия, который они хотели бы видеть в игре. Работы "
-"победителей были добавлены после подведения итогов конкурса."
+msgstr "艦長パッチ・コンテストの一環として、参加者はゲーム内で見たい独自のマークをデザインするよう求められました。コンテストの結果が確定した後、入賞作品がゲームに追加されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB155_NAME"
-msgstr "Винстон — морской пёс"
+msgstr "熟練海犬のウィンストン"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB167_DESCRIPTION"
-msgstr ""
-"В рамках конкурса «Нашивка командира» участникам предлагалось самим "
-"нарисовать знак различия, который они хотели бы видеть в игре. Работы "
-"победителей были добавлены после подведения итогов конкурса."
+msgstr "艦長パッチ・コンテストの一環として、参加者はゲーム内で見たい独自のマークをデザインするよう求められました。コンテストの結果が確定した後、入賞作品がゲームに追加されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB167_NAME"
-msgstr "Кораблекрушитель"
+msgstr "キールブレイカー"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB175_DESCRIPTION"
-msgstr ""
-"Ежегодно 11 ноября в США чествуют служивших в Вооружённых силах страны. Этот"
-" праздник был учреждён как День примирения в честь окончания военных "
-"действий в Первой мировой войне, но в 1954 г. был переименован в День "
-"ветеранов."
+msgstr "毎年 11 月 11 日に、アメリカはアメリカの各軍に従軍した人々を讃えます。この祝日はもともとは第一次世界大戦での敵対行為の終結を記念して「休戦記念日」として制定されましたが、1954 年に「退役軍人の日」と改名されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB175_NAME"
-msgstr "День ветеранов"
+msgstr "退役軍人の日"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB176_DESCRIPTION"
-msgstr ""
-"История польского флота берёт своё начало ещё в XV в., но современные "
-"военно-морские силы Польши были основаны только после Первой мировой войны."
+msgstr "ポーランド海軍の歴史は 15 世紀にまで遡りますが、近代的なポーランド海軍が創設されたのは第一次世界大戦後です。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB176_NAME"
-msgstr "100 лет польскому флоту"
+msgstr "ポーランド海軍 100 周年"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB180_DESCRIPTION"
-msgstr ""
-"В ознаменование храбрости, проявленной бойцами Чехословацких легионов, и их "
-"важной роли в создании независимой Чехословацкой Республики в 1918 г."
+msgstr "チェコスロバキア軍団の勇気と、1918 年のチェコスロバキア共和国建国の際に彼らが果たした重要な役割を記念して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB180_NAME"
-msgstr "Чехословацкие легионы"
+msgstr "チェコスロバキア軍団"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB190_DESCRIPTION"
-msgstr "В честь соревнования «Победа»."
+msgstr "「Victory」コンペティションを記念して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB190_NAME"
-msgstr "Победа"
+msgstr "Victory"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB191_DESCRIPTION"
-msgstr "В честь соревнования «Победа»."
+msgstr "「Victory」コンペティションを記念して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB191_NAME"
-msgstr "Честь"
+msgstr "Honor"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB192_DESCRIPTION"
-msgstr "В честь соревнования «Победа»."
+msgstr "「Victory」コンペティションを記念して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB192_NAME"
-msgstr "Слава"
+msgstr "Glory"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB193_DESCRIPTION"
-msgstr "За вклад в игру и развитие сообщества."
+msgstr "ゲームとコミュニティへの貴重な貢献に対して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB193_NAME"
-msgstr "Капер"
+msgstr "公賊"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB204_DESCRIPTION"
-msgstr "За участие в летнем марафоне Общего теста."
+msgstr "公開テストのサマーマラソンへの参加に対して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB204_NAME"
-msgstr "Летний сезон PT"
+msgstr "PT サマーシーズン"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB208_DESCRIPTION"
-msgstr ""
-"История ВМС Соединённых Штатов уходит корнями в годы Войны за независимость:"
-" 13 октября 1775 г. Второй Континентальный конгресс санкционировал покупку "
-"двух судов для последующего вооружения. В 1794 г. Конгресс заказал постройку"
-" шести трёхмачтовых фрегатов. Сегодня USS Constitution, один из них, — "
-"старейший корабль в мире, находящийся на плаву. Фрегат всё ещё числится "
-"в составе флота."
+msgstr "アメリカ海軍の歴史は、そのルーツを独立戦争にまで遡ります。1775 年 10 月 13 日、第 2 回大陸会議は 2 隻の艦艇の購入を承認し、海軍設立の重要な一歩となりました。1794 年、議会は 3 本マストのフリゲート艦 6 隻の建造を発注しました。現在、それらの艦艇の 1 隻であるコンスティテューションは、世界の航行可能な就役艦船としては最古の艦船です。そしてこのフリゲート艦は今でもアメリカ海軍の現役艦です。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB208_NAME"
-msgstr "День рождения ВМС США"
+msgstr "アメリカ海軍創立記念日"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB209_DESCRIPTION"
-msgstr ""
-"История Корпуса морской пехоты США начинается с двух батальонов, "
-"сформированных 10 ноября 1775 г. в Филадельфии. Новый род вооружённых сил "
-"предназначался для выполнения боевых задач и в море, и на берегу."
+msgstr "アメリカ海兵隊の歴史は、1775 年 11 月 10 日にフィラデルフィアで編成された 2 個大隊から始まります。この新たな軍種は、海上と陸上の両方で戦闘任務を遂行するように設計されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB209_NAME"
-msgstr "Годовщина образования морской пехоты США"
+msgstr "アメリカ海兵隊創設記念日"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB211_DESCRIPTION"
-msgstr ""
-"Название японского эсминца Asashio переводится как «Утренний прилив». "
-"Asashio вступил в строй в 1937 г., став головным в серии однотипных "
-"кораблей, и погиб в битве в море Бисмарка в марте 1943 г."
+msgstr "駆逐艦朝潮は 1937 年に同名の艦級のリードシップとして就役し、1943 年 3 月のビスマルク海海戦で撃沈されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB211_NAME"
-msgstr "Asashio"
+msgstr "朝潮"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB212_DESCRIPTION"
-msgstr ""
-"Японский тяжёлый крейсер Atago получил своё имя по названию расположенной "
-"недалеко от Киото горы, на вершине которой находится одно из самых "
-"почитаемых синтоистских святилищ."
+msgstr "日本の重巡洋艦愛宕は、京都近郊にある山に因んで命名されました。この愛宕山は信仰の山として知られ、山頂には愛宕神社があります。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB212_NAME"
-msgstr "Atago"
+msgstr "愛宕"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB213_DESCRIPTION"
-msgstr ""
-"Знаменитый немецкий изобретатель и конструктор дирижаблей Фердинанд "
-"фон Цеппелин происходил из старинной дворянской семьи. Владения Цеппелинов "
-"располагались в Мекленбурге и Померании, а на родовом гербе изображена "
-"ослиная голова, повёрнутая направо."
+msgstr "ドイツの有名な発明家であり飛行船の設計者であるフェルディナント・フォン・ツェッペリンは、古い貴族の出身です。ツェッペリンの邸宅はメークレンブルクとポンメルンにあり、家紋には右を向いたロバの頭が描かれています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB213_NAME"
 msgstr "Graf Zeppelin"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB215_DESCRIPTION"
-msgstr ""
-"Герб прусского генерала Герхарда фон Шарнхорста, ставшего национальным "
-"героем в ходе освободительной войны 1813 г. в Германии. Оба корабля типа "
-"Scharnhorst, названные в его честь, несли один и тот же герб."
+msgstr "1813 年のドイツ解放戦争中に国民的英雄となったプロイセンの将軍ゲルハルト・フォン・シャルンホルストの紋章です。彼の名誉に因んで命名されたシャルンホルスト級戦艦の両艦には、同じ紋章が付いていました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB215_NAME"
 msgstr "Scharnhorst"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB216_DESCRIPTION"
-msgstr ""
-"Адмирал Уильям Симс — один из главных реформаторов американского флота, "
-"благодаря усилиям которого ВМС США в первые десятилетия XX в. встали в один "
-"ряд с самими мощными на тот момент флотами мира. В 1939 г. вступил в строй "
-"названный в честь адмирала эсминец, головной в серии из двенадцати кораблей."
+msgstr "ウィリアム・シムズ提督は、20 世紀初頭の数十年間の彼の努力により、アメリカ海軍が当時世界最強の海軍と肩を並べることを可能にした主要な海軍改革者の 1 人です。1939 年、この提督の名を冠した駆逐艦が全 12 隻の艦級のリードシップとして就役しました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB216_NAME"
 msgstr "USS Sims"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB217_DESCRIPTION"
-msgstr ""
-"Самый крупный линкор из когда-либо построенных в Европе. Совершал рейды "
-"на союзные конвои, наводя ужас в водах Арктики и Атлантического океана."
+msgstr "ヨーロッパ史上最大の戦艦の 1 隻であり、通商破壊任務に投入され、北極海および大西洋に脅威をもたらしました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB217_NAME"
 msgstr "Tirpitz"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB218_DESCRIPTION"
-msgstr ""
-"Ещё в начале XX в. подводные лодки доказали свою боевую эффективность, став "
-"грозным оружием на пути к победе."
+msgstr "潜水艦は 20 世紀の前半からその戦闘能力を発揮し、勝利を掴むための恐るべき兵器としての地位を確立しました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB218_NAME"
-msgstr "Скрытая угроза"
+msgstr "見えざる脅威"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB219_DESCRIPTION"
-msgstr ""
-"Ваше пристальное внимание помогает делать обновления действительно "
-"качественными!"
+msgstr "皆様の熱心なご協力が、ゲームのアップデートの高い品質に貢献します!"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB219_NAME"
-msgstr "Участник CST"
+msgstr "CST 参加者"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB220_DESCRIPTION"
-msgstr "За участие в осеннем марафоне Общего теста."
+msgstr "公開テストのオータムマラソンへの参加に対して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB220_NAME"
-msgstr "Осенний сезон PT"
+msgstr "PT オータムシーズン"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB221_DESCRIPTION"
-msgstr "За участие в зимнем марафоне Общего теста."
+msgstr "公開テストのウィンターマラソンへの参加に対して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB221_NAME"
-msgstr "Зимний сезон PT"
+msgstr "PT ウィンターシーズン"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB222_DESCRIPTION"
-msgstr "За участие в весеннем марафоне Общего теста."
+msgstr "公開テストのスプリングマラソンへの参加に対して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB222_NAME"
-msgstr "Весенний сезон PT"
+msgstr "PT スプリングシーズン"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB223_DESCRIPTION"
-msgstr ""
-"Вставшая на вечную стоянку в мемориальном военном парке в Маскоги, штат "
-"Оклахома, подводная лодка SS-310 доблестно выполняла свой долг во время "
-"Второй мировой войны, за что была награждена шестью боевыми звёздами "
-"и Благодарностью президента США за службу родине."
+msgstr "マスコギー戦争記念公園にある潜水艦バットフィッシュ (SS-310) は、第二次世界大戦中に勇ましく活躍し、6 個の従軍星章と殊勲部隊章を受章しました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB223_NAME"
 msgstr "USS Batfish"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB253_DESCRIPTION"
-msgstr ""
-"«Бой в пятницу 13-го», произошедший в ноябре 1942 г., стал роковым "
-"для лёгкого крейсера Atlanta. Однако спустя два года после гибели USS "
-"Atlanta «возродился из пепла», повторив судьбу города, в честь которого он "
-"был назван: уже в декабре 1944 г. в строй вошёл новый крейсер, нёсший это "
-"славное имя."
+msgstr "軽巡洋艦アトランタは、1942 年 11 月に勃発した 13 日の金曜日の戦いで沈没しました。しかし、本艦の沈没から 2 年後、アトランタは、本艦の名前の由来となった都市のように「灰の中から復活」しました。こうして、1944 年 12 月に、この輝かしい名前を冠した新たな巡洋艦が就役しました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB253_NAME"
 msgstr "USS Atlanta"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB254_DESCRIPTION"
-msgstr ""
-"Вступивший в строй в 1938 г. HMS Cossack прославился в ходе Второй мировой "
-"войны под командой Филиппа Виана во время инцидента с немецким танкером "
-"Altmark, в битве при Нарвике и при охоте на Bismarck."
+msgstr "1938 年に就役したこの駆逐艦コサックは、フィリップ・ヴァイアン艦長による指揮の下、アルトマルク号事件、ナルヴィクの戦い、ビスマルク追撃戦での活躍により名声を得ました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB254_NAME"
 msgstr "HMS Cossack"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB256_DESCRIPTION"
-msgstr ""
-"Имя легендарного дюнкеркского корсара Жана Бара, покрывшего себя славой "
-"во всех войнах на море, которые вела Франция в конце XVII в., носили "
-"несколько кораблей Французского флота. Среди них — линкор типа Richelieu, "
-"вступивший в строй в 1949 г."
+msgstr "ジャン・バールは、ダンケルクの伝説的な私掠船船長であり、17 世紀の終盤にフランスが関与した海上戦争において栄光を重ねました。フランス海軍には彼に因む艦名を与えられた艦艇が複数あり、そのうちの 1 隻が、1949 年に就役したリシュリュー級戦艦でした。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB256_NAME"
 msgstr "Jean Bart"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB258_DESCRIPTION"
-msgstr "Посвящено Военно-морским силам США эпохи мировых войн."
+msgstr "世界大戦時代のアメリカ海軍に捧げる。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB258_NAME"
-msgstr "Крылья"
+msgstr "翼"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB259_DESCRIPTION"
-msgstr "Посвящено Военно-морским силам США эпохи мировых войн."
+msgstr "世界大戦時代のアメリカ海軍に捧げる。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB259_NAME"
-msgstr "Звёзды"
+msgstr "星"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB260_DESCRIPTION"
-msgstr "Посвящено Военно-морским силам США эпохи мировых войн."
+msgstr "世界大戦時代のアメリカ海軍に捧げる。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB260_NAME"
-msgstr "Звёздно-полосатый флаг"
+msgstr "Stars 'n' Stripes"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB261_DESCRIPTION"
-msgstr "Lest we forget."
+msgstr "忘れてはならない"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB261_NAME"
-msgstr "Remembrance Day"
+msgstr "戦没者追悼記念日"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB262_DESCRIPTION"
-msgstr ""
-"Военная техника для сражений в условиях любых планет. Рассчитана на широкий "
-"спектр тактических ситуаций."
+msgstr "あらゆる惑星での戦いのための軍事装備であり、幅広い戦術的状況向けに設計されています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB262_NAME"
-msgstr "Корпорация Seatek"
+msgstr "Seatek Corporation"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB263_DESCRIPTION"
-msgstr ""
-"Военная техника, основанная на непостижимых инопланетных научных "
-"разработках. Самая таинственная из космических корпораций."
+msgstr "計り知れない異星人の科学的発展に基づいた軍事装備です。宇宙企業の中で最も謎に満ちた企業と言えます。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB263_NAME"
-msgstr "Корпорация Phobos"
+msgstr "Phobos Corporation"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB264_DESCRIPTION"
-msgstr ""
-"Военная техника для сражений на просторах самых далёких планет. Руководство "
-"корпорации славится особой беспринципностью."
+msgstr "最も遠い惑星での戦いのための軍事装備です。同社の経営者の悪徳さはよく知られています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB264_NAME"
-msgstr "Корпорация Pelamida"
+msgstr "Pelamida Corporation"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB265_DESCRIPTION"
-msgstr "Морские чудовища, созданные с помощью сложнейших неземных технологий."
+msgstr "最も複雑な地球外テクノロジーの助けを借りて作成された海の獣です。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB265_NAME"
-msgstr "Монстры"
+msgstr "モンスター"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB267_DESCRIPTION"
-msgstr ""
-"В корейской национальной кухне кимчи занимает особое место, его едят "
-"в качестве гарнира практически с любым блюдом. Существуют сотни видов кимчи,"
-" для их приготовления используют солёные и квашеные овощи, приправленные "
-"острыми специями. Раньше это блюдо хранили в глиняных сосудах, частично "
-"закопанных в землю: так продукт не замерзал зимой, а летом замедлялся "
-"процесс ферментации. Сегодня распространены специальные холодильники "
-"для кимчи."
+msgstr "キムチは韓国の国民料理の中で特別な位置を占めており、ほぼあらゆる料理の付け合わせとして食べられています。キムチの種類は数百種類あります。塩漬けした野菜とピクルスを辛いスパイスで味付けして作ります。かつてこの料理は土の壺に入れられ、部分的に地面に埋められて保管されていました。これは冬の間は保存に、夏の間は発酵プロセスを遅らせるのに役立ちました。最近はキムチ専用の冷蔵庫もあります。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB267_NAME"
-msgstr "Кимчи"
+msgstr "キムチ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB268_DESCRIPTION"
-msgstr ""
-"В древности основным назначением маяков было указание входа в порт. "
-"Фаросский маяк, одно из семи чудес света, был разрушен в результате ряда "
-"землетрясений между 956 и 1323 гг. н. э. Современные маяки появились "
-"в начале XVIII в., потребность в них возросла из-за развития "
-"трансатлантической торговли. Назначение маяков постепенно изменилось: они "
-"предупреждают об опасных побережьях, отмелях, рифах, скалах и облегчают "
-"навигацию."
+msgstr "古代、灯台の主な目的は港の入り口を示すことでした。世界の七不思議の 1 つであるアレクサンドリアの大灯台は、西暦 956 年から 1323 年の間に一連の地震によって破壊されました。近代的な灯台は 18 世紀初頭に登場し、大西洋貿易の発展により需要が増加しました。それ以来、灯台の目的は徐々に変化してきました。現在では、灯台は航行を容易にするだけでなく、危険な海岸、浅瀬、岩礁、岩を警告するようになりました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB268_NAME"
-msgstr "Маяк"
+msgstr "灯台"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB272_NAME"
-msgstr "Чемпион"
+msgstr "Champion"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB273_DESCRIPTION"
-msgstr "Участникам турнира Copa Latina-Americana Warships."
+msgstr "Copa Latina-Americana Warships への参加に対して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB273_NAME"
 msgstr "Copa Latina-Americana Warships"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB274_DESCRIPTION"
-msgstr "Победителям турнира Copa Latina-Americana Warships."
+msgstr "Copa Latina-Americana Warships の栄光ある勝者達に対して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB274_NAME"
-msgstr "Copa Latina-Americana Warships Winner"
+msgstr "Copa Latina-Americana Warships 勝者"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB275_DESCRIPTION"
-msgstr "Самым ценным игрокам турнира Copa Latina-Americana Warships."
+msgstr "Copa Latina-Americana Warships の MVP 達に対して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB275_NAME"
 msgstr "Copa Latina-Americana Warships MVP"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB282_DESCRIPTION"
-msgstr ""
-"Нагрудный Военный знак флота в Кригсмарине предназначался для награждения "
-"личного состава команд линкоров и крейсеров за боевую службу в открытом "
-"море. В число первых награждённых знаком вошли уцелевшие при гибели "
-"«Бисмарка»."
+msgstr "ドイツ戦争海軍の艦隊戦闘章は、外洋で任務に従事した戦艦と巡洋艦の乗組員に授与されました。この戦闘章を最初に受け取った乗組員には、ビスマルクが沈没した際に生還した乗員達も含まれていました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB282_NAME"
-msgstr "Охота на Bismarck"
+msgstr "ビスマルク追撃戦"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB283_DESCRIPTION"
-msgstr ""
-"За историю Королевского флота наименование Tiger несли 15 боевых кораблей. "
-"В 1944–1945 гг. это название сменили целых три строившихся крейсера. "
-"Вступивший в строй в 1959 г. Tiger получил бортовой номер C20."
+msgstr "イギリス海軍の歴史全体の中でタイガーと命名された艦艇は 15 隻あり、1944 年から 1945 年にかけて建造中であった 3 隻の巡洋艦も同じ艦名を与えられました。このタイガーは 1959 年に就役し、サイドナンバーは C20 でした。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB283_NAME"
 msgstr "HMS Tiger"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB284_DESCRIPTION"
-msgstr ""
-"После падения монархии Германия с 1919 г. по принятой в Веймаре конституции "
-"стала республикой. Предлагалось заменить флаг ВМФ на вариант с новым "
-"государственным орлом и Железным крестом, но в итоге он не был принят."
+msgstr "1919 年にドイツ帝国が崩壊した後、ヴァイマル憲法によってドイツが共和政となることが宣言されました。海軍の旗を新しく鷲と鉄十字のものに置き換えることが提案されましたが、このアイデアは却下されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB284_NAME"
 msgstr "Weimar"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB290_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB290_NAME"
-msgstr "Австрия"
+msgstr "オーストリア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB291_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB291_NAME"
-msgstr "Венгрия"
+msgstr "ハンガリー"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB292_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB292_NAME"
-msgstr "Италия"
+msgstr "イタリア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB293_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB293_NAME"
-msgstr "Нидерланды"
+msgstr "オランダ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB294_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB294_NAME"
-msgstr "Словакия"
+msgstr "スロバキア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB295_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB295_NAME"
-msgstr "Турция"
+msgstr "トルコ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB296_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB296_NAME"
-msgstr "Украина"
+msgstr "ウクライナ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB297_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB297_NAME"
-msgstr "Уэльс"
+msgstr "ウェールズ"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB298_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB298_NAME"
-msgstr "Финляндия"
+msgstr "フィンランド"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB299_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB299_NAME"
-msgstr "Чехия"
+msgstr "チェコ共和国"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB300_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB300_NAME"
-msgstr "Шотландия"
+msgstr "スコットランド"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB301_DESCRIPTION"
-msgstr ""
-"Спорт — это дух непримиримого соперничества, борьба самых амбициозных "
-"и целеустремлённых до победного конца. Но в то же время спорт объединяет, "
-"порождая настоящую дружбу и солидарность."
+msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB301_NAME"
-msgstr "Северная Македония"
+msgstr "北マケドニア"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB310_DESCRIPTION"
-msgstr "Посвящено Legend of the Galactic Heroes."
+msgstr "『銀河英雄伝説』を記念して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB310_NAME"
-msgstr "Звёздный флот"
+msgstr "宇宙艦隊"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB311_DESCRIPTION"
-msgstr "Посвящено Legend of the Galactic Heroes."
+msgstr "『銀河英雄伝説』を記念して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB311_NAME"
-msgstr "Флот Райнхарда"
+msgstr "ラインハルト艦隊"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB312_DESCRIPTION"
-msgstr "Посвящено Legend of the Galactic Heroes."
+msgstr "『銀河英雄伝説』を記念して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB312_NAME"
-msgstr "Флот Кирхайса"
+msgstr "キルヒアイス艦隊"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB313_DESCRIPTION"
-msgstr ""
-"Николай Поликарпов прежде всего известен как создатель истребителей, но его "
-"опытно-конструкторское бюро также спроектировало все первые советские "
-"штурмовики."
+msgstr "ニコライ・ポリカールポフは、戦闘機の開発で知られる著名な航空技師です。加えて、ソ連空軍に採用された最初の攻撃機もまた彼が率いる設計局が設計したものでした。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB313_NAME"
-msgstr "ОКБ Поликарпова"
+msgstr "ポリカールポフ設計局"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB314_DESCRIPTION"
-msgstr ""
-"После разработки серии морских разведчиков опытно-конструкторское бюро Игоря"
-" Четверикова спроектировало палубный торпедоносец для морской авиации СССР."
+msgstr "イゴール・チェトヴェリコフの設計局は、一連の素晴らしい海軍用偵察機を設計した後、ソ連海軍の航空戦力の需要に応じて艦上雷撃機を設計しました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB314_NAME"
-msgstr "ОКБ Четверикова"
+msgstr "チェトヴェリコフ設計局"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB315_DESCRIPTION"
-msgstr ""
-"Опытно-конструкторское бюро Сергея Кочеригина спроектировало целый ряд "
-"самолётов разных классов. Самыми же прогрессивными его разработками стали "
-"бомбардировщики."
+msgstr "セルゲイ・コチェリギンは様々なタイプの傑出した航空機を設計しましたが、彼の設計局が開発した最も先進的な新型航空機は急降下爆撃機でした。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB315_NAME"
-msgstr "ОКБ Кочеригина"
+msgstr "コチェリギン設計局"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB324_DESCRIPTION"
-msgstr ""
-"9 июля 1944 г. завершилась трёхнедельная битва за Сайпан. Морская пехота США"
-" при поддержке флота взяла под контроль остров, ставший одним из ключевых "
-"пунктов во всей Тихоокеанской кампании. На следующий день, 10 июля 1944 г., "
-"был заложен USS Saipan — лёгкий авианосец ВМС США."
+msgstr "1944 年 7 月 9 日、3 週間にわたるサイパンの戦いが終結しました。海軍の支援を受けてアメリカ海兵隊が島を制圧し、太平洋戦線における重要な拠点のひとつになりました。そしてその翌日の 1944 年 7 月 10 日に、アメリカ海軍の軽空母サイパンが起工されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB324_NAME"
 msgstr "USS Saipan"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB325_DESCRIPTION"
-msgstr ""
-"Крупные корабли ВМС Германии 1920–1930-х гг., как правило, получали названия"
-" в честь погибших в годы Первой мировой войны предшественников. Броненосец "
-"Pommern, носивший имя провинции на побережье Балтийского моря, был потоплен "
-"в Ютландском сражении."
+msgstr "1920 年代から 1930 年代にかけてのドイツ海軍の大型艦は、通例として第一次世界大戦中に失われた艦艇に因んで命名されていました。戦艦ポンメルンは、バルト海沿岸の州に因んで命名され、ユトランド沖海戦で撃沈されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB325_NAME"
 msgstr "Pommern"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB326_DESCRIPTION"
-msgstr ""
-"Гора Иосино с незапамятных времён славится тем, что склоны её усеяны "
-"деревьями сакуры. Первым кораблём японского флота, названным в её честь, был"
-" бронепалубный крейсер, погибший во время войны с Россией в 1904 г."
+msgstr "吉野山は遙かな昔から桜の名所として有名です。大日本帝国海軍においてこの山に因んで命名された最初の艦艇は、1904 年に日露戦争で沈没した防護巡洋艦でした。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB326_NAME"
-msgstr "Yoshino"
+msgstr "吉野"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB328_DESCRIPTION"
-msgstr ""
-"Линейные корабли типа Dunkerque проектировались для противодействия "
-"«карманным линкорам» типа Deutschland. На момент введения в строй последними"
-" кораблями, которые могли сражаться с ними на равных, были линейные крейсеры"
-" Королевского флота Великобритании и Императорского флота Японии."
+msgstr "ダンケルク級戦艦は、ドイツのドイッチュラント級「ポケット戦艦」に対抗すべく設計されました。就役時には、イギリス海軍と大日本帝国海軍に現存していた最後の巡洋戦艦のみが本級と同等でした。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB328_NAME"
 msgstr "Dunkerque"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB330_DESCRIPTION"
-msgstr ""
-"Герб лёгкого крейсера Belfast с изображением морского конька, являющегося "
-"частью большого герба столицы Северной Ирландии — города Белфаста."
+msgstr "軽巡洋艦ベルファストの紋章には、北アイルランドの首府であるベルファスト市の大きな紋章に含まれているタツノオトシゴが描かれています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB330_NAME"
 msgstr "HMS Belfast"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB353_DESCRIPTION"
-msgstr "Попутного ветра всем мореходам!"
+msgstr "艦長の皆様にご挨拶。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB353_NAME"
-msgstr "ВМФ Китая"
+msgstr "これぞ中国海軍!"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB354_DESCRIPTION"
-msgstr "Победителям турнира Copa Latina-Americana Warships 2022."
+msgstr "Copa Latina-Americana Warships 2022 の栄光ある勝者達に対して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB354_NAME"
-msgstr "Победитель Copa Latina-Americana Warships 2022"
+msgstr "CLAW マルチ・チャンピオン"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB364_DESCRIPTION"
-msgstr "В честь портальной кампании «Вокруг света»."
+msgstr "ウェブキャンペーン「世界周航」の参加者に対して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB364_NAME"
-msgstr "Компас"
+msgstr "コンパス"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB370_DESCRIPTION"
-msgstr ""
-"Рычащий тигр — символ оживлённого и пышного торжества. Звуки гонга и залпы "
-"салютов погружают в атмосферу радостного праздника."
+msgstr "虎の猛烈な表情は、賑やかで盛大な祝祭の象徴です。銅鑼や爆竹があちこちで鳴り響き、まさにお祭り騒ぎです!"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB370_NAME"
-msgstr "Разъярённый тигр"
+msgstr "共に咆哮する年"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB371_DESCRIPTION"
-msgstr ""
-"Носовое украшение эскадренного броненосца Kearsarge, находившегося в строю "
-"с 1900 по 1923 г. Традиция помещать на форштевень боевого корабля богато "
-"декорированные скульптурные композиции продержалась в ВМС США вплоть "
-"до эпохи броненосного флота."
+msgstr "1900 年から 1923 年まで運用されていた前弩級戦艦キアサージの艦首飾りです。豪華な装飾が施された艦首像で軍艦の艦首を飾る伝統は、アメリカ海軍においては大型戦艦の時代まで存在していました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB371_NAME"
 msgstr "USS Kearsarge"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB372_DESCRIPTION"
-msgstr ""
-"В 1920–1930-х гг. лёгкие крейсеры ВМС Германии получали наименования в честь"
-" погибших в годы Первой мировой войны «малых крейсеров» Императорского "
-"флота. SMS Mainz был потоплен 28 августа 1914 г. в ходе сражения "
-"в Гельголандской бухте."
+msgstr "1920 年代から 1930 年代にかけてのドイツ海軍の軽巡洋艦には、第一次世界大戦中に失われたドイツ帝国海軍の「小型巡洋艦」に因んだ艦名が与えられました。マインツは、1914 年 8 月 28 日にヘルゴラント海戦の最中で撃沈されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB372_NAME"
 msgstr "Mainz"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB374_DESCRIPTION"
-msgstr ""
-"В переводе с японского Shinonome означает «утренняя заря». В лучах "
-"восходящего солнца изображена гора Фудзи — священный символ в японской "
-"культуре."
+msgstr "東雲 (しののめ) は「夜明け」を意味します。日本文化の神聖な象徴である富士山が、日の出によって照らされた姿が描かれています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB374_NAME"
-msgstr "Shinonome"
+msgstr "東雲"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB375_NAME"
-msgstr "Мир военной техники"
+msgstr "World of Military Machines"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB377_DESCRIPTION"
-msgstr ""
-"С начала XIV в., во время правления Анжуйской династии Неаполитанского "
-"королевства, символом Неаполя стало сочетание золотого и красного цветов. "
-"В 1866 г. гербовый щит увенчали короной с городскими башнями — символом "
-"муниципальной независимости."
+msgstr "14 世紀初頭、ナポリ王国がアンジュー王朝の統治下にあったとき、ナポリの街は金と赤の組み合わせで象徴されるようになりました。1866年、ナポリの紋章に描かれた盾には、「市の独立」の紋章である小塔のある市の王冠が刻印されました。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB377_NAME"
 msgstr "Napoli"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB386_DESCRIPTION"
-msgstr ""
-"Гербовый щит Роттердама пересечён белой полосой, которая обозначает реку "
-"Ротте. В верхней части расположены два красных и два чёрных льва, "
-"символизирующих Голландию и Эно соответственно. Традиционно считается, что "
-"герб был пожалован Роттердаму Вильгельмом I Добрым, графом Голландии и Эно."
+msgstr "ロッテルダムの紋章には、ロッテ川を示す白いストライプが交差しており、上部には、オランダとエノー州をそれぞれ象徴する赤と黒のライオンが 2 匹ずつ描かれています。このロッテルダムの紋章は、オランダとエノー州の伯爵ウィリアム 1 世によってロッテルダムに与えられたと伝えられています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB386_NAME"
-msgstr "Роттердам"
+msgstr "ロッテルダム"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB395_DESCRIPTION"
-msgstr ""
-"В память о героизме экипажей транспортов и кораблей сопровождения, "
-"участвовавших в проводке арктического конвоя PQ-17."
+msgstr "北極船団 PQ-17 の輸送船と護衛艦艇の乗組員達の英雄的行為を追悼して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB395_NAME"
 msgstr "PQ-17"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB402_DESCRIPTION"
-msgstr "В честь события «Во имя прогресса!»."
+msgstr "「進歩を享受せよ!」イベントを記念して。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB402_NAME"
-msgstr "Навстречу Вселенной"
+msgstr "水平線を越えて"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB407_NAME"
-msgstr "Черномор"
+msgstr "Chernomor"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB411_DESCRIPTION"
-msgstr "Все с чего-то начинали!"
+msgstr "誰だって最初の一歩を踏み出す時は新兵さ!"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB411_NAME"
-msgstr "Новобранец"
+msgstr "ルーキー"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB417_NAME"
-msgstr "Снежинка"
+msgstr "雪の結晶"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB427_NAME"
-msgstr "Смоленск"
+msgstr "Smolensk"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB449_NAME"
-msgstr "За выслугу лет"
+msgstr "目覚ましい貢献に対して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB459_NAME"
-msgstr "Мита"
+msgstr "Mita"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNB468_NAME"
-msgstr "За выслугу лет"
+msgstr "目覚ましい貢献に対して"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNU118_DESCRIPTION"
-msgstr ""
-"Некоторым всегда недостаточно того, что есть в распоряжении, — народных "
-"умельцев ведёт тяга к экспериментам и поиску новых решений."
+msgstr "自分が持っているものに決して満足しない人もいますが、その落ち着きのなさが素晴らしい結果をもたらす可能性があります!試行錯誤する人は、実験と新しい解決策の追求に対する情熱によって動かされています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNU119_DESCRIPTION"
-msgstr ""
-"Некоторым всегда недостаточно того, что есть в распоряжении, — народных "
-"умельцев ведёт тяга к экспериментам и поиску новых решений."
+msgstr "自分が持っているものに決して満足しない人もいますが、その落ち着きのなさが素晴らしい結果をもたらす可能性があります!試行錯誤する人は、実験と新しい解決策の追求に対する情熱によって動かされています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNU120_DESCRIPTION"
-msgstr ""
-"Некоторым всегда недостаточно того, что есть в распоряжении, — народных "
-"умельцев ведёт тяга к экспериментам и поиску новых решений."
+msgstr "自分が持っているものに決して満足しない人もいますが、その落ち着きのなさが素晴らしい結果をもたらす可能性があります!試行錯誤する人は、実験と新しい解決策の追求に対する情熱によって動かされています。"
 
-#, fuzzy
 msgid "IDS_DOGTAG_PCNU121_DESCRIPTION"
-msgstr ""
-"Один корабль хорошо, а много — лучше. Только по-настоящему преданный своему "
-"делу коллекционер способен собрать внушительный флот из кораблей разных "
-"наций, классов и уровней."
+msgstr "軍艦は 1 隻でも良いものですが、多数ある方がずっと良いですよね。真に熱心なコレクターだけが、様々な国、艦種、Tier の艦艇から成る大規模な艦隊を編成できるのです。"
 
-#, fuzzy
 msgid "IDS_DREADNOUGHT_ICON_RULES_HEADER"
-msgstr "Типы улучшений"
+msgstr "強化の種別"
 
-#, fuzzy
 msgid "IDS_DREADNOUGHT_RULES_HEADER"
-msgstr "Особенности режима"
+msgstr "このモードの特別要素"
 
-#, fuzzy
 msgid "IDS_DUAL_CAS_SSC_HANG"
-msgstr "Обшивка ангара"
+msgstr "格納庫装甲板"
 
-#, fuzzy
 msgid "IDS_DUAL_SSC_BOW_HANG"
-msgstr "Обшивка ангара"
+msgstr "格納庫装甲板"
 
-#, fuzzy
 msgid "IDS_DUAL_SSC_SS_CONSTRSIDE"
-msgstr "Обшивка"
+msgstr "装甲板"
 
-#, fuzzy
 msgid "IDS_DUAL_SSC_ST_HANG"
-msgstr "Обшивка ангара"
+msgstr "格納庫装甲板"
 
-#, fuzzy
 msgid "IDS_ECONOMIC_BOOSTS_INSTALL_BTN"
-msgstr "Установить"
+msgstr "搭載"
 
-#, fuzzy
 msgid "IDS_ECONOMIC_BOOSTS_TYPE_EXPENDABLE_CATEGORY_TOOLTIP"
-msgstr "Расходуемый"
+msgstr "消費型"
 
-#, fuzzy
 msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_COMMON"
-msgstr "Стандартные"
+msgstr "標準"
 
-#, fuzzy
 msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_ELITE"
-msgstr "Элитные"
+msgstr "エリート"
 
-#, fuzzy
 msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_UNCOMMON"
-msgstr "Особые"
+msgstr "特別"
 
-#, fuzzy
 msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREW_EXP"
-msgstr "Опыт командира"
+msgstr "艦長 EXP"
 
-#, fuzzy
 msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_EXP"
-msgstr "Опыт корабля"
+msgstr "艦艇 EXP"
 
-#, fuzzy
 msgid "IDS_ECONOMIC_HEADER_BOOST_TYPE_FREE_EXP"
-msgstr "Свободный опыт"
+msgstr "フリー EXP"
 
-#, fuzzy
 msgid "IDS_EFFECT_ENGINE_DAMAGED"
-msgstr "Скорость хода снижена."
+msgstr "速力低下"
 
-#, fuzzy
 msgid "IDS_ERROR_LGI_COMMON"
-msgstr ""
-"Ошибка веб-авторизации. Повторите попытку позже или обратитесь в Центр "
-"поддержки пользователей."
+msgstr "ウェブ認証エラー。後で再度お試し頂くか、プレイヤーサポートにお問い合わせください。"
 
-#, fuzzy
 msgid "IDS_ERROR_LGI_TICKET_EXPIRED"
-msgstr "Время на авторизацию истекло. Попробуйте ещё раз."
+msgstr "認証期限が切れました。再度お試しください。"
 
-#, fuzzy
 msgid "IDS_EXCHANGE"
-msgstr "Обменять"
+msgstr "次を交換:"
 
-#, fuzzy
 msgid "IDS_EXCHANGE_ARROW_TEXT"
-msgstr "Обменять"
+msgstr "次を交換:"
 
 #, fuzzy
 msgid "IDS_EXCHANGE_ECOBOOSTS_TAB"
-msgstr "Экономические бонусы"
+msgstr "エコノミーボーナス"
 
 #, fuzzy
 msgid "IDS_EXCHANGE_SIGNALS_TAB"
-msgstr "Сигналы"
+msgstr "信号旗"
 
-#, fuzzy
 msgid "IDS_FB_AL_02"
-msgstr "Товарищ"
+msgstr "Tovarich"
 
-#, fuzzy
 msgid "IDS_FB_AL_03"
-msgstr "Командир"
+msgstr "Komandir"
 
-#, fuzzy
 msgid "IDS_FB_AL_04"
-msgstr "Восстание"
+msgstr "Vosstanie"
 
-#, fuzzy
 msgid "IDS_FB_AL_05"
-msgstr "Коммуна"
+msgstr "Kommuna"
 
-#, fuzzy
 msgid "IDS_FB_EN_03"
-msgstr "Хаото"
+msgstr "Haoto"
 
-#, fuzzy
 msgid "IDS_FB_EN_04"
-msgstr "Тацу"
+msgstr "Tatsu"
 
-#, fuzzy
 msgid "IDS_FB_EN_11"
-msgstr "Кояма"
+msgstr "Koyama"
 
-#, fuzzy
 msgid "IDS_FB_EN_15"
-msgstr "Гункан"
+msgstr "Gunkan"
 
-#, fuzzy
 msgid "IDS_FEAT_BAD_ALTTORP_SLOW_SPEED"
-msgstr "Низкая скорость хода альтернативных торпед"
+msgstr "代替魚雷の雷速が低い"
 
-#, fuzzy
 msgid "IDS_FEAT_BAD_DUR_BELT_CIT"
-msgstr ""
-"Цитадель особенно уязвима для попаданий бронебойными снарядами в борт "
-"корабля"
+msgstr "中央防郭が、あらゆる AP 弾が艦艇の舷側に命中した場合特に脆い"
 
-#, fuzzy
 msgid "IDS_FEAT_BAD_LOW_DAMAGE_PER_BOMB"
-msgstr "Каждая бомба наносит малый урон"
+msgstr "爆弾 1 発あたりの威力が低い"
 
-#, fuzzy
 msgid "IDS_FEAT_BAD_NO_T_BOMBERS"
-msgstr "Нет торпедоносцев"
+msgstr "雷撃機を搭載していない"
 
-#, fuzzy
 msgid "IDS_FEAT_BAD_SAP_ONLY"
-msgstr "Доступны только полубронебойные снаряды"
+msgstr "SAP 弾のみを使用可能"
 
-#, fuzzy
 msgid "IDS_FEAT_BAD_SURFACESPEED"
-msgstr "Низкая скорость хода в надводном положении"
+msgstr "水上では低速"
 
-#, fuzzy
 msgid "IDS_FEAT_BAD_WAVE_DURATION"
-msgstr "Малое время действия отмеченного сектора"
+msgstr "セクターに対するピンガーの効果時間が短い"
 
-#, fuzzy
 msgid "IDS_FEAT_DEEPWATERTORP"
-msgstr "Глубоководные торпеды"
+msgstr "深度魚雷"
 
-#, fuzzy
 msgid "IDS_FEAT_GOOD_AIRSMOKES"
-msgstr "Доступно снаряжение «Авиационный дымогенератор»"
+msgstr "消耗品「スモークカーテン発生装置」を使用可能"
 
-#, fuzzy
 msgid "IDS_FEAT_GOOD_ATBARANGEDAMAGE"
-msgstr "Большой урон и дальность стрельбы вспомогательным калибром"
+msgstr "副砲の威力が絶大で射程も長い"
 
-#, fuzzy
 msgid "IDS_FEAT_GOOD_MANYLOADERS"
-msgstr "Большое количество заряжающих"
+msgstr "装填手の数が多い"
 
-#, fuzzy
 msgid "IDS_FEAT_GOOD_MANYTORPLAUNCHERS"
-msgstr "Большое количество торпедных аппаратов"
+msgstr "魚雷発射管の門数が多い"
 
-#, fuzzy
 msgid "IDS_FEAT_GOOD_MANY_PLANES"
-msgstr "Большое количество самолётов на палубе"
+msgstr "甲板上の航空機数が多い"
 
-#, fuzzy
 msgid "IDS_FEAT_GOOD_PLANE_REGEN"
-msgstr "Быстрая подготовка самолётов"
+msgstr "航空機の整備時間が短い"
 
-#, fuzzy
 msgid "IDS_FEAT_GOOD_TORP_TUBES_ALL_CAN_LOAD_SAME_TIME"
-msgstr "Все торпедные аппараты могут перезаряжаться одновременно"
+msgstr "全ての魚雷発射管を同時に装填可能"
 
-#, fuzzy
 msgid "IDS_FEAT_IS_TACTICAL"
-msgstr "Тактическая эскадрилья"
+msgstr "戦術飛行中隊"
 
-#, fuzzy
 msgid "IDS_FEAT_MINEFIELD"
-msgstr "Минное заграждение"
+msgstr "機雷原"
 
-#, fuzzy
 msgid "IDS_FEEDBACK_RAGE_MODE_USELESS"
-msgstr "Использование не требуется"
+msgstr "使用不要"
 
-#, fuzzy
 msgid "IDS_FINAL_TASK_CAMPAIGN"
-msgstr "Финальное задание"
+msgstr "最終タスク"
 
-#, fuzzy
 msgid "IDS_FINISH_BUTTON"
-msgstr "ЗАВЕРШИТЬ"
+msgstr "完了"
 
-#, fuzzy
 msgid "IDS_FIRST_BATTLE_DESCRIPTION"
-msgstr "Первый бой"
+msgstr "初陣"
 
-#, fuzzy
 msgid "IDS_FIRST_BATTLE_GOAL"
-msgstr "Уничтожьте все корабли противника"
+msgstr "敵艦艇を殲滅せよ"
 
-#, fuzzy
 msgid "IDS_FIRST_BATTLE_NAME"
-msgstr "Первый бой"
+msgstr "初陣"
 
-#, fuzzy
 msgid "IDS_FIRST_BATTLE_PVE_TOOLTIP_GOAL"
-msgstr "Уничтожьте все корабли противника"
+msgstr "敵艦艇を殲滅せよ"
 
-#, fuzzy
 msgid "IDS_FIRST_TMSUBCOLLECTION_NAME"
-msgstr "Игроки"
+msgstr "プレイヤー"
 
-#, fuzzy
 msgid "IDS_FOG_OF_WAR_IN_TRAINING_DISABLED"
-msgstr "Отключено"
+msgstr "OFF"
 
-#, fuzzy
 msgid "IDS_FOG_OF_WAR_IN_TRAINING_ENABLED"
-msgstr "Включено"
+msgstr "ON"
 
-#, fuzzy
 msgid "IDS_FOR_ALCHEMY_EXCHANGE"
-msgstr "Обмен:"
+msgstr "変換:"
 
-#, fuzzy
 msgid "IDS_FOURTH_TMSUBCOLLECTION_NAME"
-msgstr "Стратегии"
+msgstr "戦略"
 
-#, fuzzy
 msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_3"
-msgstr "Ускорение перезарядки торпед"
+msgstr "魚雷装填ブースター"
 
-#, fuzzy
 msgid "IDS_GO_TO_PROFILE_RANKS"
-msgstr "Перейти к экрану «Ранги»"
+msgstr "「ランク」画面へ"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_19_HEADER"
-msgstr "Камуфляж корабля"
+msgstr "艦艇の迷彩"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_277_HEADER"
-msgstr "Задачи"
+msgstr "ミッション"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_278_HEADER"
-msgstr "Прогресс"
+msgstr "進捗"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_290_HEADER"
-msgstr "Новый командир"
+msgstr "新艦長"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_309_HEADER"
-msgstr "Особенности корабля"
+msgstr "艦艇の特徴"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_315_HEADER"
-msgstr "Задача сменилась"
+msgstr "ミッションが変更されました"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_321_HEADER"
-msgstr "Очки исследования"
+msgstr "研究ポイント"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_323_HEADER"
-msgstr "Кампании"
+msgstr "キャンペーン"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_336_HEADER"
-msgstr "Выберите тип боя"
+msgstr "戦闘タイプ選択"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_341_HEADER"
-msgstr "Поиск отряда"
+msgstr "分艦隊を探す"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_342_HEADER"
-msgstr "Сигналы корабля"
+msgstr "艦艇の信号旗"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_343_HEADER"
-msgstr "Сигналы корабля"
+msgstr "艦艇の信号旗"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_349_HEADER"
-msgstr "Модификаторы"
+msgstr "戦闘ボーナス"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_350_HEADER"
-msgstr "Модификаторы"
+msgstr "戦闘ボーナス"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_352_HEADER"
-msgstr "Новое событие"
+msgstr "新イベント"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_357_HEADER"
-msgstr "Задачи"
+msgstr "ミッション"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_358_HEADER"
-msgstr "Прогресс"
+msgstr "進捗"
 
-#, fuzzy
 msgid "IDS_GUIDING_TIP_359_HEADER"
-msgstr "Награды"
+msgstr "褒賞"
 
-#, fuzzy
 msgid "IDS_HEALTH_HIGH"
-msgstr "Большое количество очков боеспособности"
+msgstr "HP が多い"
 
-#, fuzzy
 msgid "IDS_HEALTH_LOW"
-msgstr "Малое количество очков боеспособности"
+msgstr "HP が少ない"
 
-#, fuzzy
 msgid "IDS_HELP_AIRCARRIER_CONSUMABLES"
-msgstr "Снаряжение авианосца"
+msgstr "航空母艦の消耗品"
 
-#, fuzzy
 msgid "IDS_HELP_AIR_DEFENSE"
-msgstr "Орудие ПВО"
+msgstr "対空兵装"
 
-#, fuzzy
 msgid "IDS_HELP_AIR_SUPPORT_SQUADRONS_DEPTHCHARGE"
-msgstr "Авиаудар (ГБ)"
+msgstr "爆雷空襲"
 
-#, fuzzy
 msgid "IDS_HELP_AIR_SUPPORT_SQUADRONS_HE"
-msgstr "Авиаудар (ОФ)"
+msgstr "HE 爆弾空襲"
 
-#, fuzzy
 msgid "IDS_HELP_CALLFIGHTERS_UPGRADE"
-msgstr "Перехватчик"
+msgstr "迎撃機"
 
-#, fuzzy
 msgid "IDS_HELP_CROSSHAIR"
-msgstr "Прицел"
+msgstr "照準"
 
-#, fuzzy
 msgid "IDS_HELP_ESCADRILLE"
-msgstr "Эскадрилья"
+msgstr "中隊"
 
-#, fuzzy
 msgid "IDS_HELP_ESCADRILLE_CONSUMABLES"
-msgstr "Снаряжение эскадрильи"
+msgstr "中隊消耗品"
 
-#, fuzzy
 msgid "IDS_HELP_FAST_RELOAD"
-msgstr "Ускорение перезарядки"
+msgstr "装填速度向上"
 
-#, fuzzy
 msgid "IDS_HELP_HULL_HEALTH"
-msgstr "Увеличение боеспособности"
+msgstr "HP 向上"
 
-#, fuzzy
 msgid "IDS_HELP_INDICATORS_DIFFERENT"
-msgstr "Разное"
+msgstr "その他"
 
-#, fuzzy
 msgid "IDS_HELP_LANDFALL"
-msgstr "Попадание в сушу"
+msgstr "地形に命中"
 
-#, fuzzy
 msgid "IDS_HELP_MAP_BORDER"
-msgstr "Граница карты"
+msgstr "マップ端"
 
-#, fuzzy
 msgid "IDS_HELP_MINEFIELD"
-msgstr "Минное заграждение"
+msgstr "機雷原"
 
-#, fuzzy
 msgid "IDS_HELP_MINES"
-msgstr "Мины"
+msgstr "機雷"
 
-#, fuzzy
 msgid "IDS_HELP_OIL_LEAK"
-msgstr "Разлив топлива"
+msgstr "燃料漏れ"
 
-#, fuzzy
 msgid "IDS_HELP_OIL_LEAK_PENDING"
-msgstr "Повреждение топливной системы"
+msgstr "燃料システム損傷"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_1"
-msgstr "Авиация"
+msgstr "航空機"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_2"
-msgstr "Автопилот"
+msgstr "自動航行"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_3"
-msgstr "Оснащение"
+msgstr "装備"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_1"
-msgstr "Вооружение"
+msgstr "兵装"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_2"
-msgstr "Живучесть"
+msgstr "抗堪性"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_BATTLESHIP_3"
-msgstr "Заметность"
+msgstr "被発見距離"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_CRUISER_1"
-msgstr "Вооружение"
+msgstr "兵装"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_CRUISER_2"
-msgstr "Снаряжение"
+msgstr "消耗品"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_DESTROYER_1"
-msgstr "Вооружение"
+msgstr "兵装"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_DESTROYER_2"
-msgstr "Маскировка"
+msgstr "隠蔽性"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_DESTROYER_3"
-msgstr "Поддержка"
+msgstr "サポート"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1"
-msgstr "Вооружение"
+msgstr "兵装"
 
-#, fuzzy
 msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3"
-msgstr "Запас автономности"
+msgstr "潜行能力"
 
-#, fuzzy
 msgid "IDS_HELP_PMK"
-msgstr "ПМК"
+msgstr "副砲"
 
-#, fuzzy
 msgid "IDS_HELP_REGENERATION"
-msgstr "Восстановление боеспособности"
+msgstr "HP 回復"
 
-#, fuzzy
 msgid "IDS_HELP_SONAR"
-msgstr "Сонар"
+msgstr "ソナー"
 
-#, fuzzy
 msgid "IDS_HELP_SPOTTER"
-msgstr "Корректировщик огня"
+msgstr "着弾観測機"
 
-#, fuzzy
 msgid "IDS_HELP_STATES"
-msgstr "Состояние корабля"
+msgstr "艦艇ステータス"
 
-#, fuzzy
 msgid "IDS_HELP_STEERING_MACHINE"
-msgstr "Рулевая машина"
+msgstr "操舵装置"
 
-#, fuzzy
 msgid "IDS_HELP_TAB_MODULES"
-msgstr "ОСНАЩЕНИЕ"
+msgstr "装備"
 
-#, fuzzy
 msgid "IDS_HELP_TORPEDOBOMBER"
-msgstr "Торпедоносец"
+msgstr "雷撃機"
 
-#, fuzzy
 msgid "IDS_HELP_WEAPON_DAMAGE"
-msgstr "Увеличение урона"
+msgstr "ダメージ向上"
 
-#, fuzzy
 msgid "IDS_HELP_ZONE_IN_SMOKE"
-msgstr "Время рассеивания дымов"
+msgstr "煙幕の持続時間"
 
-#, fuzzy
 msgid "IDS_HIGHEST_MANEUVER"
-msgstr "Высокая манёвренность"
+msgstr "機動性が高い"
 
-#, fuzzy
 msgid "IDS_INFINITY_BOT_09"
 msgstr "Romulus"
 
-#, fuzzy
 msgid "IDS_INFINITY_BOT_12"
-msgstr "Товарищ"
+msgstr "Tovarich"
 
-#, fuzzy
 msgid "IDS_INFINITY_BOT_13"
-msgstr "Упорный"
+msgstr "Uporny"
 
-#, fuzzy
 msgid "IDS_INFINITY_BOT_15"
-msgstr "Проворный"
+msgstr "Provorniy"
 
-#, fuzzy
 msgid "IDS_INFINITY_BOT_21"
-msgstr "Коммуна"
+msgstr "Kommuna"
 
-#, fuzzy
 msgid "IDS_IN_PCVE023"
-msgstr "в Асимметричном бою"
+msgstr "(非対称戦):"
 
-#, fuzzy
 msgid "IDS_JUST_GOAL"
-msgstr "Задача"
+msgstr "ミッション"
 
-#, fuzzy
 msgid "IDS_LEARN_MORE_LABEL"
-msgstr "Узнать больше"
+msgstr "詳細"
 
-#, fuzzy
 msgid "IDS_LINE_ENDING_FOR_LAST_BULLET"
-msgstr "."
+msgstr "。"
 
-#, fuzzy
 msgid "IDS_LINE_ENDING_FOR_NOT_LAST_BULLET"
 msgstr ";"
 
-#, fuzzy
 msgid "IDS_LINK_MSKIN_UPPER_CASE"
-msgstr "ПРИВЯЗАТЬ"
+msgstr "リンク"
 
-#, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_36"
-msgstr ""
-"Окружность вокруг вашего корабля на мини-карте обозначает дальность действия"
-" выбранного вооружения."
+msgstr "ミニマップ上で自艦を中心に描かれる円は、選択中の兵装の射程距離を示す。"
 
-#, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_52"
-msgstr ""
-"Окружность вокруг вашего корабля на мини-карте обозначает дальность действия"
-" выбранного вооружения."
+msgstr "ミニマップ上で自艦を中心に描かれる円は、選択中の兵装の射程距離を示す。"
 
-#, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_50"
-msgstr ""
-"Меняйте направление атаки ударных эскадрилий при помощи указателя на радиусе"
-" захода на цель."
+msgstr "攻撃用中隊による攻撃の進入方向を変更するには、接近半径に沿ってポインターを移動せよ。"
 
-#, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_38"
-msgstr ""
-"Меняйте направление атаки ударных эскадрилий при помощи указателя на радиусе"
-" захода на цель."
+msgstr "攻撃用中隊による攻撃の進入方向を変更するには、接近半径に沿ってポインターを移動せよ。"
 
-#, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_31"
-msgstr ""
-"Меняйте направление атаки ударных эскадрилий при помощи указателя на радиусе"
-" захода на цель."
+msgstr "攻撃用中隊による攻撃の進入方向を変更するには、接近半径に沿ってポインターを移動せよ。"
 
-#, fuzzy
 msgid "IDS_LOOTBOXES_GO_TO_METASHOP"
-msgstr "Перейти в Адмиралтейство"
+msgstr "武器庫へ"
 
-#, fuzzy
 msgid "IDS_MAIN_AIRSMOKES"
-msgstr "Доступно снаряжение «Авиационный дымогенератор»"
+msgstr "消耗品「スモークカーテン発生装置」を使用可能"
 
-#, fuzzy
 msgid "IDS_MAIN_NO_T_BOMBERS"
-msgstr "Нет торпедоносцев"
+msgstr "雷撃機を搭載していない"
 
-#, fuzzy
 msgid "IDS_MAIN_SPEEDBOOST_GOOD"
-msgstr "Доступно снаряжение «Форсаж»"
+msgstr "消耗品「エンジンブースト」を使用できる"
 
-#, fuzzy
 msgid "IDS_MAIN_TAB_BUTTON_ARMORY"
-msgstr "Адмиралтейство"
+msgstr "武器庫"
 
-#, fuzzy
 msgid "IDS_MAIN_TAB_BUTTON_RESEARCH"
-msgstr "Развитие"
+msgstr "技術ツリー"
 
-#, fuzzy
 msgid "IDS_MAIN_TAB_BUTTON_SHIP"
-msgstr "Корабль"
+msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_MANEUVER_HIGH"
-msgstr "Высокая манёвренность"
+msgstr "機動性が高い"
 
-#, fuzzy
 msgid "IDS_MANEUVER_LOW"
-msgstr "Низкая манёвренность"
+msgstr "機動性が低い"
 
-#, fuzzy
 msgid "IDS_MAX_LEVEL_CREW_TOOLTIP_DESCRIPTION"
-msgstr ""
-"Командир достиг максимального уровня обучения. Весь опыт, зарабатываемый "
-"этим командиром в боях, переводится в элитный."
+msgstr "この艦長は最高訓練レベルに到達しました。この艦長が戦闘で取得した全ての EXP がエリート艦長 EXP に変換されます。"
 
-#, fuzzy
 msgid "IDS_MINES"
-msgstr "Мины"
+msgstr "機雷"
 
-#, fuzzy
 msgid "IDS_MISSION"
-msgstr "Миссия"
+msgstr "ミッション"
 
-#, fuzzy
 msgid "IDS_MITA_MISIDE"
-msgstr "Мита"
+msgstr "Mita"
 
-#, fuzzy
 msgid "IDS_MK_MT"
-msgstr "Максим Меткий"
+msgstr "Maxim Metky"
 
-#, fuzzy
 msgid "IDS_MK_PREMIUM_ACCOUNT_ENDS_TIME"
-msgstr "Осталось %(timeLeft)s Корабельного премиума"
+msgstr "MK プレミアムアカウントの残期間: %(timeLeft)s"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_BATTLE_RULES_HEADER"
-msgstr "Особенности"
+msgstr "特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_DREADNOUGHT_2_BATTLE_RULES_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_CATEGORY_EXPENDABLE_HEADER"
-msgstr "Расходуемые бонусы"
+msgstr "消費型ボーナス"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_ECONOMIC_BOOSTS_EXPENDABLE_INSTALL"
-msgstr "Установить все"
+msgstr "全て搭載"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_HEADER"
-msgstr "Правила"
+msgstr "ルール"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_HEADER"
-msgstr "Условия участия"
+msgstr "参加条件"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE023_RULES_HEADER"
-msgstr "Асимметричный бой"
+msgstr "非対称戦"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_2_HEADER"
-msgstr "Условия участия"
+msgstr "参加条件"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_HEADER"
-msgstr "Скрытые манёвры"
+msgstr "隠密作戦"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_2_HEADER"
-msgstr "Условия участия"
+msgstr "参加条件"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE029_BATTLE_RULES_HEADER"
-msgstr "Подводные лодки"
+msgstr "潜水艦"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_HEADER"
-msgstr "Подводные лодки"
+msgstr "潜水艦"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE030_BATTLE_RULES_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_1_HEADER"
-msgstr "Брифинг"
+msgstr "ブリーフィング"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_2_HEADER"
-msgstr "Условия участия"
+msgstr "参加条件"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_HEADER"
-msgstr "Последний поход «Трансильвании»"
+msgstr "Transylvania の最後の航海"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_TEXT_1"
-msgstr ""
-"Портал в иное измерение снова открыт! Отряды нечисти прорываются наружу, "
-"поле боя целиком охвачено скверной. Находясь в скверне, союзные корабли "
-"теряют очки боеспособности, а корабли противника получают повышенное "
-"сопротивление урону."
+msgstr "闇の次元へと通じるポータルが再び開通した! 恐るべき邪悪な勢力が我々の世界に侵入し、戦場は完全に瘴気に囲まれている。瘴気内では味方艦艇は徐々に HP を失うが、敵勢力はダメージ耐性が高まる。"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_TEXT_2"
-msgstr ""
-"С помощью магии «Трансильвания» создаёт вокруг себя область, отражающую "
-"скверну. Однако магия иссякает, и безопасная область постепенно уменьшается."
+msgstr "Transylvania はその周囲に瘴気を阻む魔法のエリアを生成する。しかし魔法は弱まっていくため、セーフエリアも時間とともに徐々に狭まっていく。"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_2_HEADER"
-msgstr "Цель"
+msgstr "目標"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_2_TEXT_1"
-msgstr ""
-"Только «Трансильвания» может поставить точку в этой истории. Вам нужно "
-"сопроводить её к Порталу, чтобы стереть его с лица земли."
+msgstr "Transylvania だけが、このサーガに終止符を打つことができる。本船をポータルまで護衛し、地球上からポータルを消し去る必要がある。"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_HEADER"
-msgstr "Улучшения"
+msgstr "強化エリア"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_TEXT_2"
-msgstr ""
-"Собирая осколки Великих Башен, вы можете увеличивать сопротивление "
-"«Трансильвании» урону."
+msgstr "大いなる塔の破片を集ることで、Transylvania のダメージ耐性を高めることができる。"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO032_BATTLE_RULES_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_2_HEADER"
-msgstr "Улучшения"
+msgstr "強化エリア"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_3_HEADER"
-msgstr "Модули"
+msgstr "モジュール"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_3_HEADER"
-msgstr "Отряды"
+msgstr "分艦隊"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_4_HEADER"
-msgstr "Условия участия"
+msgstr "参加条件"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_RULES_TAB_NAME_0"
-msgstr "Правила"
+msgstr "ルール"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_RULES_TAB_NAME_1"
-msgstr "Достижения"
+msgstr "実績"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_2_HEADER"
-msgstr "Прогресс"
+msgstr "進捗"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_2_HEADER"
-msgstr "ПРАВИЛА"
+msgstr "ルール"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_HEADER"
-msgstr "Награды"
+msgstr "褒賞"
 
-#, fuzzy
 msgid "IDS_MODAL_WINDOW_TRIAL_BATTLE_RULES_HEADER"
-msgstr "Особенности боя"
+msgstr "戦闘の特徴"
 
-#, fuzzy
 msgid "IDS_MODERNIZATION_COMMON"
-msgstr "Модернизация"
+msgstr "アップグレード"
 
-#, fuzzy
 msgid "IDS_MODERNIZATION_RARE"
-msgstr "Редкая модернизация"
+msgstr "レアアップグレード"
 
-#, fuzzy
 msgid "IDS_MODERNIZATION_UNCOMMON"
-msgstr "Особая модернизация"
+msgstr "特別アップグレード"
 
-#, fuzzy
 msgid "IDS_MOUSE_INSTRUCTION_PURCHASE_SIGNAL"
-msgstr "Купить и установить сигнал"
+msgstr "信号旗の購入と搭載"
 
-#, fuzzy
 msgid "IDS_MULTIPLIER_TAG_AP"
-msgstr "Бронебойные снаряды (ББ)"
+msgstr "徹甲弾 (AP)"
 
-#, fuzzy
 msgid "IDS_MULTIPLIER_TAG_CS"
-msgstr "Полубронебойные снаряды (ПББ)"
+msgstr "半徹甲弾 (SAP)"
 
-#, fuzzy
 msgid "IDS_MULTIPLIER_TAG_HE"
-msgstr "Осколочно-фугасные снаряды (ОФ)"
+msgstr "榴弾 (HE)"
 
-#, fuzzy
 msgid "IDS_MULTIPLIER_TAG_TORPEDOES"
-msgstr "Торпеды"
+msgstr "魚雷"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_1"
-msgstr "Союзник"
+msgstr "味方"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_2"
-msgstr "Союзник"
+msgstr "味方"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_3"
-msgstr "Союзник"
+msgstr "味方"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_4"
-msgstr "Союзник"
+msgstr "味方"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_4_11"
-msgstr "Союзник"
+msgstr "味方"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_4_12"
-msgstr "Союзник"
+msgstr "味方"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_4_NAR"
-msgstr "Союзник"
+msgstr "味方"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_5"
-msgstr "Союзник"
+msgstr "味方"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_6"
-msgstr "Союзник"
+msgstr "味方"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_7"
-msgstr "Союзник"
+msgstr "味方"
 
-#, fuzzy
 msgid "IDS_NAME_ALLY_8"
-msgstr "Союзник"
+msgstr "味方"
 
 #, fuzzy
 msgid "IDS_NEWBIE_QUESTS_PCON002_NAME"
@@ -3304,9 +2216,7 @@ msgstr "Победите в Случайном бою"
 
 #, fuzzy
 msgid "IDS_NEWBIE_QUESTS_PCON004_DESCRIPTION"
-msgstr ""
-"С помощью сигналов можно повысить живучесть корабля, эффективность "
-"вооружения и снаряжения, а также увеличить максимальную скорость корабля."
+msgstr "С помощью сигналов можно повысить живучесть корабля, эффективность вооружения и снаряжения, а также увеличить максимальную скорость корабля."
 
 #, fuzzy
 msgid "IDS_NEWBIE_QUESTS_PCON005_NAME"
@@ -3318,10 +2228,7 @@ msgstr "Откройте 3 контейнера"
 
 #, fuzzy
 msgid "IDS_NEWBIE_QUESTS_PCON008_DESCRIPTION"
-msgstr ""
-"Навыки командира позволяют получить преимущества и новые возможности в бою. "
-"Для изучения новых навыков вам понадобятся очки навыков, которые можно "
-"получить, зарабатывая опыт командира в бою."
+msgstr "Навыки командира позволяют получить преимущества и новые возможности в бою. Для изучения новых навыков вам понадобятся очки навыков, которые можно получить, зарабатывая опыт командира в бою."
 
 #, fuzzy
 msgid "IDS_NEWBIE_QUESTS_PCON008_NAME"
@@ -3333,9 +2240,7 @@ msgstr "Выполните 3 боевые задачи"
 
 #, fuzzy
 msgid "IDS_NEWBIE_QUESTS_PCON010_DESCRIPTION"
-msgstr ""
-"Модернизации позволяют развить сильные стороны корабля и скорректировать "
-"слабые."
+msgstr "Модернизации позволяют развить сильные стороны корабля и скорректировать слабые."
 
 #, fuzzy
 msgid "IDS_NEWBIE_QUESTS_PCON010_NAME"
@@ -3347,10 +2252,7 @@ msgstr "Получите любое имущество в Адмиралтей�
 
 #, fuzzy
 msgid "IDS_NEWBIE_QUESTS_PCON016_DESCRIPTION"
-msgstr ""
-"Участники кланов могут сражаться в Клановых боях, а также строить и улучшать"
-" клановую базу, чтобы получать дополнительные ресурсы и скидки. Вы можете "
-"вступить в клан или создать свой."
+msgstr "Участники кланов могут сражаться в Клановых боях, а также строить и улучшать клановую базу, чтобы получать дополнительные ресурсы и скидки. Вы можете вступить в клан или создать свой."
 
 #, fuzzy
 msgid "IDS_NEWBIE_QUESTS_PCON016_NAME"
@@ -3430,7 +2332,7 @@ msgstr "Ульрих"
 
 #, fuzzy
 msgid "IDS_OTHER_FEATURE_CATEGORY_ABILITIES"
-msgstr "Снаряжение"
+msgstr "消耗品"
 
 #, fuzzy
 msgid "IDS_OTHER_FEATURE_CATEGORY_AIR_DEFENSE"
@@ -3438,7 +2340,7 @@ msgstr "ПВО"
 
 #, fuzzy
 msgid "IDS_OTHER_FEATURE_CATEGORY_DISGUISE"
-msgstr "Маскировка и обнаружение"
+msgstr "隠蔽性 и обнаружение"
 
 #, fuzzy
 msgid "IDS_OTHER_FEATURE_CATEGORY_FIGHTERS"
@@ -3450,7 +2352,7 @@ msgstr "Главный калибр"
 
 #, fuzzy
 msgid "IDS_OTHER_FEATURE_CATEGORY_PINGER_GUN"
-msgstr "Сонар"
+msgstr "ソナー"
 
 #, fuzzy
 msgid "IDS_OTHER_FEATURE_CATEGORY_SPECIAL"
@@ -3458,7 +2360,7 @@ msgstr "Особое"
 
 #, fuzzy
 msgid "IDS_OTHER_FEATURE_CATEGORY_SURVIVABILITY"
-msgstr "Живучесть"
+msgstr "抗堪性"
 
 #, fuzzy
 msgid "IDS_OTHER_FEATURE_CATEGORY_TACT_BOMBERS"
@@ -3478,7 +2380,7 @@ msgstr "Тактические торпедоносцы"
 
 #, fuzzy
 msgid "IDS_OTHER_FEATURE_CATEGORY_TORPEDO"
-msgstr "Торпеды"
+msgstr "魚雷"
 
 #, fuzzy
 msgid "IDS_OTHER_FEATURE_CATEGORY_TORPEDO_BOMBER"
@@ -3538,7 +2440,7 @@ msgstr "Vought OS2U Kingfisher"
 
 #, fuzzy
 msgid "IDS_PAES138_BLACK_HORNET"
-msgstr "Особый"
+msgstr "特別"
 
 #, fuzzy
 msgid "IDS_PAES301_PRESIDENT_CEREMONIAL"
@@ -3718,7 +2620,7 @@ msgstr "Torpedo Mk.7 mod. 1"
 
 #, fuzzy
 msgid "IDS_PARAMS_BONUS_FOR_VICTORY"
-msgstr "Бонус за победу"
+msgstr "ボーナス за победу"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_AAAURAADDITIONALBASEMAXDISTANCE"
@@ -3726,7 +2628,7 @@ msgstr "Дальность стрельбы ПВО"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_AAMAXHP"
-msgstr "Живучесть установок ПВО"
+msgstr "抗堪性 установок ПВО"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_BURNCHANCEMULTIPLIER"
@@ -3754,7 +2656,7 @@ msgstr "Радиус взрыва ОФ- и ПББ-снарядов ГК по �
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_SEC"
-msgstr "Радиус взрыва снарядов ПМК по подводным лодкам"
+msgstr "Радиус взрыва снарядов 副砲 по подводным лодкам"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_DISTSEAMINE"
@@ -3774,27 +2676,27 @@ msgstr "Скорость поворота орудий ГК"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_AIRCARRIER"
-msgstr "Дальность стрельбы ПМК"
+msgstr "Дальность стрельбы 副砲"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_BATTLESHIP"
-msgstr "Дальность стрельбы ПМК"
+msgstr "Дальность стрельбы 副砲"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_CRUISER"
-msgstr "Дальность стрельбы ПМК"
+msgstr "Дальность стрельбы 副砲"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_DESTROYER"
-msgstr "Дальность стрельбы ПМК"
+msgstr "Дальность стрельбы 副砲"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_SUBMARINE"
-msgstr "Дальность стрельбы ПМК"
+msgstr "Дальность стрельбы 副砲"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_GSMAXHP"
-msgstr "Живучесть установок ПМК"
+msgstr "抗堪性 установок 副砲"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_HEALTHREGENPERCENT"
@@ -3810,7 +2712,7 @@ msgstr "Время действия отмеченного сектора при
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_PROGRESS_STAY_VISIBLE"
-msgstr "Прогресс за интервал"
+msgstr "進捗 за интервал"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_REDUCE_TIME_BOMBER"
@@ -3830,11 +2732,11 @@ msgstr "Время работы снаряжения"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_VISIBILITYBYPLANEPOSTBONUS"
-msgstr "Заметность с самолётов"
+msgstr "被発見距離 с самолётов"
 
 #, fuzzy
 msgid "IDS_PARAMS_MODIFIER_VISIBILITYBYSHIPPOSTBONUS"
-msgstr "Заметность с кораблей"
+msgstr "被発見距離 с кораблей"
 
 #, fuzzy
 msgid "IDS_PASA206"
@@ -3874,14 +2776,7 @@ msgstr "1942 г."
 
 #, fuzzy
 msgid "IDS_PASA588_DESCR"
-msgstr ""
-"USS Hornet, третий авианосец типа Yorktown, участвовал в знаменитом рейде "
-"Дулиттла, сражался при Мидуэе, в кампании на Соломоновых островах. В битве "
-"у островов Санта-Крус Hornet нанёс повреждения авианосцу Shōkaku, но сам "
-"получил несколько попаданий с самолётов. Энергетическая установка была "
-"выведена из строя, и было решено оставить корабль. Американские эсминцы "
-"выпустили в него девять торпед и несколько сотен 127-мм снарядов, "
-"но авианосец держался на плаву, и добили его уже японские эсминцы."
+msgstr "USS Hornet, третий авианосец типа Yorktown, участвовал в знаменитом рейде Дулиттла, сражался при Мидуэе, в кампании на Соломоновых островах. В битве у островов Санта-Крус Hornet нанёс повреждения авианосцу Shōkaku, но сам получил несколько попаданий с самолётов. Энергетическая установка была выведена из строя, и было решено оставить корабль. Американские эсминцы выпустили в него девять торпед и несколько сотен 127-мм снарядов, но авианосец держался на плаву, и добили его уже японские эсминцы."
 
 #, fuzzy
 msgid "IDS_PASA588_YEAR"
@@ -4403,9 +3298,7 @@ msgstr "Вся наша жизнь — игра."
 
 #, fuzzy
 msgid "IDS_PCEE120_SUMMER_FEST_2017_EXTRA_DESCRIPTION"
-msgstr ""
-"Спасибо за приверженность нашим играм! Надеемся, они всегда будут приносить "
-"вам удовольствие."
+msgstr "Спасибо за приверженность нашим играм! Надеемся, они всегда будут приносить вам удовольствие."
 
 #, fuzzy
 msgid "IDS_PCEE222_FEST_2018_FLAG"
@@ -4413,15 +3306,15 @@ msgstr "Дал жару!"
 
 #, fuzzy
 msgid "IDS_PCEE560_MK_MT_FLAG"
-msgstr "Мир военной техники"
+msgstr "World of Military Machines"
 
 #, fuzzy
 msgid "IDS_PCEE632_USSR_SS_EA_FLAG"
-msgstr "Подводные лодки СССР"
+msgstr "潜水艦 СССР"
 
 #, fuzzy
 msgid "IDS_PCEE645_TSARMOREY2023_FLAG"
-msgstr "Черномор"
+msgstr "Chernomor"
 
 #, fuzzy
 msgid "IDS_PCEE658_12_MONTHS_FLAG_EXTRA_DESCRIPTION"
@@ -4457,27 +3350,19 @@ msgstr "Azuma B"
 
 #, fuzzy
 msgid "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEE704_MOLOTOV_FLAG"
@@ -4485,9 +3370,7 @@ msgstr "Молотов"
 
 #, fuzzy
 msgid "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEE709_SURCOUF_FLAG"
@@ -4543,7 +3426,7 @@ msgstr "HMS Royal Sovereign"
 
 #, fuzzy
 msgid "IDS_PCEE748_MITA_FLAG"
-msgstr "Мита"
+msgstr "Mita"
 
 #, fuzzy
 msgid "IDS_PCEE752_FORBIN_FLAG"
@@ -4555,39 +3438,27 @@ msgstr "Итальянские крейсеры"
 
 #, fuzzy
 msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEE766_BRISBANE_B_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEE767_JAGER_B_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEE768_GASCOGNE_B_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEE770_HORNET_B_FLAG_DESCRIPTION"
-msgstr ""
-"Чёрная пятница (Black Friday) — день, когда во многих странах мира "
-"официально открываются зимние распродажи."
+msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
 
 #, fuzzy
 msgid "IDS_PCEF151_SHIFT_SIGNALFLAG_1"
@@ -4619,7 +3490,7 @@ msgstr "Стальной"
 
 #, fuzzy
 msgid "IDS_PCQC005_BISMARCK_TOKEN"
-msgstr "Охота на Bismarck"
+msgstr "ビスマルク追撃戦"
 
 #, fuzzy
 msgid "IDS_PCQC006_YAMAMOTO_TITLE_QUOTES"
@@ -4641,6 +3512,8 @@ msgstr "Обеспечьте нанесение %(count)s ед. урона по
 msgid "IDS_PCQT701_1"
 msgid_plural "IDS_PCQT701_1"
 msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT702_1"
@@ -4650,16 +3523,22 @@ msgstr "Получите %(count)s ед. потенциального урон�
 msgid "IDS_PCQT703_1"
 msgid_plural "IDS_PCQT703_1"
 msgstr[0] "Получите %(count)s любое достижение."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT704_1"
 msgid_plural "IDS_PCQT704_1"
 msgstr[0] "Получите %(count)s любую ленту."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT709_1"
 msgid_plural "IDS_PCQT709_1"
 msgstr[0] "Получите %(count)s героическое достижение."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT711_1"
@@ -4669,6 +3548,8 @@ msgstr "Получите %(count)s ед. потенциального урон�
 msgid "IDS_PCQT716_1"
 msgid_plural "IDS_PCQT716_1"
 msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT717_1"
@@ -4682,11 +3563,15 @@ msgstr "Получите %(count)s ед. потенциального урон�
 msgid "IDS_PCQT720_1"
 msgid_plural "IDS_PCQT720_1"
 msgstr[0] "Получите %(count)s любое достижение."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT721_1"
 msgid_plural "IDS_PCQT721_1"
 msgstr[0] "Получите %(count)s любую ленту."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT725_1"
@@ -4696,53 +3581,71 @@ msgstr "Получите %(count)s ед. потенциального урон�
 msgid "IDS_PCQT726_1"
 msgid_plural "IDS_PCQT726_1"
 msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT727_1"
 msgid_plural "IDS_PCQT727_1"
 msgstr[0] "Получите %(count)s героическое достижение."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT729_1"
 msgid_plural "IDS_PCQT729_1"
 msgstr[0] "Получите %(count)s любую ленту."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT733_1"
 msgid_plural "IDS_PCQT733_1"
 msgstr[0] "Получите %(count)s ленту «Поджёг» или «Затопил»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT737_1"
 msgid_plural "IDS_PCQT737_1"
-msgstr[0] ""
-"Войдите в топ-5 своей команды по количеству заработанного опыта "
-"%(count)s раз."
+msgstr[0] "Войдите в топ-5 своей команды по количеству заработанного опыта %(count)s раз."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT738_1"
 msgid_plural "IDS_PCQT738_1"
 msgstr[0] "Получите %(count)s любую ленту."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT741_1"
 msgid_plural "IDS_PCQT741_1"
 msgstr[0] "Получите %(count)s любую ленту."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT745_1"
 msgid_plural "IDS_PCQT745_1"
 msgstr[0] "Получите %(count)s любое достижение."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT746_1"
 msgid_plural "IDS_PCQT746_1"
 msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT749_1"
 msgid_plural "IDS_PCQT749_1"
 msgstr[0] "Первым обнаружьте %(count)s торпеду."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT751_1"
@@ -4752,6 +3655,8 @@ msgstr "Получите %(count)s ед. потенциального урон�
 msgid "IDS_PCQT752_1"
 msgid_plural "IDS_PCQT752_1"
 msgstr[0] "Получите %(count)s ленту «Поджёг»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT753_1"
@@ -4761,43 +3666,57 @@ msgstr "Обеспечьте нанесение %(count)s ед. урона по
 msgid "IDS_PCQT754_1"
 msgid_plural "IDS_PCQT754_1"
 msgstr[0] "Получите %(count)s любую ленту."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT755_1"
 msgid_plural "IDS_PCQT755_1"
-msgstr[0] ""
-"Войдите в топ-3 своей команды по количеству заработанного опыта "
-"%(count)s раз."
+msgstr[0] "Войдите в топ-3 своей команды по количеству заработанного опыта %(count)s раз."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT756_1"
 msgid_plural "IDS_PCQT756_1"
 msgstr[0] "Получите %(count)s любое достижение."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT757_1"
 msgid_plural "IDS_PCQT757_1"
 msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT759_1"
 msgid_plural "IDS_PCQT759_1"
 msgstr[0] "Получите %(count)s ленту «Обнаружил»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT760_1"
 msgid_plural "IDS_PCQT760_1"
 msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT762_1"
 msgid_plural "IDS_PCQT762_1"
 msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT765_1"
 msgid_plural "IDS_PCQT765_1"
 msgstr[0] "Получите %(count)s героическое достижение."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT767_1"
@@ -4807,18 +3726,22 @@ msgstr "Получите %(count)s ед. потенциального урон�
 msgid "IDS_PCQT769_1"
 msgid_plural "IDS_PCQT769_1"
 msgstr[0] "Получите %(count)s любую ленту."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT771_1"
 msgid_plural "IDS_PCQT771_1"
-msgstr[0] ""
-"Войдите в топ-5 своей команды по количеству заработанного опыта "
-"%(count)s раз."
+msgstr[0] "Войдите в топ-5 своей команды по количеству заработанного опыта %(count)s раз."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT772_1"
 msgid_plural "IDS_PCQT772_1"
 msgstr[0] "Получите %(count)s ленту «Попал в цитадель»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT773_1"
@@ -4828,26 +3751,30 @@ msgstr "Получите %(count)s ед. потенциального урон�
 msgid "IDS_PCQT776_1"
 msgid_plural "IDS_PCQT776_1"
 msgstr[0] "Обеспечьте нанесение %(count)s ед. урона по вашим разведданным."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT777_1"
 msgid_plural "IDS_PCQT777_1"
 msgstr[0] "Получите %(count)s любое достижение."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCQT778_1"
 msgid_plural "IDS_PCQT778_1"
 msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PCVE026"
-msgstr "Скрытые манёвры"
+msgstr "隠密作戦"
 
 #, fuzzy
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_PVE_TOOLTIP_GOAL"
-msgstr ""
-"Отбить союзные транспорты и обеспечить им защиту на всём маршруте "
-"следования."
+msgstr "Отбить союзные транспорты и обеспечить им защиту на всём маршруте следования."
 
 #, fuzzy
 msgid "IDS_PCVO002_OP_01_02_S01_NAVALBASE_PVE_TOOLTIP_GOAL"
@@ -4855,15 +3782,11 @@ msgstr "Разрушить базу противника и уйти по ука
 
 #, fuzzy
 msgid "IDS_PCVO003_OP_01_03_S03_LABYRINTH_PVE_TOOLTIP_GOAL"
-msgstr ""
-"Сопроводите суда обеспечения к авианосцу «Раптор». Выведите авианосец "
-"из зоны боевых действий."
+msgstr "Сопроводите суда обеспечения к авианосцу «Раптор». Выведите авианосец из зоны боевых действий."
 
 #, fuzzy
 msgid "IDS_PCVO004_OP_01_04_S02_NAVAL_DEFENSE_PVE_TOOLTIP_GOAL"
-msgstr ""
-"Защитить базу: не допустить уничтожения ключевых сооружений и судов "
-"обеспечения. Продержаться до подхода союзной ударной эскадры."
+msgstr "Защитить базу: не допустить уничтожения ключевых сооружений и судов обеспечения. Продержаться до подхода союзной ударной эскадры."
 
 #, fuzzy
 msgid "IDS_PCVO005_OP_11_PVE_TOOLTIP_GOAL"
@@ -4871,21 +3794,15 @@ msgstr "Потопить транспорты противника до при�
 
 #, fuzzy
 msgid "IDS_PCVO008_OP_02_03_S07_ADVANCE_PVE_TOOLTIP_GOAL"
-msgstr ""
-"Установить контроль над вражеской базой: прорвать оборону противника, "
-"провести десантные транспорты, очистив акваторию от сил противника."
+msgstr "搭載 контроль над вражеской базой: прорвать оборону противника, провести десантные транспорты, очистив акваторию от сил противника."
 
 #, fuzzy
 msgid "IDS_PCVO009_OP_02_02_S06_ATOLL_PVE_TOOLTIP_GOAL"
-msgstr ""
-"Защитить прибывающую на базу группу транспортных самолётов. Обеспечить "
-"оборону аэродрома, пока не закончится погрузка и самолёты не покинут базу."
+msgstr "Защитить прибывающую на базу группу транспортных самолётов. Обеспечить оборону аэродрома, пока не закончится погрузка и самолёты не покинут базу."
 
 #, fuzzy
 msgid "IDS_PCVO011_OP_10_S10_USS_CL_PVE_TOOLTIP_GOAL"
-msgstr ""
-"Защитите высадившиеся полки морской пехоты. Найдите и уничтожьте аэродромы "
-"противника."
+msgstr "Защитите высадившиеся полки морской пехоты. Найдите и уничтожьте аэродромы противника."
 
 #, fuzzy
 msgid "IDS_PCVO012_OP_02_04_S05_DUNKIRK_PVE_TOOLTIP_GOAL"
@@ -4893,13 +3810,11 @@ msgstr "Обеспечьте эвакуацию союзных войск, ок�
 
 #, fuzzy
 msgid "IDS_PCVO013_EV_HL_18_E04_HALLOWEEN_2018_PVE_TOOLTIP_GOAL"
-msgstr ""
-"Найдите «Распутина» в гавани «Чёрной обители» и окончательно его победите."
+msgstr "Найдите «Распутина» в гавани «Чёрной обители» и окончательно его победите."
 
 #, fuzzy
 msgid "IDS_PCVO017_EV_HL_18_E04_HALLOWEEN_2018_HARD_PVE_TOOLTIP_GOAL"
-msgstr ""
-"Найдите «Распутина» в гавани «Чёрной обители» и окончательно его победите."
+msgstr "Найдите «Распутина» в гавани «Чёрной обители» и окончательно его победите."
 
 #, fuzzy
 msgid "IDS_PCVO024_EV_HL_16_50_VANHELLSING_PVE_TOOLTIP_GOAL"
@@ -5143,7 +4058,7 @@ msgstr "Нужно больше эсминцев"
 
 #, fuzzy
 msgid "IDS_PCZC104_MK_FRENCHCRUISER"
-msgstr "Что дальше? Форсаж на линкорах?"
+msgstr "Что дальше? アフターバーナー на линкорах?"
 
 #, fuzzy
 msgid "IDS_PCZC105_MK_BISMARCK"
@@ -5559,7 +4474,7 @@ msgstr "Фрагмент мозаики"
 
 #, fuzzy
 msgid "IDS_PFES348_BLACK_GASCOGNE"
-msgstr "Особый"
+msgstr "特別"
 
 #, fuzzy
 msgid "IDS_PFES441_DUPERRE_CEREMONIAL"
@@ -5775,15 +4690,7 @@ msgstr "1939 г."
 
 #, fuzzy
 msgid "IDS_PFSB598_DESCR"
-msgstr ""
-"На фоне масштабного строительства новых линкоров во всех военно-морских "
-"державах в конце 1930-х гг. во Франции были начаты работы по проекту нового "
-"линкора. После испытаний корабля Dunkerque была подвергнута сомнению "
-"концепция линкоров со сосредоточением артиллерии в носу. Планировалось "
-"построить два новых линкора, соответствующих по скорости и бронированию типу"
-" Richelieu. Линкор Gascogne должен был строиться по проекту, в котором "
-"главная артиллерия была разнесена по оконечностям корабля. Корабль "
-"не закладывался из-за капитуляции Франции."
+msgstr "На фоне масштабного строительства новых линкоров во всех военно-морских державах в конце 1930-х гг. во Франции были начаты работы по проекту нового линкора. После испытаний корабля Dunkerque была подвергнута сомнению концепция линкоров со сосредоточением артиллерии в носу. Планировалось построить два новых линкора, соответствующих по скорости и бронированию типу Richelieu. Линкор Gascogne должен был строиться по проекту, в котором главная артиллерия была разнесена по оконечностям корабля. 艦艇 не закладывался из-за капитуляции Франции."
 
 #, fuzzy
 msgid "IDS_PFSB598_YEAR"
@@ -5791,12 +4698,7 @@ msgstr "1939 г."
 
 #, fuzzy
 msgid "IDS_PFSC811_DESCR"
-msgstr ""
-"Гипотетическое дальнейшее развитие французских тяжёлых крейсеров. "
-"Задумывался как средство борьбы с немецкими тяжёлыми крейсерами, основан "
-"на довоенных проработках корабля этого класса. В качестве основного "
-"вооружения выступают три характерные для французского флота межвоенных лет "
-"четырёхорудийные башни с 240-мм орудиями."
+msgstr "Гипотетическое дальнейшее развитие французских тяжёлых крейсеров. Задумывался как средство борьбы с немецкими тяжёлыми крейсерами, основан на довоенных проработках корабля этого класса. В качестве основного вооружения выступают три характерные для французского флота межвоенных лет четырёхорудийные башни с 240-мм орудиями."
 
 #, fuzzy
 msgid "IDS_PFSC811_YEAR"
@@ -5996,7 +4898,7 @@ msgstr "Парадный"
 
 #, fuzzy
 msgid "IDS_PGES458_BLACK_PRINZ_EUGEN"
-msgstr "Особый"
+msgstr "特別"
 
 #, fuzzy
 msgid "IDS_PGGA095_20MM_FLAK_38_L41"
@@ -6828,7 +5730,7 @@ msgstr "A7M Reppū"
 
 #, fuzzy
 msgid "IDS_PJES429_BLACK_AZUMA"
-msgstr "Особый"
+msgstr "特別"
 
 #, fuzzy
 msgid "IDS_PJES513_NATSUKAZE_GOLDEN"
@@ -7060,14 +5962,7 @@ msgstr "Azuma B"
 
 #, fuzzy
 msgid "IDS_PJSC509_DESCR"
-msgstr ""
-"Незадолго до начала Второй мировой войны в Японии узнали о старте "
-"проектирования в США больших крейсеров типа Alaska. Практически сразу "
-"началось проектирование корабля этого класса для противодействия "
-"американским крейсерам. Корабли этого проекта по архитектуре были близки "
-"к линкорам типа Yamato, несли девять новейших 310-мм орудий в трёх башнях. "
-"Разработка была остановлена в ноябре 1941 г. и окончательно отменена после "
-"сражения за Мидуэй."
+msgstr "Незадолго до начала Второй мировой войны в Японии узнали о старте проектирования в США больших крейсеров типа Alaska. Практически сразу началось проектирование корабля этого класса для противодействия американским крейсерам. Корабли этого проекта по архитектуре были близки к линкорам типа Yamato, несли девять новейших 310-мм орудий в трёх башнях. Разработка была остановлена в ноябре 1941 г. и окончательно отменена после сражения за Мидуэй."
 
 #, fuzzy
 msgid "IDS_PJSC509_FULL"
@@ -7305,31 +6200,43 @@ msgstr "Марафонец"
 msgid "IDS_PL_BATTLESHIP_CLASS_GEN"
 msgid_plural "IDS_PL_BATTLESHIP_CLASS_GEN"
 msgstr[0] "линкора"
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PL_CARRIER_CLASS_GEN"
 msgid_plural "IDS_PL_CARRIER_CLASS_GEN"
 msgstr[0] "авианосца"
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PL_CRUISER_CLASS_GEN"
 msgid_plural "IDS_PL_CRUISER_CLASS_GEN"
 msgstr[0] "крейсера"
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PL_DESTROYER_CLASS_GEN"
 msgid_plural "IDS_PL_DESTROYER_CLASS_GEN"
 msgstr[0] "эсминца"
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PL_SHIP_DAT"
 msgid_plural "IDS_PL_SHIP_DAT"
 msgstr[0] "кораблю"
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PL_SHIP_GEN"
 msgid_plural "IDS_PL_SHIP_GEN"
 msgstr[0] "корабля"
+msgstr[1] ""
+msgstr[2] ""
 
 #, fuzzy
 msgid "IDS_PORT_UNIVERSAL"
@@ -7381,7 +6288,7 @@ msgstr "Бериев Бе-6"
 
 #, fuzzy
 msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_AVIATION"
-msgstr "Авиация"
+msgstr "航空機"
 
 #, fuzzy
 msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_CHAT"
@@ -7421,7 +6328,7 @@ msgstr "Парадный"
 
 #, fuzzy
 msgid "IDS_PRES406_BLACK_MOLOTOV"
-msgstr "Особый"
+msgstr "特別"
 
 #, fuzzy
 msgid "IDS_PRES451_DOLGORUKIY_CEREMONIAL"
@@ -7429,7 +6336,7 @@ msgstr "Парадный"
 
 #, fuzzy
 msgid "IDS_PRES608_BLACK_S_189"
-msgstr "Особый"
+msgstr "特別"
 
 #, fuzzy
 msgid "IDS_PRGA187_37MM_66K"
@@ -8465,7 +7372,7 @@ msgstr "533-мм Vierling"
 
 #, fuzzy
 msgid "IDS_PUES400_BLACK_BRISBANE"
-msgstr "Особый"
+msgstr "特別"
 
 #, fuzzy
 msgid "IDS_PURCHASE_COST_COLON"
@@ -8485,14 +7392,7 @@ msgstr "Brisbane B"
 
 #, fuzzy
 msgid "IDS_PUSC590_DESCR"
-msgstr ""
-"После Второй мировой войны австралийский ВМФ начал сокращать состав, "
-"стремясь улучшать качество кораблей, а не их количество. Австралия построила"
-" пять современных эсминцев и приобрела у Великобритании два авианосца. Также"
-" рассматривалась покупка более крупных кораблей для сопровождения "
-"авианосцев — подходящим вариантом для этого мог бы быть крейсер Minotaur "
-"с универсальными орудиями главного калибра, разрабатывавшийся на то время "
-"в Великобритании."
+msgstr "После Второй мировой войны австралийский ВМФ начал сокращать состав, стремясь улучшать качество кораблей, а не их количество. オーストラリア построила пять современных эсминцев и приобрела у Великобритании два авианосца. Также рассматривалась покупка более крупных кораблей для сопровождения авианосцев — подходящим вариантом для этого мог бы быть крейсер Minotaur с универсальными орудиями главного калибра, разрабатывавшийся на то время в Великобритании."
 
 #, fuzzy
 msgid "IDS_PUSC590_FULL"
@@ -8644,11 +7544,11 @@ msgstr "533-мм Mk IX"
 
 #, fuzzy
 msgid "IDS_PWES507_BLACK_BLYSKAWICA"
-msgstr "Особый"
+msgstr "特別"
 
 #, fuzzy
 msgid "IDS_PWES529_BLACK_JAGER"
-msgstr "Особый"
+msgstr "特別"
 
 #, fuzzy
 msgid "IDS_PWGA105_2_PDR_MKVII_QUAD"
@@ -8760,15 +7660,7 @@ msgstr "1937 г."
 
 #, fuzzy
 msgid "IDS_PWSD599_DESCR"
-msgstr ""
-"В 1917 г. Австро-Венгрия начала прорабатывать проект лидера эсминцев. Всего "
-"было запланировано восемь лидеров и двенадцать эсминцев. Свои эскизы "
-"на конкурс представили фирмы Blohm & Voss и Ganz-Danubius, несколько "
-"проектов были разработаны в австро-венгерском Морском техническом комитете. "
-"Одним из них был проект 2000-тонного торпедного корабля, представленный "
-"в октябре 1917 г. Корабль должен был быть вооружён шестидюймовыми орудиями "
-"главного калибра. Из-за окончания Первой мировой войны и распада Австро-"
-"Венгрии эсминцы так и не были построены."
+msgstr "В 1917 г. Австро-ハンガリー начала прорабатывать проект лидера эсминцев. Всего было запланировано восемь лидеров и двенадцать эсминцев. Свои эскизы на конкурс представили фирмы Blohm & Voss и Ganz-Danubius, несколько проектов были разработаны в австро-венгерском Морском техническом комитете. Одним из них был проект 2000-тонного торпедного корабля, представленный в октябре 1917 г. 艦艇 должен был быть вооружён шестидюймовыми орудиями главного калибра. Из-за окончания Первой мировой войны и распада Австро-Венгрии эсминцы так и не были построены."
 
 #, fuzzy
 msgid "IDS_PWSD599_YEAR"
@@ -8884,9 +7776,7 @@ msgstr "Gearing"
 
 #, fuzzy
 msgid "IDS_PXSD026_DESCR"
-msgstr ""
-"Прожорливый корабль-удильщик, готовый забрать всё, что помещается "
-"в его зубастый трюм."
+msgstr "Прожорливый корабль-удильщик, готовый забрать всё, что помещается в его зубастый трюм."
 
 #, fuzzy
 msgid "IDS_PXSD026_FULL"
@@ -9394,11 +8284,11 @@ msgstr "%(_seasonId)s-й сезон, %(_sprintId)s-й спринт"
 
 #, fuzzy
 msgid "IDS_RANKED_VICTORY_REWARDS_TITLE"
-msgstr "Награды за победы"
+msgstr "褒賞 за победы"
 
 #, fuzzy
 msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_DONE"
-msgstr "Получено"
+msgstr "入手済み"
 
 #, fuzzy
 msgid "IDS_RANK_IN_LEAGUE_STATUS_DONE"
@@ -9414,11 +8304,11 @@ msgstr "Награда:"
 
 #, fuzzy
 msgid "IDS_RARE_CREW_BOOK_CREW_SKILL_UNSELECT_INSTRUCTION"
-msgstr "Отменить выбор навыка"
+msgstr "キャンセル выбор навыка"
 
 #, fuzzy
 msgid "IDS_RARE_CREW_STATUS"
-msgstr "Редкий командир"
+msgstr "Редкий 艦長"
 
 #, fuzzy
 msgid "IDS_RATING_BATTLES_DENY_REASON_SEASON_NOT_STARTED"
@@ -9470,7 +8360,7 @@ msgstr "Исследование:"
 
 #, fuzzy
 msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_CREW_EXP"
-msgstr "Опыт командира"
+msgstr "艦長 EXP"
 
 #, fuzzy
 msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_ELITE_EXP"
@@ -9478,15 +8368,15 @@ msgstr "Элитный опыт командиров"
 
 #, fuzzy
 msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_EXP"
-msgstr "Опыт корабля"
+msgstr "艦艇 EXP"
 
 #, fuzzy
 msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_FREE_EXP"
-msgstr "Свободный опыт"
+msgstr "フリー EXP"
 
 #, fuzzy
 msgid "IDS_RESISTANCE_RECOGNITION_SUBHEADER"
-msgstr "Бонус за боевые результаты"
+msgstr "ボーナス за боевые результаты"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
@@ -9529,22 +8419,20 @@ msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_TITLE_SHORT"
 msgstr "Тактический"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый командир"
+msgstr "特別 艦長"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Командир"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый командир"
+msgstr "特別 艦長"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
@@ -9552,37 +8440,31 @@ msgstr "Командир"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_TITLE_FULL"
-msgstr "Постоянный камуфляж или особый командир"
+msgstr "Постоянный камуфляж или особый 艦長"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Постоянный камуфляж"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Камуфляж"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый командир"
+msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特別 艦長"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Командир"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_TITLE"
@@ -9593,88 +8475,76 @@ msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_TITLE_SHORT"
 msgstr "Малый тактический"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый командир"
+msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特別 艦長"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Командир"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый командир"
+msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特別 艦長"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Командир"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый командир"
+msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特別 艦長"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Командир"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум контейнер"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Контейнер"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль X уровня или редкий корабль"
+msgstr "艦艇 X уровня или редкий корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X или редкий"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VIII–IX уровня"
+msgstr "艦艇 VIII–IX уровня"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Корабль V–VII уровня"
+msgstr "艦艇 V–VII уровня"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_TITLE_SHORT"
 msgstr "Во имя прогресса!"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый корабль X уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "特別 корабль X уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_TITLE_SHORT"
 msgstr "Picardie"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE_SHORT"
@@ -9682,24 +8552,23 @@ msgstr "Karl XIV Johan"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль X уровня или редкий корабль"
+msgstr "艦艇 X уровня или редкий корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X или редкий"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VIII–IX уровня"
+msgstr "艦艇 VIII–IX уровня"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Корабль V–VII уровня"
+msgstr "艦艇 V–VII уровня"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_TITLE_SHORT"
@@ -9707,27 +8576,23 @@ msgstr "Новогодний подарок"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль X уровня или редкий корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "艦艇 X уровня или редкий корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X или редкий"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VIII–IX уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "艦艇 VIII–IX уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Корабль V–VII уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "艦艇 V–VII уровня"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_TITLE_SHORT"
@@ -9735,128 +8600,106 @@ msgstr "Гигантский новогодний подарок"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый корабль"
+msgstr "特別 корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль IX уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "IX уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый корабль X уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "特別 корабль X уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "X уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Премиум корабль VII–VIII уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
 msgstr "VII–VIII уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Камуфляж"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум контейнер"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Контейнер"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль IX уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "IX уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый командир"
+msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "特別 艦長"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Командир"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Суперконтейнер"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Суперконтейнер"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль IX уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "IX уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Премиум корабль VII–VIII уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "VII–VIII уровень"
 
 #, fuzzy
@@ -9872,8 +8715,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_TITLE_SHORT"
 msgstr "Чёрная пятница 2024"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X уровень"
 
 #, fuzzy
@@ -9882,27 +8724,23 @@ msgstr "Премиум контейнер «Чёрная пятница 2024»"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль X уровня или редкий корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "艦艇 X уровня или редкий корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X или редкий"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VIII–IX уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "艦艇 VIII–IX уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Корабль V–VII уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "艦艇 V–VII уровня"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE_SHORT"
@@ -9910,48 +8748,42 @@ msgstr "Новогодний"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль X уровня или редкий корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "艦艇 X уровня или редкий корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X или редкий"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VIII–IX уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "艦艇 VIII–IX уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Корабль V–VII уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "艦艇 V–VII уровня"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE_SHORT"
 msgstr "Новогодний"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль IX уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "IX уровень"
 
 #, fuzzy
@@ -9959,13 +8791,12 @@ msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Премиум корабль VIII уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "VIII уровень"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
@@ -9973,16 +8804,14 @@ msgstr "VIII уровень"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый корабль X уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "特別 корабль X уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X уровень"
 
 #, fuzzy
@@ -9994,112 +8823,95 @@ msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_TITLE_SHORT"
 msgstr "Героическая схватка"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый командир"
+msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "特別 艦長"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Командир"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "VIII уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум контейнер"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Контейнер"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум контейнер"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Контейнер"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Постоянный камуфляж"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Камуфляж"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VIII–IX уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "艦艇 VIII–IX уровня"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "艦艇"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VIII–IX уровня"
+msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "艦艇 VIII–IX уровня"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый корабль"
+msgstr "特別 корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "艦艇"
 
 #, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый командир"
+msgstr "特別 艦長"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Командир"
 
 #, fuzzy
@@ -10112,10 +8924,7 @@ msgstr "Корабельный премиум аккаунт"
 
 #, fuzzy
 msgid "IDS_REWARD_PORTAL_DESCRIPTION"
-msgstr ""
-"Выдаётся за достижение высоких результатов в боевой задаче категории "
-"«Флотское мастерство». Начисляется призёрам автоматически после подведения "
-"итогов события."
+msgstr "Выдаётся за достижение высоких результатов в боевой задаче категории «Флотское мастерство». Начисляется призёрам автоматически после подведения итогов события."
 
 #, fuzzy
 msgid "IDS_REWARD_PORTAL_TITLE"
@@ -10127,7 +8936,7 @@ msgstr "Чистый опыт"
 
 #, fuzzy
 msgid "IDS_REWARD_SHIPXP_TITLE"
-msgstr "Опыт корабля"
+msgstr "艦艇 EXP"
 
 #, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_ACID"
@@ -10235,7 +9044,7 @@ msgstr "СССР"
 
 #, fuzzy
 msgid "IDS_SCENARIO_ASYMM_COOP_SPECIAL"
-msgstr "Асимметричный бой"
+msgstr "非対称戦"
 
 #, fuzzy
 msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_5X5"
@@ -10243,7 +9052,7 @@ msgstr "Турнир. Превосходство — Альтернативны�
 
 #, fuzzy
 msgid "IDS_SCENARIO_PCVE026_AIR_BARRIERS"
-msgstr "Скрытые манёвры"
+msgstr "隠密作戦"
 
 #, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_ARMOR"
@@ -10259,7 +9068,7 @@ msgstr "Командир"
 
 #, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_ECOBOOST"
-msgstr "Экономические бонусы"
+msgstr "エコノミーボーナス"
 
 #, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_ENSIGN"
@@ -10267,7 +9076,7 @@ msgstr "Флаги"
 
 #, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_EVENTS"
-msgstr "События"
+msgstr "イベント"
 
 #, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_LOOTBOXES"
@@ -10275,7 +9084,7 @@ msgstr "Контейнеры"
 
 #, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_OVERVIEW"
-msgstr "Вооружение"
+msgstr "兵装"
 
 #, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_SSE"
@@ -10299,7 +9108,7 @@ msgstr "Выбрать эмблему"
 
 #, fuzzy
 msgid "IDS_SESSION_REWARD_CREWXP_TITLE"
-msgstr "Опыт командира"
+msgstr "艦長 EXP"
 
 #, fuzzy
 msgid "IDS_SESSION_REWARD_ELITEXP_TITLE"
@@ -10307,11 +9116,11 @@ msgstr "Элитный опыт командиров"
 
 #, fuzzy
 msgid "IDS_SESSION_REWARD_EXP_TITLE"
-msgstr "Опыт корабля"
+msgstr "艦艇 EXP"
 
 #, fuzzy
 msgid "IDS_SESSION_REWARD_FREEXP_TITLE"
-msgstr "Свободный опыт"
+msgstr "フリー EXP"
 
 #, fuzzy
 msgid "IDS_SESSION_REWARD_PUREXP_TITLE"
@@ -10319,17 +9128,15 @@ msgstr "Чистый опыт"
 
 #, fuzzy
 msgid "IDS_SESSION_STATS_RESET"
-msgstr "Сбросить"
+msgstr "リセット"
 
 #, fuzzy
 msgid "IDS_SET_SIGNALS_RARITY_LEVEL"
-msgstr "Установить все"
+msgstr "全て搭載"
 
 #, fuzzy
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_MODERNIZATION"
-msgstr ""
-"Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для изменения "
-"модернизаций."
+msgstr "Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для изменения модернизаций."
 
 #, fuzzy
 msgid "IDS_SHIPMATERIAL_SUPERSHIP"
@@ -10337,11 +9144,11 @@ msgstr "Суперкорабли"
 
 #, fuzzy
 msgid "IDS_SHIPS_BRANCHES_CURRENT_PARAMS"
-msgstr "ОСНАЩЕНИЕ"
+msgstr "装備"
 
 #, fuzzy
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON_ALL"
-msgstr "Сбросить все"
+msgstr "リセット все"
 
 #, fuzzy
 msgid "IDS_SHIPYARD_COMMON_EVENT_TITLE"
@@ -10349,25 +9156,23 @@ msgstr "Верфь"
 
 #, fuzzy
 msgid "IDS_SHIP_BRANCHES_FEATURE"
-msgstr "Особенности"
+msgstr "特徴"
 
 #, fuzzy
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_BUTTON_TEXT"
-msgstr "Обменять"
+msgstr "次を交換:"
 
 #, fuzzy
 msgid "IDS_SHIP_MANAGEMENT_SQUADRON_WEAPON_HEADER"
-msgstr "Снаряжение эскадрильи"
+msgstr "中隊消耗品"
 
 #, fuzzy
 msgid "IDS_SHIP_MASTERY_BUTTON_ABOUT"
-msgstr "Правила"
+msgstr "ルール"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_INTANIA_MAGIC"
-msgstr ""
-"Боевые характеристики кораблей изменены. Набор изменений зависит от класса "
-"корабля."
+msgstr "Боевые характеристики кораблей изменены. Набор изменений зависит от класса корабля."
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_AAA_MAX_DISTANCE"
@@ -10375,15 +9180,15 @@ msgstr "Дальность ПВО"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_WEAPONS_RELOAD_FACTOR"
-msgstr "Ускорение перезарядки"
+msgstr "装填速度向上"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_HEALTH_REGENERATION"
-msgstr "Восстановление боеспособности"
+msgstr "HP 回復"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INCREASED_WEAPON_DAMAGE"
-msgstr "Увеличение урона"
+msgstr "ダメージ向上"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INTANIA_MAGIC"
@@ -10391,27 +9196,27 @@ msgstr "Магия Интании"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM186_TORPEDOBUFF_DE2025"
-msgstr "Ускорение перезарядки торпед"
+msgstr "魚雷装填ブースター"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM190_REGENERATION_DE2025"
-msgstr "Восстановление боеспособности"
+msgstr "HP 回復"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM196_ENGINE_WT"
-msgstr "Командный форсаж"
+msgstr "チーム・エンジンブースト"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE"
-msgstr "Заметность с самолётов"
+msgstr "被発見距離 с самолётов"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PXOM186_TORPEDOBUFF_DE2025_APPLIED"
-msgstr "Ускорение перезарядки торпед"
+msgstr "魚雷装填ブースター"
 
 #, fuzzy
 msgid "IDS_SHIP_MODIFIER_PXOM190_REGENERATION_DE2025_APPLIED"
-msgstr "Восстановление боеспособности"
+msgstr "HP 回復"
 
 #, fuzzy
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
@@ -10443,11 +9248,11 @@ msgstr "Дымовая шашка"
 
 #, fuzzy
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_FIGHTER"
-msgstr "Перехватчики"
+msgstr "迎撃機"
 
 #, fuzzy
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_SEAMINE"
-msgstr "Минное заграждение"
+msgstr "機雷原"
 
 #, fuzzy
 msgid "IDS_SHIP_PARAM_DRUM_FIRE_SALVO_COUNT"
@@ -10471,15 +9276,15 @@ msgstr "Радиус действия"
 
 #, fuzzy
 msgid "IDS_SHIP_PARAM_SMOKE_TIME_SS"
-msgstr "Время рассеивания дымов"
+msgstr "煙幕の持続時間"
 
 #, fuzzy
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_MINE"
-msgstr "Минное заграждение"
+msgstr "機雷原"
 
 #, fuzzy
 msgid "IDS_SHIP_PARAM_WAVES"
-msgstr "Волномёт"
+msgstr "ウェーブキャスター"
 
 #, fuzzy
 msgid "IDS_SHIP_PARAM_WAVE_GUN_SHOT_DELAY"
@@ -10507,11 +9312,11 @@ msgstr "Охотник"
 
 #, fuzzy
 msgid "IDS_SHIP_SHARDS_TTX_BUTTON_FEATURES"
-msgstr "Особенности корабля"
+msgstr "艦艇の特徴"
 
 #, fuzzy
 msgid "IDS_SHIP_TYPE_PARAM_DISGUISE"
-msgstr "Маскировка"
+msgstr "隠蔽性"
 
 #, fuzzy
 msgid "IDS_SHIP_TYPE_PARAM_MANEUVERABILITY"
@@ -10519,23 +9324,23 @@ msgstr "Манёвренность"
 
 #, fuzzy
 msgid "IDS_SHIP_TYPE_PARAM_SURVIVABILITY"
-msgstr "Живучесть"
+msgstr "抗堪性"
 
 #, fuzzy
 msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_COMMON"
-msgstr "Стандартные"
+msgstr "標準"
 
 #, fuzzy
 msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_ELITE"
-msgstr "Элитные"
+msgstr "エリート"
 
 #, fuzzy
 msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_UNCOMMON"
-msgstr "Особые"
+msgstr "特別"
 
 #, fuzzy
 msgid "IDS_SIGNAL_TYPE_0_SIMPLE_SUMMARY_TOOLTIP"
-msgstr "Живучесть"
+msgstr "抗堪性"
 
 #, fuzzy
 msgid "IDS_SIGNAL_TYPE_3_SIMPLE_SUMMARY_TOOLTIP"
@@ -10543,7 +9348,7 @@ msgstr "Скорость"
 
 #, fuzzy
 msgid "IDS_SIGNAL_TYPE_4_SIMPLE_SUMMARY_TOOLTIP"
-msgstr "Снаряжение"
+msgstr "消耗品"
 
 #, fuzzy
 msgid "IDS_SIGN_MINUS"
@@ -10579,15 +9384,15 @@ msgstr "ОБНАРУЖЕН"
 
 #, fuzzy
 msgid "IDS_SOUND_MOD_MISIDE_MITA_MISIDE"
-msgstr "Мита"
+msgstr "Mita"
 
 #, fuzzy
 msgid "IDS_SOUND_MOD_OTVINTA_BONUS_OTVINTA"
-msgstr "Бонус"
+msgstr "ボーナス"
 
 #, fuzzy
 msgid "IDS_SOUND_MOD_PUSHKINTALES_CHERNOMOR"
-msgstr "Черномор"
+msgstr "Chernomor"
 
 #, fuzzy
 msgid "IDS_SOUND_MOD_SMF_SMF_WOLF"
@@ -10651,7 +9456,7 @@ msgstr "Высокая скорость хода в надводном поло
 
 #, fuzzy
 msgid "IDS_SUBMARINE_SPEED_SURFACE_LOW"
-msgstr "Низкая скорость хода в надводном положении"
+msgstr "水上では低速"
 
 #, fuzzy
 msgid "IDS_SUBST_BATTLEPASS_CURRENT_LEVEL"
@@ -10663,15 +9468,15 @@ msgstr "Получены контейнеры"
 
 #, fuzzy
 msgid "IDS_SYS_MSG_CAMPAIGNS_FINAL_TASK_ENABLED"
-msgstr "Финальное задание миссии доступно"
+msgstr "最終タスク миссии доступно"
 
 #, fuzzy
 msgid "IDS_SYS_MSG_ECOBOOST"
-msgstr "Экономические бонусы"
+msgstr "エコノミーボーナス"
 
 #, fuzzy
 msgid "IDS_SYS_MSG_FREE_BATTLEPASS_RECEIVED"
-msgstr "Получен Базовый боевой пропуск"
+msgstr "Получен 初期 боевой пропуск"
 
 #, fuzzy
 msgid "IDS_SYS_MSG_PAID_ENHANCED_BATTLEPASS_BOUGHT"
@@ -10679,15 +9484,15 @@ msgstr "Куплен Улучшенный боевой пропуск + сез�
 
 #, fuzzy
 msgid "IDS_SYS_MSG_RANK_REMAINING_REWARDS"
-msgstr "Награды пройденной лиги"
+msgstr "褒賞 пройденной лиги"
 
 #, fuzzy
 msgid "IDS_SYS_MSG_SIGNAL"
-msgstr "Сигналы"
+msgstr "信号旗"
 
 #, fuzzy
 msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARD_CLAIM"
-msgstr "Награды события"
+msgstr "褒賞 события"
 
 #, fuzzy
 msgid "IDS_TALENT_PJW461_ACHIEVEMENT_8_20_21"
@@ -10715,51 +9520,51 @@ msgstr "Сводка"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_0"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_1"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_2"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_3"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_BAG_0"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_BAG_1"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CHRISTMAS_TREE_0"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CHRISTMAS_TREE_3"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL_1"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE_0"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE_1"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE_3"
-msgstr "Матрос"
+msgstr "水兵"
 
 #, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_ALBOM_0"
@@ -10819,7 +9624,7 @@ msgstr "Ракеты"
 
 #, fuzzy
 msgid "IDS_THIRD_TMSUBCOLLECTION_NAME"
-msgstr "Особенности геймплея"
+msgstr "特徴 геймплея"
 
 #, fuzzy
 msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_TOURNAMENT"
@@ -10827,15 +9632,15 @@ msgstr "Выберите корабль, подходящий по уровню
 
 #, fuzzy
 msgid "IDS_TIPS_MODULES"
-msgstr "Модули"
+msgstr "モジュール"
 
 #, fuzzy
 msgid "IDS_TITLE_PCM073_ADDITIONALCONSUMABLECV_MOD_I"
-msgstr "Снаряжение эскадрильи Модификация 1"
+msgstr "中隊消耗品 Модификация 1"
 
 #, fuzzy
 msgid "IDS_TITLE_PCM112_T11_SS_SUPGRADE_MOD_III"
-msgstr "Сонар Модификация 2"
+msgstr "ソナー Модификация 2"
 
 #, fuzzy
 msgid "IDS_TITLE_PCM113_MAINGUN_MOD_I"
@@ -10867,7 +9672,7 @@ msgstr "Edward Turner"
 
 #, fuzzy
 msgid "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_SEAMINE"
-msgstr "Эскадрилья"
+msgstr "中隊"
 
 #, fuzzy
 msgid "IDS_TOOLTIP_CHARS_LEFT"
@@ -10919,7 +9724,7 @@ msgstr "Низкая заметность торпед"
 
 #, fuzzy
 msgid "IDS_TRIALS_BRIEFING_COMMON"
-msgstr "Брифинг"
+msgstr "ブリーフィング"
 
 #, fuzzy
 msgid "IDS_TRIALS_MULTIPLIERS_LEGEND"
@@ -10927,11 +9732,11 @@ msgstr "Условные обозначения"
 
 #, fuzzy
 msgid "IDS_TRIALS_OBJECTIVE_COMMON"
-msgstr "Задача"
+msgstr "ミッション"
 
 #, fuzzy
 msgid "IDS_TTX_WIDGET_COMMON_TITLE_ECOBOOST"
-msgstr "Экономические бонусы"
+msgstr "エコノミーボーナス"
 
 #, fuzzy
 msgid "IDS_TTX_WIDGET_COMMON_TITLE_MODERNIZATION"
@@ -10939,11 +9744,11 @@ msgstr "Модернизации"
 
 #, fuzzy
 msgid "IDS_TTX_WIDGET_COMMON_TITLE_SIGNAL"
-msgstr "Сигналы"
+msgstr "信号旗"
 
 #, fuzzy
 msgid "IDS_UNCOMMON_CREW_STATUS"
-msgstr "Особый командир"
+msgstr "特別 艦長"
 
 #, fuzzy
 msgid "IDS_UNINSTALL_ALL_SIGNALS"
@@ -10975,13 +9780,13 @@ msgstr ""
 msgid "IDS_UNLOCKS_LEVEL_UP_31292101"
 msgstr ""
 "Вам стали доступны\n"
-"<h3>Кооперативные бои</h3>"
+"<h3>Co-op 戦</h3>"
 
 #, fuzzy
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
 msgstr ""
 "<body>Вам стал доступен\n"
-"<h3>Свободный опыт</h3></body>"
+"<h3>フリー EXP</h3></body>"
 
 #, fuzzy
 msgid "IDS_UNLOCKS_LEVEL_UP_6"
@@ -10993,7 +9798,7 @@ msgstr ""
 msgid "IDS_UNLOCKS_LEVEL_UP_7"
 msgstr ""
 "<body>Вам стало доступно\n"
-"<h3>Адмиралтейство</h3></body>"
+"<h3>武器庫</h3></body>"
 
 #, fuzzy
 msgid "IDS_UNLOCKS_TITLE_2015"
@@ -11001,11 +9806,11 @@ msgstr "Внешний вид"
 
 #, fuzzy
 msgid "IDS_UNLOCKS_TITLE_31292101"
-msgstr "Кооперативные бои"
+msgstr "Co-op 戦"
 
 #, fuzzy
 msgid "IDS_UNLOCKS_TITLE_5"
-msgstr "Свободный опыт"
+msgstr "フリー EXP"
 
 #, fuzzy
 msgid "IDS_UNLOCKS_TITLE_6"
@@ -11013,7 +9818,7 @@ msgstr "Контейнеры"
 
 #, fuzzy
 msgid "IDS_UNLOCKS_TITLE_7"
-msgstr "Адмиралтейство"
+msgstr "武器庫"
 
 #, fuzzy
 msgid "IDS_USA_GENITIVE"
@@ -11045,7 +9850,7 @@ msgstr "Высокая заметность"
 
 #, fuzzy
 msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_HEADER"
-msgstr "Брифинг"
+msgstr "ブリーフィング"
 
 #, fuzzy
 msgid "IDS_WT_BUREAU_CARD_BUTTON_PURCHASE"

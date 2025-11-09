@@ -1,6 +1,17 @@
 #
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.6\n"
 
 #, fuzzy
 msgid "IDS_ABUSE_REASON_GRIEFER"
@@ -194,8 +205,7 @@ msgstr "Постоянные камуфляжи"
 
 #, fuzzy
 msgid "IDS_GUIDING_TIP_20_DESC"
-msgstr ""
-"Установите на корабль сигналы, чтобы улучшить его боевые характеристики."
+msgstr "Установите на корабль сигналы, чтобы улучшить его боевые характеристики."
 
 #, fuzzy
 msgid "IDS_GUIDING_TIP_22_HEADER"
@@ -367,63 +377,43 @@ msgstr "Вы назначены Ключевой целью"
 
 #, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_34"
-msgstr ""
-"Автопилот: удерживая [KEY_SHIFT], вы можете задать до пяти точек назначения "
-"на тактической карте."
+msgstr "Автопилот: удерживая [KEY_SHIFT], вы можете задать до пяти точек назначения на тактической карте."
 
 #, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_35"
-msgstr ""
-"Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком "
-"близко к суше, вы рискуете сесть на мель."
+msgstr "Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком близко к суше, вы рискуете сесть на мель."
 
 #, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_50"
-msgstr ""
-"Автопилот: удерживая [KEY_SHIFT], вы можете задать до пяти точек назначения "
-"на тактической карте."
+msgstr "Автопилот: удерживая [KEY_SHIFT], вы можете задать до пяти точек назначения на тактической карте."
 
 #, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_51"
-msgstr ""
-"Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком "
-"близко к суше, вы рискуете сесть на мель."
+msgstr "Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком близко к суше, вы рискуете сесть на мель."
 
 #, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_48"
-msgstr ""
-"Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком "
-"близко к суше, вы рискуете сесть на мель."
+msgstr "Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком близко к суше, вы рискуете сесть на мель."
 
 #, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_49"
-msgstr ""
-"Окружность вокруг вашего корабля на мини-карте обозначает дальность действия"
-" выбранного вооружения."
+msgstr "Окружность вокруг вашего корабля на мини-карте обозначает дальность действия выбранного вооружения."
 
 #, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_34"
-msgstr ""
-"Автопилот: удерживая [KEY_SHIFT], вы можете задать до пяти точек назначения "
-"на тактической карте."
+msgstr "Автопилот: удерживая [KEY_SHIFT], вы можете задать до пяти точек назначения на тактической карте."
 
 #, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_35"
-msgstr ""
-"Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком "
-"близко к суше, вы рискуете сесть на мель."
+msgstr "Подводная часть корабля по размеру сопоставима с надводной. Проходя слишком близко к суше, вы рискуете сесть на мель."
 
 #, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_36"
-msgstr ""
-"Бронебойные (ББ) снаряды неэффективны против слабо бронированных кораблей. "
-"Снаряды пробьют корабль насквозь, не нанеся ощутимого урона."
+msgstr "Бронебойные (ББ) снаряды неэффективны против слабо бронированных кораблей. Снаряды пробьют корабль насквозь, не нанеся ощутимого урона."
 
 #, fuzzy
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_37"
-msgstr ""
-"Окружность вокруг вашего корабля на мини-карте обозначает дальность действия"
-" выбранного вооружения."
+msgstr "Окружность вокруг вашего корабля на мини-карте обозначает дальность действия выбранного вооружения."
 
 #, fuzzy
 msgid "IDS_LOOTBOX_GOT"
@@ -451,9 +441,7 @@ msgstr "Условия участия"
 
 #, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE017_RULES_PARAGRAPH_1_TEXT_2"
-msgstr ""
-"Команда сопровождения должна провести хотя бы один транспорт к точке "
-"назначения или уничтожить все корабли команды атаки."
+msgstr "Команда сопровождения должна провести хотя бы один транспорт к точке назначения или уничтожить все корабли команды атаки."
 
 #, fuzzy
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_1_HEADER"
@@ -473,9 +461,7 @@ msgstr "Задачи"
 
 #, fuzzy
 msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr ""
-"Вам предстоит сразиться вместе с другими игроками в битве между двумя "
-"командами."
+msgstr "Вам предстоит сразиться вместе с другими игроками в битве между двумя командами."
 
 #, fuzzy
 msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_4_HEADER"
@@ -601,9 +587,7 @@ msgstr "Torpedo Mk.13-2"
 
 #, fuzzy
 msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_2"
-msgstr ""
-"Привязанные экономические комплекты и постоянные камуфляжи останутся "
-"доступны на кораблях, когда вы их снова исследуете."
+msgstr "Привязанные экономические комплекты и постоянные камуфляжи останутся доступны на кораблях, когда вы их снова исследуете."
 
 #, fuzzy
 msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_3"
@@ -2376,11 +2360,7 @@ msgstr "53-38У"
 
 #, fuzzy
 msgid "IDS_PRSA598_DESCR"
-msgstr ""
-"Дальнейшая разработка авианосца по проекту 71 продолжилась в рамках проекта "
-"«большого авианосца» с индексом 71Б. Корабль позволял бы главным силам флота"
-" оперативно использовать авиацию в открытом море и у берегов в отдалённых "
-"от баз районах. Проект не был реализован из-за начала Второй мировой войны."
+msgstr "Дальнейшая разработка авианосца по проекту 71 продолжилась в рамках проекта «большого авианосца» с индексом 71Б. Корабль позволял бы главным силам флота оперативно использовать авиацию в открытом море и у берегов в отдалённых от баз районах. Проект не был реализован из-за начала Второй мировой войны."
 
 #, fuzzy
 msgid "IDS_PRSB709_FULL"
@@ -2835,63 +2815,51 @@ msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_TITLE_FULL"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Особый корабль X уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Премиум корабль VIII–IX уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "VIII–IX уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Корабль VI–VIII уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "VI–VIII уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Корабль IX–X уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "IX–X уровень"
 
 #, fuzzy
@@ -2899,13 +2867,11 @@ msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_TITLE_FULL"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль VI–VIII уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Корабль IX–X уровня"
 
 #, fuzzy
@@ -2913,23 +2879,19 @@ msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_TITLE_FULL"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Корабль IX уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "IX уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Корабль VI–VIII уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "VI–VIII уровень"
 
 #, fuzzy
@@ -2937,8 +2899,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Корабль"
 
 #, fuzzy
@@ -2950,23 +2911,19 @@ msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Корабль"
 
 #, fuzzy
@@ -2974,43 +2931,35 @@ msgid "IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_TITLE_FULL"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Корабль VIII–IX уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "V уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Корабль X уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Корабль IX–X уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "IX–X уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Корабль VII–VIII уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "VII–VIII уровень"
 
 #, fuzzy
@@ -3018,53 +2967,43 @@ msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_TITLE_FULL"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Корабль IX–X уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "IX–X уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Корабль VII–VIII уровня"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "VII–VIII уровень"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL144_JUTLAND0110_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL144_JUTLAND0110_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Постоянный камуфляж или премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL152_UK_PSHIPS_0117_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL152_UK_PSHIPS_0117_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Особый или премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL162_GOLDEN_WEEK_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL162_GOLDEN_WEEK_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Особый или премиум корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL163_GOLDEN_WEEK_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL163_GOLDEN_WEEK_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Особый или премиум корабль"
 
 #, fuzzy
@@ -3076,8 +3015,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_TITLE_FULL"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Особый или премиум корабль"
 
 #, fuzzy
@@ -3085,8 +3023,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_TITLE_FULL"
 msgstr "Корабль"
 
 #, fuzzy
-msgid ""
-"IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgid "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Особый или премиум корабль"
 
 #, fuzzy
@@ -3327,9 +3264,7 @@ msgstr "Авиационный дымогенератор"
 
 #, fuzzy
 msgid "IDS_TIPS_PLANE_SMOKES_DESCRIPTION"
-msgstr ""
-"Создаёт дымовую завесу, уменьшающую вероятность обнаружения противником "
-"союзных кораблей."
+msgstr "Создаёт дымовую завесу, уменьшающую вероятность обнаружения противником союзных кораблей."
 
 #, fuzzy
 msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE"

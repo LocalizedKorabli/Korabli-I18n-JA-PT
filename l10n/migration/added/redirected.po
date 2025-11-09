@@ -1504,7 +1504,7 @@ msgid "IDS_DOGTAG_PCNB374_NAME"
 msgstr "東雲"
 
 msgid "IDS_DOGTAG_PCNB375_NAME"
-msgstr "World of Military Machines"
+msgstr "軍事技術の世界"
 
 msgid "IDS_DOGTAG_PCNB377_DESCRIPTION"
 msgstr "14 世紀初頭、ナポリ王国がアンジュー王朝の統治下にあったとき、ナポリの街は金と赤の組み合わせで象徴されるようになりました。1866年、ナポリの紋章に描かれた盾には、「市の独立」の紋章である小塔のある市の王冠が刻印されました。"
@@ -1623,11 +1623,9 @@ msgstr "次を交換:"
 msgid "IDS_EXCHANGE_ARROW_TEXT"
 msgstr "次を交換:"
 
-#, fuzzy
 msgid "IDS_EXCHANGE_ECOBOOSTS_TAB"
 msgstr "エコノミーボーナス"
 
-#, fuzzy
 msgid "IDS_EXCHANGE_SIGNALS_TAB"
 msgstr "信号旗"
 
@@ -1671,7 +1669,7 @@ msgid "IDS_FEAT_BAD_SAP_ONLY"
 msgstr "SAP 弾のみを使用可能"
 
 msgid "IDS_FEAT_BAD_SURFACESPEED"
-msgstr "水上では低速"
+msgstr "水上での最高速度が低い"
 
 msgid "IDS_FEAT_BAD_WAVE_DURATION"
 msgstr "セクターに対するピンガーの効果時間が短い"
@@ -2998,6608 +2996,4940 @@ msgstr "533 mm Mk IX**"
 msgid "IDS_PBUT808_TORP_MITA"
 msgstr "533 mm Mk IXM"
 
-#, fuzzy
 msgid "IDS_PCEC017_CAMO_MK_BIRTHDAY_TILE"
-msgstr "Фетида"
+msgstr "テティス"
 
-#, fuzzy
 msgid "IDS_PCEC065_FEST_2018"
-msgstr "Тлеющий огонь"
+msgstr "燻煙"
 
-#, fuzzy
 msgid "IDS_PCEC140_SPACEDAY_BRO"
-msgstr "Космический кадет"
+msgstr "宇宙の士官候補生"
 
-#, fuzzy
 msgid "IDS_PCEC990_TRIALS_BUDENY"
-msgstr "Мишень"
+msgstr "標的"
 
-#, fuzzy
 msgid "IDS_PCEC991_TRIALS_PYOTR_VELIKIY"
-msgstr "Мишень"
+msgstr "標的"
 
-#, fuzzy
 msgid "IDS_PCEC993_TRIALS_SENYAVIN"
-msgstr "Мишень"
+msgstr "標的"
 
-#, fuzzy
 msgid "IDS_PCEC994_TRIALS_OMAHA"
-msgstr "Мишень"
+msgstr "標的"
 
-#, fuzzy
 msgid "IDS_PCEE022_FLAG_LESTA"
-msgstr "Цикл разработки"
+msgstr "開発サイクル"
 
-#, fuzzy
 msgid "IDS_PCEE022_FLAG_LESTA_DESCRIPTION"
-msgstr "Вся наша жизнь — игра."
+msgstr "人生とはゲームそのものです。"
 
-#, fuzzy
 msgid "IDS_PCEE120_SUMMER_FEST_2017_EXTRA_DESCRIPTION"
-msgstr "Спасибо за приверженность нашим играм! Надеемся, они всегда будут приносить вам удовольствие."
+msgstr "いつもプレイしてくださりありがとうございます! これからも海戦で勝利を重ねましょう!"
 
-#, fuzzy
 msgid "IDS_PCEE222_FEST_2018_FLAG"
-msgstr "Дал жару!"
+msgstr "激戦をもたらした!"
 
-#, fuzzy
 msgid "IDS_PCEE560_MK_MT_FLAG"
-msgstr "World of Military Machines"
+msgstr "軍事技術の世界"
 
-#, fuzzy
 msgid "IDS_PCEE632_USSR_SS_EA_FLAG"
-msgstr "潜水艦 СССР"
+msgstr "ソ連潜水艦"
 
-#, fuzzy
 msgid "IDS_PCEE645_TSARMOREY2023_FLAG"
 msgstr "Chernomor"
 
-#, fuzzy
 msgid "IDS_PCEE658_12_MONTHS_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь празднования Нового года."
+msgstr "新年を祝して。"
 
-#, fuzzy
 msgid "IDS_PCEE674_NIKOLAY_I_FLAG"
-msgstr "Император Николай I"
+msgstr "Imperator Nikolai I"
 
-#, fuzzy
 msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода ослепительно ярких кораблей."
+msgstr "まばゆいばかりの艦艇のリリースを記念して。"
 
-#, fuzzy
 msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода ослепительно ярких кораблей."
+msgstr "まばゆいばかりの艦艇のリリースを記念して。"
 
-#, fuzzy
 msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода ослепительно ярких кораблей."
+msgstr "まばゆいばかりの艦艇のリリースを記念して。"
 
-#, fuzzy
 msgid "IDS_PCEE692_USA_DD_EA_FLAG"
-msgstr "Эсминцы США"
+msgstr "アメリカ駆逐艦"
 
-#, fuzzy
 msgid "IDS_PCEE693_PIORUN_FLAG"
 msgstr "ORP Piorun"
 
-#, fuzzy
 msgid "IDS_PCEE700_BLACK_AZUMA_FLAG"
-msgstr "Azuma B"
+msgstr "吾妻 B"
 
-#, fuzzy
 msgid "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEE704_MOLOTOV_FLAG"
-msgstr "Молотов"
+msgstr "Molotov"
 
-#, fuzzy
 msgid "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEE709_SURCOUF_FLAG"
 msgstr "Surcouf"
 
-#, fuzzy
 msgid "IDS_PCEE711_Z_32_FLAG"
 msgstr "Z-32"
 
-#, fuzzy
 msgid "IDS_PCEE712_Z_33_FLAG"
 msgstr "Z-33"
 
-#, fuzzy
 msgid "IDS_PCEE713_Z_38_FLAG"
 msgstr "Z-38"
 
-#, fuzzy
 msgid "IDS_PCEE714_SHINANO_FLAG"
-msgstr "Shinano"
+msgstr "信濃"
 
-#, fuzzy
 msgid "IDS_PCEE715_ARCHERFISH_FLAG"
 msgstr "USS Archerfish"
 
-#, fuzzy
 msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG"
-msgstr "Линкоры Пан-Азии"
+msgstr "パンアジア戦艦"
 
-#, fuzzy
 msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода ослепительно ярких кораблей."
+msgstr "まばゆいばかりの艦艇のリリースを記念して。"
 
-#, fuzzy
 msgid "IDS_PCEE736_YAMATO_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода ослепительно ярких кораблей."
+msgstr "まばゆいばかりの艦艇のリリースを記念して。"
 
-#, fuzzy
 msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода ослепительно ярких кораблей."
+msgstr "まばゆいばかりの艦艇のリリースを記念して。"
 
-#, fuzzy
 msgid "IDS_PCEE743_THESEUS_FLAG"
 msgstr "HMS Theseus"
 
-#, fuzzy
 msgid "IDS_PCEE744_OGNEVOY_FLAG"
-msgstr "Огневой"
+msgstr "Ognevoi"
 
-#, fuzzy
 msgid "IDS_PCEE747_ROYAL_SOVEREIGN_FLAG"
 msgstr "HMS Royal Sovereign"
 
-#, fuzzy
 msgid "IDS_PCEE748_MITA_FLAG"
 msgstr "Mita"
 
-#, fuzzy
 msgid "IDS_PCEE752_FORBIN_FLAG"
 msgstr "Forbin"
 
-#, fuzzy
 msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG"
-msgstr "Итальянские крейсеры"
+msgstr "イタリア巡洋艦"
 
-#, fuzzy
 msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEE766_BRISBANE_B_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEE767_JAGER_B_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEE768_GASCOGNE_B_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEE770_HORNET_B_FLAG_DESCRIPTION"
-msgstr "Чёрная пятница (Black Friday) — день, когда во многих странах мира официально открываются зимние распродажи."
+msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
-#, fuzzy
 msgid "IDS_PCEF151_SHIFT_SIGNALFLAG_1"
 msgstr "Charlie"
 
-#, fuzzy
 msgid "IDS_PCEF152_SHIFT_SIGNALFLAG_2"
 msgstr "Charlie"
 
-#, fuzzy
 msgid "IDS_PCEF153_SHIFT_SIGNALFLAG_3"
 msgstr "Charlie"
 
-#, fuzzy
 msgid "IDS_PCEF154_SHIFT_SIGNALFLAG_4"
 msgstr "Charlie"
 
-#, fuzzy
 msgid "IDS_PCEM022_STEEL_8LVL"
-msgstr "Стальной"
+msgstr "鋼鉄製"
 
-#, fuzzy
 msgid "IDS_PCEM023_STEEL_9LVL"
-msgstr "Стальной"
+msgstr "鋼鉄製"
 
-#, fuzzy
 msgid "IDS_PCEM024_STEEL_11LVL"
-msgstr "Стальной"
+msgstr "鋼鉄製"
 
-#, fuzzy
 msgid "IDS_PCQC005_BISMARCK_TOKEN"
 msgstr "ビスマルク追撃戦"
 
-#, fuzzy
 msgid "IDS_PCQC006_YAMAMOTO_TITLE_QUOTES"
-msgstr "«Ямамото Исороку»"
+msgstr "山本五十六"
 
-#, fuzzy
 msgid "IDS_PCQC010_HALSEY_TITLE_QUOTES"
-msgstr "«Бей сильно! Бей быстро! Бей часто!»"
+msgstr "\"Hit Hard! Hit Fast! Hit Often!\""
 
-#, fuzzy
 msgid "IDS_PCQC014_EPOCHSOFSHIPS_TITLE_QUOTES"
-msgstr "«Пять эпох флота»"
+msgstr "海軍の五つの時代"
 
-#, fuzzy
 msgid "IDS_PCQT696_1"
-msgstr "Обеспечьте нанесение %(count)s ед. урона по вашим разведданным."
+msgstr "観測によって %(count)s HP のダメージをアシストする。"
 
-#, fuzzy
 msgid "IDS_PCQT701_1"
 msgid_plural "IDS_PCQT701_1"
-msgstr[0] "Получите %(count)s ленту «Уничтожил»."
-msgstr[1] ""
+msgstr[0] "「撃沈」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT702_1"
-msgstr "Получите %(count)s ед. потенциального урона."
+msgstr "%(count)s HP の潜在ダメージを受ける。"
 
-#, fuzzy
 msgid "IDS_PCQT703_1"
 msgid_plural "IDS_PCQT703_1"
-msgstr[0] "Получите %(count)s любое достижение."
-msgstr[1] ""
+msgstr[0] "任意の実績を %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT704_1"
 msgid_plural "IDS_PCQT704_1"
-msgstr[0] "Получите %(count)s любую ленту."
-msgstr[1] ""
+msgstr[0] "任意のリボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT709_1"
 msgid_plural "IDS_PCQT709_1"
-msgstr[0] "Получите %(count)s героическое достижение."
-msgstr[1] ""
+msgstr[0] "英雄勲章を %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT711_1"
-msgstr "Получите %(count)s ед. потенциального урона."
+msgstr "%(count)s HP の潜在ダメージを受ける。"
 
-#, fuzzy
 msgid "IDS_PCQT716_1"
 msgid_plural "IDS_PCQT716_1"
-msgstr[0] "Получите %(count)s ленту «Уничтожил»."
-msgstr[1] ""
+msgstr[0] "「撃沈」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT717_1"
-msgstr "Обеспечьте нанесение %(count)s ед. урона по вашим разведданным."
+msgstr "観測によって %(count)s HP のダメージをアシストする。"
 
-#, fuzzy
 msgid "IDS_PCQT718_1"
-msgstr "Получите %(count)s ед. потенциального урона."
+msgstr "%(count)s HP の潜在ダメージを受ける。"
 
-#, fuzzy
 msgid "IDS_PCQT720_1"
 msgid_plural "IDS_PCQT720_1"
-msgstr[0] "Получите %(count)s любое достижение."
-msgstr[1] ""
+msgstr[0] "任意の実績を %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT721_1"
 msgid_plural "IDS_PCQT721_1"
-msgstr[0] "Получите %(count)s любую ленту."
-msgstr[1] ""
+msgstr[0] "任意のリボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT725_1"
-msgstr "Получите %(count)s ед. потенциального урона."
+msgstr "%(count)s HP の潜在ダメージを受ける。"
 
-#, fuzzy
 msgid "IDS_PCQT726_1"
 msgid_plural "IDS_PCQT726_1"
-msgstr[0] "Получите %(count)s ленту «Уничтожил»."
-msgstr[1] ""
+msgstr[0] "「撃沈」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT727_1"
 msgid_plural "IDS_PCQT727_1"
-msgstr[0] "Получите %(count)s героическое достижение."
-msgstr[1] ""
+msgstr[0] "英雄勲章を %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT729_1"
 msgid_plural "IDS_PCQT729_1"
-msgstr[0] "Получите %(count)s любую ленту."
-msgstr[1] ""
+msgstr[0] "任意のリボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT733_1"
 msgid_plural "IDS_PCQT733_1"
-msgstr[0] "Получите %(count)s ленту «Поджёг» или «Затопил»."
-msgstr[1] ""
+msgstr[0] "「火災を発生させた」または「浸水を発生させた」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT737_1"
 msgid_plural "IDS_PCQT737_1"
-msgstr[0] "Войдите в топ-5 своей команды по количеству заработанного опыта %(count)s раз."
-msgstr[1] ""
+msgstr[0] "取得 EXP でチーム内 TOP 5 を %(count)s 回達成する。"
 
-#, fuzzy
 msgid "IDS_PCQT738_1"
 msgid_plural "IDS_PCQT738_1"
-msgstr[0] "Получите %(count)s любую ленту."
-msgstr[1] ""
+msgstr[0] "任意のリボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT741_1"
 msgid_plural "IDS_PCQT741_1"
-msgstr[0] "Получите %(count)s любую ленту."
-msgstr[1] ""
+msgstr[0] "任意のリボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT745_1"
 msgid_plural "IDS_PCQT745_1"
-msgstr[0] "Получите %(count)s любое достижение."
-msgstr[1] ""
+msgstr[0] "任意の実績を %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT746_1"
 msgid_plural "IDS_PCQT746_1"
-msgstr[0] "Получите %(count)s ленту «Уничтожил»."
-msgstr[1] ""
+msgstr[0] "「撃沈」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT749_1"
 msgid_plural "IDS_PCQT749_1"
-msgstr[0] "Первым обнаружьте %(count)s торпеду."
-msgstr[1] ""
+msgstr[0] "最初に魚雷を %(count)s 本発見する。"
 
-#, fuzzy
 msgid "IDS_PCQT751_1"
-msgstr "Получите %(count)s ед. потенциального урона."
+msgstr "%(count)s HP の潜在ダメージを受ける。"
 
-#, fuzzy
 msgid "IDS_PCQT752_1"
 msgid_plural "IDS_PCQT752_1"
-msgstr[0] "Получите %(count)s ленту «Поджёг»."
-msgstr[1] ""
+msgstr[0] "「火災を発生させた」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT753_1"
-msgstr "Обеспечьте нанесение %(count)s ед. урона по вашим разведданным."
+msgstr "観測によって %(count)s HP のダメージをアシストする。"
 
-#, fuzzy
 msgid "IDS_PCQT754_1"
 msgid_plural "IDS_PCQT754_1"
-msgstr[0] "Получите %(count)s любую ленту."
-msgstr[1] ""
+msgstr[0] "任意のリボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT755_1"
 msgid_plural "IDS_PCQT755_1"
-msgstr[0] "Войдите в топ-3 своей команды по количеству заработанного опыта %(count)s раз."
-msgstr[1] ""
+msgstr[0] "取得 EXP でチーム内 TOP 3 を %(count)s 回達成する。"
 
-#, fuzzy
 msgid "IDS_PCQT756_1"
 msgid_plural "IDS_PCQT756_1"
-msgstr[0] "Получите %(count)s любое достижение."
-msgstr[1] ""
+msgstr[0] "任意の実績を %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT757_1"
 msgid_plural "IDS_PCQT757_1"
-msgstr[0] "Получите %(count)s ленту «Уничтожил»."
-msgstr[1] ""
+msgstr[0] "「撃沈」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT759_1"
 msgid_plural "IDS_PCQT759_1"
-msgstr[0] "Получите %(count)s ленту «Обнаружил»."
-msgstr[1] ""
+msgstr[0] "「発見」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT760_1"
 msgid_plural "IDS_PCQT760_1"
-msgstr[0] "Получите %(count)s ленту «Уничтожил»."
-msgstr[1] ""
+msgstr[0] "「撃沈」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT762_1"
 msgid_plural "IDS_PCQT762_1"
-msgstr[0] "Получите %(count)s ленту «Уничтожил»."
-msgstr[1] ""
+msgstr[0] "「撃沈」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT765_1"
 msgid_plural "IDS_PCQT765_1"
-msgstr[0] "Получите %(count)s героическое достижение."
-msgstr[1] ""
+msgstr[0] "英雄勲章を %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT767_1"
-msgstr "Получите %(count)s ед. потенциального урона."
+msgstr "%(count)s HP の潜在ダメージを受ける。"
 
-#, fuzzy
 msgid "IDS_PCQT769_1"
 msgid_plural "IDS_PCQT769_1"
-msgstr[0] "Получите %(count)s любую ленту."
-msgstr[1] ""
+msgstr[0] "任意のリボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT771_1"
 msgid_plural "IDS_PCQT771_1"
-msgstr[0] "Войдите в топ-5 своей команды по количеству заработанного опыта %(count)s раз."
-msgstr[1] ""
+msgstr[0] "取得 EXP でチーム内 TOP 5 を %(count)s 回達成する。"
 
-#, fuzzy
 msgid "IDS_PCQT772_1"
 msgid_plural "IDS_PCQT772_1"
-msgstr[0] "Получите %(count)s ленту «Попал в цитадель»."
-msgstr[1] ""
+msgstr[0] "「防郭への命中」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT773_1"
-msgstr "Получите %(count)s ед. потенциального урона."
+msgstr "%(count)s HP の潜在ダメージを受ける。"
 
-#, fuzzy
 msgid "IDS_PCQT776_1"
 msgid_plural "IDS_PCQT776_1"
-msgstr[0] "Обеспечьте нанесение %(count)s ед. урона по вашим разведданным."
-msgstr[1] ""
+msgstr[0] "観測によって %(count)s HP のダメージをアシストする。"
 
-#, fuzzy
 msgid "IDS_PCQT777_1"
 msgid_plural "IDS_PCQT777_1"
-msgstr[0] "Получите %(count)s любое достижение."
-msgstr[1] ""
+msgstr[0] "任意の実績を %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCQT778_1"
 msgid_plural "IDS_PCQT778_1"
-msgstr[0] "Получите %(count)s ленту «Уничтожил»."
-msgstr[1] ""
+msgstr[0] "「撃沈」リボンを %(count)s 個取得する。"
 
-#, fuzzy
 msgid "IDS_PCVE026"
 msgstr "隠密作戦"
 
-#, fuzzy
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_PVE_TOOLTIP_GOAL"
-msgstr "Отбить союзные транспорты и обеспечить им защиту на всём маршруте следования."
+msgstr "味方艦艇を奪還し、目的地まで護衛せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO002_OP_01_02_S01_NAVALBASE_PVE_TOOLTIP_GOAL"
-msgstr "Разрушить базу противника и уйти по указанному разведкой маршруту."
+msgstr "敵基地を撃破し、指定された方向に離脱せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO003_OP_01_03_S03_LABYRINTH_PVE_TOOLTIP_GOAL"
-msgstr "Сопроводите суда обеспечения к авианосцу «Раптор». Выведите авианосец из зоны боевых действий."
+msgstr "支援船団を空母 Raptor まで護衛せよ。空母が戦闘海域から離脱するまで護衛せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO004_OP_01_04_S02_NAVAL_DEFENSE_PVE_TOOLTIP_GOAL"
-msgstr "Защитить базу: не допустить уничтожения ключевых сооружений и судов обеспечения. Продержаться до подхода союзной ударной эскадры."
+msgstr "基地を防衛し、重要な陸上施設や支援船群を守れ。味方の攻撃隊が到着するまで持ちこたえろ。"
 
-#, fuzzy
 msgid "IDS_PCVO005_OP_11_PVE_TOOLTIP_GOAL"
-msgstr "Потопить транспорты противника до прибытия подкрепления."
+msgstr "増援が到着する前に敵輸送船団を殲滅せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO008_OP_02_03_S07_ADVANCE_PVE_TOOLTIP_GOAL"
-msgstr "搭載 контроль над вражеской базой: прорвать оборону противника, провести десантные транспорты, очистив акваторию от сил противника."
+msgstr "敵の防衛網を突破し、全ての敵戦力を排除し、攻撃輸送艦隊を護衛して敵基地を占領せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO009_OP_02_02_S06_ATOLL_PVE_TOOLTIP_GOAL"
-msgstr "Защитить прибывающую на базу группу транспортных самолётов. Обеспечить оборону аэродрома, пока не закончится погрузка и самолёты не покинут базу."
+msgstr "基地に向かっている輸送機隊を支援し、避難が完了し輸送機隊が離脱するまで飛行場を防衛せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO011_OP_10_S10_USS_CL_PVE_TOOLTIP_GOAL"
-msgstr "Защитите высадившиеся полки морской пехоты. Найдите и уничтожьте аэродромы противника."
+msgstr "上陸したばかりの海兵連隊を防衛せよ。敵の飛行場を発見し、撃破せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO012_OP_02_04_S05_DUNKIRK_PVE_TOOLTIP_GOAL"
-msgstr "Обеспечьте эвакуацию союзных войск, окружённых под Дюнкерком."
+msgstr "ダンケルク付近で包囲されている連合軍兵士の撤退を支援せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO013_EV_HL_18_E04_HALLOWEEN_2018_PVE_TOOLTIP_GOAL"
-msgstr "Найдите «Распутина» в гавани «Чёрной обители» и окончательно его победите."
+msgstr "ブラックレア湾内で Rasputin を見つけ出し、完全に撃滅せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO017_EV_HL_18_E04_HALLOWEEN_2018_HARD_PVE_TOOLTIP_GOAL"
-msgstr "Найдите «Распутина» в гавани «Чёрной обители» и окончательно его победите."
+msgstr "ブラックレア湾内で Rasputin を見つけ出し、完全に撃滅せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO024_EV_HL_16_50_VANHELLSING_PVE_TOOLTIP_GOAL"
-msgstr "Сопроводите «Трансильванию» к Порталу."
+msgstr "Transylvania をポータルまで護衛せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO025_EV_HL_16_50_VANHELLSING_HARD_PVE_TOOLTIP_GOAL"
-msgstr "Сопроводите «Трансильванию» к Порталу."
+msgstr "Transylvania をポータルまで護衛せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO026_EV_HL_16_50_VANHELLSING_NIGHTMARE_PVE_TOOLTIP_GOAL"
-msgstr "Сопроводите «Трансильванию» к Порталу."
+msgstr "Transylvania をポータルまで護衛せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO027_EV_HL_17_E02_HALLOWEEN_2017_PVE_TOOLTIP_GOAL"
-msgstr "Защищайте Великие Башни, пока они не закроют Портал в иное измерение."
+msgstr "大いなる塔がポータルを失われた次元に封印するまで防衛せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO028_EV_HL_17_E02_HALLOWEEN_2017_HARD_PVE_TOOLTIP_GOAL"
-msgstr "Защищайте Великие Башни, пока они не закроют Портал в иное измерение."
+msgstr "大いなる塔がポータルを失われた次元に封印するまで防衛せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO029_EV_HL_17_E02_HALLOWEEN_2017_NIGHTMARE_PVE_TOOLTIP_GOAL"
-msgstr "Защищайте Великие Башни, пока они не закроют Портал в иное измерение."
+msgstr "大いなる塔がポータルを失われた次元に封印するまで防衛せよ。"
 
-#, fuzzy
 msgid "IDS_PCVO031_EV_HL_23_E02_HALLOWEEN_2023_PVE_TOOLTIP_GOAL"
-msgstr "Сопроводите «Трансильванию» к Порталу, чтобы уничтожить его."
+msgstr "Transylvania がポータルを完全に破壊することができるよう、本船をポータルまで護衛せよ。"
 
-#, fuzzy
 msgid "IDS_PCZA034_SCARLET_BIRTHDAY"
-msgstr "Во имя прогресса!"
+msgstr "進歩を享受せよ!"
 
-#, fuzzy
 msgid "IDS_PCZA035_JAP_BB_EA_DRAGONS"
-msgstr "Героическая схватка"
+msgstr "英雄の激突"
 
-#, fuzzy
 msgid "IDS_PCZA035_JAP_BB_EA_DRAGONS_QUOTES"
-msgstr "«Героическая схватка»"
+msgstr "「英雄の激突」"
 
-#, fuzzy
 msgid "IDS_PCZC091_MK_ECO"
-msgstr "Экономические реформы"
+msgstr "経済改革"
 
-#, fuzzy
 msgid "IDS_PCZC092_MK_BRIT"
-msgstr "Британское вторжение"
+msgstr "イギリス艦隊の進撃"
 
-#, fuzzy
 msgid "IDS_PCZC093_MK_LOOTBOX"
-msgstr "Доставка в день боя"
+msgstr "今日の褒賞をお届けします"
 
-#, fuzzy
 msgid "IDS_PCZC094_MK_HALLOWEEN"
-msgstr "Борьба света и тьмы"
+msgstr "闇と光の戦い"
 
-#, fuzzy
 msgid "IDS_PCZC095_MK_10CAMO"
-msgstr "Золотая краска"
+msgstr "ゴールド迷彩"
 
-#, fuzzy
 msgid "IDS_PCZC096_MK_ALTJAPAN"
-msgstr "Ниндзя!"
+msgstr "忍者!!"
 
-#, fuzzy
 msgid "IDS_PCZC097_MK_CAMPAIGN"
-msgstr "Время удивительных историй"
+msgstr "ミッション・ブリーフィング"
 
-#, fuzzy
 msgid "IDS_PCZC098_MK_GERMDESTR"
-msgstr "Охотники на охотников"
+msgstr "駆逐艦ハンター"
 
-#, fuzzy
 msgid "IDS_PCZC099_MK_ARPOFF"
-msgstr "Корабельные прелести"
+msgstr "美しき軍艦"
 
-#, fuzzy
 msgid "IDS_PCZC1000_BD25_PUZZLE_24"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1001_BD25_PUZZLE_25"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1002_BD25_PUZZLE_26"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1003_BD25_PUZZLE_27"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1004_BD25_PUZZLE_28"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1005_BD25_PUZZLE_29"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1006_BD25_PUZZLE_30"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1007_BD25_PUZZLE_31"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1008_BD25_PUZZLE_32"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1009_BD25_PUZZLE_33"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC100_MK_NYSPEE"
-msgstr "Бой курантов"
+msgstr "鈴の音"
 
-#, fuzzy
 msgid "IDS_PCZC1010_BD25_PUZZLE_34"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1011_BD25_PUZZLE_35"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1012_BD25_PUZZLE_36"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1013_BD25_PUZZLE_37"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1014_BD25_PUZZLE_38"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1015_BD25_PUZZLE_39"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1016_BD25_PUZZLE_40"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1017_BD25_PUZZLE_41"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1018_BD25_PUZZLE_42"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1019_BD25_PUZZLE_43"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC101_MK_CAPREWORK"
-msgstr "Время перемен"
+msgstr "変化の風"
 
-#, fuzzy
 msgid "IDS_PCZC1020_BD25_PUZZLE_44"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1021_BD25_PUZZLE_45"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1022_BD25_PUZZLE_46"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1023_BD25_PUZZLE_47"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1024_BD25_PUZZLE_48"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1025_BD25_PUZZLE_49"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1026_BD25_PUZZLE_50"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1027_BD25_PUZZLE_51"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1028_BD25_PUZZLE_52"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1029_BD25_PUZZLE_53"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC102_MK_SMOKERANK"
-msgstr "Дымлю где хочу"
+msgstr "俺は好きな場所で煙幕を展開する"
 
-#, fuzzy
 msgid "IDS_PCZC1030_BD25_PUZZLE_54"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1031_BD25_PUZZLE_55"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1032_BD25_PUZZLE_56"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1033_BD25_PUZZLE_57"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1034_BD25_PUZZLE_58"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1035_BD25_PUZZLE_59"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC1036_BD25_PUZZLE_60"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC103_MK_MORESOVIETDESTR"
-msgstr "Нужно больше эсминцев"
+msgstr "もっと駆逐艦が必要だ"
 
-#, fuzzy
 msgid "IDS_PCZC104_MK_FRENCHCRUISER"
-msgstr "Что дальше? アフターバーナー на линкорах?"
+msgstr "次は? エンジンブーストを戦艦にも搭載するの?"
 
-#, fuzzy
 msgid "IDS_PCZC105_MK_BISMARCK"
-msgstr "Старина Бисмарк"
+msgstr "マイティ・ビスマルク"
 
-#, fuzzy
 msgid "IDS_PCZC106_MK_BOTREVENGE"
-msgstr "Месть ботов"
+msgstr "ボットの逆襲"
 
-#, fuzzy
 msgid "IDS_PCZC420_TM_WINNER"
-msgstr "Победитель"
+msgstr "勝者"
 
-#, fuzzy
 msgid "IDS_PCZC421_TM_WAITING"
-msgstr "Вечно опаздывающий"
+msgstr "遅刻魔"
 
-#, fuzzy
 msgid "IDS_PCZC422_TM_DRAGMAN"
-msgstr "Тащер"
+msgstr "MVP"
 
-#, fuzzy
 msgid "IDS_PCZC423_TM_BUGMAN"
-msgstr "Человек-авария"
+msgstr "Mr. 技術的問題"
 
-#, fuzzy
 msgid "IDS_PCZC424_TM_ORGBOSS"
-msgstr "Организатор"
+msgstr "主催者"
 
-#, fuzzy
 msgid "IDS_PCZC425_TM_REFEREE1"
-msgstr "Строгий судья"
+msgstr "うるさい審判"
 
-#, fuzzy
 msgid "IDS_PCZC426_TM_REFEREE2"
-msgstr "Нежный судья"
+msgstr "寛大な審判"
 
-#, fuzzy
 msgid "IDS_PCZC427_TM_STREAMER"
-msgstr "Стример"
+msgstr "配信者"
 
-#, fuzzy
 msgid "IDS_PCZC428_TM_RAM"
-msgstr "Полный вперёд!"
+msgstr "全速で体当たり!"
 
-#, fuzzy
 msgid "IDS_PCZC429_TM_SMOKE"
-msgstr "Ползучие дымы"
+msgstr "破滅のカタツムリ"
 
-#, fuzzy
 msgid "IDS_PCZC430_TM_ISLAND"
-msgstr "Земля на горизонте!"
+msgstr "陸地だ!"
 
-#, fuzzy
 msgid "IDS_PCZC431_TM_DETONATION"
-msgstr "Удачный выстрел"
+msgstr "ラッキーショット"
 
-#, fuzzy
 msgid "IDS_PCZC432_TM_TORPEDOES"
-msgstr "Торпедный магнит"
+msgstr "魚雷磁石"
 
-#, fuzzy
 msgid "IDS_PCZC433_TM_BASE"
-msgstr "Осторожность превыше всего"
+msgstr "安全第一!"
 
-#, fuzzy
 msgid "IDS_PCZC434_TM_HINDEN"
-msgstr "Немецкий танк"
+msgstr "ドイツのタンク"
 
-#, fuzzy
 msgid "IDS_PCZC435_TM_HENRI"
-msgstr "Французский колорит"
+msgstr "フランス風味"
 
-#, fuzzy
 msgid "IDS_PCZC805_SCARLET_BIRTHDAY_2_1"
-msgstr "Михаил Орлов"
+msgstr "Mikhail Orlov"
 
-#, fuzzy
 msgid "IDS_PCZC823_JAP_BB_EA_DRAGONS_PUZZLE_01"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC824_JAP_BB_EA_DRAGONS_PUZZLE_02"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC825_JAP_BB_EA_DRAGONS_PUZZLE_03"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC826_JAP_BB_EA_DRAGONS_PUZZLE_04"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC827_JAP_BB_EA_DRAGONS_PUZZLE_05"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC828_JAP_BB_EA_DRAGONS_PUZZLE_06"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC829_JAP_BB_EA_DRAGONS_PUZZLE_07"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC830_JAP_BB_EA_DRAGONS_PUZZLE_08"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC831_JAP_BB_EA_DRAGONS_PUZZLE_09"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC832_JAP_BB_EA_DRAGONS_PUZZLE_10"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC833_JAP_BB_EA_DRAGONS_PUZZLE_11"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC834_JAP_BB_EA_DRAGONS_PUZZLE_12"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC835_JAP_BB_EA_DRAGONS_PUZZLE_13"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC836_JAP_BB_EA_DRAGONS_PUZZLE_14"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC837_JAP_BB_EA_DRAGONS_PUZZLE_15"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC838_JAP_BB_EA_DRAGONS_PUZZLE_16"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC839_JAP_BB_EA_DRAGONS_PUZZLE_17"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC840_JAP_BB_EA_DRAGONS_PUZZLE_18"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC841_JAP_BB_EA_DRAGONS_PUZZLE_19"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC842_JAP_BB_EA_DRAGONS_PUZZLE_20"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC843_JAP_BB_EA_DRAGONS_PUZZLE_21"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC844_JAP_BB_EA_DRAGONS_PUZZLE_22"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC845_JAP_BB_EA_DRAGONS_PUZZLE_23"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC846_JAP_BB_EA_DRAGONS_PUZZLE_24"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC847_JAP_BB_EA_DRAGONS_PUZZLE_25"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC848_JAP_BB_EA_DRAGONS_PUZZLE_26"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC849_JAP_BB_EA_DRAGONS_PUZZLE_27"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC850_JAP_BB_EA_DRAGONS_PUZZLE_28"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC851_JAP_BB_EA_DRAGONS_PUZZLE_29"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC852_JAP_BB_EA_DRAGONS_PUZZLE_30"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC853_JAP_BB_EA_DRAGONS_PUZZLE_31"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC854_JAP_BB_EA_DRAGONS_PUZZLE_32"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC855_JAP_BB_EA_DRAGONS_PUZZLE_33"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC856_JAP_BB_EA_DRAGONS_PUZZLE_34"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC857_JAP_BB_EA_DRAGONS_PUZZLE_35"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC858_JAP_BB_EA_DRAGONS_PUZZLE_36"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC859_JAP_BB_EA_DRAGONS_PUZZLE_37"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC860_JAP_BB_EA_DRAGONS_PUZZLE_38"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC861_JAP_BB_EA_DRAGONS_PUZZLE_39"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC862_JAP_BB_EA_DRAGONS_PUZZLE_40"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC863_JAP_BB_EA_DRAGONS_PUZZLE_41"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC864_JAP_BB_EA_DRAGONS_PUZZLE_42"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC865_JAP_BB_EA_DRAGONS_PUZZLE_43"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC866_JAP_BB_EA_DRAGONS_PUZZLE_44"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC867_JAP_BB_EA_DRAGONS_PUZZLE_45"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC868_JAP_BB_EA_DRAGONS_PUZZLE_46"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC869_JAP_BB_EA_DRAGONS_PUZZLE_47"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC870_JAP_BB_EA_DRAGONS_PUZZLE_48"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC871_JAP_BB_EA_DRAGONS_PUZZLE_49"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC872_JAP_BB_EA_DRAGONS_PUZZLE_50"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC873_JAP_BB_EA_DRAGONS_PUZZLE_51"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC874_JAP_BB_EA_DRAGONS_PUZZLE_52"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC875_JAP_BB_EA_DRAGONS_PUZZLE_53"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC876_JAP_BB_EA_DRAGONS_PUZZLE_54"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC877_JAP_BB_EA_DRAGONS_PUZZLE_55"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC878_JAP_BB_EA_DRAGONS_PUZZLE_56"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC879_JAP_BB_EA_DRAGONS_PUZZLE_57"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC880_JAP_BB_EA_DRAGONS_PUZZLE_58"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC881_JAP_BB_EA_DRAGONS_PUZZLE_59"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC882_JAP_BB_EA_DRAGONS_PUZZLE_60"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC933_TSAR_MOREY_3_3"
-msgstr "Готов ко всему"
+msgstr "準備万端"
 
-#, fuzzy
 msgid "IDS_PCZC977_BD25_PUZZLE_1"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC978_BD25_PUZZLE_2"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC979_BD25_PUZZLE_3"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC980_BD25_PUZZLE_4"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC981_BD25_PUZZLE_5"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC982_BD25_PUZZLE_6"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC983_BD25_PUZZLE_7"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC984_BD25_PUZZLE_8"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC985_BD25_PUZZLE_9"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC986_BD25_PUZZLE_10"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC987_BD25_PUZZLE_11"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC988_BD25_PUZZLE_12"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC989_BD25_PUZZLE_13"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC990_BD25_PUZZLE_14"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC991_BD25_PUZZLE_15"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC992_BD25_PUZZLE_16"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC993_BD25_PUZZLE_17"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC994_BD25_PUZZLE_18"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC995_BD25_PUZZLE_19"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC996_BD25_PUZZLE_20"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC997_BD25_PUZZLE_21"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC998_BD25_PUZZLE_22"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PCZC999_BD25_PUZZLE_23"
-msgstr "Фрагмент мозаики"
+msgstr "パズルのピース"
 
-#, fuzzy
 msgid "IDS_PFES348_BLACK_GASCOGNE"
 msgstr "特別"
 
-#, fuzzy
 msgid "IDS_PFES441_DUPERRE_CEREMONIAL"
 msgstr "戦時迷彩"
 
-#, fuzzy
 msgid "IDS_PFES442_FORBIN_CEREMONIAL"
 msgstr "戦時迷彩"
 
-#, fuzzy
 msgid "IDS_PFES602_SURCOUF_CEREMONIAL"
 msgstr "戦時迷彩"
 
-#, fuzzy
 msgid "IDS_PFGA145_57MM_60_2_25"
-msgstr "57 mm/60 Mle 1951 в установке ACAD Mle 1948"
+msgstr "57 mm/60 Mle 1951 (ACAD Mle 1948 砲座)"
 
-#, fuzzy
 msgid "IDS_PFGA163_BOFORS_40MM70_SP48"
-msgstr "40 mm/70 SAK-40/L70-350 в установке SAK-40/L70-350"
+msgstr "40 mm/70 SAK-40/L70-350 (SAK-40/L70-350 砲座)"
 
-#, fuzzy
 msgid "IDS_PFGA172_57MM_60_BOFORS_M50_SW"
-msgstr "57 mm/60 SAK Model 1950 в установке Model 1950"
+msgstr "57 mm/60 SAK Model 1950 (Model 1950 砲座)"
 
-#, fuzzy
 msgid "IDS_PFGA3000_OERLIKON_20MM70_MK4_MK4_US"
 msgstr "20 mm Oerlikon (Mk.4 砲座)"
 
-#, fuzzy
 msgid "IDS_PFGA3001_OERLIKON_20MM70_MK4_MK24_TWIN_US"
-msgstr "20 mm Oerlikon в установке Mk.24"
+msgstr "20 mm Oerlikon (Mk.24 砲座)"
 
-#, fuzzy
 msgid "IDS_PFGA3002_57MM60_2_25"
-msgstr "57 mm/60 Mle 1951 в установке ACAD Mle 1948"
+msgstr "57 mm/60 Mle 1951 (ACAD Mle 1948 砲座)"
 
-#, fuzzy
 msgid "IDS_PFGM144_203MM_50_M1924_TWIN"
-msgstr "203 mm/50 Mle 1924 в установке Mle 1931"
+msgstr "203 mm/50 Mle 1924 (Mle 1931 砲座)"
 
-#, fuzzy
 msgid "IDS_PFGM148_105_MM_SKC_37"
-msgstr "105 mm/65 SK C/33 в установке Dop. L. C/37"
+msgstr "105 mm/65 SK C/33 (Dop. L. C/37 砲座)"
 
-#, fuzzy
 msgid "IDS_PFGM167_305MM_56_SKC_39_RF"
-msgstr "305 mm/56 SK C/39 в башенной установке"
+msgstr "305 mm/56 SK C/39 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFGM168_305MM_56_SKC_39"
-msgstr "305 mm/56 SK C/39 в башенной установке"
+msgstr "305 mm/56 SK C/39 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFGM174_120MM_50_BOFORS_M50"
-msgstr "120 mm/50 Model 1950 в башенной установке"
+msgstr "120 mm/50 Model 1950 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFGM3003_406MM50_MLE_1938"
-msgstr "406 mm/50 Mle 1938 в башенной установке"
+msgstr "406 mm/50 Mle 1938 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFGS164_150MM_SK_L45_C13"
-msgstr "150 mm/45 SK C/09 в казематной установке"
+msgstr "150 mm/45 SK C/09 (ケースメイト砲座)"
 
-#, fuzzy
 msgid "IDS_PFGS165_120_50_BOFORS_M42"
-msgstr "120 mm/50 Model 1942 в башенной установке"
+msgstr "120 mm/50 Model 1942 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFGS3004_127MM54_5IN_1948"
-msgstr "127 mm/54 Mle 1948 в установке Mle 1948"
+msgstr "127 mm/54 Mle 1948 (Mle 1948 砲座)"
 
-#, fuzzy
 msgid "IDS_PFGS3005_152MM55_MLE_1950"
-msgstr "152 mm/55 Mle 1930 в установке Mle 1950"
+msgstr "152 mm/55 Mle 1930 (Mle 1950 砲座)"
 
-#, fuzzy
 msgid "IDS_PFGT146_550MM_3TUBE_KT50"
 msgstr "550 mm tube lance-torpilles"
 
-#, fuzzy
 msgid "IDS_PFGT152_550MM_3TUBE_AT47_L"
 msgstr "550 mm tube lance-torpilles"
 
-#, fuzzy
 msgid "IDS_PFGT154_550MM_3TUBE_AT47_R"
 msgstr "550 mm tube lance-torpilles"
 
-#, fuzzy
 msgid "IDS_PFGT156_550MM_2TUBE_DIANE"
 msgstr "550 mm tube lance-torpilles"
 
-#, fuzzy
 msgid "IDS_PFGT158_550MM_TRIPLE_CASABIANCA"
 msgstr "550 mm tube lance-torpilles"
 
-#, fuzzy
 msgid "IDS_PFGT160_550MM_2TUBE_L_AFRICAINE"
 msgstr "550 mm tube lance-torpilles"
 
-#, fuzzy
 msgid "IDS_PFGT161_550MM_2TUBE_L_AFRICAINE"
 msgstr "550 mm tube lance-torpilles"
 
-#, fuzzy
 msgid "IDS_PFGT166_533MM_QUADTUBE"
-msgstr "533 mm 4-трубный"
+msgstr "533 mm 四連装"
 
-#, fuzzy
 msgid "IDS_PFGT170_INVISIBLE_TA_LEFT"
 msgstr "550 mm tube lance-torpilles"
 
-#, fuzzy
 msgid "IDS_PFGT171_INVISIBLE_TA_RIGHT"
 msgstr "550 mm tube lance-torpilles"
 
-#, fuzzy
 msgid "IDS_PFGT175_533MM_5TUBE_SW"
-msgstr "533 mm 5-трубный"
+msgstr "533 mm 五連装"
 
-#, fuzzy
 msgid "IDS_PFPA063_130MM_MLE1933_SAP_MG"
 msgstr "130 mm SAP OPFA Mle 1933"
 
-#, fuzzy
 msgid "IDS_PFPA096_105MM_AP_CHATEAURENAULT"
 msgstr "105 mm P.Spr.Gr."
 
-#, fuzzy
 msgid "IDS_PFPA097_203MM_HE_SURCOUF"
 msgstr "203 mm HE OEA Mle 1927"
 
-#, fuzzy
 msgid "IDS_PFPA098_203MM_AP_SURCOUF"
 msgstr "203 mm AP OPf Mle 1936"
 
-#, fuzzy
 msgid "IDS_PFPA099_305MM_HE_BERNADOTTE"
 msgstr "305 mm Spr.Gr. L/4.9"
 
-#, fuzzy
 msgid "IDS_PFPA100_305MM_AP_BERNADOTTE"
 msgstr "305 mm P.Spr.Gr. L/3.8"
 
-#, fuzzy
 msgid "IDS_PFPA101_127MM_54_HE_T11"
 msgstr "127 mm HE Mark 42"
 
-#, fuzzy
 msgid "IDS_PFPA102_127MM_54_AP_T11"
 msgstr "127 mm AP Mark 43"
 
-#, fuzzy
 msgid "IDS_PFPA103_127MM_54_HE_DUPERRE"
 msgstr "127 mm HE Mark 41"
 
-#, fuzzy
 msgid "IDS_PFPA104_127MM_54_AP_DUPERRE"
 msgstr "127 mm AP Mark 42"
 
-#, fuzzy
 msgid "IDS_PFPA105_150MM_HE_K_18_SG"
 msgstr "150 mm HE K Gr 18"
 
-#, fuzzy
 msgid "IDS_PFPA106_120_50_HE_M42_SG"
 msgstr "120 mm HE M1942"
 
-#, fuzzy
 msgid "IDS_PFPA107_127MM_54_HE_FORBIN"
 msgstr "127 mm HE Mark 41"
 
-#, fuzzy
 msgid "IDS_PFPA108_127MM_54_AP_FORBIN"
 msgstr "127 mm AP Mark 42"
 
-#, fuzzy
 msgid "IDS_PFPA112_120_HE_VOLTIGEUR"
 msgstr "120 mm HE M1950"
 
-#, fuzzy
 msgid "IDS_PFPA113_120_AP_VOLTIGEUR"
 msgstr "120 mm AP M1950"
 
-#, fuzzy
 msgid "IDS_PFPA114_406MM_HE_AQUITAINE"
 msgstr "406 mm HE Mle 1938"
 
-#, fuzzy
 msgid "IDS_PFPA115_406MM_AP_AQUITAINE"
 msgstr "406 mm APC Mle 1938"
 
-#, fuzzy
 msgid "IDS_PFPT023_T11"
 msgstr "550 mm 24V Mle 2"
 
-#, fuzzy
 msgid "IDS_PFPT025_BERNADOTTE"
 msgstr "Torped M1943 mod 2"
 
-#, fuzzy
 msgid "IDS_PFPT032_FORBIN_ALT"
 msgstr "550 mm 24V Mle 2"
 
-#, fuzzy
 msgid "IDS_PFSB509_YEAR"
 msgstr "1952"
 
-#, fuzzy
 msgid "IDS_PFSB511_YEAR"
 msgstr "1939"
 
-#, fuzzy
 msgid "IDS_PFSB598_DESCR"
-msgstr "На фоне масштабного строительства новых линкоров во всех военно-морских державах в конце 1930-х гг. во Франции были начаты работы по проекту нового линкора. После испытаний корабля Dunkerque была подвергнута сомнению концепция линкоров со сосредоточением артиллерии в носу. Планировалось построить два новых линкора, соответствующих по скорости и бронированию типу Richelieu. Линкор Gascogne должен был строиться по проекту, в котором главная артиллерия была разнесена по оконечностям корабля. 艦艇 не закладывался из-за капитуляции Франции."
+msgstr "1930 年代後半に全ての海軍列強が新型戦艦を大量に建造したことを受けて、フランスも新型戦艦計画に着手しました。ダンケルクのテスト後、戦艦の艦首側に主砲を集中配置する構想に疑問が投げかけられました。この結果、リシュリュー級戦艦と互角の速力と装甲を有する新型戦艦 2 隻の建造が計画されました。戦艦ガスコーニュは、主砲を艦首側と船尾側に配置する設計に基づいて建造される予定でした。しかしフランスが降伏したため、本艦は起工されませんでした。"
 
-#, fuzzy
 msgid "IDS_PFSB598_YEAR"
 msgstr "1939"
 
-#, fuzzy
 msgid "IDS_PFSC811_DESCR"
-msgstr "Гипотетическое дальнейшее развитие французских тяжёлых крейсеров. Задумывался как средство борьбы с немецкими тяжёлыми крейсерами, основан на довоенных проработках корабля этого класса. В качестве основного вооружения выступают три характерные для французского флота межвоенных лет четырёхорудийные башни с 240 mm орудиями."
+msgstr "コンデは、フランス重巡洋艦の開発が更に進んだという仮定に基づく艦艇です。ドイツの重巡洋艦に対抗することが想定された本艦は、戦前の重巡洋艦の開発状況に基づいています。主砲は、フランス海軍では典型的であった 240 mm 四連装砲塔 3 基でした。"
 
-#, fuzzy
 msgid "IDS_PFSC811_YEAR"
 msgstr "1957"
 
-#, fuzzy
 msgid "IDS_PFSD111_YEAR"
 msgstr "1945"
 
-#, fuzzy
 msgid "IDS_PFSD509_YEAR"
 msgstr "1957"
 
-#, fuzzy
 msgid "IDS_PFSD510_YEAR"
 msgstr "1954"
 
-#, fuzzy
 msgid "IDS_PFSD519"
 msgstr "Forbin"
 
-#, fuzzy
 msgid "IDS_PFSD519_FULL"
 msgstr "Forbin"
 
-#, fuzzy
 msgid "IDS_PFSD610_YEAR"
 msgstr "1942"
 
-#, fuzzy
 msgid "IDS_PFSD910_YEAR"
 msgstr "1954"
 
-#, fuzzy
 msgid "IDS_PFSS106_YEAR"
 msgstr "1932"
 
-#, fuzzy
 msgid "IDS_PFSS108_YEAR"
 msgstr "1949"
 
-#, fuzzy
 msgid "IDS_PFSS110_YEAR"
 msgstr "1937"
 
-#, fuzzy
 msgid "IDS_PFSS510"
 msgstr "Surcouf"
 
-#, fuzzy
 msgid "IDS_PFSS510_FULL"
 msgstr "Surcouf"
 
-#, fuzzy
 msgid "IDS_PFSS510_YEAR"
 msgstr "1934"
 
-#, fuzzy
 msgid "IDS_PFUA715_ART_BLACK_GASCOGNE"
-msgstr "380 mm/45 Mle 1935 в башенной установке"
+msgstr "380 mm/45 Mle 1935 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFUA806_ART_BERNADOTTE"
-msgstr "305 mm/56 SK C/39 в башенной установке"
+msgstr "305 mm/56 SK C/39 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFUA807_ART_DUPERRE"
-msgstr "127 mm/54 Mle 1948 в установке Mle 1948"
+msgstr "127 mm/54 Mle 1948 (Mle 1948 砲座)"
 
-#, fuzzy
 msgid "IDS_PFUA808_ART_FORBIN"
-msgstr "127 mm/54 Mle 1948 в установке Mle 1948"
+msgstr "127 mm/54 Mle 1948 (Mle 1948 砲座)"
 
-#, fuzzy
 msgid "IDS_PFUA907_ART_CHATEAURENAULT"
-msgstr "105 mm/65 SK C/33 в установке Dop. L. C/37"
+msgstr "105 mm/65 SK C/33 (Dop. L. C/37 砲座)"
 
-#, fuzzy
 msgid "IDS_PFUA908_ART_SURCOUF"
-msgstr "203 mm/50 Mle 1924 в установке Mle 1931"
+msgstr "203 mm/50 Mle 1924 (Mle 1931 砲座)"
 
-#, fuzzy
 msgid "IDS_PFUA909_D11_ART_STOCK"
-msgstr "127 mm/54 Mle 1948 в установке Mle 1948"
+msgstr "127 mm/54 Mle 1948 (Mle 1948 砲座)"
 
-#, fuzzy
 msgid "IDS_PFUA913_ART_CLR_CONDE"
-msgstr "240 mm/50 Mle 1930 в башенной установке"
+msgstr "240 mm/50 Mle 1930 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFUA914_ART_HALLAND_H_EVENT"
-msgstr "120 mm/50 Model 1950 в башенной установке"
+msgstr "120 mm/50 Model 1950 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFUA915_ART_AQUITAINE"
-msgstr "406 mm/50 Mle 1938 в башенной установке"
+msgstr "406 mm/50 Mle 1938 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFUA916_ART_VOLTIGEUR"
-msgstr "120 mm/50 Model 1950 в башенной установке"
+msgstr "120 mm/50 Model 1950 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PFUE709_ENG_BLACK_GASCOGNE"
-msgstr "推力: 155 000 馬力"
+msgstr "推力: 155,000 馬力"
 
-#, fuzzy
 msgid "IDS_PFUE806_ENG_BERNADOTTE"
-msgstr "推力: 152 000 馬力"
+msgstr "推力: 152,000 馬力"
 
-#, fuzzy
 msgid "IDS_PFUE906_ENG_CHATEAURENAULT"
-msgstr "推力: 110 000 馬力"
+msgstr "推力: 110,000 馬力"
 
-#, fuzzy
 msgid "IDS_PFUE912_ENG_CLR_CONDE"
-msgstr "推力: 220 000 馬力"
+msgstr "推力: 220,000 馬力"
 
-#, fuzzy
 msgid "IDS_PFUE913_ENG_HALLAND_H_EVENT"
-msgstr "推力: 58 000 馬力"
+msgstr "推力: 58,000 馬力"
 
-#, fuzzy
 msgid "IDS_PFUE914_ENG_AQUITAINE"
-msgstr "推力: 192 000 馬力"
+msgstr "推力: 192,000 馬力"
 
-#, fuzzy
 msgid "IDS_PFUE915_ENG_VOLTIGEUR"
-msgstr "推力: 58 000 馬力"
+msgstr "推力: 58,000 馬力"
 
-#, fuzzy
 msgid "IDS_PFUH813_HULL_FORBIN"
 msgstr "Forbin"
 
-#, fuzzy
 msgid "IDS_PFUH907_SURCOUF"
 msgstr "Surcouf"
 
-#, fuzzy
 msgid "IDS_PFUT507_TORP_SAPHIR"
 msgstr "550 mm"
 
-#, fuzzy
 msgid "IDS_PFUT508_S6_TORP"
 msgstr "550 mm"
 
-#, fuzzy
 msgid "IDS_PFUT704_S8_TORP_STOCK"
 msgstr "550 mm"
 
-#, fuzzy
 msgid "IDS_PFUT803_TORP_BERNADOTTE"
 msgstr "Mk14"
 
-#, fuzzy
 msgid "IDS_PFUT804_TORP_DUPERRE"
 msgstr "550 mm 23DT"
 
-#, fuzzy
 msgid "IDS_PFUT805_TORP_FORBIN"
 msgstr "550 mm 23DT"
 
-#, fuzzy
 msgid "IDS_PFUT905_TORP_SURCOUF"
 msgstr "550 mm 23DT"
 
-#, fuzzy
 msgid "IDS_PFUT906_D11_TORP_STOCK"
 msgstr "550 mm 23DT"
 
-#, fuzzy
 msgid "IDS_PFUT907_S10_TORP_STOCK"
 msgstr "550 mm 23DT"
 
-#, fuzzy
 msgid "IDS_PFUT908_TORP_CLR_CONDE"
 msgstr "550 mm 23DT"
 
-#, fuzzy
 msgid "IDS_PFUT909_TORP_HALLAND_H_EVENT"
 msgstr "Torped M1947 mod 1"
 
-#, fuzzy
 msgid "IDS_PFUT910_TORP_VOLTIGEUR"
 msgstr "Torped M1947 mod 1"
 
-#, fuzzy
 msgid "IDS_PGAB801_LOTHRINGEN"
 msgstr "Bf 110C"
 
-#, fuzzy
 msgid "IDS_PGAF801_LOTHRINGEN"
 msgstr "Bf 109G"
 
-#, fuzzy
 msgid "IDS_PGES339_LOTHRINGEN_CEREMONIAL"
 msgstr "戦時迷彩"
 
-#, fuzzy
 msgid "IDS_PGES458_BLACK_PRINZ_EUGEN"
 msgstr "特別"
 
-#, fuzzy
 msgid "IDS_PGGA095_20MM_FLAK_38_L41"
-msgstr "20 mm/65 C/38 в одиночной установке L/30"
+msgstr "20 mm/65 C/38 (L/30 単装砲座)"
 
-#, fuzzy
 msgid "IDS_PGGM143_127MM_61_TWIN"
-msgstr "128 mm/61 KM40 в башенной установке"
+msgstr "128 mm/61 KM40 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PGGM144_127MM_61_TWIN_HIMMELBLAU"
-msgstr "128 mm/61 KM40 в башенной установке"
+msgstr "128 mm/61 KM40 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PGGT141_533MM_TORPEDO_TUBES_FIVE_TURRET"
 msgstr "533 mm Fünfling"
 
-#, fuzzy
 msgid "IDS_PGPA146_283MM_HE_PFALZ"
 msgstr "283 mm Spr.Gr. L/4.5 Kz."
 
-#, fuzzy
 msgid "IDS_PGPA147_283MM_AP_PFALZ"
 msgstr "283 mm P.Spr.Gr. L/4.4"
 
-#, fuzzy
 msgid "IDS_PGPA148_380MM_HE_LOTHRINGEN"
 msgstr "380 mm Spr.Gr. L/4.6"
 
-#, fuzzy
 msgid "IDS_PGPA149_380MM_AP_LOTHRINGEN"
 msgstr "380 mm P.Spr.Gr. L/4.4"
 
-#, fuzzy
 msgid "IDS_PGPA154_150MM_HE_Z38"
 msgstr "150 mm Spr.Gr. Ausf. B"
 
-#, fuzzy
 msgid "IDS_PGPA155_150MM_AP_Z38"
 msgstr "150 mm P.Spr.Gr. Ausf. B"
 
-#, fuzzy
 msgid "IDS_PGPA156_128MM_HE_T11"
 msgstr "128 mm Spr.Gr. Kz."
 
-#, fuzzy
 msgid "IDS_PGPA157_128MM_AP_T11"
 msgstr "128 mm P.Spr.Gr. L/4.5"
 
-#, fuzzy
 msgid "IDS_PGPA158_128MM_61_HE"
 msgstr "128 mm Spr.Gr. Kz."
 
-#, fuzzy
 msgid "IDS_PGPA159_128MM_61_AP"
 msgstr "128 mm P.Spr.Gr. L/4.5"
 
-#, fuzzy
 msgid "IDS_PGPA160_128MM_54_HE"
 msgstr "128 mm Spr.Gr."
 
-#, fuzzy
 msgid "IDS_PGPA161_128MM_54_AP"
 msgstr "128 mm P.Spr.Gr."
 
-#, fuzzy
 msgid "IDS_PGPA162_210MM_HE_FALKENHAYN"
 msgstr "210 mm Spr.Gr. L/4.7"
 
-#, fuzzy
 msgid "IDS_PGPA163_210MM_AP_FALKENHAYN"
 msgstr "210 mm Spr.Gr. L/4.4"
 
-#, fuzzy
 msgid "IDS_PGPD907_DEPTH_T10"
 msgstr "SC-300"
 
-#, fuzzy
 msgid "IDS_PGPT019_G7A_DANZIG"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGPT061_PFALZ"
 msgstr "H8"
 
-#, fuzzy
 msgid "IDS_PGPT063_Z33"
 msgstr "G7 Schildbutt"
 
-#, fuzzy
 msgid "IDS_PGPT064_Z32"
 msgstr "G7 T1 Ausf. B"
 
-#, fuzzy
 msgid "IDS_PGPT066_533MM_T11"
 msgstr "G7 Steinwal"
 
-#, fuzzy
 msgid "IDS_PGPT067_533MM_G7A"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGPT068_533_DE_SCL"
 msgstr "G7 Schildbutt"
 
-#, fuzzy
 msgid "IDS_PGPT069_FALKENHAYN"
 msgstr "G7 Schildbutt"
 
-#, fuzzy
 msgid "IDS_PGPT910_SUBTEST"
 msgstr "G7e/T4"
 
-#, fuzzy
 msgid "IDS_PGPT911_SUBTEST"
 msgstr "G7e/T4 MZ"
 
-#, fuzzy
 msgid "IDS_PGSB510_YEAR"
 msgstr "1942"
 
-#, fuzzy
 msgid "IDS_PGSB537_YEAR"
 msgstr "1935"
 
-#, fuzzy
 msgid "IDS_PGSB548_YEAR"
 msgstr "1935"
 
-#, fuzzy
 msgid "IDS_PGSB810_YEAR"
 msgstr "1944"
 
-#, fuzzy
 msgid "IDS_PGSC207_YEAR"
 msgstr "1939"
 
-#, fuzzy
 msgid "IDS_PGSC208_YEAR"
 msgstr "1939"
 
-#, fuzzy
 msgid "IDS_PGSC209_YEAR"
 msgstr "1940"
 
-#, fuzzy
 msgid "IDS_PGSC210_YEAR"
 msgstr "1940"
 
-#, fuzzy
 msgid "IDS_PGSC520_YEAR"
 msgstr "1938"
 
-#, fuzzy
 msgid "IDS_PGSC538_YEAR"
 msgstr "1936"
 
-#, fuzzy
 msgid "IDS_PGSC539_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PGSC588_YEAR"
 msgstr "1940"
 
-#, fuzzy
 msgid "IDS_PGSD538"
 msgstr "Z-32"
 
-#, fuzzy
 msgid "IDS_PGSD538_FULL"
 msgstr "Z-32"
 
-#, fuzzy
 msgid "IDS_PGSD538_YEAR"
 msgstr "1942"
 
-#, fuzzy
 msgid "IDS_PGSD548"
 msgstr "Z-33"
 
-#, fuzzy
 msgid "IDS_PGSD548_FULL"
 msgstr "Z-33"
 
-#, fuzzy
 msgid "IDS_PGSD548_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PGSD558"
 msgstr "Z-38"
 
-#, fuzzy
 msgid "IDS_PGSD558_FULL"
 msgstr "Z-38"
 
-#, fuzzy
 msgid "IDS_PGSD558_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PGSS111_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PGUA609_ART_PFALZ"
-msgstr "283 mm/54.5 SK C/34 в установке Drh LC/34"
+msgstr "283 mm/54.5 SK C/34 (Drh LC/34 砲座)"
 
-#, fuzzy
 msgid "IDS_PGUA719_D8_ART_STOCK"
-msgstr "150 mm/55 Tbts KC/36 в башенной установке"
+msgstr "150 mm/55 Tbts KC/36 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PGUA720_D8_ART_STOCK"
-msgstr "150 mm/55 Tbts KC/36 в башенной установке"
+msgstr "150 mm/55 Tbts KC/36 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PGUA722_D8_ART_STOCK"
-msgstr "150 mm/55 Tbts KC/36 в башенной установке"
+msgstr "150 mm/55 Tbts KC/36 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PGUA724_ART_BLACK_ODIN"
-msgstr "305 mm/56 SK C/39 в башенной установке"
+msgstr "305 mm/56 SK C/39 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PGUA725_ART_SABIE"
-msgstr "150 mm/60 SK C/25 в установке Drh Tr C/25"
+msgstr "150 mm/60 SK C/25 (Drh Tr C/25 砲座)"
 
-#, fuzzy
 msgid "IDS_PGUA726_ART_BLACK_EUGEN"
-msgstr "203 mm/60 SK C/34 в установке LC/34"
+msgstr "203 mm/60 SK C/34 (LC/34 砲座)"
 
-#, fuzzy
 msgid "IDS_PGUA810_ART_LOTHRINGEN"
-msgstr "380 mm/52 SK C/34 в башенной установке"
+msgstr "380 mm/52 SK C/34 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PGUA814_ART_C9_ART_STOCK"
-msgstr "128 mm/61 KM40 в башенной установке"
+msgstr "128 mm/61 KM40 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PGUA900_D11_ART_STOCK"
-msgstr "128 mm/61 KM40 в башенной установке"
+msgstr "128 mm/61 KM40 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PGUA911_ART_COLORFUL_SCHLIEFFEN"
-msgstr "420 mm/50 SK L/50 в установке Drh LC/1918"
+msgstr "420 mm/50 SK L/50 (Drh LC/1918 砲座)"
 
-#, fuzzy
 msgid "IDS_PGUA912_C10_ART_STOCK"
-msgstr "128 mm/61 KM40 в башенной установке"
+msgstr "128 mm/61 KM40 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PGUA915_ART_FALKENHAYN"
-msgstr "210 mm/60 SK C/34 в установке Drh LC/40"
+msgstr "210 mm/60 SK C/34 (Drh LC/40 砲座)"
 
-#, fuzzy
 msgid "IDS_PGUB801_TB_LOTHRINGEN"
 msgstr "Bf 110C"
 
-#, fuzzy
 msgid "IDS_PGUE728_C8_ENG_STOCK"
-msgstr "推力: 120 000 馬力"
+msgstr "推力: 120,000 馬力"
 
-#, fuzzy
 msgid "IDS_PGUE729_ENG_BLACK_ODIN"
-msgstr "推力: 137 300 馬力"
+msgstr "推力: 137,300 馬力"
 
-#, fuzzy
 msgid "IDS_PGUE730_ENG_SABIE"
-msgstr "推力: 132 000 馬力"
+msgstr "推力: 132,000 馬力"
 
-#, fuzzy
 msgid "IDS_PGUE731_ENG_BLACK_EUGEN"
-msgstr "推力: 110 000 馬力"
+msgstr "推力: 110,000 馬力"
 
-#, fuzzy
 msgid "IDS_PGUE810_ENG_LOTHRINGEN"
-msgstr "推力: 165 000 馬力"
+msgstr "推力: 165,000 馬力"
 
-#, fuzzy
 msgid "IDS_PGUE815_C9_ENG_STOCK"
-msgstr "推力: 140 000 馬力"
+msgstr "推力: 140,000 馬力"
 
-#, fuzzy
 msgid "IDS_PGUE816_ENG_DANZIG"
-msgstr "推力: 192 000 馬力"
+msgstr "推力: 192,000 馬力"
 
-#, fuzzy
 msgid "IDS_PGUE915_ENG_COLORFUL_SCHLIEFFEN"
-msgstr "推力: 200 000 馬力"
+msgstr "推力: 200,000 馬力"
 
-#, fuzzy
 msgid "IDS_PGUE916_D11_ENG_STOCK"
-msgstr "推力: 76 000 馬力"
+msgstr "推力: 76,000 馬力"
 
-#, fuzzy
 msgid "IDS_PGUE917_C10_ENG_STOCK"
-msgstr "推力: 132 000 馬力"
+msgstr "推力: 132,000 馬力"
 
-#, fuzzy
 msgid "IDS_PGUH732_HULL_BLACK_BRANDENBURG"
 msgstr "Brandenburg B."
 
-#, fuzzy
 msgid "IDS_PGUH733_D8_HULL_STOCK"
 msgstr "Z-33"
 
-#, fuzzy
 msgid "IDS_PGUH734_D8_HULL_STOCK"
 msgstr "Z-32"
 
-#, fuzzy
 msgid "IDS_PGUH735_D8_HULL_STOCK"
 msgstr "Z-38"
 
-#, fuzzy
 msgid "IDS_PGUI801_F_LOTHRINGEN"
 msgstr "Bf 109G"
 
-#, fuzzy
 msgid "IDS_PGUS616_SUO_PFALZ"
 msgstr "FKS Typ 7"
 
-#, fuzzy
 msgid "IDS_PGUS913_C10_SUO_STOCK"
 msgstr "FKS Typ 10"
 
-#, fuzzy
 msgid "IDS_PGUS914_SUO_FALKENHAYN"
 msgstr "FKS Typ 10"
 
-#, fuzzy
 msgid "IDS_PGUT613_TORP_PFALZ"
 msgstr "J9"
 
-#, fuzzy
 msgid "IDS_PGUT614_C7_TORP_STOCK"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGUT722_D8_TORP_STOCK"
 msgstr "G7 Schildbutt"
 
-#, fuzzy
 msgid "IDS_PGUT723_D8_TORP_STOCK"
 msgstr "G7 Schildbutt"
 
-#, fuzzy
 msgid "IDS_PGUT724_D8_TORP_STOCK"
 msgstr "G7 Schildbutt"
 
-#, fuzzy
 msgid "IDS_PGUT725_C8_TORP_STOCK"
 msgstr "G7 Schildbutt"
 
-#, fuzzy
 msgid "IDS_PGUT726_TORP_BLACK_ODIN"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGUT727_TORP_SABIE"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGUT728_TORP_BLACK_EUGEN"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGUT812_C9_TORP_STOCK"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGUT813_TORP_DANZIG"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGUT911_S11_TORP_STOCK"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGUT912_TORP_COLORFUL_SCHLIEFFEN"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGUT913_D11_TORP_STOCK"
 msgstr "G7 Steinwal"
 
-#, fuzzy
 msgid "IDS_PGUT914_C10_TORP_STOCK"
 msgstr "G7 T1 Ausf. C"
 
-#, fuzzy
 msgid "IDS_PGUT915_TORP_FALKENHAYN"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PGUT917_TORP_SUBTEST"
-msgstr "G7e/T4 и G7e/T4 MZ"
+msgstr "G7e T4 と G7e T4 MZ"
 
-#, fuzzy
 msgid "IDS_PHAD015_CALLENBURGH_AS"
 msgstr "Fokker T.V"
 
-#, fuzzy
 msgid "IDS_PHAD016_KORTENAER_AS"
 msgstr "Fokker T.V"
 
-#, fuzzy
 msgid "IDS_PHGA045_2_PDR_MKVII_QUAD"
-msgstr "40 mm/39 Vickers QF Mk.VIII в установке Mk.VII"
+msgstr "40 mm/39 Vickers QF Mk.VIII (Mk.VII 砲座)"
 
-#, fuzzy
 msgid "IDS_PHGM048_4_7IN_45_CPXXII"
-msgstr "120 mm/45 QF Mk.IX в установке CPXXII"
+msgstr "120 mm/45 QF Mk.IX (CPXXII 砲座)"
 
-#, fuzzy
 msgid "IDS_PHGT046_21IN_QUAD_TORPEDO_TUBE"
 msgstr "533 mm QR Mk IV"
 
-#, fuzzy
 msgid "IDS_PHPA025_240MM_HE_CALLENBURGH"
 msgstr "240 mm HE Brisantgranaat"
 
-#, fuzzy
 msgid "IDS_PHPA026_240MM_AP_CALLENBURGH"
 msgstr "240 mm AP Pantsergranaat"
 
-#, fuzzy
 msgid "IDS_PHPA027_120MM_HE_KORTENAER"
-msgstr "120 mm HE 62 фн."
+msgstr "120 mm HE 62 lb"
 
-#, fuzzy
 msgid "IDS_PHPA028_120MM_AP_KORTENAER"
-msgstr "120 mm SAP 62 фн."
+msgstr "120 mm SAP 62 lb"
 
-#, fuzzy
 msgid "IDS_PHPB025_CALLENBURGH_AS_HE"
 msgstr "P.u.W. 25 kg"
 
-#, fuzzy
 msgid "IDS_PHPB026_KORTENAER_AS_HE"
 msgstr "P.u.W. 100 kg"
 
-#, fuzzy
 msgid "IDS_PHPB924_PUW_160KG_AS_HE"
 msgstr "P.u.W. 160 kg"
 
-#, fuzzy
 msgid "IDS_PHSD506_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PHUA502_ART_KORTENAER"
-msgstr "120 mm/45 QF Mk.IX в установке CPXXII"
+msgstr "120 mm/45 QF Mk.IX (CPXXII 砲座)"
 
-#, fuzzy
 msgid "IDS_PHUA904_ART_CALLENBURGH"
-msgstr "240 mm/55 QF в башенной установке"
+msgstr "240 mm/55 QF (砲塔)"
 
-#, fuzzy
 msgid "IDS_PHUE502_ENG_KORTENAER"
-msgstr "推力: 40 000 馬力"
+msgstr "推力: 40,000 馬力"
 
-#, fuzzy
 msgid "IDS_PHUS503_SUO_KORTENAER"
 msgstr "SUO Mk 6 Mod. 1"
 
-#, fuzzy
 msgid "IDS_PHUS904_SUO_CALLENBURGH"
 msgstr "SUO Mk 10 Mod. 1"
 
-#, fuzzy
 msgid "IDS_PHUT501_TORP_KORTENAER"
 msgstr "533 mm Mk VII"
 
-#, fuzzy
 msgid "IDS_PIAD915_ASW_T10_CV"
 msgstr "CANT Z.508"
 
-#, fuzzy
 msgid "IDS_PIAF511_LAZIO_STOCK_WARD"
 msgstr "Reggiane Re.2001"
 
-#, fuzzy
 msgid "IDS_PIAF529_TRANCLUCATOR"
 msgstr "TB2D Skypirate"
 
-#, fuzzy
 msgid "IDS_PIES201_LAZIO_CEREMONIAL"
 msgstr "戦時迷彩"
 
-#, fuzzy
 msgid "IDS_PIES330_IMPERO_CEREMONIAL"
 msgstr "戦時迷彩"
 
-#, fuzzy
 msgid "IDS_PIES401_MARCO_AURELIO_ITALY"
 msgstr "Grigio-azzurro chiaro"
 
-#, fuzzy
 msgid "IDS_PIES402_ELIO_ADRIANO_ITALY"
 msgstr "Grigio-azzurro chiaro"
 
-#, fuzzy
 msgid "IDS_PIES403_ULPIO_TRAIANO_ITALY"
 msgstr "Grigio-azzurro chiaro"
 
-#, fuzzy
 msgid "IDS_PIES421_MICHELANGELO_CEREMONIAL"
 msgstr "戦時迷彩"
 
-#, fuzzy
 msgid "IDS_PIGA113_3IN50_TWIN_MARK_33"
-msgstr "76,2 mm/50 Mk.22 в установке Mk.33"
+msgstr "76.2 mm/50 Mk.22 (Mk.33 砲座)"
 
-#, fuzzy
 msgid "IDS_PIGA114_20MM_OERLIKON_MK20_TWIN"
-msgstr "20 mm Oerlikon в установке Mk.24"
+msgstr "20 mm Oerlikon (Mk.24 砲座)"
 
-#, fuzzy
 msgid "IDS_PIGM115_16IN50_MK7"
 msgstr "406 mm/50 Mk.7 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PIGM116_16IN50_MK7_TWIN"
 msgstr "406 mm/50 Mk.7 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PIGM118_100MM_47_OTO1931"
-msgstr "100 mm/47 Model 1931 в установке OTO 1932"
+msgstr "100 mm/47 Model 1931 (OTO 1932 砲座)"
 
-#, fuzzy
 msgid "IDS_PIGM119_406MM_50_BARRELS_4"
-msgstr "406 mm/50 Model 1940 в башенной установке"
+msgstr "406 mm/50 Model 1940 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PIGT000_INVISIBLE_TA"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PINGER_RELOAD_FAST"
-msgstr "Быстрая перезарядка сонара"
+msgstr "ソナーの準備速度が速い"
 
-#, fuzzy
 msgid "IDS_PINGER_WAVE_SPEED_LOW"
-msgstr "Низкая скорость импульса сонара"
+msgstr "ソナーピンガーの速度が低い"
 
-#, fuzzy
 msgid "IDS_PINGER_WAVE_WIDTH_HIGH"
-msgstr "Широкий импульс сонара"
+msgstr "ソナーピンガーの幅が広い"
 
-#, fuzzy
 msgid "IDS_PINGER_WAVE_WIDTH_LOW"
-msgstr "Узкий импульс сонара"
+msgstr "ソナーピンガーの幅が狭い"
 
-#, fuzzy
 msgid "IDS_PIPA082_254MM_HE_T11"
 msgstr "254 mm proiettili HE"
 
-#, fuzzy
 msgid "IDS_PIPA086_152MM_55_AP_FR_FERRUCCIO"
 msgstr "152 mm proiettili AP"
 
-#, fuzzy
 msgid "IDS_PIPA087_406MM_HE_TRANCLUCATOR"
 msgstr "406 mm HE/HC Mk13"
 
-#, fuzzy
 msgid "IDS_PIPA088_406MM_AP_TRANCLUCATOR"
 msgstr "406 mm AP Mk8"
 
-#, fuzzy
 msgid "IDS_PIPA090_127MM_CS_MK_32"
 msgstr "127 mm SC Mk38"
 
-#, fuzzy
 msgid "IDS_PIPA092_120_HE_M50_SG"
 msgstr "120 mm HE M1950"
 
-#, fuzzy
 msgid "IDS_PIPA093_152MM_55_1936_25HE"
 msgstr "152 mm proiettili HE"
 
-#, fuzzy
 msgid "IDS_PIPA094_120_HE_50_M50"
 msgstr "120 mm HE M1950"
 
-#, fuzzy
 msgid "IDS_PIPA095_406MM_CS_GALILEO"
 msgstr "406 mm proiettili CS 1940"
 
-#, fuzzy
 msgid "IDS_PIPA096_406MM_AP_GALILEO"
 msgstr "406 mm proiettili AP 1940"
 
-#, fuzzy
 msgid "IDS_PIPA099_120_HE_50_LAZIO"
 msgstr "120 mm HE M1950"
 
-#, fuzzy
 msgid "IDS_PIPA102_203MM_AP_T11"
 msgstr "203 mm proiettili AP 1924 mod.2"
 
-#, fuzzy
 msgid "IDS_PIPB002_LAZIO_STOCK"
 msgstr "SC-250"
 
-#, fuzzy
 msgid "IDS_PIPD109_DEPTH_CV_10"
 msgstr "CS 160 kg"
 
-#, fuzzy
 msgid "IDS_PIPR002_LAZIO_STOCK"
 msgstr "RZ.65"
 
-#, fuzzy
 msgid "IDS_PIPT023_533_SI270_FR_FERRUCCIO"
 msgstr "533 mm Si 270"
 
-#, fuzzy
 msgid "IDS_PIPT024_NANI_SUB"
 msgstr "533 mm Si 270 M2"
 
-#, fuzzy
 msgid "IDS_PIPT025_NANI_MZ"
 msgstr "533 mm Si 270 M"
 
-#, fuzzy
 msgid "IDS_PIPT026_LAZIO_STOCK"
 msgstr "450 mm F200"
 
-#, fuzzy
 msgid "IDS_PIPT028_533MM_T11"
 msgstr "533 mm Si 270 N"
 
-#, fuzzy
 msgid "IDS_PIPT029_533_SI270_IT_CL_9_10"
 msgstr "533 mm Si 270"
 
-#, fuzzy
 msgid "IDS_PISA510_YEAR"
 msgstr "1942"
 
-#, fuzzy
 msgid "IDS_PISB111_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PISB529_YEAR"
 msgstr "1942"
 
-#, fuzzy
 msgid "IDS_PISB539_YEAR"
 msgstr "1934"
 
-#, fuzzy
 msgid "IDS_PISC206_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PISC207_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PISC208_YEAR"
 msgstr "1950"
 
-#, fuzzy
 msgid "IDS_PISC209_YEAR"
 msgstr "1950"
 
-#, fuzzy
 msgid "IDS_PISC210_YEAR"
 msgstr "1950"
 
-#, fuzzy
 msgid "IDS_PISC211_YEAR"
 msgstr "1935"
 
-#, fuzzy
 msgid "IDS_PISS508_YEAR"
 msgstr "1938"
 
-#, fuzzy
 msgid "IDS_PIUA507_C6_ART_STOCK"
-msgstr "135 mm/45 Model 1938 в установке Model 1938"
+msgstr "135 mm/45 Model 1938 (Model 1938 砲座)"
 
-#, fuzzy
 msgid "IDS_PIUA607_ART_FR_FERRUCCIO"
-msgstr "152 mm/55 Model 1934 в установке Model 1935"
+msgstr "152 mm/55 Model 1934 (Model 1935 砲座)"
 
-#, fuzzy
 msgid "IDS_PIUA608_C7_ART_STOCK"
-msgstr "135 mm/45 Model 1938 в установке Model 1938"
+msgstr "135 mm/45 Model 1938 (Model 1938 砲座)"
 
-#, fuzzy
 msgid "IDS_PIUA709_ART_NANI"
-msgstr "100 mm/47 Model 1931 в установке OTO 1932"
+msgstr "100 mm/47 Model 1931 (OTO 1932 砲座)"
 
-#, fuzzy
 msgid "IDS_PIUA808_TRANCLUCATOR"
 msgstr "406 mm/50 Mk.7 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PIUA809_ART_IMPERO"
-msgstr "381 mm/50 Model 1934 в установке Model 1934"
+msgstr "381 mm/50 Model 1934 (Model 1934 砲座)"
 
-#, fuzzy
 msgid "IDS_PIUA909_BB11_ART_STOCK"
-msgstr "406 mm/50 Model 1940 в башенной установке"
+msgstr "406 mm/50 Model 1940 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PIUE607_ENG_FR_FERRUCCIO"
-msgstr "推力: 110 000 馬力"
+msgstr "推力: 110,000 馬力"
 
-#, fuzzy
 msgid "IDS_PIUE608_C7_ENG_STOCK"
-msgstr "推力: 110 000 馬力"
+msgstr "推力: 110,000 馬力"
 
-#, fuzzy
 msgid "IDS_PIUE704_C8_ENG_STOCK"
-msgstr "推力: 106 000 馬力"
+msgstr "推力: 106,000 馬力"
 
-#, fuzzy
 msgid "IDS_PIUE808_ENG_TRANCLUCATOR"
-msgstr "推力: 212 000 馬力"
+msgstr "推力: 212,000 馬力"
 
-#, fuzzy
 msgid "IDS_PIUE809_ENG_IMPERO"
-msgstr "推力: 130 000 馬力"
+msgstr "推力: 130,000 馬力"
 
-#, fuzzy
 msgid "IDS_PIUE810_C9_ENG_STOCK"
-msgstr "推力: 120 000 馬力"
+msgstr "推力: 120,000 馬力"
 
-#, fuzzy
 msgid "IDS_PIUE911_C10_ENG_STOCK"
-msgstr "推力: 150 000 馬力"
+msgstr "推力: 150,000 馬力"
 
-#, fuzzy
 msgid "IDS_PIUE912_C11_ENG_STOCK"
-msgstr "推力: 240 000 馬力"
+msgstr "推力: 240,000 馬力"
 
-#, fuzzy
 msgid "IDS_PIUF801_FC_TRANCLUCATOR"
 msgstr "Mk9 mod. 1"
 
-#, fuzzy
 msgid "IDS_PIUF901_FC_LAZIO"
 msgstr "Mk8 mod. 1"
 
-#, fuzzy
 msgid "IDS_PIUH610_FR_FERRUCCIO"
 msgstr "F. Ferruccio"
 
-#, fuzzy
 msgid "IDS_PIUI801_F_TRANCLUCATOR"
 msgstr "TB2D Skypirate"
 
-#, fuzzy
 msgid "IDS_PIUS510_C6_SUO_STOCK"
 msgstr "SDT 6"
 
-#, fuzzy
 msgid "IDS_PIUS710_C8_SUO_STOCK"
 msgstr "SDT 8"
 
-#, fuzzy
 msgid "IDS_PIUS813_C9_SUO_STOCK"
 msgstr "SDT 9 mod.2"
 
-#, fuzzy
 msgid "IDS_PIUS909_BB11_SUO_STOCK"
 msgstr "SDT 11"
 
-#, fuzzy
 msgid "IDS_PIUS910_C10_SUO_STOCK"
 msgstr "SDT 10"
 
-#, fuzzy
 msgid "IDS_PIUS911_C11_SUO_STOCK"
 msgstr "SDT 11"
 
-#, fuzzy
 msgid "IDS_PIUT505_C6_TORP_STOCK"
 msgstr "533 mm Si 270 M"
 
-#, fuzzy
 msgid "IDS_PIUT606_TORP_FR_FERRUCCIO"
 msgstr "533 mm Si 270 M"
 
-#, fuzzy
 msgid "IDS_PIUT607_C7_TORP_STOCK"
 msgstr "533 mm Si 270 G"
 
-#, fuzzy
 msgid "IDS_PIUT703_C8_TORP_STOCK"
 msgstr "533 mm Si 270 N"
 
-#, fuzzy
 msgid "IDS_PIUT706_TORP_NANI"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PIUT805_C9_TORP_STOCK"
 msgstr "533 mm Si 270"
 
-#, fuzzy
 msgid "IDS_PIUT906_C10_TORP_STOCK"
 msgstr "533 mm Si 270"
 
-#, fuzzy
 msgid "IDS_PIUT907_C11_TORP_STOCK"
 msgstr "533 mm Si 270"
 
-#, fuzzy
 msgid "IDS_PJAB510_SHINANO_STOCK"
-msgstr "C6N Saiun"
+msgstr "C6N 彩雲"
 
-#, fuzzy
 msgid "IDS_PJAD510_SHINANO_STOCK"
-msgstr "B7A Ryūsei"
+msgstr "B7A 流星"
 
-#, fuzzy
 msgid "IDS_PJAF510_SHINANO_STOCK"
-msgstr "A7M Reppū"
+msgstr "A7M 烈風"
 
-#, fuzzy
 msgid "IDS_PJES429_BLACK_AZUMA"
 msgstr "特別"
 
-#, fuzzy
 msgid "IDS_PJES513_NATSUKAZE_GOLDEN"
-msgstr "Японский лак"
+msgstr "漆塗り"
 
-#, fuzzy
 msgid "IDS_PJGA207_25MM_TYPE96_DOUBLE"
-msgstr "25 mm/60 Type 96 в спаренной установке"
+msgstr "25 mm/60 Type 96 (連装砲座)"
 
-#, fuzzy
 msgid "IDS_PJGA214_3IN40_MK1"
-msgstr "76 mm/40 3rd Year Type в одиночной установке"
+msgstr "76 mm /40 3rd Year Type (単装砲座)"
 
-#, fuzzy
 msgid "IDS_PJGA226_20MM_OERLIKON_MK4"
 msgstr "20 mm Oerlikon (Mk.4 砲座)"
 
-#, fuzzy
 msgid "IDS_PJGA227_BROWNING_M2_MOD2"
-msgstr "12,7 mm Browning в одиночной установке"
+msgstr "12.7 mm Browning (単装銃座)"
 
-#, fuzzy
 msgid "IDS_PJGA244_37MM_67_V11"
-msgstr "37 mm установка В-11"
+msgstr "37 mm V-11 砲座"
 
-#, fuzzy
 msgid "IDS_PJGA246_37MM_46K"
-msgstr "37 mm установка 46-К"
+msgstr "37 mm 46-K 砲座"
 
-#, fuzzy
 msgid "IDS_PJGM212_127MM50_TYPE_D"
-msgstr "127 mm/50 3rd Year Type в установке Type D"
+msgstr "127 mm/50 3rd Year Type (Type D 砲座)"
 
-#, fuzzy
 msgid "IDS_PJGM223_5IN38_MK30_MOD0"
-msgstr "127 mm/38 Mk.12 в установке Mk.30 mod.0"
+msgstr "127 mm/38 Mk.12 (Mk.30 mod.0 砲座)"
 
-#, fuzzy
 msgid "IDS_PJGM224_5IN38_MK30_MOD1"
-msgstr "127 mm/38 Mk.12 в установке Mk.30 mod.1"
+msgstr "127 mm/38 Mk.12 (Mk.30 mod.1 砲座)"
 
-#, fuzzy
 msgid "IDS_PJGM225_5IN38_MK30_MOD1"
-msgstr "127 mm/38 Mk.12 в установке Mk.30 mod.1"
+msgstr "127 mm/38 Mk.12 (Mk.30 mod.1 砲座)"
 
-#, fuzzy
 msgid "IDS_PJGS221_76MM40"
-msgstr "76 mm/40 41st Year Type в одиночной установке"
+msgstr "76 mm/40 41st Year Type (単装砲座)"
 
-#, fuzzy
 msgid "IDS_PJGS245_130MM_60_BL_101_B"
-msgstr "130 mm/60 в установке БЛ-101"
+msgstr "130 mm/60 (BL-101 砲座)"
 
-#, fuzzy
 msgid "IDS_PJGS247_152MM_50"
-msgstr "152 mm/50 обр. 1908 в установке Обуховского з-да"
+msgstr "152 mm/50 Model 1908 (Obukhov Plant 砲座)"
 
-#, fuzzy
 msgid "IDS_PJGT211_533MM_TUBE5_TYPE_4"
-msgstr "533 mm 5-трубный"
+msgstr "533 mm 五連装"
 
-#, fuzzy
 msgid "IDS_PJGT228_21IN_MK14_TORPEDO_TUBES"
 msgstr "533 mm Mk14"
 
-#, fuzzy
 msgid "IDS_PJGT229_21IN_MK15_TORPEDO_TUBES"
 msgstr "533 mm Mk15"
 
-#, fuzzy
 msgid "IDS_PJPA145_210MM_HE_T11"
 msgstr "210 mm Spr.Gr. L/4.7"
 
-#, fuzzy
 msgid "IDS_PJPA146_210MM_AP_T11"
 msgstr "210 mm Spr.Gr. L/4.4"
 
-#, fuzzy
 msgid "IDS_PJPA147_155MM_HE_OYODO"
 msgstr "155 mm HE Type0"
 
-#, fuzzy
 msgid "IDS_PJPA148_155MM_AP_OYODO"
 msgstr "155 mm AP/APC Type91"
 
-#, fuzzy
 msgid "IDS_PJPA149_127MM_HE_NATSUKAZE"
 msgstr "127 mm HE Type1"
 
-#, fuzzy
 msgid "IDS_PJPA150_127MM_AP_NATSUKAZE"
 msgstr "127 mm AP Type0"
 
-#, fuzzy
 msgid "IDS_PJPA152_127MM_AP_MIKA"
 msgstr "127 mm AP/SC Mk38"
 
-#, fuzzy
 msgid "IDS_PJPA153_150MM_HE_KUZURYU"
 msgstr "150 mm HE Type 0"
 
-#, fuzzy
 msgid "IDS_PJPA163_SHELL_305MM_AP_850LBS_MIKASA"
-msgstr "305 mm AP 850 фн."
+msgstr "305 mm AP 850 lb"
 
-#, fuzzy
 msgid "IDS_PJPA164_SHELL_305MM_HE_850LBS_MIKASA"
-msgstr "305 mm HE 850 фн."
+msgstr "305 mm HE 850 lb"
 
-#, fuzzy
 msgid "IDS_PJPA166_SHELL_152MM_HE_TYPE_0_MIKASA"
 msgstr "152 mm HE Type0"
 
-#, fuzzy
 msgid "IDS_PJPA178_100MM_HE_CHIKUGO"
 msgstr "100 mm HE Type98"
 
-#, fuzzy
 msgid "IDS_PJPA179_100MM_AP_CHIKUGO"
 msgstr "100 mm AP Type98"
 
-#, fuzzy
 msgid "IDS_PJPA180_406MM_HE_RAIJU"
-msgstr "406 mm ОФ обр. 1928"
+msgstr "406 mm HE Model 1928"
 
-#, fuzzy
 msgid "IDS_PJPA181_406MM_AP_RAIJU"
-msgstr "406 mm ББ обр. 1928"
+msgstr "406 mm AP Model 1928"
 
-#, fuzzy
 msgid "IDS_PJPB213_ZUIHO_TOP"
 msgstr "Type 99 No. 25"
 
-#, fuzzy
 msgid "IDS_PJPB510_SHINANO_STOCK"
 msgstr "Type 99 No. 80 Mk. 5"
 
-#, fuzzy
 msgid "IDS_PJPD905_DEPTH_T10"
 msgstr "Type 1 No.25 Mk 2 model 1"
 
-#, fuzzy
 msgid "IDS_PJPT065_610MM_T11"
 msgstr "Type93"
 
-#, fuzzy
 msgid "IDS_PJPT066_533MM_NATSUKAZE"
 msgstr "Torped M1947 mod 1"
 
-#, fuzzy
 msgid "IDS_PJPT068_I2_MZ"
 msgstr "Type95 mod. 5 MZ"
 
-#, fuzzy
 msgid "IDS_PJPT069_610MM_CHIKUGO"
 msgstr "Type93"
 
-#, fuzzy
 msgid "IDS_PJPT127_SEA_TORPEDO_533MM_TYPE6_MINEKAZE"
 msgstr "533 mm Type6"
 
-#, fuzzy
 msgid "IDS_PJPT510_SHINANO_STOCK"
 msgstr "Type 91 mod. 7"
 
-#, fuzzy
 msgid "IDS_PJSA206_YEAR"
 msgstr "1940"
 
-#, fuzzy
 msgid "IDS_PJSA208_YEAR"
 msgstr "1939"
 
-#, fuzzy
 msgid "IDS_PJSA210"
-msgstr "Taihō"
+msgstr "大鳳"
 
-#, fuzzy
 msgid "IDS_PJSA210_FULL"
-msgstr "Taihō"
+msgstr "大鳳"
 
-#, fuzzy
 msgid "IDS_PJSA210_YEAR"
 msgstr "1944"
 
-#, fuzzy
 msgid "IDS_PJSA510"
-msgstr "Shinano"
+msgstr "信濃"
 
-#, fuzzy
 msgid "IDS_PJSA510_FULL"
-msgstr "Shinano"
+msgstr "信濃"
 
-#, fuzzy
 msgid "IDS_PJSA510_YEAR"
 msgstr "1944"
 
-#, fuzzy
 msgid "IDS_PJSB502_YEAR"
 msgstr "1902"
 
-#, fuzzy
 msgid "IDS_PJSB520_YEAR"
 msgstr "1956"
 
-#, fuzzy
 msgid "IDS_PJSB599_YEAR"
 msgstr "1942"
 
-#, fuzzy
 msgid "IDS_PJSB810_YEAR"
 msgstr "1941"
 
-#, fuzzy
 msgid "IDS_PJSB910_YEAR"
 msgstr "1956"
 
-#, fuzzy
 msgid "IDS_PJSC111_YEAR"
 msgstr "1945"
 
-#, fuzzy
 msgid "IDS_PJSC506_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PJSC509"
-msgstr "Azuma B"
+msgstr "吾妻 B"
 
-#, fuzzy
 msgid "IDS_PJSC509_DESCR"
-msgstr "Незадолго до начала Второй мировой войны в Японии узнали о старте проектирования в США больших крейсеров типа Alaska. Практически сразу началось проектирование корабля этого класса для противодействия американским крейсерам. Корабли этого проекта по архитектуре были близки к линкорам типа Yamato, несли девять новейших 310 mm орудий в трёх башнях. Разработка была остановлена в ноябре 1941 и окончательно отменена после сражения за Мидуэй."
+msgstr "日本は第二次世界大戦の勃発直前に、アメリカがアラスカ級大型巡洋艦の設計を開始したことを察知しました。そしてこれに対抗すべく、速やかに同様の巡洋艦の設計を開始しました。この計画案は大和型戦艦に類似した構造を有しており、主砲として 9 門の新型 310 mm 砲を 3 基の砲塔に搭載することになっていました。しかし 1941 年 11 月に開発が停止されると、最終的にミッドウェー海戦の後に計画が中止されました。"
 
-#, fuzzy
 msgid "IDS_PJSC509_FULL"
-msgstr "Azuma B"
+msgstr "吾妻 B"
 
-#, fuzzy
 msgid "IDS_PJSC509_YEAR"
 msgstr "1940"
 
-#, fuzzy
 msgid "IDS_PJSC530_YEAR"
 msgstr "1944"
 
-#, fuzzy
 msgid "IDS_PJSC540_YEAR"
 msgstr "1940"
 
-#, fuzzy
 msgid "IDS_PJSD548_YEAR"
 msgstr "1940"
 
-#, fuzzy
 msgid "IDS_PJSD610_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PJSD808_YEAR"
 msgstr "1942"
 
-#, fuzzy
 msgid "IDS_PJSS520_YEAR"
 msgstr "1942"
 
-#, fuzzy
 msgid "IDS_PJUA503_ART_OYODO"
-msgstr "155 mm/60 3rd Year Type в трёхорудийной башне"
+msgstr "155 mm/60 3rd Year Type (三連装砲塔)"
 
-#, fuzzy
 msgid "IDS_PJUA716_ART_COLORFUL_AKIZUKI"
-msgstr "100 mm/65 Type 98 в установке Model A"
+msgstr "100 mm/65 Type 98 (Model A 砲座)"
 
-#, fuzzy
 msgid "IDS_PJUA717_ART_MIKA"
-msgstr "127 mm/38 Mk.12 в установке Mk.30 mod.0/mod.1"
+msgstr "127 mm/38 Mk.12 (Mk.30 mod.0/mod.1 砲座)"
 
-#, fuzzy
 msgid "IDS_PJUA809_ART_BLACK_AZUMA"
-msgstr "310 mm/50 Type 0 в трёхорудийной башне"
+msgstr "310 mm/50 Type 0 (三連装砲塔)"
 
-#, fuzzy
 msgid "IDS_PJUA810_ART_OWARI"
-msgstr "460 mm/45 Type 94 в трёхорудийной башне"
+msgstr "460 mm/45 Type 94 (三連装砲塔)"
 
-#, fuzzy
 msgid "IDS_PJUA910_ART_NATSUKAZE"
-msgstr "127 mm/50 3rd Year Type в установке Type D"
+msgstr "127 mm/50 3rd Year Type (Type D 砲座)"
 
-#, fuzzy
 msgid "IDS_PJUA913_ART_KUZURYU"
-msgstr "150 mm/60 5th Year Type в трёхорудийной башне"
+msgstr "150 mm/60 5th Year Type (三連装砲塔)"
 
-#, fuzzy
 msgid "IDS_PJUA914_ART_CLR_YAMATO"
-msgstr "460 mm/45 Type 94 в трёхорудийной башне"
+msgstr "460 mm/45 Type 94 (三連装砲塔)"
 
-#, fuzzy
 msgid "IDS_PJUB907_TB_SHINANO"
-msgstr "C6N Saiun"
+msgstr "C6N 彩雲"
 
-#, fuzzy
 msgid "IDS_PJUD907_DB_SHINANO"
-msgstr "B7A Ryūsei"
+msgstr "B7A 流星"
 
-#, fuzzy
 msgid "IDS_PJUE104_ENG_MIKASA"
-msgstr "推力: 16 000 馬力"
+msgstr "推力: 16,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE509_ENG_OYODO"
-msgstr "推力: 110 000 馬力"
+msgstr "推力: 110,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE718_CV8_ENG_STOCK"
-msgstr "推力: 152 000 馬力"
+msgstr "推力: 152,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE719_ENG_COLORFUL_AKIZUKI"
-msgstr "推力: 52 000 馬力"
+msgstr "推力: 52,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE720_ENG_MIKA"
-msgstr "推力: 50 000 馬力"
+msgstr "推力: 50,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE810_ENG_BLACK_AZUMA"
-msgstr "推力: 170 000 馬力"
+msgstr "推力: 170,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE812_ENG_OWARI"
-msgstr "推力: 150 000 馬力"
+msgstr "推力: 150,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE910_CV10_ENG_STOCK"
-msgstr "推力: 160 000 馬力"
+msgstr "推力: 160,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE913_ENG_NATSUKAZE"
-msgstr "推力: 75 000 馬力"
+msgstr "推力: 75,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE915_ENG_SHINANO"
-msgstr "推力: 150 000 馬力"
+msgstr "推力: 150,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE916_ENG_KUZURYU"
-msgstr "推力: 212 000 馬力"
+msgstr "推力: 212,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE917_ENG_CLR_YAMATO"
-msgstr "推力: 150 000 馬力"
+msgstr "推力: 150,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE920_ENG_LAZAREV_H_EVENT"
-msgstr "推力: 200 000 馬力"
+msgstr "推力: 200,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUE923_ENG_RAIJU"
-msgstr "推力: 200 000 馬力"
+msgstr "推力: 200,000 馬力"
 
-#, fuzzy
 msgid "IDS_PJUF706_CV8_FC_STOCK"
 msgstr "Type8 mod. 1"
 
-#, fuzzy
 msgid "IDS_PJUF905_CV10_FC_STOCK"
 msgstr "Type10 mod. 1"
 
-#, fuzzy
 msgid "IDS_PJUF907_FC_KUZURYU"
 msgstr "Type8 mod. 1"
 
-#, fuzzy
 msgid "IDS_PJUH507_CV6_HULL_STOCK"
-msgstr "Zuihō (A)"
+msgstr "瑞鳳 (A)"
 
-#, fuzzy
 msgid "IDS_PJUH508_CV6_HULL_TOP"
-msgstr "Zuihō (B)"
+msgstr "瑞鳳 (B)"
 
-#, fuzzy
 msgid "IDS_PJUH728_CV8_HULL_STOCK"
-msgstr "Hiryū (A)"
+msgstr "飛龍 (A)"
 
-#, fuzzy
 msgid "IDS_PJUH729_CV8_HULL_TOP"
-msgstr "Hiryū (B)"
+msgstr "飛龍 (B)"
 
-#, fuzzy
 msgid "IDS_PJUH913_CV10_HULL_STOCK"
-msgstr "Taihō"
+msgstr "大鳳"
 
-#, fuzzy
 msgid "IDS_PJUH916_HULL_SHINANO"
-msgstr "Shinano"
+msgstr "信濃"
 
-#, fuzzy
 msgid "IDS_PJUI907_F_SHINANO"
-msgstr "A7M Reppū"
+msgstr "A7M 烈風"
 
-#, fuzzy
 msgid "IDS_PJUS709_SUO_COLORFUL_AKIZUKI"
 msgstr "Type8"
 
-#, fuzzy
 msgid "IDS_PJUS710_SUO_MIKA"
 msgstr "Type8"
 
-#, fuzzy
 msgid "IDS_PJUS917_SUO_CLR_YAMATO"
 msgstr "Type10 mod. 1"
 
-#, fuzzy
 msgid "IDS_PJUS931_C11_SUO_STOCK"
 msgstr "Type11 mod. 1"
 
-#, fuzzy
 msgid "IDS_PJUT716_TORP_COLORFUL_AKIZUKI"
 msgstr "Type93 mod. 2"
 
-#, fuzzy
 msgid "IDS_PJUT718_TORP_MIKA"
 msgstr "Mk15 mod. 3"
 
-#, fuzzy
 msgid "IDS_PJUT919_TORP_NATSUKAZE"
 msgstr "Torped M1947 mod 1"
 
-#, fuzzy
 msgid "IDS_PJUT920_TORP_I2"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PJUT921_TORP_CHIKUGO"
 msgstr "Type 92"
 
-#, fuzzy
 msgid "IDS_PJUT932_C11_TORPEDOES_STOCK"
 msgstr "Type F3"
 
-#, fuzzy
 msgid "IDS_PLAYER_0_04"
-msgstr "Марафонец"
+msgstr "Marafonech"
 
-#, fuzzy
 msgid "IDS_PLAYER_0_14"
-msgstr "Марафонец"
+msgstr "Marafonech"
 
-#, fuzzy
 msgid "IDS_PLAYER_0_24"
-msgstr "Марафонец"
+msgstr "Marafonech"
 
-#, fuzzy
 msgid "IDS_PLAYER_0_34"
-msgstr "Марафонец"
+msgstr "Marafonech"
 
-#, fuzzy
 msgid "IDS_PLAYER_0_44"
-msgstr "Марафонец"
+msgstr "Marafonech"
 
-#, fuzzy
 msgid "IDS_PLAYER_0_54"
-msgstr "Марафонец"
+msgstr "Marafonech"
 
-#, fuzzy
 msgid "IDS_PL_BATTLESHIP_CLASS_GEN"
 msgid_plural "IDS_PL_BATTLESHIP_CLASS_GEN"
-msgstr[0] "линкора"
-msgstr[1] ""
+msgstr[0] "隻の戦艦"
 
-#, fuzzy
 msgid "IDS_PL_CARRIER_CLASS_GEN"
 msgid_plural "IDS_PL_CARRIER_CLASS_GEN"
-msgstr[0] "авианосца"
-msgstr[1] ""
+msgstr[0] "隻の航空母艦"
 
-#, fuzzy
 msgid "IDS_PL_CRUISER_CLASS_GEN"
 msgid_plural "IDS_PL_CRUISER_CLASS_GEN"
-msgstr[0] "крейсера"
-msgstr[1] ""
+msgstr[0] "隻の巡洋艦"
 
-#, fuzzy
 msgid "IDS_PL_DESTROYER_CLASS_GEN"
 msgid_plural "IDS_PL_DESTROYER_CLASS_GEN"
-msgstr[0] "эсминца"
-msgstr[1] ""
+msgstr[0] "隻の駆逐艦"
 
-#, fuzzy
 msgid "IDS_PL_SHIP_DAT"
 msgid_plural "IDS_PL_SHIP_DAT"
-msgstr[0] "кораблю"
-msgstr[1] ""
+msgstr[0] "隻"
 
-#, fuzzy
 msgid "IDS_PL_SHIP_GEN"
 msgid_plural "IDS_PL_SHIP_GEN"
-msgstr[0] "корабля"
-msgstr[1] ""
+msgstr[0] "隻"
 
-#, fuzzy
 msgid "IDS_PORT_UNIVERSAL"
-msgstr "ВМБ"
+msgstr "海軍基地"
 
-#, fuzzy
 msgid "IDS_PORT_UNIVERSAL_TOOLTIP"
-msgstr "Порт ВМБ"
+msgstr "海軍基地港"
 
-#, fuzzy
 msgid "IDS_PORT_VLADIVOSTOK"
-msgstr "Владивосток"
+msgstr "Vladivostok"
 
-#, fuzzy
 msgid "IDS_POZHARSKY"
-msgstr "Дмитрий Пожарский"
+msgstr "Dmitry Pozharsky"
 
-#, fuzzy
 msgid "IDS_PRAB708_GREM"
-msgstr "Гроховский Г-37"
+msgstr "Grokhovsky G-37"
 
-#, fuzzy
 msgid "IDS_PRAD704_SEVEROMORSK_TOP"
-msgstr "Сухой Су-2"
+msgstr "Sukhoi Su-2"
 
-#, fuzzy
 msgid "IDS_PRAF911_ULYANOVSK_STOCK"
-msgstr "Лавочкин Ла-9"
+msgstr "Lavochkin La-9"
 
-#, fuzzy
 msgid "IDS_PRAL903_SEVEROMORSK_TOP"
-msgstr "Сухой Су-6 (АМ-42)"
+msgstr "Sukhoi Su-6 (AM-42)"
 
-#, fuzzy
 msgid "IDS_PRAL911_ULYANOVSK_STOCK"
-msgstr "Сухой Су-6 (АМ-42)"
+msgstr "Sukhoi Su-6 (AM-42)"
 
-#, fuzzy
 msgid "IDS_PRAM001_ASW_MINER_T6"
-msgstr "Бериев МБР-2"
+msgstr "Beriyev MBR-2"
 
-#, fuzzy
 msgid "IDS_PRAM002_ASW_MINER_T8"
-msgstr "Бериев Бе-6"
+msgstr "Beriyev Be-6"
 
-#, fuzzy
 msgid "IDS_PRAM003_ASW_MINER_T10"
-msgstr "Бериев Бе-6"
+msgstr "Beriyev Be-6"
 
-#, fuzzy
 msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_AVIATION"
 msgstr "航空機"
 
-#, fuzzy
 msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_CHAT"
-msgstr "Общение"
+msgstr "コミュニケーション"
 
-#, fuzzy
 msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_SHIPS"
-msgstr "Корабли"
+msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_SPECTATOR"
-msgstr "Наблюдение за боем"
+msgstr "戦闘オブザーバー"
 
-#, fuzzy
 msgid "IDS_PREMIUM_ACCOUNT_COMMON_TOOLTIP_HEADER"
-msgstr "Общий премиум: %(days)s"
+msgstr "MK プレミアム: %(days)s"
 
-#, fuzzy
 msgid "IDS_PREMIUM_ACCOUNT_MK"
-msgstr "Корабельный премиум"
+msgstr "MK プレミアムアカウント"
 
-#, fuzzy
 msgid "IDS_PREMIUM_ACCOUNT_MK_TOOLTIP_HEADER"
-msgstr "Корабельный премиум: %(days)s"
+msgstr "MK プレミアム: %(days)s"
 
-#, fuzzy
 msgid "IDS_PREP311_SOVRUSSIA_ROSTELECOM"
-msgstr "Штатный"
+msgstr "標準"
 
-#, fuzzy
 msgid "IDS_PREP312_SOVRUSSIA_DOMRU"
-msgstr "Штатный"
+msgstr "標準"
 
-#, fuzzy
 msgid "IDS_PRES310_SEVEROMORSK_CEREMONIAL"
 msgstr "戦時迷彩"
 
-#, fuzzy
 msgid "IDS_PRES406_BLACK_MOLOTOV"
 msgstr "特別"
 
-#, fuzzy
 msgid "IDS_PRES451_DOLGORUKIY_CEREMONIAL"
 msgstr "戦時迷彩"
 
-#, fuzzy
 msgid "IDS_PRES608_BLACK_S_189"
 msgstr "特別"
 
-#, fuzzy
 msgid "IDS_PRGA187_37MM_66K"
-msgstr "37 mm установка 66-К"
+msgstr "37 mm 66-K 砲座"
 
-#, fuzzy
 msgid "IDS_PRGA213_85MM52_92K1"
-msgstr "85 mm/52 обр. 1939 в установке 92-К"
+msgstr "85 mm/52 Model 1939 (92-K 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGA218_40MM_BOFORS"
-msgstr "40 mm/56 Bofors в установке Mk.2"
+msgstr "40 mm/56 Bofors (Mk.2 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGA3002_45MM_SM_20_ZIF"
-msgstr "45 mm установка СМ-20-ЗИФ"
+msgstr "45 mm SM-20-ZIF 砲座"
 
-#, fuzzy
 msgid "IDS_PRGA3003_25MM_4M120"
-msgstr "25 mm 110-ПМ в установке 4М-120"
+msgstr "25 mm 110-PM (4M-120 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGA3004_45MM_21K"
-msgstr "45 mm установка 21-К"
+msgstr "45 mm 21-K 砲座"
 
-#, fuzzy
 msgid "IDS_PRGA3005_3IN_76_2MM_30_LENDER_8_K"
-msgstr "76,2 mm обр. 1914/15 на зенитном станке"
+msgstr "76.2 mm Model 1914/15 (対空砲座)"
 
-#, fuzzy
 msgid "IDS_PRGA3006_12_7MM_DSHK"
-msgstr "12,7 mm ДШК"
+msgstr "12.7 mm DShK"
 
-#, fuzzy
 msgid "IDS_PRGM204_152MM_53_M1929"
-msgstr "152 mm/53 OTO Model 1929 в установке Model 1929"
+msgstr "152 mm/53 OTO Model 1929 (Model 1929 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGM205_152MM_53_M1929_RF_ITL"
-msgstr "152 mm/53 OTO Model 1929 в установке Model 1929"
+msgstr "152 mm/53 OTO Model 1929 (Model 1929 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGM212_203MM55_BARRELS_3_ITL"
-msgstr "203 mm/55 Model 1934 в башенной установке"
+msgstr "203 mm/55 Model 1934 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PRGM220_12IN50_MK8_TRIPLE"
-msgstr "305 mm/50 Mk.8 в башенной установке"
+msgstr "305 mm/50 Mk.8 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PRGM221_12IN52_MOD4"
-msgstr "305 mm/52 обр. 1907 в установке МК-3-12"
+msgstr "305 mm/52 Model 1907 (MK-3-12 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGM223_75MM_50_CANET_CS"
-msgstr "75 mm/50 обр. 1892 на станке Меллера"
+msgstr "75 mm/50 Model 1892 (Meller 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGM225_12IN52_MOD5"
-msgstr "305 mm/52 обр. 1907 в установке МК-3-12"
+msgstr "305 mm/52 Model 1907 (MK-3-12 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGM227_152MM_45_CASEMATE_SHIELD"
-msgstr "152 mm/45 обр. 1892 на станке Канэ"
+msgstr "152 mm/45 Model 1892 (Canet 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGM237_12IN52_MOD_6"
-msgstr "305 mm/52 обр. 1907 в установке МК-3-12"
+msgstr "305 mm/52 Model 1907 (MK-3-12 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGM248_18IN48_MK1_TWIN"
-msgstr "457 mm/48 Mk.1 в башенной установке"
+msgstr "305 mm/52 Model 1907 (MK-3-12 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGM3000_457MM_48"
-msgstr "457 mm/48 Б-45 в установке СМ-8"
+msgstr "457 mm/48 B-45 (SM-8 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGM3007_4IN_102MM_60_1911"
-msgstr "102 mm/60 обр. 1911 на станке Обуховского з-да"
+msgstr "102 mm/60 Model 1911 (Obukhov Plant 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGS219_5IN38_MK32_MOD12"
-msgstr "127 mm/38 Mk.12 в установке Mk.32"
+msgstr "127 mm/38 Mk.12 (Mk.32 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGS242_152MM_45_TWIN"
-msgstr "152 mm/45 обр. 1892 в башенной установке"
+msgstr "152 mm/45 Model 1892 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PRGS249_5IN38_MK38_MOD0"
 msgstr "127 mm/38 Mk.12 (Mk.38 砲座)"
 
-#, fuzzy
 msgid "IDS_PRGS900_152MM_45_TWIN_BORODINO"
-msgstr "152 mm/45 обр. 1892 в башенной установке"
+msgstr "152 mm/45 Model 1892 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PRGT206_533MM_3_TUBE_ITL"
 msgstr "533 mm tubo lanciasiluri"
 
-#, fuzzy
 msgid "IDS_PRGT3008_450MM_3TUBES"
-msgstr "450 mm 3-трубный системы Гончарова"
+msgstr "450 mm Goncharov 三連装"
 
-#, fuzzy
 msgid "IDS_PROGRESS_IN_CAPTURE_CONTROL"
-msgstr "ЗАХВАТ ТОЧКИ"
+msgstr "エリア占領"
 
-#, fuzzy
 msgid "IDS_PRPA151_406MM_AP_RTC_S_RUSSIA"
-msgstr "406 mm ББ обр. 1937"
+msgstr "406 mm AP Model 1937"
 
-#, fuzzy
 msgid "IDS_PRPA152_152MM_OFU35_SCHERBAKOV"
-msgstr "ОФУ-35"
+msgstr "OFU-35"
 
-#, fuzzy
 msgid "IDS_PRPA153_152MM_B35_SCHERBAKOV"
-msgstr "Б-35"
+msgstr "AP-35"
 
-#, fuzzy
 msgid "IDS_PRPA156_180MM_HE_Y_DOLGORUKIY"
-msgstr "ОФ-32"
+msgstr "HE-32"
 
-#, fuzzy
 msgid "IDS_PRPA157_180MM_AP_Y_DOLGORUKIY"
-msgstr "ББ-32"
+msgstr "AP-32"
 
-#, fuzzy
 msgid "IDS_PRPA158_130MM_58_HE"
-msgstr "ОФ-42"
+msgstr "HE-42"
 
-#, fuzzy
 msgid "IDS_PRPA159_130MM_58_AP"
-msgstr "ПБ-42"
+msgstr "SAP-42"
 
-#, fuzzy
 msgid "IDS_PRPA195_130MM_HE_CM_62"
-msgstr "ОФ-42"
+msgstr "HE-42"
 
-#, fuzzy
 msgid "IDS_PRPA196_457MM_HE_KR_ZNAMYA"
-msgstr "457 mm ОФ обр. 1946"
+msgstr "457 mm HE Model 1946"
 
-#, fuzzy
 msgid "IDS_PRPA197_457MM_AP_KR_ZNAMYA"
-msgstr "457 mm ББ обр. 1946"
+msgstr "457 mm AP Model 1946"
 
-#, fuzzy
 msgid "IDS_PRPA208_406MM_HE_SEVEROMORSK"
-msgstr "406 mm ОФ обр. 1928"
+msgstr "406 mm HE Model 1928"
 
-#, fuzzy
 msgid "IDS_PRPA209_406MM_AP_SEVEROMORSK"
-msgstr "406 mm ББ обр. 1928"
+msgstr "406 mm AP Model 1928"
 
-#, fuzzy
 msgid "IDS_PRPA210_152MM_HE_KERCH"
 msgstr "152 mm proiettili HE"
 
-#, fuzzy
 msgid "IDS_PRPA211_152MM_AP_KERCH"
 msgstr "152 mm proiettili AP"
 
-#, fuzzy
 msgid "IDS_PRPA212_406MM_HE_MOD1928"
-msgstr "406 mm ОФ обр. 1928"
+msgstr "406 mm HE Model 1928"
 
-#, fuzzy
 msgid "IDS_PRPA213_406MM_AP_MOD1928"
-msgstr "406 mm ББ обр. 1928"
+msgstr "406 mm AP Model 1928"
 
-#, fuzzy
 msgid "IDS_PRPA214_152MM_CS_KERCH"
 msgstr "152 mm proiettili CS 1926 mod.1"
 
-#, fuzzy
 msgid "IDS_PRPA216_203MM_55_AP_TOGLIATTI"
 msgstr "203 mm proiettili AP 1924 mod.2"
 
-#, fuzzy
 msgid "IDS_PRPA220_127MM_HE_SG"
 msgstr "127 mm HE Mk32"
 
-#, fuzzy
 msgid "IDS_PRPA222_240MM_AP_SVERDLOVSK"
-msgstr "240 mm ББ обр. 1944"
+msgstr "240 mm AP Model 1944"
 
-#, fuzzy
 msgid "IDS_PRPA223_130MM_HE_OGNENNY"
-msgstr "ОФ-46"
+msgstr "HE-46"
 
-#, fuzzy
 msgid "IDS_PRPA224_130MM_AP_OGNENNY"
-msgstr "ПБ-46"
+msgstr "SAP-46"
 
-#, fuzzy
 msgid "IDS_PRPA239_130MM_HE_OGNEVOY"
-msgstr "ОФ-46"
+msgstr "HE-46"
 
-#, fuzzy
 msgid "IDS_PRPA240_130MM_AP_OGNEVOY"
-msgstr "ПБ-46"
+msgstr "SAP-46"
 
-#, fuzzy
 msgid "IDS_PRPA241_152MM_OFU35_SG_T8_11"
-msgstr "ОФУ-35"
+msgstr "OFU-35"
 
-#, fuzzy
 msgid "IDS_PRPA254_152_AP_VARYAG_EVENT"
-msgstr "152 mm ББ 91 фн."
+msgstr "152 mm AP 91 lb"
 
-#, fuzzy
 msgid "IDS_PRPA255_152_HE_AVRORA_EVENT"
-msgstr "152 mm ОФ 109 фн."
+msgstr "152 mm HE 109 lb"
 
-#, fuzzy
 msgid "IDS_PRPA257_457MM_HE_S_GRUZIA"
 msgstr "457 mm HE Type B"
 
-#, fuzzy
 msgid "IDS_PRPA258_457MM_AP_S_GRUZIA"
 msgstr "457 mm AP Type B"
 
-#, fuzzy
 msgid "IDS_PRPA259_152MM_25HE_1907"
-msgstr "152 mm ОФ обр. 1907"
+msgstr "152 mm HE Model 1907"
 
-#, fuzzy
 msgid "IDS_PRPA260_152MM_OFU35_25HE_SG"
-msgstr "ОФУ-35"
+msgstr "OFU-35"
 
-#, fuzzy
 msgid "IDS_PRPA261_203MM_HE_GREM"
 msgstr "203 mm HE OEA Mle 1927"
 
-#, fuzzy
 msgid "IDS_PRPA262_203MM_AP_GREM"
 msgstr "203 mm AP OPf Mle 1936"
 
-#, fuzzy
 msgid "IDS_PRPA265_406MM_HE_SOVET"
-msgstr "406 mm ОФ обр. 1928"
+msgstr "406 mm HE Model 1928"
 
-#, fuzzy
 msgid "IDS_PRPA266_406MM_AP_SOVET"
-msgstr "406 mm ББ обр. 1928"
+msgstr "406 mm AP Model 1928"
 
-#, fuzzy
 msgid "IDS_PRPA267_102MM_HE_SHAUMIAN"
-msgstr "102 mm ОФ обр. 1915"
+msgstr "102 mm HE Model 1915"
 
-#, fuzzy
 msgid "IDS_PRPA910_130MM_HE_SG_KREMLIN"
-msgstr "ОФ-42"
+msgstr "HE-42"
 
-#, fuzzy
 msgid "IDS_PRPA911_457MM_KREMLIN"
-msgstr "457 mm ББ обр. 1946"
+msgstr "457 mm AP Model 1946"
 
-#, fuzzy
 msgid "IDS_PRPA916_HE_DESTROYER_CHALLENGE"
 msgstr "120 mm HE"
 
-#, fuzzy
 msgid "IDS_PRPA917_AP_DESTROYER_CHALLENGE"
 msgstr "120 mm AP"
 
-#, fuzzy
 msgid "IDS_PRPA999_457MM_AP_KR_ZNAMYA_WHEELHOUSE"
-msgstr "457 mm ББ обр. 1946"
+msgstr "457 mm AP Model 1946"
 
-#, fuzzy
 msgid "IDS_PRPD905_ASWBOMB_SUBTEST"
-msgstr "Глубинная бомба"
+msgstr "爆雷"
 
-#, fuzzy
 msgid "IDS_PRPD906_DEPTHBOMB_SUBTEST"
-msgstr "Глубинная бомба"
+msgstr "爆雷"
 
-#, fuzzy
 msgid "IDS_PRPR011_ULYANOVSK_STOCK"
-msgstr "С-21"
+msgstr "S-21"
 
-#, fuzzy
 msgid "IDS_PRPR994_ORLOV_STOCK"
-msgstr "С-21"
+msgstr "S-21"
 
-#, fuzzy
 msgid "IDS_PRPS009_SEVEROMORSK_TOP"
-msgstr "ФАБ-500"
+msgstr "FAB-500"
 
-#, fuzzy
 msgid "IDS_PRPS010_ULYANOVSK_STOCK"
-msgstr "ФАБ-500"
+msgstr "FAB-500"
 
-#, fuzzy
 msgid "IDS_PRPS996_ORLOV_TOP"
-msgstr "ФАБ-500"
+msgstr "FAB-500"
 
-#, fuzzy
 msgid "IDS_PRPT049_53_38_SUB"
 msgstr "53-38"
 
-#, fuzzy
 msgid "IDS_PRPT051_53_38U_SUB"
-msgstr "53-38У"
+msgstr "53-38U"
 
-#, fuzzy
 msgid "IDS_PRPT066_533MM_SUB_T11"
-msgstr "53-38У"
+msgstr "53-38U"
 
-#, fuzzy
 msgid "IDS_PRPT068_KERCH"
 msgstr "533 mm Si 270"
 
-#, fuzzy
 msgid "IDS_PRPT069_TOGLIATTI"
 msgstr "53-38"
 
-#, fuzzy
 msgid "IDS_PRPT070_MONOMAKH"
 msgstr "53-50"
 
-#, fuzzy
 msgid "IDS_PRPT073_PODVOISKY"
 msgstr "53-38"
 
-#, fuzzy
 msgid "IDS_PRPT075_MINSK"
-msgstr "53-38У"
+msgstr "53-38U"
 
-#, fuzzy
 msgid "IDS_PRPT076_PR_48"
-msgstr "53-36 мод. 2"
+msgstr "53-36 mod. 2"
 
-#, fuzzy
 msgid "IDS_PRPT084_SMELY"
-msgstr "53-39 мод. 2"
+msgstr "53-39 mod. 2"
 
-#, fuzzy
 msgid "IDS_PRPT092_GREM_AIR"
-msgstr "ТАН-12"
+msgstr "TAN-12"
 
-#, fuzzy
 msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VII"
 
-#, fuzzy
 msgid "IDS_PRPT990_SUBTEST"
-msgstr "53-38У"
+msgstr "53-38U"
 
-#, fuzzy
 msgid "IDS_PRPT992_ORLOV_TOP"
-msgstr "45-36АН-Б"
+msgstr "45-36AN-B"
 
-#, fuzzy
 msgid "IDS_PRPT998_KR_ZNAMYA_WHEELHOUSE"
-msgstr "53-38У"
+msgstr "53-38U"
 
-#, fuzzy
 msgid "IDS_PRSA111_YEAR"
 msgstr "1957"
 
-#, fuzzy
 msgid "IDS_PRSB208_YEAR"
 msgstr "1914"
 
-#, fuzzy
 msgid "IDS_PRSB209_YEAR"
 msgstr "1914"
 
-#, fuzzy
 msgid "IDS_PRSB210_YEAR"
 msgstr "1915"
 
-#, fuzzy
 msgid "IDS_PRSB502_YEAR"
 msgstr "1904"
 
-#, fuzzy
 msgid "IDS_PRSB515_YEAR"
 msgstr "1914"
 
-#, fuzzy
 msgid "IDS_PRSB519_YEAR"
 msgstr "1936"
 
-#, fuzzy
 msgid "IDS_PRSB520_YEAR"
 msgstr "1938"
 
-#, fuzzy
 msgid "IDS_PRSB526_YEAR"
 msgstr "???"
 
-#, fuzzy
 msgid "IDS_PRSB529_YEAR"
 msgstr "1939"
 
-#, fuzzy
 msgid "IDS_PRSB530_YEAR"
 msgstr "1953"
 
-#, fuzzy
 msgid "IDS_PRSB540_YEAR"
 msgstr "1914"
 
-#, fuzzy
 msgid "IDS_PRSB548_YEAR"
 msgstr "1933"
 
-#, fuzzy
 msgid "IDS_PRSB549"
-msgstr "Грузия"
+msgstr "Sakartvelo"
 
-#, fuzzy
 msgid "IDS_PRSB549_FULL"
-msgstr "Грузия"
+msgstr "Sakartvelo"
 
-#, fuzzy
 msgid "IDS_PRSB549_YEAR"
 msgstr "1938"
 
-#, fuzzy
 msgid "IDS_PRSB910_YEAR"
 msgstr "1941"
 
-#, fuzzy
 msgid "IDS_PRSB999_YEAR"
 msgstr "1953"
 
-#, fuzzy
 msgid "IDS_PRSC516_YEAR"
 msgstr "1935"
 
-#, fuzzy
 msgid "IDS_PRSC519_YEAR"
 msgstr "1954"
 
-#, fuzzy
 msgid "IDS_PRSC526_YEAR"
 msgstr "1941"
 
-#, fuzzy
 msgid "IDS_PRSC529_YEAR"
 msgstr "1941"
 
-#, fuzzy
 msgid "IDS_PRSC539_YEAR"
 msgstr "1954"
 
-#, fuzzy
 msgid "IDS_PRSC549_YEAR"
 msgstr "1944"
 
-#, fuzzy
 msgid "IDS_PRSC559_YEAR"
 msgstr "1937"
 
-#, fuzzy
 msgid "IDS_PRSC708_YEAR"
 msgstr "1940"
 
-#, fuzzy
 msgid "IDS_PRSC902_YEAR"
 msgstr "1935"
 
-#, fuzzy
 msgid "IDS_PRSC912_YEAR"
 msgstr "1935"
 
-#, fuzzy
 msgid "IDS_PRSC916_YEAR"
 msgstr "1935"
 
-#, fuzzy
 msgid "IDS_PRSC922_YEAR"
 msgstr "1935"
 
-#, fuzzy
 msgid "IDS_PRSC970_YEAR"
 msgstr "1955"
 
-#, fuzzy
 msgid "IDS_PRSD218_YEAR"
 msgstr "1941"
 
-#, fuzzy
 msgid "IDS_PRSD306_YEAR"
 msgstr "1941"
 
-#, fuzzy
 msgid "IDS_PRSD317"
-msgstr "Осмотрительный"
+msgstr "Osmotritelny"
 
-#, fuzzy
 msgid "IDS_PRSD317_FULL"
-msgstr "Осмотрительный"
+msgstr "Osmotritelny"
 
-#, fuzzy
 msgid "IDS_PRSD317_YEAR"
 msgstr "1947"
 
-#, fuzzy
 msgid "IDS_PRSD318_YEAR"
 msgstr "1951"
 
-#, fuzzy
 msgid "IDS_PRSD319_YEAR"
 msgstr "1956"
 
-#, fuzzy
 msgid "IDS_PRSD320"
-msgstr "Горделивый"
+msgstr "Gordelivy"
 
-#, fuzzy
 msgid "IDS_PRSD320_FULL"
-msgstr "Горделивый"
+msgstr "Gordelivy"
 
-#, fuzzy
 msgid "IDS_PRSD502_YEAR"
 msgstr "1902"
 
-#, fuzzy
 msgid "IDS_PRSD516_YEAR"
 msgstr "1925"
 
-#, fuzzy
 msgid "IDS_PRSD519_YEAR"
 msgstr "1950"
 
-#, fuzzy
 msgid "IDS_PRSD916"
-msgstr "Упорный"
+msgstr "Uporny"
 
-#, fuzzy
 msgid "IDS_PRSD916_FULL"
-msgstr "Упорный"
+msgstr "Uporny"
 
-#, fuzzy
 msgid "IDS_PRSD916_YEAR"
 msgstr "1937"
 
-#, fuzzy
 msgid "IDS_PRSS111"
-msgstr "Б-4"
+msgstr "B-4"
 
-#, fuzzy
 msgid "IDS_PRSS111_FULL"
-msgstr "Б-4"
+msgstr "B-4"
 
-#, fuzzy
 msgid "IDS_PRSS518_YEAR"
 msgstr "1955"
 
-#, fuzzy
 msgid "IDS_PRSS910_YEAR"
 msgstr "1939"
 
-#, fuzzy
 msgid "IDS_PRUA406_ART_P_KOMMUNA"
-msgstr "305 mm/52 обр. 1907 в установке МК-3-12"
+msgstr "305 mm/52 Model 1907 (MK-3-12 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA500_ART_TOP_SECRET"
-msgstr "356 mm/52 обр. 1913 в башне Металлического з-да"
+msgstr "356 mm/52 Model 1913 (Metal Works Plant 砲塔)"
 
-#, fuzzy
 msgid "IDS_PRUA505_ART_KERCH"
-msgstr "152 mm/53 OTO Model 1929 в установке Model 1929"
+msgstr "152 mm/53 OTO Model 1929 (Model 1929 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA506_ART_BLACK_MOLOTOV"
-msgstr "180 mm/57 обр. 1932 в установке МК-3-180"
+msgstr "180 mm/57 Model 1932 (MK-3-180 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA508_ART_MAKAROV_CHALLENGE"
-msgstr "150 mm/60 SK C/25 в установке Drh Tr C/28"
+msgstr "150 mm/60 SK C/25 (Drh Tr C/28 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA509_ART_DESTROYER_CHALLENGE"
-msgstr "120 mm/45 QF Mk.IX в установке CPXIV/XVII/XVIII"
+msgstr "120 mm/45 QF Mk.IX (CPXIV/XVII/XVIII 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA510_ART_SHAUMIAN"
-msgstr "102 mm/60 обр. 1911 на станке Обуховского з-да"
+msgstr "102 mm/60 Model 1911 (Obukhov Plant 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA605_D7_ART_STOCK"
-msgstr "130 mm/50 обр. 1936 в установке Б-2ЛМ"
+msgstr "130 mm/50 Model 1936 (B-2LM 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA714_ART_FRUNZE"
-msgstr "305 mm/52 обр. 1907 в установке МК-3-12"
+msgstr "305 mm/52 Model 1907 (MK-3-12 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA715_D8_ART_STOCK"
-msgstr "130 mm/50 обр. 1936 в установке Б-2ЛМ"
+msgstr "130 mm/50 Model 1936 (B-2LM 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA717_ART_GREM"
-msgstr "203 mm/55 Mle 1934 в башенной установке"
+msgstr "203 mm/55 Mle 1934 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PRUA810_ART_TOGLIATTI"
-msgstr "203 mm/55 Model 1934 в башенной установке"
+msgstr "203 mm/55 Model 1934 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PRUA815_ART_RTC_SOV_RUSSIA"
-msgstr "406 mm/50 Б-37 в установке МК-1-406"
+msgstr "406 mm/50 B-37 (MK-1-406 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA816_ART_SCHERBAKOV"
-msgstr "152 mm/57 Б-38 в установке МК-5-бис"
+msgstr "152 mm/57 B-38 (MK-5-bis 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA817_ART_R_ALASKA"
-msgstr "305 mm/50 Mk.8 в башенной установке"
+msgstr "305 mm/50 Mk.8 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PRUA818_ART_PERM_VELIKAYA"
-msgstr "406 mm/50 Б-37 в установке МК-1-406"
+msgstr "406 mm/50 B-37 (MK-1-406 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA819_ART_SVERDLOVSK"
-msgstr "240 mm/60 в установке МК-3-240"
+msgstr "240 mm/60 (MK-3-240 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA820_D9_ART_STOCK"
-msgstr "130 mm/58 обр. 1957 в установке СМ-2-1"
+msgstr "130 mm/58 Model 1957 (SM-2-1 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA825_ART_S_GRUZIA"
-msgstr "457 mm/48 Mk.1 в башенной установке"
+msgstr "305 mm/52 Model 1907 (MK-3-12 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA826_ART_OGNENNY"
-msgstr "130 mm/50 обр. 1936 в установке Б-2ЛМ"
+msgstr "130 mm/50 Model 1936 (B-2LM 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA919_ART_SEVEROMORSK"
-msgstr "406 mm/45 обр. 1915 в башенной установке"
+msgstr "406 mm/45 Model 1915 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PRUA921_ART_CRUISER_TEST"
-msgstr "180 mm/65 СМ-45 в установке СМ-48"
+msgstr "180 mm/65 SM-45 (SM-48 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA923_ART_KR_ZNAMYA"
-msgstr "457 mm/48 Б-45 в установке СМ-8"
+msgstr "457 mm/48 B-45 (SM-8 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA924_ART_SUBTEST"
-msgstr "100 mm/51 Б-24ПЛ обр. 1936"
+msgstr "100 mm/51 B-24PL Model 1936"
 
-#, fuzzy
 msgid "IDS_PRUA925_ART_KZ_RUBKA"
-msgstr "457 mm/48 Б-45 в установке СМ-8"
+msgstr "457 mm/48 B-45 (SM-8 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUA928_ART_KIBERSLAVA"
-msgstr "406 mm/55 Б-52 в башенной установке"
+msgstr "406 mm/55 B-52 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PRUA980_ART_KREMLIN"
-msgstr "457 mm/48 Б-45 в установке СМ-8"
+msgstr "457 mm/48 B-45 (SM-8 砲座)"
 
-#, fuzzy
 msgid "IDS_PRUB704_TB_GREM"
-msgstr "Гроховский Г-37"
+msgstr "Grokhovsky G-37"
 
-#, fuzzy
 msgid "IDS_PRUD920_DB_SEVEROMORSK"
-msgstr "Сухой Су-2"
+msgstr "Sukhoi Su-2"
 
-#, fuzzy
 msgid "IDS_PRUE105_ENG_AVRORA_EVENT"
-msgstr "推力: 11 600 馬力"
+msgstr "推力: 11,600 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE106_ENG_NOVIK_EVENT"
-msgstr "推力: 17 700 馬力"
+msgstr "推力: 17,700 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE107_ENG_VARYAG_EVENT"
-msgstr "推力: 21 100 馬力"
+msgstr "推力: 21,100 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE500_ENG_TOP_SECRET"
-msgstr "推力: 75 000 馬力"
+msgstr "推力: 75,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE507_D6_ENG_STOCK"
-msgstr "推力: 54 000 馬力"
+msgstr "推力: 54,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE508_ENG_BLACK_MOLOTOV"
-msgstr "推力: 110 000 馬力"
+msgstr "推力: 110,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE509_ENG_MAKAROV_CHALLENGE"
-msgstr "推力: 60 000 馬力"
+msgstr "推力: 60,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE510_ENG_DESTROYER_CHALLENGE"
-msgstr "推力: 80 000 馬力"
+msgstr "推力: 80,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE719_B8_ENG_STOCK"
-msgstr "推力: 140 000 馬力"
+msgstr "推力: 140,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE722_ENG_FRUNZE"
-msgstr "推力: 130 000 馬力"
+msgstr "推力: 130,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE725_ENG_GREM"
-msgstr "推力: 120 000 馬力"
+msgstr "推力: 120,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE809_ENG_RTC_SOV_RUSSIA"
-msgstr "推力: 231 000 馬力"
+msgstr "推力: 231,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE816_ENG_R_ALASKA"
-msgstr "推力: 180 000 馬力"
+msgstr "推力: 180,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE817_ENG_PERM_VELIKAYA"
-msgstr "推力: 231 000 馬力"
+msgstr "推力: 231,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE818_ENG_SVERDLOVSK"
-msgstr "推力: 150 000 馬力"
+msgstr "推力: 150,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE819_ENG_YURI_DOLGORUKIY"
-msgstr "推力: 210 000 馬力"
+msgstr "推力: 210,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE820_D9_ENG_STOCK"
-msgstr "推力: 72 000 馬力"
+msgstr "推力: 72,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE821_ENG_SOVREMENNY"
-msgstr "推力: 90 000 馬力"
+msgstr "推力: 90,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE822_ENG_S_GRUZIA"
-msgstr "推力: 230 000 馬力"
+msgstr "推力: 230,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE920_ENG_SEVEROMORSK"
-msgstr "推力: 300 000 馬力"
+msgstr "推力: 300,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE922_B10_ENG_STOCK"
-msgstr "推力: 200 000 馬力"
+msgstr "推力: 200,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE923_ENG_CRUISER_TEST"
-msgstr "推力: 192 000 馬力"
+msgstr "推力: 192,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE924_D10_ENG_STOCK"
-msgstr "推力: 76 000 馬力"
+msgstr "推力: 76,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE926_ENG_SUBTEST"
-msgstr "推力: 8 400 馬力"
+msgstr "推力: 8,400 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE928_ENG_KZ_RUBKA"
-msgstr "推力: 280 000 馬力"
+msgstr "推力: 280,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE933_ENG_KIBERSLAVA"
-msgstr "推力: 280 000 馬力"
+msgstr "推力: 280,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUE980_ENG_KREMLIN"
-msgstr "推力: 280 000 馬力"
+msgstr "推力: 280,000 馬力"
 
-#, fuzzy
 msgid "IDS_PRUF703_FC_GREM"
-msgstr "Тип 6"
+msgstr "Type 6"
 
-#, fuzzy
 msgid "IDS_PRUF904_FC_SEVEROMORSK"
-msgstr "Тип 10"
+msgstr "Type 10"
 
-#, fuzzy
 msgid "IDS_PRUH518_HULL_MAKAROV_CHALLENGE"
-msgstr "Адмирал Макаров"
+msgstr "Admiral Makarov"
 
-#, fuzzy
 msgid "IDS_PRUH519_HULL_DESTROYER_CHALLENGE"
-msgstr "Упорный"
+msgstr "Uporny"
 
-#, fuzzy
 msgid "IDS_PRUH610_D7_HULL_STOCK"
-msgstr "Осмотрительный"
+msgstr "Osmotritelny"
 
-#, fuzzy
 msgid "IDS_PRUH831_HULL_S_GRUZIA"
-msgstr "Грузия"
+msgstr "Sakartvelo"
 
-#, fuzzy
 msgid "IDS_PRUH921_S11_HULL_STOCK"
-msgstr "Б-4"
+msgstr "B-4"
 
-#, fuzzy
 msgid "IDS_PRUH924_D10_HULL_STOCK"
-msgstr "Горделивый"
+msgstr "Gordelivy"
 
-#, fuzzy
 msgid "IDS_PRUL900_CV11_SB_STOCK"
-msgstr "Сухой Су-6 (АМ-42)"
+msgstr "Sukhoi Su-6 (AM-42)"
 
-#, fuzzy
 msgid "IDS_PRUL904_SB_SEVEROMORSK"
-msgstr "Сухой Су-6 (АМ-42)"
+msgstr "Sukhoi Su-6 (AM-42)"
 
-#, fuzzy
 msgid "IDS_PRUQ704_SONAR_BLACK_S_189"
-msgstr "ГАП 8"
+msgstr "水中聴音 8"
 
-#, fuzzy
 msgid "IDS_PRUS708_B8_SUO_STOCK"
-msgstr "СУО VIII мод. 1"
+msgstr "GFCS VIII mod. 1"
 
-#, fuzzy
 msgid "IDS_PRUS807_SUO_RTC_SOV_RUSSIA"
-msgstr "СУО IX мод. 1"
+msgstr "GFCS IX mod. 1"
 
-#, fuzzy
 msgid "IDS_PRUS808_B9_SUO_STOCK"
-msgstr "СУО IX мод. 1"
+msgstr "GFCS IX mod. 1"
 
-#, fuzzy
 msgid "IDS_PRUS823_SUO_SCHERBAKOV"
-msgstr "СУО IX мод. 1"
+msgstr "GFCS IX mod. 1"
 
-#, fuzzy
 msgid "IDS_PRUS917_SUO_SEVEROMORSK"
-msgstr "СУО X мод. 1"
+msgstr "GFCS X mod. 1"
 
-#, fuzzy
 msgid "IDS_PRUS918_B10_SUO_STOCK"
-msgstr "СУО X мод. 1"
+msgstr "GFCS X mod. 1"
 
-#, fuzzy
 msgid "IDS_PRUS919_SUO_CRUISER_TEST"
-msgstr "СУО X мод. 1"
+msgstr "GFCS X mod. 1"
 
-#, fuzzy
 msgid "IDS_PRUT502_TORP_KERCH"
 msgstr "533 mm Si 270"
 
-#, fuzzy
 msgid "IDS_PRUT503_TORP_BLACK_MOLOTOV"
 msgstr "53-38"
 
-#, fuzzy
 msgid "IDS_PRUT504_D6_TORP_STOCK"
 msgstr "53-39"
 
-#, fuzzy
 msgid "IDS_PRUT505_TORP_MAKAROV_CHALLENGE"
 msgstr "G7a T1"
 
-#, fuzzy
 msgid "IDS_PRUT506_TORP_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VIII"
 
-#, fuzzy
 msgid "IDS_PRUT606_D7_TORP_STOCK"
-msgstr "53-39 мод. 4"
+msgstr "53-39 mod. 4"
 
-#, fuzzy
 msgid "IDS_PRUT709_TORP_BLACK_S_189"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PRUT710_TORP_FRUNZE"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PRUT713_D8_TORP_STOCK"
 msgstr "53-51"
 
-#, fuzzy
 msgid "IDS_PRUT714_D8_TORP_STOCK"
 msgstr "53-38"
 
-#, fuzzy
 msgid "IDS_PRUT715_TORP_GREM"
 msgstr "550 mm 23DT"
 
-#, fuzzy
 msgid "IDS_PRUT812_TORP_TOGLIATTI"
 msgstr "53-38"
 
-#, fuzzy
 msgid "IDS_PRUT813_TORP_SCHERBAKOV"
 msgstr "53-38"
 
-#, fuzzy
 msgid "IDS_PRUT814_TORP_SOVREMENNY"
 msgstr "53-51"
 
-#, fuzzy
 msgid "IDS_PRUT815_D9_TORP_STOCK"
 msgstr "53-51"
 
-#, fuzzy
 msgid "IDS_PRUT916_S11_TORP_STOCK"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PRUT917_TORP_CRUISER_TEST"
 msgstr "53-51"
 
-#, fuzzy
 msgid "IDS_PRUT918_D10_TORP_STOCK"
 msgstr "53-51"
 
-#, fuzzy
 msgid "IDS_PRUT919_TORP_SUBTEST"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PRUT920_TORP_KZ_RUBKA"
 msgstr "53-51"
 
-#, fuzzy
 msgid "IDS_PSGA062_40MM_BOFORS_MARK_IV_HAZEMEYER"
-msgstr "40 mm/56 OQF Mk.1/2 в установке Mk.IV"
+msgstr "40 mm/56 OQF Mk.1/2 (Mk.IV 砲座)"
 
-#, fuzzy
 msgid "IDS_PSGA063_20MM_OERLIKON_MK4"
-msgstr "20 mm Oerlikon Mk.I в установке Mk.IIA"
+msgstr "20 mm Oerlikon Mk.I (Mk.IIA 砲座)"
 
-#, fuzzy
 msgid "IDS_PSGA065_2_PDR_MKVII_QUAD"
-msgstr "40 mm/39 Vickers QF Mk.VIII в установке Mk.VII"
+msgstr "40 mm/39 Vickers QF Mk.VIII (Mk.VII 砲座)"
 
-#, fuzzy
 msgid "IDS_PSGA066_20MM_OERLIKON_MK_V"
-msgstr "20 mm Oerlikon Mk.II в установке Mk.V"
+msgstr "20 mm Oerlikon Mk.II (Mk.V 砲座)"
 
-#, fuzzy
 msgid "IDS_PSGM059_381MM_50_QUAD_OTTO"
-msgstr "381 mm/50 Model 1934 в башенной установке"
+msgstr "381 mm/50 Model 1934 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PSGS060_105_MM_SKC_37"
-msgstr "105 mm/65 SK C/33 в установке Dop. L. C/37"
+msgstr "105 mm/65 SK C/33 (Dop. L. C/37 砲座)"
 
-#, fuzzy
 msgid "IDS_PSGS064_114MM_45_MKIII"
-msgstr "113 mm/45 QF Mk.I/III в установке RP10 Mark II BD"
+msgstr "113 mm/45 QF Mk.I/III (RP10 Mark II BD 砲座)"
 
-#, fuzzy
 msgid "IDS_PSPA027_152MM_55_1936_HE"
 msgstr "152 mm proiettili HE"
 
-#, fuzzy
 msgid "IDS_PSPA028_105MM_HE_HE_33LBS"
 msgstr "105 mm Spr.Gr. Kz."
 
-#, fuzzy
 msgid "IDS_PSPA029_381MM_HE_CONQUISTADOR"
 msgstr "381 mm proiettili HE"
 
-#, fuzzy
 msgid "IDS_PSPA030_381MM_AP_CONQUISTADOR"
 msgstr "381 mm proiettili AP"
 
-#, fuzzy
 msgid "IDS_PSPA031_305MM_HE_MADRID"
 msgstr "305 mm HE Mk IIb"
 
-#, fuzzy
 msgid "IDS_PSPA032_305MM_AP_MADRID"
 msgstr "305 mm AP Mk VIb"
 
-#, fuzzy
 msgid "IDS_PSPA033_114MM_MII_HE"
 msgstr "113 mm HE 5crh"
 
-#, fuzzy
 msgid "IDS_PSPT009_MADRID"
 msgstr "533 mm Mk VIII ES"
 
-#, fuzzy
 msgid "IDS_PSSB510_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PSSC510_YEAR"
 msgstr "1938"
 
-#, fuzzy
 msgid "IDS_PSSC809_YEAR"
 msgstr "1938"
 
-#, fuzzy
 msgid "IDS_PSUA802_ART_COLORFUL_ANDALUCIA"
 msgstr "234 mm/50 Mk.XII (砲塔)"
 
-#, fuzzy
 msgid "IDS_PSUA903_ART_CONQUISTADOR"
-msgstr "381 mm/50 Model 1934 в башенной установке"
+msgstr "381 mm/50 Model 1934 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PSUE802_ENG_COLORFUL_ANDALUCIA"
-msgstr "推力: 170 000 馬力"
+msgstr "推力: 170,000 馬力"
 
-#, fuzzy
 msgid "IDS_PSUE903_ENG_CONQUISTADOR"
-msgstr "推力: 160 000 馬力"
+msgstr "推力: 160,000 馬力"
 
-#, fuzzy
 msgid "IDS_PSUT802_TORP_COLORFUL_ANDALUCIA"
 msgstr "533 mm Mk VIII ES"
 
-#, fuzzy
 msgid "IDS_PSUT903_TORP_MADRID"
 msgstr "533 mm Vierling"
 
-#, fuzzy
 msgid "IDS_PUES400_BLACK_BRISBANE"
 msgstr "特別"
 
-#, fuzzy
 msgid "IDS_PURCHASE_COST_COLON"
-msgstr "Покупка:"
+msgstr "購入:"
 
-#, fuzzy
 msgid "IDS_PURCHASE_LOOTBOXES_BY_TYPE"
-msgstr "Стоимость:"
+msgstr "コスト:"
 
-#, fuzzy
 msgid "IDS_PURCHASE_MK_ACCOUNT_FOR"
-msgstr "Купить Корабельный премиум за"
+msgstr "MK プレミアムアカウントの購入:"
 
-#, fuzzy
 msgid "IDS_PUSC590"
 msgstr "Brisbane B"
 
-#, fuzzy
 msgid "IDS_PUSC590_DESCR"
-msgstr "После Второй мировой войны австралийский ВМФ начал сокращать состав, стремясь улучшать качество кораблей, а не их количество. オーストラリア построила пять современных эсминцев и приобрела у Великобритании два авианосца. Также рассматривалась покупка более крупных кораблей для сопровождения авианосцев — подходящим вариантом для этого мог бы быть крейсер Minotaur с универсальными орудиями главного калибра, разрабатывавшийся на то время в Великобритании."
+msgstr "第二次世界大戦後、王立オーストラリア海軍は艦艇の数ではなく質を向上させることを意図して艦隊の削減を開始しました。オーストラリアは 5 隻の近代的な駆逐艦を建造し、英国から 2 隻の空母を取得しました。更にオーストラリアは、空母護衛用の大型艦の購入も検討しました。その場合には、主砲として両用砲を装備し、当時イギリスで開発中だった巡洋艦マイノーターは、適切な選択肢となったことでしょう。その可能性を具現化したのがこのブリズベンです。"
 
-#, fuzzy
 msgid "IDS_PUSC590_FULL"
 msgstr "Brisbane B"
 
-#, fuzzy
 msgid "IDS_PUSC590_YEAR"
 msgstr "1947"
 
-#, fuzzy
 msgid "IDS_PUUA903_ART_BLACK_BRISBANE"
 msgstr "152 mm/50 QF Mk.V (Mk.XXVI 砲座)"
 
-#, fuzzy
 msgid "IDS_PUUE903_ENG_BLACK_BRISBANE"
-msgstr "推力: 110 000 馬力"
+msgstr "推力: 110,000 馬力"
 
-#, fuzzy
 msgid "IDS_PUUT903_TORP_BLACK_BRISBANE"
 msgstr "533 mm Mk VII"
 
-#, fuzzy
 msgid "IDS_PVECOMMON_CARRIERS"
-msgstr "авианосцы"
+msgstr "航空母艦"
 
-#, fuzzy
 msgid "IDS_PVECOMMON_CUSTOM_NAME_COMMAND"
-msgstr "Командование"
+msgstr "司令部"
 
-#, fuzzy
 msgid "IDS_PVECOMMON_SHIPS_A"
-msgstr "корабля"
+msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_PVECOMMON_TRANSPORTS"
-msgstr "транспорты"
+msgstr "輸送船"
 
-#, fuzzy
 msgid "IDS_PVE_TASK_BATTLE_STATUS_FAILURE"
-msgstr "ПРОВАЛЕНО"
+msgstr "失敗"
 
-#, fuzzy
 msgid "IDS_PVE_TASK_BATTLE_STATUS_IN_PROGRESS"
-msgstr "НОВАЯ ЗАДАЧА"
+msgstr "新タスク"
 
-#, fuzzy
 msgid "IDS_PVE_TASK_BATTLE_STATUS_NOT_STARTED"
-msgstr "НОВАЯ ЗАДАЧА"
+msgstr "新タスク"
 
-#, fuzzy
 msgid "IDS_PVGA062_40MM_BOFORS_MK2"
-msgstr "40 mm/56 OQF Mk.1/2 в установке RP Mk.II"
+msgstr "40 mm/56 OQF Mk.1/2 (RP Mk.II 砲座)"
 
-#, fuzzy
 msgid "IDS_PVGA066_3IN70_MK6"
-msgstr "76,2 mm/70 QF Mk.N1 в установке Mk.6"
+msgstr "76.2 mm/70 QF Mk.N1 (Mk.6 砲座)"
 
-#, fuzzy
 msgid "IDS_PVGA073_3IN70_MARK37"
-msgstr "76,2 mm/70 Mk.23 в установке Mk.37 mod. 0"
+msgstr "76.2 mm/70 Mk.23 (Mk.37 mod. 0 砲座)"
 
-#, fuzzy
 msgid "IDS_PVGM060_16IN50_MK7"
 msgstr "406 mm/50 Mk.7 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PVGM064_6IN50_QF_MK_V"
 msgstr "152 mm/50 QF Mk.V (Mk.XXVI 砲座)"
 
-#, fuzzy
 msgid "IDS_PVGM071_8IN55_TRIPLE_MK16"
 msgstr "203 mm/55 RF Mk.16 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PVGS061_5_25IN_50_QF_MKI_MKII"
-msgstr "133 mm/50 QF Mk.I в установке Mk.II"
+msgstr "133 mm/50 QF Mk.I (Mk.II 砲座)"
 
-#, fuzzy
 msgid "IDS_PVGS072_5IN54_MARK42"
-msgstr "127 mm/54 Mk.16 в установке Mk.42"
+msgstr "127 mm/54 Mk.16 (Mk.42 砲座)"
 
-#, fuzzy
 msgid "IDS_PVPA037_406MM_HE_PATAGONIA"
 msgstr "406 mm HE/HC Mk13"
 
-#, fuzzy
 msgid "IDS_PVPA038_406MM_AP_PATAGONIA"
 msgstr "406 mm AP Mk8"
 
-#, fuzzy
 msgid "IDS_PVPA039_134MM_MI_HE"
 msgstr "133 mm HE Mk IC"
 
-#, fuzzy
 msgid "IDS_PVPA040_152MM_AP_F_MIRANDA"
-msgstr "152 mm AP 130 фн. Mk35"
+msgstr "152 mm AP 130 lb Mk35"
 
-#, fuzzy
 msgid "IDS_PVPA041_203MM_AP_BOLIVAR"
-msgstr "152 mm AP 130 фн. Mk35"
+msgstr "152 mm AP 130 lb Mk35"
 
-#, fuzzy
 msgid "IDS_PVPA043_127MM_HE_HC_MK41"
 msgstr "127 mm HE Mk41"
 
-#, fuzzy
 msgid "IDS_PVPT008_F_MIRANDA"
 msgstr "533 mm Mk 17"
 
-#, fuzzy
 msgid "IDS_PVSB509_YEAR"
 msgstr "1918"
 
-#, fuzzy
 msgid "IDS_PVSC509_YEAR"
 msgstr "1955"
 
-#, fuzzy
 msgid "IDS_PVSC510_YEAR"
 msgstr "1943"
 
-#, fuzzy
 msgid "IDS_PVUA802_ART_PATAGONIA"
 msgstr "406 mm/50 Mk.7 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PVUA803_ART_F_MIRANDA"
 msgstr "152 mm/50 QF Mk.V (Mk.XXVI 砲座)"
 
-#, fuzzy
 msgid "IDS_PVUA902_ART_BOLIVAR"
 msgstr "203 mm/55 RF Mk.16 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PVUE803_ENG_F_MIRANDA"
-msgstr "推力: 108 000 馬力"
+msgstr "推力: 108,000 馬力"
 
-#, fuzzy
 msgid "IDS_PVUE902_ENG_BOLIVAR"
-msgstr "推力: 120 000 馬力"
+msgstr "推力: 120,000 馬力"
 
-#, fuzzy
 msgid "IDS_PVUS803_SUO_PATAGONIA"
 msgstr "Mk9 mod. 1"
 
-#, fuzzy
 msgid "IDS_PVUT802_TORP_F_MIRANDA"
 msgstr "533 mm Mk IX"
 
-#, fuzzy
 msgid "IDS_PWES507_BLACK_BLYSKAWICA"
 msgstr "特別"
 
-#, fuzzy
 msgid "IDS_PWES529_BLACK_JAGER"
 msgstr "特別"
 
-#, fuzzy
 msgid "IDS_PWGA105_2_PDR_MKVII_QUAD"
-msgstr "40 mm/39 Vickers QF Mk.VIII в установке Mk.VII"
+msgstr "40 mm/39 Vickers QF Mk.VIII (Mk.VII 砲座)"
 
-#, fuzzy
 msgid "IDS_PWGA107_12MM62_HI"
-msgstr "12,7 mm Mk.III"
+msgstr "12.7 mm Mk.III"
 
-#, fuzzy
 msgid "IDS_PWGA109_4IN_45_MK_V"
-msgstr "102 mm/45 QF Mk.V в установке HA Mk.III"
+msgstr "102 mm/45 QF Mk.V (HA Mk.III 砲座)"
 
-#, fuzzy
 msgid "IDS_PWGA111_70K_37MM"
-msgstr "37 mm установка 70-К"
+msgstr "37 mm 70-K 砲座"
 
-#, fuzzy
 msgid "IDS_PWGA113_37MM_67_V11"
-msgstr "37 mm установка В-11"
+msgstr "37 mm V-11 砲座"
 
-#, fuzzy
 msgid "IDS_PWGA117_65MM_64_ANSALDO_DUAL"
-msgstr "65 mm/64 Model 1939 в спаренной установке"
+msgstr "65 mm/64 Model 1939 (連装砲座)"
 
-#, fuzzy
 msgid "IDS_PWGA119_37MM_BREDA_BARRELS_4"
-msgstr "37 mm/54 Breda Model 1939 в счетверённой установке"
+msgstr "37 mm/54 Breda Model 1939 (四連装砲座)"
 
-#, fuzzy
 msgid "IDS_PWGM104_120MM_45_QF_CP_MKXIX_TWIN"
-msgstr "120 mm/45 Mk.IX в установке CPXIX"
+msgstr "120 mm/45 Mk.IX (CPXIX 砲座)"
 
-#, fuzzy
 msgid "IDS_PWGM116_203MM55_BARRELS_3"
-msgstr "203 mm/55 Model 1934 в башенной установке"
+msgstr "203 mm/55 Model 1934 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PWGM126_105MM_45_LC16"
-msgstr "105 mm/45 Tbts C/16 в установке Tbts LC/16"
+msgstr "105 mm/45 Tbts C/16 (Tbts LC/16 砲座)"
 
-#, fuzzy
 msgid "IDS_PWGS118_90MM50_BARRELS_2_M1939"
-msgstr "90 mm/50 Model 1939 в спаренной установке"
+msgstr "90 mm/50 Model 1939 (連装砲座)"
 
-#, fuzzy
 msgid "IDS_PWGT001_533MM_INVISIBLE_TA"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PWGT106_21IN_5TUBE_TORPEDO_TUBE"
-msgstr "533 mm 5-трубный"
+msgstr "533 mm 五連装"
 
-#, fuzzy
 msgid "IDS_PWGT112_533MM_1N_3TUBES"
-msgstr "533 mm 3-трубный"
+msgstr "533 mm 三連装"
 
-#, fuzzy
 msgid "IDS_PWPA051_120_HE_PIORUN"
 msgstr "120 mm HE"
 
-#, fuzzy
 msgid "IDS_PWPA052_120_AP_PIORUN"
 msgstr "120 mm AP"
 
-#, fuzzy
 msgid "IDS_PWPA053_100MM_HE_BLYSKAWICA_1963"
-msgstr "Ф-56"
+msgstr "HE-56"
 
-#, fuzzy
 msgid "IDS_PWPA056_203MM_55_AP_TORDENSKJOLD"
 msgstr "203 mm proiettili AP 1924 mod.2"
 
-#, fuzzy
 msgid "IDS_PWPT022_533_PIORUN"
 msgstr "533 mm Mk VII"
 
-#, fuzzy
 msgid "IDS_PWPT023_BLYSKAWICA_1963"
 msgstr "Torped M1947"
 
-#, fuzzy
 msgid "IDS_PWPT028_TORDENSKJOLD"
 msgstr "Torped M1947 mod 1"
 
-#, fuzzy
 msgid "IDS_PWPT029_SALDIRAY"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PWSC510_YEAR"
 msgstr "1953"
 
-#, fuzzy
 msgid "IDS_PWSC910_YEAR"
 msgstr "1953"
 
-#, fuzzy
 msgid "IDS_PWSD507_YEAR"
 msgstr "1941"
 
-#, fuzzy
 msgid "IDS_PWSD517_YEAR"
 msgstr "1937"
 
-#, fuzzy
 msgid "IDS_PWSD518_YEAR"
 msgstr "1937"
 
-#, fuzzy
 msgid "IDS_PWSD599_DESCR"
-msgstr "В 1917 Австро-ハンガリー начала прорабатывать проект лидера эсминцев. Всего было запланировано восемь лидеров и двенадцать эсминцев. Свои эскизы на конкурс представили фирмы Blohm & Voss и Ganz-Danubius, несколько проектов были разработаны в австро-венгерском Морском техническом комитете. Одним из них был проект 2000-тонного торпедного корабля, представленный в октябре 1917 艦艇 должен был быть вооружён шестидюймовыми орудиями главного калибра. Из-за окончания Первой мировой войны и распада Австро-Венгрии эсминцы так и не были построены."
+msgstr "1917 年、オーストリア＝ハンガリー帝国は嚮導駆逐艦を建造するプロジェクトに取り組み始めました。合計 8 隻の嚮導駆逐艦と 12 隻の駆逐艦の建造が計画されていました。設計草案は、ブローム・ウント・フォスとガンズ＝ダノビウスから提出されました。いくつかの計画案は、オーストリア＝ハンガリー海洋技術委員会によって開発されました。1917 年に提示された計画案の 1 つは、2,000 トンの魚雷艇の建造を目的としており、6 インチ主砲を搭載する予定でした。しかし、第一次世界大戦の終結とオーストリア＝ハンガリー帝国の崩壊により、これらの駆逐艦は建造されませんでした。それを具現化したのがこのイェーガーです。"
 
-#, fuzzy
 msgid "IDS_PWSD599_YEAR"
 msgstr "1917"
 
-#, fuzzy
 msgid "IDS_PWSS508_YEAR"
 msgstr "1939"
 
-#, fuzzy
 msgid "IDS_PWUA604_ART_PIORUN"
-msgstr "120 mm/45 Mk.IX в установке CPXIX"
+msgstr "120 mm/45 Mk.IX (CPXIX 砲座)"
 
-#, fuzzy
 msgid "IDS_PWUA605_ART_BLACK_BLYSKAWICA"
-msgstr "120 mm/50 wz.36 Bofors в щитовой установке"
+msgstr "120 mm/50 wz.36 Bofors (防盾付き砲座)"
 
-#, fuzzy
 msgid "IDS_PWUA705_ART_SALDIRAY"
-msgstr "105 mm/45 Tbts C/16 в установке Tbts LC/16"
+msgstr "105 mm/45 Tbts C/16 (Tbts LC/16 砲座)"
 
-#, fuzzy
 msgid "IDS_PWUA806_ART_BLACK_JAGER"
-msgstr "150 mm/50 K10 Škoda в одиночной установке"
+msgstr "150 mm/50 K10 Škoda (単装砲座)"
 
-#, fuzzy
 msgid "IDS_PWUA907_ART_VENEZIA_H_EVENT"
-msgstr "203 mm/55 Model 1934 в башенной установке"
+msgstr "203 mm/55 Model 1934 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PWUA908_ART_TORDENSKJOLD"
-msgstr "203 mm/55 Model 1934 в башенной установке"
+msgstr "203 mm/55 Model 1934 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PWUE604_ENG_PIORUN"
-msgstr "推力: 44 000 馬力"
+msgstr "推力: 44,000 馬力"
 
-#, fuzzy
 msgid "IDS_PWUE605_ENG_BLACK_BLYSKAWICA"
-msgstr "推力: 54 000 馬力"
+msgstr "推力: 54,000 馬力"
 
-#, fuzzy
 msgid "IDS_PWUE704_ENG_BLYSKAWICA_63"
-msgstr "推力: 54 000 馬力"
+msgstr "推力: 54,000 馬力"
 
-#, fuzzy
 msgid "IDS_PWUE806_ENG_BLACK_JAGER"
-msgstr "推力: 43 000 馬力"
+msgstr "推力: 43,000 馬力"
 
-#, fuzzy
 msgid "IDS_PWUE907_ENG_VENEZIA_H_EVENT"
-msgstr "推力: 240 000 馬力"
+msgstr "推力: 240,000 馬力"
 
-#, fuzzy
 msgid "IDS_PWUE908_ENG_TORDENSKJOLD"
-msgstr "推力: 240 000 馬力"
+msgstr "推力: 240,000 馬力"
 
-#, fuzzy
 msgid "IDS_PWUS606_SUO_PIORUN"
 msgstr "SUO Mk 7 Mod. 1"
 
-#, fuzzy
 msgid "IDS_PWUS607_SUO_BLACK_BLYSKAWICA"
 msgstr "SKO Mod. 7"
 
-#, fuzzy
 msgid "IDS_PWUT606_TORP_BLACK_BLYSKAWICA"
 msgstr "Mark 10"
 
-#, fuzzy
 msgid "IDS_PWUT705_TORP_BLYSKAWICA_63"
 msgstr "Mark 10"
 
-#, fuzzy
 msgid "IDS_PWUT706_TORP_SALDIRAY"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PWUT807_TORP_BLACK_JAGER"
 msgstr "Torped M1947"
 
-#, fuzzy
 msgid "IDS_PWUT905_TORP_VENEZIA_H_EVENT"
 msgstr "533 mm Si 270 N"
 
-#, fuzzy
 msgid "IDS_PWUT906_TORP_TORDENSKJOLD"
 msgstr "533 mm Si 270 N"
 
-#, fuzzy
 msgid "IDS_PXGM118_305MM_61_SM31_WAFFEN"
-msgstr "305 mm/61 СМ-33 в установке СМ-31"
+msgstr "305 mm/61 SM-33 (SM-31 砲座)"
 
-#, fuzzy
 msgid "IDS_PXGT601_INVISIBLE_TA_XSX007"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PXPA092_130MM_HE_SG_DICTATOR"
-msgstr "ОФ-42"
+msgstr "HE-42"
 
-#, fuzzy
 msgid "IDS_PXPT901_G7A_T1_INV"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PXSD007_YEAR"
 msgstr "1940"
 
-#, fuzzy
 msgid "IDS_PXSD026"
 msgstr "Gearing"
 
-#, fuzzy
 msgid "IDS_PXSD026_DESCR"
-msgstr "Прожорливый корабль-удильщик, готовый забрать всё, что помещается в его зубастый трюм."
+msgstr "貪欲なアングラー (アンコウ) 艦であり、歯が並べられた貨物室に収まるあらゆる物品を摂取しようとしている。"
 
-#, fuzzy
 msgid "IDS_PXSD026_FULL"
 msgstr "Gearing"
 
-#, fuzzy
 msgid "IDS_PXUA908_ART_DICTATOR"
-msgstr "305 mm/61 СМ-33 в установке СМ-31"
+msgstr "305 mm/61 SM-33 (SM-31 砲座)"
 
-#, fuzzy
 msgid "IDS_PXUA909_ART_PREDATOR"
-msgstr "305 mm/61 СМ-33 в установке СМ-31"
+msgstr "305 mm/61 SM-33 (SM-31 砲座)"
 
-#, fuzzy
 msgid "IDS_PXUA910_ART_BOTOMANCER"
-msgstr "305 mm/61 СМ-33 в установке СМ-31"
+msgstr "305 mm/61 SM-33 (SM-31 砲座)"
 
-#, fuzzy
 msgid "IDS_PXUE924_ENG_DICTATOR"
-msgstr "推力: 280 000 馬力"
+msgstr "推力: 280,000 馬力"
 
-#, fuzzy
 msgid "IDS_PXUE926_ENG_PREDATOR"
-msgstr "推力: 280 000 馬力"
+msgstr "推力: 280,000 馬力"
 
-#, fuzzy
 msgid "IDS_PXUE927_ENG_BOTOMANCER"
-msgstr "推力: 280 000 馬力"
+msgstr "推力: 280,000 馬力"
 
-#, fuzzy
 msgid "IDS_PXUE959_GEARING_H19_ENG"
 msgstr "GRN-272"
 
-#, fuzzy
 msgid "IDS_PXUH956_TEST"
 msgstr "Test Ship"
 
-#, fuzzy
 msgid "IDS_PXUH957_TEST"
 msgstr "Test Ship"
 
-#, fuzzy
 msgid "IDS_PXUH958_TEST"
 msgstr "Test Ship"
 
-#, fuzzy
 msgid "IDS_PXUH959_GEARING_H19_HULL"
 msgstr "Lancet"
 
-#, fuzzy
 msgid "IDS_PXUM194_FRANCE_H2020_A_TEST"
 msgstr "Test Ship"
 
-#, fuzzy
 msgid "IDS_PXUM195_FRANCE_H2020_A_TEST"
 msgstr "Test Ship"
 
-#, fuzzy
 msgid "IDS_PXUM196_FRANCE_H2020_A_TEST"
 msgstr "Test Ship"
 
-#, fuzzy
 msgid "IDS_PXUS936_SUO_TEST"
 msgstr "Iamassist"
 
-#, fuzzy
 msgid "IDS_PXUS937_SUO_TEST"
 msgstr "Iamassist"
 
-#, fuzzy
 msgid "IDS_PXUS938_SUO_TEST"
 msgstr "Iamassist"
 
-#, fuzzy
 msgid "IDS_PXUS939_GEARING_H19_SUO"
 msgstr "Eagle eye"
 
-#, fuzzy
 msgid "IDS_PXUT925_GEARING_H19_TORP"
 msgstr "Claw 533"
 
-#, fuzzy
 msgid "IDS_PZAB518_XIAN_DENG_STOCK"
 msgstr "Ta 152C-1/R14"
 
-#, fuzzy
 msgid "IDS_PZAD518_XIAN_DENG_STOCK"
 msgstr "Ta 152C-1/R14"
 
-#, fuzzy
 msgid "IDS_PZAD519_XIAN_DENG_TACT"
 msgstr "Bf 110C"
 
-#, fuzzy
 msgid "IDS_PZAD901_ASW_T5"
-msgstr "Бериев МБР-2"
+msgstr "Beriyev MBR-2"
 
-#, fuzzy
 msgid "IDS_PZAD902_ASW_T6"
-msgstr "Бериев МБР-2"
+msgstr "Beriyev MBR-2"
 
-#, fuzzy
 msgid "IDS_PZAD903_ASW_T8"
-msgstr "Бериев Бе-6"
+msgstr "Beriyev Be-6"
 
-#, fuzzy
 msgid "IDS_PZAD904_ASW_T10"
-msgstr "Бериев Бе-6"
+msgstr "Beriyev Be-6"
 
-#, fuzzy
 msgid "IDS_PZAD910_ASW_T10"
-msgstr "Kawanishi H6K"
+msgstr "川西 H6K"
 
-#, fuzzy
 msgid "IDS_PZAF518_XIAN_DENG_STOCK"
 msgstr "F8F Bearcat"
 
-#, fuzzy
 msgid "IDS_PZGA150_20MM70_BREDA_BARRELS_6"
-msgstr "20 mm/70 Scotti Model 1941 в шестиствольной установке"
+msgstr "20 mm/70 Scotti Model 1941 (六連装砲座)"
 
-#, fuzzy
 msgid "IDS_PZGA151_37MM_54_BREDA"
-msgstr "37 mm/54 Breda Model 1939 в установке Model RM1939"
+msgstr "37 mm/54 Breda Model 1939 (Model RM1939 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGA157_45MM_SM_20_ZIF"
-msgstr "45 mm установка СМ-20-ЗИФ"
+msgstr "45 mm SM-20-ZIF 砲座"
 
-#, fuzzy
 msgid "IDS_PZGA158_45MM_SM_16"
-msgstr "45 mm установка СМ-16"
+msgstr "45 mm SM-16 砲座"
 
-#, fuzzy
 msgid "IDS_PZGA164_2_PDR_MKVIII_8BARREL"
-msgstr "40 mm/39 Vickers QF Mk.VIII в установке Mk.VI"
+msgstr "40 mm/39 Vickers QF Mk.VIII (Mk.VI 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGA167_57MM_75_AK_725_TWIN"
-msgstr "57 mm установка АК-725"
+msgstr "57 mm AK-725 砲座"
 
-#, fuzzy
 msgid "IDS_PZGA174_37MM_SKC_30_TWIN"
-msgstr "37 mm/83 SK C/30 в установке Dopp LC/30"
+msgstr "37 mm/83 SK C/30 (Dopp LC/30 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGA175_20MM_FLAK_38"
-msgstr "20 mm/65 C/38 в одиночной установке"
+msgstr "20 mm/65 C/38 (単装砲座)"
 
-#, fuzzy
 msgid "IDS_PZGA178_STAAG_MARKV"
-msgstr "40 mm/56 OQF Mk.X в установке STAAG Mk.2"
+msgstr "40 mm/56 OQF Mk.X (STAAG Mk.2 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGM136_457MM_48"
-msgstr "457 mm/48 Б-45 в установке СМ-8"
+msgstr "457 mm/48 B-45 (SM-8 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGM148_135_45_OTO_1937"
-msgstr "135 mm/45 Model 1938 в установке Model 1938"
+msgstr "135 mm/45 Model 1938 (Model 1938 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGM173_6IN_47_MK16_TRIPLE"
-msgstr "152 mm/47 DP Mk.16 в башенной установке"
+msgstr "152 mm/47 DP Mk.16 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PZGM179_234MM50_MK_XII_TWIN"
 msgstr "234 mm/50 Mk.XII (砲塔)"
 
-#, fuzzy
 msgid "IDS_PZGM182_305MM_61_SM31"
-msgstr "305 mm/61 СМ-33 в установке СМ-31"
+msgstr "305 mm/61 SM-33 (SM-31 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGS160_130MM_BL_109A"
-msgstr "130 mm/60 в установке БЛ-109А"
+msgstr "130 mm/60 (BL-109A 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGS165_4_5IN45_MK_5"
-msgstr "113 mm/45 QF Mk.V в установке RP41 Mk.VI"
+msgstr "113 mm/45 QF Mk.V (RP41 Mk.VI 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGS171_6IN_50_BL_MKXXII_MKXVIII"
-msgstr "152 mm/50 BL Mk.XXII в установке Mk.XVIII"
+msgstr "152 mm/50 BL Mk.XXII (Mk.XVIII 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGS172_6IN50_MK_XXI"
-msgstr "152 mm/50 BL Mk.XXII в установке Mk.XVIII"
+msgstr "152 mm/50 BL Mk.XXII (Mk.XVIII 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGS176_105MM_SKC_33"
-msgstr "105 mm/65 SK C/33 в установке Dop. L. C/31"
+msgstr "105 mm/65 SK C/33 (Dop. L. C/31 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGS181_15CM_SK_C28_MPL_C_36"
-msgstr "150 mm/55 SK C/28 в установке Dop. MPL C/36"
+msgstr "150 mm/55 SK C/28 (Dop. MPL C/36 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGS183_130MM_57_BL_132_B"
-msgstr "130 mm/58 в установке БЛ-132Б"
+msgstr "130 mm/58 (BL-132B 砲座)"
 
-#, fuzzy
 msgid "IDS_PZGT000_INVISIBLE_TA"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PZGT154_533MM_4TUBES"
 msgstr "533 mm tubo lanciasiluri"
 
-#, fuzzy
 msgid "IDS_PZGT180_21IN_QUAD_TORPEDO_TUBE"
 msgstr "533 mm QR Mk II"
 
-#, fuzzy
 msgid "IDS_PZPA070_135MM_HE_BEN_MA"
 msgstr "135 mm proiettili HE 1938"
 
-#, fuzzy
 msgid "IDS_PZPA073_457MM_HE_CHANGZHENG"
-msgstr "457 mm ОФ обр. 1946"
+msgstr "457 mm HE Model 1946"
 
-#, fuzzy
 msgid "IDS_PZPA074_457MM_AP_CHANGZHENG"
-msgstr "457 mm ББ обр. 1946"
+msgstr "457 mm AP Model 1946"
 
-#, fuzzy
 msgid "IDS_PZPA075_130MM_HE_OF42_SG"
-msgstr "130 mm ОФ-42"
+msgstr "130 mm HE-42"
 
-#, fuzzy
 msgid "IDS_PZPA078_114MM_HE_MK16"
 msgstr "113 mm HE Mk XVI"
 
-#, fuzzy
 msgid "IDS_PZPA079_152MM_HE_6CRH_MK4"
 msgstr "152 mm HE 6crh Mk IV"
 
-#, fuzzy
 msgid "IDS_PZPA080_130MM_HE_XIAN"
-msgstr "ОФ-42"
+msgstr "HE-42"
 
-#, fuzzy
 msgid "IDS_PZPA081_130MM_AP_XIAN"
-msgstr "ПБ-42"
+msgstr "SAP-42"
 
-#, fuzzy
 msgid "IDS_PZPA082_152MM_HE_SG"
 msgstr "152 mm HE Mk V"
 
-#, fuzzy
 msgid "IDS_PZPA085_152MM_OFU35_SG"
-msgstr "152 mm ОФУ-35"
+msgstr "152 mm OFU-35"
 
-#, fuzzy
 msgid "IDS_PZPA088_152MM_HE_HENGSHUI"
 msgstr "152 mm HE Mk39"
 
-#, fuzzy
 msgid "IDS_PZPA089_152MM_AP_HENGSHUI"
-msgstr "152 mm AP 130 фн. Mk35"
+msgstr "152 mm AP 130 lb Mk35"
 
-#, fuzzy
 msgid "IDS_PZPA090_234MM_HE_DOU_JIAN"
 msgstr "234 mm HE 6 CRH"
 
-#, fuzzy
 msgid "IDS_PZPA091_234MM_AP_DOU_JIAN"
 msgstr "234 mm AP 6 CRH"
 
-#, fuzzy
 msgid "IDS_PZPA092_105MM_HE_XIAN_DENG"
 msgstr "105 mm Spr.Gr. Kz."
 
-#, fuzzy
 msgid "IDS_PZPA093_150MM_HE_XIAN_DENG"
 msgstr "150 mm Spr.Gr. L/4.5"
 
-#, fuzzy
 msgid "IDS_PZPA096_130MM_HE_OF_46_B2U_SG"
-msgstr "ОФ-46"
+msgstr "HE-46"
 
-#, fuzzy
 msgid "IDS_PZPA097_127MM_HE_TUNTOU"
 msgstr "127 mm HE Mk32"
 
-#, fuzzy
 msgid "IDS_PZPA098_127MM_AP_TUNTOU"
 msgstr "127 mm AP/SC Mk38"
 
-#, fuzzy
 msgid "IDS_PZPB518_XIAN_DENG_STOCK"
 msgstr "SC 1000"
 
-#, fuzzy
 msgid "IDS_PZPB519_XIAN_DENG_TACT"
 msgstr "PC 1000"
 
-#, fuzzy
 msgid "IDS_PZPR518_XIAN_DENG_STOCK"
 msgstr "Wfr.Gr.21E"
 
-#, fuzzy
 msgid "IDS_PZPT053_533MM_PASOPATI"
 msgstr "53-38"
 
-#, fuzzy
 msgid "IDS_PZPT054_533MM_PASOPATI_MZ"
 msgstr "53-38 MZ"
 
-#, fuzzy
 msgid "IDS_PZPT055_533_BEN_MA"
 msgstr "Mk16 mod. 1"
 
-#, fuzzy
 msgid "IDS_PZPT057_XI_AN"
 msgstr "53-51"
 
-#, fuzzy
 msgid "IDS_PZPT058_DOU_JIAN"
 msgstr "533 mm Mk IXM"
 
-#, fuzzy
 msgid "IDS_PZPT059_TUNTOU"
 msgstr "Mark 17"
 
-#, fuzzy
 msgid "IDS_PZPT518_XIAN_DENG_STOCK"
 msgstr "LT F5b"
 
-#, fuzzy
 msgid "IDS_PZSA518_YEAR"
 msgstr "1946"
 
-#, fuzzy
 msgid "IDS_PZSB106_YEAR"
 msgstr "1926"
 
-#, fuzzy
 msgid "IDS_PZSB107_YEAR"
 msgstr "1926"
 
-#, fuzzy
 msgid "IDS_PZSB108_YEAR"
 msgstr "1936"
 
-#, fuzzy
 msgid "IDS_PZSB109_YEAR"
 msgstr "1936"
 
-#, fuzzy
 msgid "IDS_PZSB110_YEAR"
 msgstr "1936"
 
-#, fuzzy
 msgid "IDS_PZSB549_YEAR"
 msgstr "1954"
 
-#, fuzzy
 msgid "IDS_PZSB610_YEAR"
 msgstr "1949"
 
-#, fuzzy
 msgid "IDS_PZSC111_YEAR"
 msgstr "1950"
 
-#, fuzzy
 msgid "IDS_PZSC519_YEAR"
 msgstr "1939"
 
-#, fuzzy
 msgid "IDS_PZSC528_YEAR"
 msgstr "1945"
 
-#, fuzzy
 msgid "IDS_PZSD529_YEAR"
 msgstr "1945"
 
-#, fuzzy
 msgid "IDS_PZSD610_YEAR"
 msgstr "1945"
 
-#, fuzzy
 msgid "IDS_PZSS508_YEAR"
 msgstr "1954"
 
-#, fuzzy
 msgid "IDS_PZUA711_ART_DOU_JIAN"
 msgstr "234 mm/50 Mk.XII (砲塔)"
 
-#, fuzzy
 msgid "IDS_PZUA808_ART_BEN_MA"
-msgstr "135 mm/45 Model 1938 в установке Model 1938"
+msgstr "135 mm/45 Model 1938 (Model 1938 砲座)"
 
-#, fuzzy
 msgid "IDS_PZUA810_ART_HENGSHUI"
-msgstr "152 mm/47 Mk.16 в башенной установке"
+msgstr "152 mm/47 Mk.16 (砲塔)"
 
-#, fuzzy
 msgid "IDS_PZUA811_ART_JULANG"
-msgstr "305 mm/61 СМ-33 в установке СМ-31"
+msgstr "305 mm/61 SM-33 (SM-31 砲座)"
 
-#, fuzzy
 msgid "IDS_PZUA904_ART_CHANGZHENG"
-msgstr "457 mm/48 Б-45 в установке СМ-8"
+msgstr "457 mm/48 B-45 (SM-8 砲座)"
 
-#, fuzzy
 msgid "IDS_PZUA907_ART_TUNTOU"
 msgstr "127 mm/38 Mk.12 (Mk.38 砲座)"
 
-#, fuzzy
 msgid "IDS_PZUB702_TB_XIAN_DENG"
 msgstr "Ta 152C-1/R14"
 
-#, fuzzy
 msgid "IDS_PZUD702_DB_XIAN_DENG"
 msgstr "Ta 152C-1/R14"
 
-#, fuzzy
 msgid "IDS_PZUE505_B6_ENG_STOCK"
-msgstr "推力: 45 000 馬力"
+msgstr "推力: 45,000 馬力"
 
-#, fuzzy
 msgid "IDS_PZUE603_B7_ENG_STOCK"
-msgstr "推力: 50 000 馬力"
+msgstr "推力: 50,000 馬力"
 
-#, fuzzy
 msgid "IDS_PZUE712_B8_ENG_STOCK"
-msgstr "推力: 192 000 馬力"
+msgstr "推力: 192,000 馬力"
 
-#, fuzzy
 msgid "IDS_PZUE713_ENG_XIAN_DENG"
-msgstr "推力: 200 000 馬力"
+msgstr "推力: 200,000 馬力"
 
-#, fuzzy
 msgid "IDS_PZUE714_ENG_DOU_JIAN"
-msgstr "推力: 110 000 馬力"
+msgstr "推力: 110,000 馬力"
 
-#, fuzzy
 msgid "IDS_PZUE808_ENG_BEN_MA"
-msgstr "推力: 100 000 馬力"
+msgstr "推力: 100,000 馬力"
 
-#, fuzzy
 msgid "IDS_PZUE810_ENG_HENGSHUI"
-msgstr "推力: 120 000 馬力"
+msgstr "推力: 120,000 馬力"
 
-#, fuzzy
 msgid "IDS_PZUE907_ENG_TUNTOU"
-msgstr "推力: 60 000 馬力"
+msgstr "推力: 60,000 馬力"
 
-#, fuzzy
 msgid "IDS_PZUF702_FC_XIAN_DENG"
 msgstr "Mk8 mod. 1"
 
-#, fuzzy
 msgid "IDS_PZUQ701_SONAR_PASOPATI"
-msgstr "ГАП 8"
+msgstr "水中聴音 8"
 
-#, fuzzy
 msgid "IDS_PZUS605_B7_SUO_STOCK"
 msgstr "Mk VII"
 
-#, fuzzy
 msgid "IDS_PZUS810_SUO_BEN_MA"
 msgstr "Mk IX mod. 1"
 
-#, fuzzy
 msgid "IDS_PZUS904_SUO_CHANGZHENG"
-msgstr "СУО X мод. 1"
+msgstr "GFCS X mod. 1"
 
-#, fuzzy
 msgid "IDS_PZUS907_SUO_TUNTOU"
 msgstr "Mk10 mod. 1"
 
-#, fuzzy
 msgid "IDS_PZUT713_TORP_PASOPATI"
 msgstr "533 mm"
 
-#, fuzzy
 msgid "IDS_PZUT714_TORP_DOU_JIAN"
 msgstr "533 mm Mk IXM"
 
-#, fuzzy
 msgid "IDS_PZUT805_TORP_BEN_MA"
 msgstr "533 mm Si 270 H2"
 
-#, fuzzy
 msgid "IDS_PZUT806_TORP_HENGSHUI"
 msgstr "533 mm Mk XV"
 
-#, fuzzy
 msgid "IDS_PZUT905_C11_TORP_STOCK"
 msgstr "53-51"
 
-#, fuzzy
 msgid "IDS_PZUT906_TORP_TUNTOU"
 msgstr "Mark 17"
 
-#, fuzzy
 msgid "IDS_QUESTION_MSKIN_LINK"
-msgstr "Привязать и установить на"
+msgstr "割り当て & 適用"
 
-#, fuzzy
 msgid "IDS_RANKED_BATTLES_SEASON_AND_SPRINT"
-msgstr "%(_seasonId)s-й сезон, %(_sprintId)s-й спринт"
+msgstr "シーズン %(_seasonId)s、スプリント %(_sprintId)s"
 
-#, fuzzy
 msgid "IDS_RANKED_VICTORY_REWARDS_TITLE"
-msgstr "褒賞 за победы"
+msgstr "勝利褒賞"
 
-#, fuzzy
 msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_DONE"
-msgstr "入手済み"
+msgstr "取得済み"
 
-#, fuzzy
 msgid "IDS_RANK_IN_LEAGUE_STATUS_DONE"
-msgstr "Получен"
+msgstr "取得済み"
 
-#, fuzzy
 msgid "IDS_RANK_REWARDS_TOOLTIP_TITLE_QUALIFICATION"
-msgstr "Награда:"
+msgstr "褒賞:"
 
-#, fuzzy
 msgid "IDS_RANK_REWARDS_TOOLTIP_TITLE_TOP_RANK"
-msgstr "Награда:"
+msgstr "褒賞:"
 
-#, fuzzy
 msgid "IDS_RARE_CREW_BOOK_CREW_SKILL_UNSELECT_INSTRUCTION"
-msgstr "キャンセル выбор навыка"
+msgstr "スキル選択をキャンセル"
 
-#, fuzzy
 msgid "IDS_RARE_CREW_STATUS"
-msgstr "Редкий 艦長"
+msgstr "レア艦長"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_DENY_REASON_SEASON_NOT_STARTED"
-msgstr "Ожидайте начала сезона."
+msgstr "シーズン開始までお待ちください。"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_DENY_REASON_WRONG_SHIP_LEVEL"
-msgstr "Выберите корабль подходящего уровня."
+msgstr "Tier が適合する艦艇を選択"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_LEAGUE_STATUS_0"
-msgstr "Текущая лига"
+msgstr "現在のリーグ"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_LEAGUE_STATUS_1"
-msgstr "Лига пройдена"
+msgstr "あなたはこのリーグを進めました"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_QUALIFICATION"
-msgstr "Квалификация"
+msgstr "昇格ゾーン"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_QUALIFICATION_RESULTS_TEXT"
-msgstr "Проведено боёв:"
+msgstr "参加戦闘数:"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_RESULTS_STATUS_QUALIFICATION"
-msgstr "Квалификация"
+msgstr "昇格ゾーン"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_RESULTS_STATUS_QUALIFICATION_PASSED"
-msgstr "Квалификация пройдена"
+msgstr "昇格ゾーンを通過"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_STATS_BATTLES_COUNT"
-msgstr "Проведено боёв"
+msgstr "参加戦闘数"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_STATS_DAMAGE_MAX"
-msgstr "Максимальный урон"
+msgstr "最大ダメージ"
 
-#, fuzzy
 msgid "IDS_RATING_BATTLES_STATS_VICTORIES"
-msgstr "Победы"
+msgstr "勝利"
 
-#, fuzzy
 msgid "IDS_RESEARCH_COST_COLON"
-msgstr "Исследование:"
+msgstr "研究:"
 
-#, fuzzy
 msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_CREW_EXP"
 msgstr "艦長 EXP"
 
-#, fuzzy
 msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_ELITE_EXP"
-msgstr "Элитный опыт командиров"
+msgstr "エリート艦長 EXP"
 
-#, fuzzy
 msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_EXP"
 msgstr "艦艇 EXP"
 
-#, fuzzy
 msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_FREE_EXP"
 msgstr "フリー EXP"
 
-#, fuzzy
 msgid "IDS_RESISTANCE_RECOGNITION_SUBHEADER"
-msgstr "ボーナス за боевые результаты"
+msgstr "戦功ボーナス"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Суперконтейнер"
+msgstr "スーパーコンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Суперконтейнер"
+msgstr "スーパーコンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_TITLE"
-msgstr "Контейнер «Большой тактический»"
+msgstr "「大型戦術的」コンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_TITLE_SHORT"
-msgstr "Большой тактический"
+msgstr "大型戦術的"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_TITLE"
-msgstr "Контейнер «Гигантский тактический»"
+msgstr "「巨大戦術的」コンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_TITLE_SHORT"
-msgstr "Гигантский тактический"
+msgstr "巨大戦術的"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_TITLE"
-msgstr "Контейнер «Специальный тактический»"
+msgstr "「特別戦術的」コンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_TITLE_SHORT"
-msgstr "Специальный тактический"
+msgstr "特別戦術的"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_TITLE"
-msgstr "Контейнер «Тактический»"
+msgstr "「戦術的」コンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_TITLE_SHORT"
-msgstr "Тактический"
+msgstr "戦術的"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "特別 艦長"
+msgstr "特別艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "特別 艦長"
+msgstr "特別艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_TITLE_FULL"
-msgstr "Постоянный камуфляж или особый 艦長"
+msgstr "無期限迷彩または特別艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Постоянный камуфляж"
+msgstr "無期限迷彩"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Камуфляж"
+msgstr "迷彩"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "特別 艦長"
+msgstr "特別艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль"
+msgstr "プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_TITLE"
-msgstr "Контейнер «Малый тактический»"
+msgstr "「小型戦術的」コンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_TITLE_SHORT"
-msgstr "Малый тактический"
+msgstr "小型戦術的"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "特別 艦長"
+msgstr "特別艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "特別 艦長"
+msgstr "特別艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "特別 艦長"
+msgstr "特別艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум контейнер"
+msgstr "プレミアムコンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Контейнер"
+msgstr "コンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "艦艇 X уровня или редкий корабль"
+msgstr "Tier X 艦艇またはレア艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X или редкий"
+msgstr "X またはレア"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "艦艇 VIII–IX уровня"
+msgstr "Tier VIII–IX 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "艦艇 V–VII уровня"
+msgstr "Tier V–VII 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_TITLE_SHORT"
-msgstr "Во имя прогресса!"
+msgstr "進歩を享受せよ!"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "特別 корабль X уровня"
+msgstr "特別 Tier X 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_TITLE_SHORT"
 msgstr "Picardie"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE_SHORT"
 msgstr "Karl XIV Johan"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "艦艇 X уровня или редкий корабль"
+msgstr "Tier X 艦艇またはレア艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X или редкий"
+msgstr "X またはレア"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "艦艇 VIII–IX уровня"
+msgstr "Tier VIII–IX 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "艦艇 V–VII уровня"
+msgstr "Tier V–VII 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_TITLE_SHORT"
-msgstr "Новогодний подарок"
+msgstr "サンタギフト"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "艦艇 X уровня или редкий корабль"
+msgstr "Tier X 艦艇またはレア艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X или редкий"
+msgstr "X またはレア"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "艦艇 VIII–IX уровня"
+msgstr "Tier VIII–IX 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "艦艇 V–VII уровня"
+msgstr "Tier V–VII 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_TITLE_SHORT"
-msgstr "Гигантский новогодний подарок"
+msgstr "メガサンタギフト"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "特別 корабль"
+msgstr "特別艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Премиум корабль"
+msgstr "プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль IX уровня"
+msgstr "Tier IX プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX уровень"
+msgstr "Tier IX"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "特別 корабль X уровня"
+msgstr "特別 Tier X 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "X уровень"
+msgstr "Tier X"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Премиум корабль VII–VIII уровня"
+msgstr "Tier VII–VIII プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "VII–VIII уровень"
+msgstr "Tier VII–VIII"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Камуфляж"
+msgstr "迷彩"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум контейнер"
+msgstr "プレミアムコンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Контейнер"
+msgstr "コンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль IX уровня"
+msgstr "Tier IX プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX уровень"
+msgstr "Tier IX"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "特別 艦長"
+msgstr "特別艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Суперконтейнер"
+msgstr "スーパーコンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Суперконтейнер"
+msgstr "スーパーコンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль IX уровня"
+msgstr "Tier IX プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX уровень"
+msgstr "Tier IX"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Премиум корабль VII–VIII уровня"
+msgstr "Tier VII–VIII プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VII–VIII уровень"
+msgstr "Tier VII–VIII"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_TITLE"
-msgstr "Премиум контейнер «Японская эскадра»"
+msgstr "「日本戦隊」プレミアムコンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_TITLE_SHORT"
-msgstr "Японская эскадра"
+msgstr "日本戦隊"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_TITLE_SHORT"
-msgstr "Чёрная пятница 2024"
+msgstr "ブラックフライデー 2024"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X уровень"
+msgstr "Tier X"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_TITLE"
-msgstr "Премиум контейнер «Чёрная пятница 2024»"
+msgstr "「ブラックフライデー 2024」プレミアムコンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "艦艇 X уровня или редкий корабль"
+msgstr "Tier X 艦艇またはレア艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X или редкий"
+msgstr "X またはレア"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "艦艇 VIII–IX уровня"
+msgstr "Tier VIII–IX 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "艦艇 V–VII уровня"
+msgstr "Tier V–VII 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_TITLE_SHORT"
-msgstr "Новогодний"
+msgstr "ニューイヤー"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "艦艇 X уровня или редкий корабль"
+msgstr "Tier X 艦艇またはレア艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X или редкий"
+msgstr "X またはレア"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "艦艇 VIII–IX уровня"
+msgstr "Tier VIII–IX 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "艦艇 V–VII уровня"
+msgstr "Tier V–VII 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE_SHORT"
-msgstr "Новогодний"
+msgstr "ニューイヤー"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль IX уровня"
+msgstr "Tier IX プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX уровень"
+msgstr "Tier IX"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Премиум корабль VIII уровня"
+msgstr "Tier VIII プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII уровень"
+msgstr "Tier VIII"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "VIII уровень"
+msgstr "Tier VIII"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "特別 корабль X уровня"
+msgstr "特別 Tier X 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X уровень"
+msgstr "Tier X"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_TITLE"
-msgstr "Контейнер «Героическая схватка»"
+msgstr "コンテナ 「英雄の激突」"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_TITLE_SHORT"
-msgstr "Героическая схватка"
+msgstr "英雄の激突"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "特別 艦長"
+msgstr "特別艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Премиум корабль"
+msgstr "プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "VIII уровень"
+msgstr "Tier VIII"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум контейнер"
+msgstr "プレミアムコンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL227_BIRTHDAY2025_0_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Контейнер"
+msgstr "コンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум контейнер"
+msgstr "プレミアムコンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL228_BIRTHDAY2025_1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Контейнер"
+msgstr "コンテナ"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль"
+msgstr "プレミアム艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Постоянный камуфляж"
+msgstr "無期限迷彩"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL230_CHAMPION_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Камуфляж"
+msgstr "迷彩"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "艦艇 VIII–IX уровня"
+msgstr "Tier VIII–IX 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "艦艇 VIII–IX уровня"
+msgstr "Tier VIII–IX 艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "特別 корабль"
+msgstr "特別艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "特別 艦長"
+msgstr "特別艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_REWARD_LOOTBOX_SLOTS_TITLE"
-msgstr "Свободный слот"
+msgstr "空きスロット"
 
-#, fuzzy
 msgid "IDS_REWARD_MK_PREMIUM_TITLE"
-msgstr "Корабельный премиум аккаунт"
+msgstr "MK プレミアムアカウント аккаунт"
 
-#, fuzzy
 msgid "IDS_REWARD_PORTAL_DESCRIPTION"
-msgstr "Выдаётся за достижение высоких результатов в боевой задаче категории «Флотское мастерство». Начисляется призёрам автоматически после подведения итогов события."
+msgstr "「大海の覇権」カテゴリーのコンバットミッションで好成績を達成することで授与されます。イベント結果の集計後に入賞者に自動的に届けられます。"
 
-#, fuzzy
 msgid "IDS_REWARD_PORTAL_TITLE"
-msgstr "Специальный приз"
+msgstr "特別褒賞"
 
-#, fuzzy
 msgid "IDS_REWARD_PUREXP_TITLE"
-msgstr "Чистый опыт"
+msgstr "基本 EXP"
 
-#, fuzzy
 msgid "IDS_REWARD_SHIPXP_TITLE"
 msgstr "艦艇 EXP"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_ACID"
-msgstr "Поразил кислотой"
+msgstr "酸命中"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_ACOUSTIC_HIT"
-msgstr "Попал сонаром"
+msgstr "ソナーでマーク"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_BOMB"
-msgstr "Попал бомбой"
+msgstr "爆弾命中"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_BURN"
-msgstr "Поджёг"
+msgstr "火災を発生させた"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_DBOMB"
-msgstr "Попал глубинной бомбой"
+msgstr "爆雷命中"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_DETECTED"
-msgstr "Обнаружил"
+msgstr "発見"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_FLOOD"
-msgstr "Затопил"
+msgstr "浸水を発生させた"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_FRAG"
-msgstr "Уничтожил"
+msgstr "撃沈"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_MAIN_CALIBER"
-msgstr "Попал главным калибром"
+msgstr "主砲命中"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_PLANE"
-msgstr "Сбил самолёт"
+msgstr "航空機撃墜"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_ROCKET"
-msgstr "Попал ракетой"
+msgstr "ロケット弾命中"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_SPLANE"
-msgstr "Сбил истребителем"
+msgstr "戦闘機による撃墜"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_SUPPRESSED"
-msgstr "Подавил"
+msgstr "制圧完了"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_TORPEDO"
-msgstr "Попал торпедой"
+msgstr "魚雷命中"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_RIBBON_WAVE"
-msgstr "Попал волной"
+msgstr "ウェーブが命中した"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_BLOCK"
-msgstr "Импульс рассеян"
+msgstr "ソナーピンガーが無効化された"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_CURR"
-msgstr "Двукратное попадание"
+msgstr "2 回命中"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_CAPTURE_ASSIST"
-msgstr "Помог захватить"
+msgstr "占領アシスト"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_SUBRIBBON_DROP"
-msgstr "Подобрал улучшение"
+msgstr "強化を確保"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_SUBRIBBON_WAVE_CUT_WAVE"
-msgstr "Обрезал волну волной"
+msgstr "ウェーブを自艦のウェーブで相殺した"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_SUBRIBBON_WAVE_HIT_VEHICLE"
-msgstr "Попал волной в корабль"
+msgstr "艦艇にウェーブを命中させた"
 
-#, fuzzy
 msgid "IDS_RIBBON_SSE_SUBRIBBON_WAVE_KILL_TORPEDO"
-msgstr "Уничтожил торпеду волной"
+msgstr "ウェーブで魚雷を撃破した"
 
-#, fuzzy
 msgid "IDS_RIBBON_SUBRIBBON_BASE_CAPTURE_ASSIST"
-msgstr "Помог захватить"
+msgstr "占領アシスト"
 
-#, fuzzy
 msgid "IDS_RIBBON_SUBRIBBON_DROP"
-msgstr "Подобрал улучшение"
+msgstr "強化を確保"
 
-#, fuzzy
 msgid "IDS_RUSSIA_GENITIVE"
-msgstr "СССР"
+msgstr "ソ連"
 
-#, fuzzy
 msgid "IDS_RUSSIA_NATION_GEN"
-msgstr "СССР"
+msgstr "ソ連"
 
-#, fuzzy
 msgid "IDS_SCENARIO_ASYMM_COOP_SPECIAL"
 msgstr "非対称戦"
 
-#, fuzzy
 msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_5X5"
-msgstr "Турнир. Превосходство — Альтернативный"
+msgstr "トーナメント、制圧戦 — 代替"
 
-#, fuzzy
 msgid "IDS_SCENARIO_PCVE026_AIR_BARRIERS"
 msgstr "隠密作戦"
 
-#, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_ARMOR"
-msgstr "Бронирование"
+msgstr "装甲"
 
-#, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_CAMOUFLAGE"
-msgstr "Камуфляж"
+msgstr "迷彩"
 
-#, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_CREW_MANAGEMENT"
-msgstr "Командир"
+msgstr "艦長"
 
-#, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_ECOBOOST"
 msgstr "エコノミーボーナス"
 
-#, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_ENSIGN"
-msgstr "Флаги"
+msgstr "旗"
 
-#, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_EVENTS"
 msgstr "イベント"
 
-#, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_LOOTBOXES"
-msgstr "Контейнеры"
+msgstr "コンテナ"
 
-#, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_OVERVIEW"
 msgstr "兵装"
 
-#, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_SSE"
-msgstr "Боевые задачи"
+msgstr "コンバットミッション"
 
-#, fuzzy
 msgid "IDS_SECONDARY_TAB_BUTTON_UPGRADES"
-msgstr "Улучшения"
+msgstr "強化"
 
-#, fuzzy
 msgid "IDS_SECOND_TMSUBCOLLECTION_NAME"
-msgstr "Организация турнира"
+msgstr "トーナメントのセットアップ"
 
-#, fuzzy
 msgid "IDS_SELECT_DOGTAG_COMPONENT_SYMBOL_PATCH"
-msgstr "Выбрать нашивку"
+msgstr "パッチの選択"
 
-#, fuzzy
 msgid "IDS_SELECT_DOGTAG_COMPONENT_SYMBOL_UNIQUE"
-msgstr "Выбрать эмблему"
+msgstr "エンブレムを選択"
 
-#, fuzzy
 msgid "IDS_SESSION_REWARD_CREWXP_TITLE"
 msgstr "艦長 EXP"
 
-#, fuzzy
 msgid "IDS_SESSION_REWARD_ELITEXP_TITLE"
-msgstr "Элитный опыт командиров"
+msgstr "エリート艦長 EXP"
 
-#, fuzzy
 msgid "IDS_SESSION_REWARD_EXP_TITLE"
 msgstr "艦艇 EXP"
 
-#, fuzzy
 msgid "IDS_SESSION_REWARD_FREEXP_TITLE"
 msgstr "フリー EXP"
 
-#, fuzzy
 msgid "IDS_SESSION_REWARD_PUREXP_TITLE"
-msgstr "Чистый опыт"
+msgstr "基本 EXP"
 
-#, fuzzy
 msgid "IDS_SESSION_STATS_RESET"
 msgstr "リセット"
 
-#, fuzzy
 msgid "IDS_SET_SIGNALS_RARITY_LEVEL"
 msgstr "全て搭載"
 
-#, fuzzy
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_MODERNIZATION"
-msgstr "Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для изменения модернизаций."
+msgstr "ステータスが「分艦隊での戦闘準備完了」になっています。搭載中のアップグレードを変更するには、「準備中」をクリックしてください。"
 
-#, fuzzy
 msgid "IDS_SHIPMATERIAL_SUPERSHIP"
-msgstr "Суперкорабли"
+msgstr "超艦艇"
 
-#, fuzzy
 msgid "IDS_SHIPS_BRANCHES_CURRENT_PARAMS"
 msgstr "装備"
 
-#, fuzzy
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON_ALL"
-msgstr "リセット все"
+msgstr "初期化"
 
-#, fuzzy
 msgid "IDS_SHIPYARD_COMMON_EVENT_TITLE"
-msgstr "Верфь"
+msgstr "造船所"
 
-#, fuzzy
 msgid "IDS_SHIP_BRANCHES_FEATURE"
 msgstr "特徴"
 
-#, fuzzy
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_BUTTON_TEXT"
 msgstr "次を交換:"
 
-#, fuzzy
 msgid "IDS_SHIP_MANAGEMENT_SQUADRON_WEAPON_HEADER"
 msgstr "中隊消耗品"
 
-#, fuzzy
 msgid "IDS_SHIP_MASTERY_BUTTON_ABOUT"
 msgstr "ルール"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_INTANIA_MAGIC"
-msgstr "Боевые характеристики кораблей изменены. Набор изменений зависит от класса корабля."
+msgstr "艦艇の戦闘特性が変化した。艦種に応じて変化する特性の組み合わせは異なる。"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_AAA_MAX_DISTANCE"
-msgstr "Дальность 対空兵装"
+msgstr "対空兵装射程"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_WEAPONS_RELOAD_FACTOR"
 msgstr "装填速度向上"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_HEALTH_REGENERATION"
 msgstr "HP 回復"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INCREASED_WEAPON_DAMAGE"
 msgstr "ダメージ向上"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INTANIA_MAGIC"
-msgstr "Магия Интании"
+msgstr "インタニアの魔法"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM186_TORPEDOBUFF_DE2025"
 msgstr "魚雷装填ブースター"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM190_REGENERATION_DE2025"
 msgstr "HP 回復"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM196_ENGINE_WT"
 msgstr "チーム・エンジンブースト"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE"
-msgstr "被発見距離 с самолётов"
+msgstr "航空被発見距離"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PXOM186_TORPEDOBUFF_DE2025_APPLIED"
 msgstr "魚雷装填ブースター"
 
-#, fuzzy
 msgid "IDS_SHIP_MODIFIER_PXOM190_REGENERATION_DE2025_APPLIED"
 msgstr "HP 回復"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
-msgstr "Генератор помех"
+msgstr "信号ジャミング装置"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAMS_HOTKEY_SHORT"
-msgstr "Состояние"
+msgstr "ステータス"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_AIR_DEFENSE_DEAD"
-msgstr "Орудия 対空兵装"
+msgstr "対空兵装"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_ATBA_GUN_DEAD"
-msgstr "Вспомогательный калибр"
+msgstr "副砲"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_MAIN_CALIBER_DEAD"
 msgstr "主砲"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_TORPEDO_TUBE_DEAD"
-msgstr "Торпедные аппараты"
+msgstr "魚雷発射管"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SMOKE_PARAMS_TITLE"
-msgstr "Дымовая шашка"
+msgstr "ショートバースト発煙装置"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_FIGHTER"
 msgstr "迎撃機"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_SEAMINE"
 msgstr "機雷原"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_DRUM_FIRE_SALVO_COUNT"
-msgstr "Количество залпов в серии"
+msgstr "連続バースト射撃回数"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_MINEFIELD_ACTIVATION_TIME"
-msgstr "Время активации минного заграждения"
+msgstr "機雷原の発動時間"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_MINEFIELD_LIFE_TIME"
 msgstr "機雷原の有効時間"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_MINES_DAMAGE"
-msgstr "Максимальный урон миной"
+msgstr "機雷の最大ダメージ"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_SMOKE_RADIUS_SS"
-msgstr "Радиус действия"
+msgstr "アクション半径"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_SMOKE_TIME_SS"
 msgstr "煙幕の持続時間"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_MINE"
 msgstr "機雷原"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_WAVES"
 msgstr "ウェーブキャスター"
 
-#, fuzzy
 msgid "IDS_SHIP_PARAM_WAVE_GUN_SHOT_DELAY"
-msgstr "Время перезарядки"
+msgstr "装填時間"
 
-#, fuzzy
 msgid "IDS_SHIP_POTENTIAL_DAMAGE_PER_MINUTE_HIGH"
-msgstr "Высокая живучесть"
+msgstr "抗堪性が高い"
 
-#, fuzzy
 msgid "IDS_SHIP_POTENTIAL_DAMAGE_PER_MINUTE_LOW"
-msgstr "Низкая живучесть"
+msgstr "抗堪性が低い"
 
-#, fuzzy
 msgid "IDS_SHIP_ROLE_BB_SNIPER"
-msgstr "Снайпер"
+msgstr "スナイパー"
 
-#, fuzzy
 msgid "IDS_SHIP_ROLE_CA_SPOTTING"
-msgstr "Обнаружение"
+msgstr "索敵"
 
-#, fuzzy
 msgid "IDS_SHIP_ROLE_DD_HUNTER"
-msgstr "Охотник"
+msgstr "追撃者"
 
-#, fuzzy
 msgid "IDS_SHIP_SHARDS_TTX_BUTTON_FEATURES"
 msgstr "艦艇の特徴"
 
-#, fuzzy
 msgid "IDS_SHIP_TYPE_PARAM_DISGUISE"
 msgstr "隠蔽性"
 
-#, fuzzy
 msgid "IDS_SHIP_TYPE_PARAM_MANEUVERABILITY"
-msgstr "Манёвренность"
+msgstr "艦艇の特徴"
 
-#, fuzzy
 msgid "IDS_SHIP_TYPE_PARAM_SURVIVABILITY"
 msgstr "抗堪性"
 
-#, fuzzy
 msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_COMMON"
 msgstr "標準"
 
-#, fuzzy
 msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_ELITE"
 msgstr "エリート"
 
-#, fuzzy
 msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_UNCOMMON"
 msgstr "特別"
 
-#, fuzzy
 msgid "IDS_SIGNAL_TYPE_0_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "抗堪性"
 
-#, fuzzy
 msgid "IDS_SIGNAL_TYPE_3_SIMPLE_SUMMARY_TOOLTIP"
-msgstr "Скорость"
+msgstr "速度"
 
-#, fuzzy
 msgid "IDS_SIGNAL_TYPE_4_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "消耗品"
 
-#, fuzzy
 msgid "IDS_SIGN_MINUS"
 msgstr "-"
 
-#, fuzzy
 msgid "IDS_SIGN_PLUS"
 msgstr "+"
 
-#, fuzzy
 msgid "IDS_SKILLS_LEARNING_UNAVAILABLE"
-msgstr "Изучение навыков недоступно для этого командира"
+msgstr "この艦長はスキルを習得不可"
 
-#, fuzzy
 msgid "IDS_SKILL_SUBMARINE_TORPEDO_DAMAGE"
-msgstr "Мастер наведения торпед"
+msgstr "魚雷誘導マスター"
 
-#, fuzzy
 msgid "IDS_SMF_WOLF"
-msgstr "Волк"
+msgstr "狼"
 
-#, fuzzy
 msgid "IDS_SNOWFLAKES_COMMON_TITLE"
-msgstr "Праздничные награды"
+msgstr "祝賀褒賞"
 
-#, fuzzy
 msgid "IDS_SNOWFLAKES_TAKE_BONUSES_TITLE"
-msgstr "Праздничные награды"
+msgstr "祝賀褒賞"
 
-#, fuzzy
 msgid "IDS_SONAR"
-msgstr "ОБНАРУЖЕН"
+msgstr "発見された"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_MISIDE_MITA_MISIDE"
 msgstr "Mita"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_OTVINTA_BONUS_OTVINTA"
 msgstr "ボーナス"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_PUSHKINTALES_CHERNOMOR"
 msgstr "Chernomor"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_SMF_SMF_WOLF"
-msgstr "Волк"
+msgstr "狼"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_CAOCAO"
-msgstr "Cao Cao"
+msgstr "曹操"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_LIUBEI"
-msgstr "Liu Bei"
+msgstr "劉備"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_SUNQUAN"
-msgstr "Sun Quan"
+msgstr "孫権"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_USAOVECHKIN_SINGLE"
-msgstr "Александр Овечкин EN"
+msgstr "Alexander Ovechkin EN"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_USSROVECHKIN_SINGLE"
-msgstr "Александр Овечкин RU"
+msgstr "Alexander Ovechkin RU"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_VIKING_TM"
 msgstr "Björn Konungr"
 
-#, fuzzy
 msgid "IDS_SOUND_MOD_ZHANGLIAO"
-msgstr "Zhang Liao"
+msgstr "張遼"
 
-#, fuzzy
 msgid "IDS_SPEED_HIGH"
-msgstr "Высокая скорость хода"
+msgstr "最高速度が高い"
 
-#, fuzzy
 msgid "IDS_SPEED_LOW"
-msgstr "Низкая скорость хода"
+msgstr "最高速度が低い"
 
-#, fuzzy
 msgid "IDS_SSC_BELT"
-msgstr "Бронепояс"
+msgstr "装甲帯"
 
-#, fuzzy
 msgid "IDS_SSE_MOTIVATOR_TASK_COMMON_TITLE"
-msgstr "Приоритетная задача"
+msgstr "優先ミッション"
 
-#, fuzzy
 msgid "IDS_STRATEGIC_ACTIONS_TASK_CURRENT"
-msgstr "Текущая задача"
+msgstr "現在のミッション"
 
-#, fuzzy
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
-msgstr "Эффект снаряжения противника"
+msgstr "敵の消耗品の効果"
 
-#, fuzzy
 msgid "IDS_SUBMARINE_SPEED_SURFACE_HIGH"
-msgstr "Высокая скорость хода в надводном положении"
+msgstr "水上での最高速度が高い"
 
-#, fuzzy
 msgid "IDS_SUBMARINE_SPEED_SURFACE_LOW"
-msgstr "水上では低速"
+msgstr "水上での最高速度が低い"
 
-#, fuzzy
 msgid "IDS_SUBST_BATTLEPASS_CURRENT_LEVEL"
-msgstr "%(_level)s-й уровень"
+msgstr "レベル: %(_level)s"
 
-#, fuzzy
 msgid "IDS_SYS_MSG_AUTO_PURCHASE_LOOTBOX"
-msgstr "Получены контейнеры"
+msgstr "コンテナ取得"
 
-#, fuzzy
 msgid "IDS_SYS_MSG_CAMPAIGNS_FINAL_TASK_ENABLED"
-msgstr "最終タスク миссии доступно"
+msgstr "ミッションの最終タスクを利用可能"
 
-#, fuzzy
 msgid "IDS_SYS_MSG_ECOBOOST"
 msgstr "エコノミーボーナス"
 
-#, fuzzy
 msgid "IDS_SYS_MSG_FREE_BATTLEPASS_RECEIVED"
-msgstr "Получен 初期 боевой пропуск"
+msgstr "無料パス取得"
 
-#, fuzzy
 msgid "IDS_SYS_MSG_PAID_ENHANCED_BATTLEPASS_BOUGHT"
-msgstr "Куплен Улучшенный боевой пропуск + сезонные бонусы"
+msgstr "プレミアムパス + シーズン・ボーナス購入完了"
 
-#, fuzzy
 msgid "IDS_SYS_MSG_RANK_REMAINING_REWARDS"
-msgstr "褒賞 пройденной лиги"
+msgstr "完了したリーグの褒賞"
 
-#, fuzzy
 msgid "IDS_SYS_MSG_SIGNAL"
 msgstr "信号旗"
 
-#, fuzzy
 msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARD_CLAIM"
-msgstr "褒賞 события"
+msgstr "注目褒賞"
 
-#, fuzzy
 msgid "IDS_TALENT_PJW461_ACHIEVEMENT_8_20_21"
-msgstr "Энергичный"
+msgstr "フレキシブル"
 
-#, fuzzy
 msgid "IDS_TALENT_PXW172_DAMAGE_8_20_21"
-msgstr "Энергичный"
+msgstr "フレキシブル"
 
-#, fuzzy
 msgid "IDS_TELEGRAPH_ANGLE_LEFT_MAX"
 msgstr "MAX"
 
-#, fuzzy
 msgid "IDS_TELEGRAPH_ANGLE_RIGHT_MAX"
 msgstr "MAX"
 
-#, fuzzy
 msgid "IDS_TERRITORY_ARCHIVE_DOC_CODE"
-msgstr "Код:"
+msgstr "コード:"
 
-#, fuzzy
 msgid "IDS_TERRITORY_ARCHIVE_ITEM_TITLE"
-msgstr "Сводка"
+msgstr "概要"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_0"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_1"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_2"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_ALBOM_3"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_BAG_0"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_BAG_1"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CHRISTMAS_TREE_0"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CHRISTMAS_TREE_3"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL_1"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE_0"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE_1"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_TABLE_3"
 msgstr "水兵"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_ALBOM_0"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_ALBOM_1"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_ALBOM_2"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_ALBOM_3"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_BAG_0"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_BAG_1"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_CHRISTMAS_TREE_0"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_CHRISTMAS_TREE_3"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL_1"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_TABLE_0"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_TABLE_1"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_MESSAGE_TITLE_TABLE_3"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_TERRITORY_TITLE_GLOBAL_1_SHORT"
-msgstr "Владимир"
+msgstr "Vladimir"
 
-#, fuzzy
 msgid "IDS_THIRD_SPACE_MUSEUM_NAME"
-msgstr "Ракеты"
+msgstr "ロケット"
 
-#, fuzzy
 msgid "IDS_THIRD_TMSUBCOLLECTION_NAME"
-msgstr "特徴 геймплея"
+msgstr "ゲームプレイの特徴"
 
-#, fuzzy
 msgid "IDS_THIS_SHIP_LEVEL_IS_NOT_ALLOWED_FOR_TOURNAMENT"
-msgstr "Выберите корабль, подходящий по уровню."
+msgstr "Tier が適合する艦艇を選択"
 
-#, fuzzy
 msgid "IDS_TIPS_MODULES"
 msgstr "モジュール"
 
-#, fuzzy
 msgid "IDS_TITLE_PCM073_ADDITIONALCONSUMABLECV_MOD_I"
-msgstr "中隊消耗品 Модификация 1"
+msgstr "飛行中隊消耗品改良 1"
 
-#, fuzzy
 msgid "IDS_TITLE_PCM112_T11_SS_SUPGRADE_MOD_III"
-msgstr "ソナー Модификация 2"
+msgstr "ソナー改良 2"
 
-#, fuzzy
 msgid "IDS_TITLE_PCM113_MAINGUN_MOD_I"
-msgstr "Орудия главного калибра Модификация 1"
+msgstr "主砲改良 1"
 
-#, fuzzy
 msgid "IDS_TITLE_PCM114_TORPEDOMOD_MOD_0"
-msgstr "Торпедные аппараты Модификация 1"
+msgstr "魚雷発射管改良 1"
 
-#, fuzzy
 msgid "IDS_TITLE_PCM115_FLIGHTCONTROL_MOD_0"
-msgstr "Полётный контроль Модификация 1"
+msgstr "航空管制改良 1"
 
-#, fuzzy
 msgid "IDS_TM13_GER"
 msgstr "Klaus Sternberger"
 
-#, fuzzy
 msgid "IDS_TM13_JAP"
-msgstr "Kenji Shiraishi"
+msgstr "白石健治"
 
-#, fuzzy
 msgid "IDS_TM13_RUS"
-msgstr "Степан Ермаков"
+msgstr "Stepan Yermakov"
 
-#, fuzzy
 msgid "IDS_TM13_USA"
 msgstr "Edward Turner"
 
-#, fuzzy
 msgid "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_SEAMINE"
 msgstr "中隊"
 
-#, fuzzy
 msgid "IDS_TOOLTIP_CHARS_LEFT"
-msgstr "Оставшееся количество символов"
+msgstr "残り文字数"
 
-#, fuzzy
 msgid "IDS_TOOLTIP_TRAINING_ORGANIZER"
-msgstr "Организатор:"
+msgstr "作成者:"
 
-#, fuzzy
 msgid "IDS_TORPEDO_ALPHA_DAMAGE_HIGH"
-msgstr "Каждая торпеда наносит большой урон"
+msgstr "魚雷 1 本あたりの威力が高い"
 
-#, fuzzy
 msgid "IDS_TORPEDO_AVAILABILITY"
-msgstr "Есть торпедное вооружение"
+msgstr "雷装を搭載している"
 
-#, fuzzy
 msgid "IDS_TORPEDO_MAX_DIST_HIGH"
-msgstr "Большая дальность хода торпед"
+msgstr "魚雷の射程が長い"
 
-#, fuzzy
 msgid "IDS_TORPEDO_MAX_DIST_LOW"
-msgstr "Малая дальность хода торпед"
+msgstr "魚雷の射程が短い"
 
-#, fuzzy
 msgid "IDS_TORPEDO_NOT_AVAILABILITY"
-msgstr "Нет торпедного вооружения"
+msgstr "雷装を搭載していない"
 
-#, fuzzy
 msgid "IDS_TORPEDO_RELOAD_FAST"
-msgstr "Быстрая перезарядка ТА"
+msgstr "魚雷発射管の急速装填"
 
-#, fuzzy
 msgid "IDS_TORPEDO_RELOAD_SLOW"
-msgstr "Медленная перезарядка ТА"
+msgstr "魚雷発射管の装填速度が遅い"
 
-#, fuzzy
 msgid "IDS_TORPEDO_SALVO_VOLUME_HIGH"
-msgstr "Торпедный залп наносит большой урон"
+msgstr "魚雷斉射 1 回あたりの威力が非常に高い"
 
-#, fuzzy
 msgid "IDS_TORPEDO_VISIBILITY_HIGH"
-msgstr "Высокая заметность торпед"
+msgstr "魚雷の被発見距離が長い"
 
-#, fuzzy
 msgid "IDS_TORPEDO_VISIBILITY_LOW"
-msgstr "Низкая заметность торпед"
+msgstr "魚雷の被発見距離が短い"
 
-#, fuzzy
 msgid "IDS_TRIALS_BRIEFING_COMMON"
 msgstr "ブリーフィング"
 
-#, fuzzy
 msgid "IDS_TRIALS_MULTIPLIERS_LEGEND"
-msgstr "Условные обозначения"
+msgstr "凡例"
 
-#, fuzzy
 msgid "IDS_TRIALS_OBJECTIVE_COMMON"
 msgstr "ミッション"
 
-#, fuzzy
 msgid "IDS_TTX_WIDGET_COMMON_TITLE_ECOBOOST"
 msgstr "エコノミーボーナス"
 
-#, fuzzy
 msgid "IDS_TTX_WIDGET_COMMON_TITLE_MODERNIZATION"
-msgstr "Модернизации"
+msgstr "アップグレード"
 
-#, fuzzy
 msgid "IDS_TTX_WIDGET_COMMON_TITLE_SIGNAL"
 msgstr "信号旗"
 
-#, fuzzy
 msgid "IDS_UNCOMMON_CREW_STATUS"
-msgstr "特別 艦長"
+msgstr "特別艦長"
 
-#, fuzzy
 msgid "IDS_UNINSTALL_ALL_SIGNALS"
-msgstr "Снять все"
+msgstr "全て解除"
 
-#, fuzzy
 msgid "IDS_UNINSTALL_ALL_SIGNALS_HINT"
-msgstr "Снять все сигналы, установленные на этот корабль"
+msgstr "この艦艇に搭載された全信号旗を解除"
 
-#, fuzzy
 msgid "IDS_UNIQUE_SHIP"
-msgstr "Уникальный корабль"
+msgstr "ユニーク艦艇"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_2015"
-msgstr "Изменяйте внешний вид кораблей с помощью камуфляжей и флагов."
+msgstr "迷彩と旗で艦艇の外装をカスタマイズしましょう。"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_31292101"
-msgstr "Сражайтесь вместе с другими игроками против ботов."
+msgstr "プレイヤーチームとボットチームとの対戦"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_LEVEL_UP_2015"
 msgstr ""
-"<body>Вам стало доступно\n"
-"<h3>Изменение внешнего вида корабля</h3></body>"
+"<body><h3>艦艇の外装変更</h3>\n"
+"がアンロックされました</body>"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_LEVEL_UP_31292101"
 msgstr ""
-"Вам стали доступны\n"
-"<h3>Co-op 戦</h3>"
+"<h3>Co-op 戦</h3>\n"
+"がアンロックされました"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
 msgstr ""
-"<body>Вам стал доступен\n"
-"<h3>フリー EXP</h3></body>"
+"<body><h3>フリー EXP</h3>\n"
+"がアンロックされました</body>"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_LEVEL_UP_6"
 msgstr ""
-"<body>Вам стали доступны\n"
-"<h3>Контейнеры</h3></body>"
+"<body><h3>Co-op 戦</h3>\n"
+"がアンロックされました"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_LEVEL_UP_7"
 msgstr ""
-"<body>Вам стало доступно\n"
-"<h3>武器庫</h3></body>"
+"<body><h3>艦艇の外装変更</h3>\n"
+"がアンロックされました</body>"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_TITLE_2015"
-msgstr "Внешний вид"
+msgstr "外装"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_TITLE_31292101"
 msgstr "Co-op 戦"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_TITLE_5"
 msgstr "フリー EXP"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_TITLE_6"
-msgstr "Контейнеры"
+msgstr "コンテナ"
 
-#, fuzzy
 msgid "IDS_UNLOCKS_TITLE_7"
 msgstr "武器庫"
 
-#, fuzzy
 msgid "IDS_USA_GENITIVE"
-msgstr "США"
+msgstr "アメリカ"
 
-#, fuzzy
 msgid "IDS_USA_NATION_GEN"
-msgstr "США"
+msgstr "アメリカ"
 
-#, fuzzy
 msgid "IDS_USSROVECHKINPREM"
-msgstr "Александр Овечкин"
+msgstr "Alexander Ovechkin"
 
-#, fuzzy
 msgid "IDS_USSROVECHKINPREMHELL"
-msgstr "Царь Александр"
+msgstr "Tsar Alexander"
 
-#, fuzzy
 msgid "IDS_VIKING_TM"
 msgstr "Björn Konungr"
 
-#, fuzzy
 msgid "IDS_VISIBILITY_FACTOR_HIGH"
-msgstr "Низкая заметность"
+msgstr "被発見距離が短い"
 
-#, fuzzy
 msgid "IDS_VISIBILITY_FACTOR_LOW"
-msgstr "Высокая заметность"
+msgstr "被発見距離が長い"
 
-#, fuzzy
 msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_HEADER"
 msgstr "ブリーフィング"
 
-#, fuzzy
 msgid "IDS_WT_BUREAU_CARD_BUTTON_PURCHASE"
-msgstr "Купить"
+msgstr "購入"
 
-#, fuzzy
 msgid "IDS_WT_BUREAU_CARD_BUTTON_PURCHASE_CONFIRM_QUESTION"
-msgstr "Купить за"
+msgstr "購入しますか? 費用:"
 
-#, fuzzy
 msgid "IDS_WT_BUREAU_TECH_LEVEL"
-msgstr "Уровень %(_level)s"
+msgstr "レベル %(_level)s"
 
-#, fuzzy
 msgid "IDS_WT_PROGRESS_CHANGE_TASK"
-msgstr "Заменить задачу"
+msgstr "このミッションを置き換える"
 
-#, fuzzy
 msgid "IDS_WT_PROGRESS_ONBOARDING_TITLE_0"
-msgstr "Боевые задачи"
+msgstr "コンバットミッション"
 
-#, fuzzy
 msgid "IDS_WT_PROGRESS_REWARD_FOR_FINISHING_TASK"
-msgstr "Награда за выполнение:"
+msgstr "達成褒賞:"
 
-#, fuzzy
 msgid "IDS_WT_TAGS_PREDATOR_CONCEALMENT"
-msgstr "Низкая заметность"
+msgstr "被発見距離が短い"
 
-#, fuzzy
 msgid "IDS_YOU_WILL_RECEIVE"
-msgstr "Вам будет начислено"
+msgstr "付与:"
 
-#, fuzzy
 msgid "IDS_ZHANGLIAO"
-msgstr "Zhang Liao"
+msgstr "張遼"
 
-#, fuzzy
 msgid "IDS_ZOOM_IN_SPECTATOR"
-msgstr "Приблизить"
+msgstr "ズームイン"
 
-#, fuzzy
 msgid "IDS_ZOOM_IN_SPECTATOR_PREF_TOOLTIP_DESCRIPTION"
-msgstr "Приблизить камеру к воде."
+msgstr "水面へズームインします。"
 
-#, fuzzy
 msgid "IDS_ZOOM_OUT_SPECTATOR"
-msgstr "Отдалить"
+msgstr "ズームアウト"
 
-#, fuzzy
 msgid "IDS_ZOOM_OUT_SPECTATOR_PREF_TOOLTIP_DESCRIPTION"
-msgstr "Отдалить камеру от воды."
+msgstr "水面からズームアウトします。"

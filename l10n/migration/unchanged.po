@@ -10520,7 +10520,7 @@ msgid "IDS_COUNTRIES_TV"
 msgstr "ツバル"
 
 msgid "IDS_COUNTRIES_TW"
-msgstr "台湾"
+msgstr "中国台湾省"
 
 msgid "IDS_COUNTRIES_TZ"
 msgstr "タンザニア"

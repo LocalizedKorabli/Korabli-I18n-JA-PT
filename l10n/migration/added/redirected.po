@@ -7193,7 +7193,7 @@ msgid "IDS_REWARD_LOOTBOX_SLOTS_TITLE"
 msgstr "空きスロット"
 
 msgid "IDS_REWARD_MK_PREMIUM_TITLE"
-msgstr "MK プレミアムアカウント аккаунт"
+msgstr "MK プレミアムアカウント"
 
 msgid "IDS_REWARD_PORTAL_DESCRIPTION"
 msgstr "「大海の覇権」カテゴリーのコンバットミッションで好成績を達成することで授与されます。イベント結果の集計後に入賞者に自動的に届けられます。"

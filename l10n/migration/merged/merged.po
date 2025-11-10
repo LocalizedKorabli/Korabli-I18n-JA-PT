@@ -74,6 +74,12 @@ msgstr "最初の味方が撃沈された、我々は劣勢だ"
 msgid "IDS_0W0"
 msgstr "Detroit"
 
+msgid "IDS_12_MONTHS_JANUARY"
+msgstr "霜爺"
+
+msgid "IDS_12_MONTHS_MARCH"
+msgstr "春の長老"
+
 msgid "IDS_17_NA_FAULT_LINE_01"
 msgstr "セクター D2 および G9 に行動中の敵を発見!"
 
@@ -338,6 +344,30 @@ msgstr "味方監視所"
 msgid "IDS_1_SPACESTATION"
 msgstr "ステーション"
 
+msgid "IDS_2025WT_AUTOMATON"
+msgstr "無人艦"
+
+msgid "IDS_2025WT_AUTOMATONS"
+msgstr "無人艦"
+
+msgid "IDS_2025WT_CHAT_AI"
+msgstr "基地AI"
+
+msgid "IDS_2025WT_CHAT_BOTOMANCER_PXY527_NO_TARGET"
+msgstr "ワープを中断！ ハウンド隊、ただいま戦闘に復帰中！"
+
+msgid "IDS_2025WT_CHAT_BOTOMANCER_PXY532_NO_TARGET"
+msgstr "ワープ先ターゲットは殲滅された。装備は使用不能となった。"
+
+msgid "IDS_2025WT_ERMELINDA"
+msgstr "エルメリンダ・ユング"
+
+msgid "IDS_2025WT_TARGET_ACCEPT"
+msgstr "%s を攻撃せよ！"
+
+msgid "IDS_2025WT_TARGET_ACCEPT_SOLO"
+msgstr "%s を攻撃中！"
+
 msgid "IDS_2AIRSHIPS_SCENARIO_HINT"
 msgstr "敵チームより先に味方飛行船を目的地まで護衛するか、敵艦艇を殲滅せよ!"
 
@@ -485,6 +515,9 @@ msgstr "優先対空セクターを選択"
 msgid "IDS_ABILITY_ARTILLERY_RELOAD_BOOSTER_AVAILABLE"
 msgstr "消耗品「主砲装填ブースター」を使用できる"
 
+msgid "IDS_ABILITY_HEAL_AVAILABLE"
+msgstr "消耗品「修理班」を使用できる"
+
 msgid "IDS_ABILITY_SMOKE_AVAILABLE"
 msgstr "消耗品「発煙装置」を使用できる"
 
@@ -521,6 +554,9 @@ msgstr "スポーツマンシップ違反に対する艦長 EXP ペナルティ"
 msgid "IDS_ABUSE_PENALTY_EXP_HINT"
 msgstr "スポーツマンシップ違反に対する EXP ペナルティ"
 
+msgid "IDS_ABUSE_REASON_AFK_WITH_BULLET"
+msgstr "• 戦闘中の不行動"
+
 msgid "IDS_ABUSE_REASON_COMPLAINTS_WITH_BULLET"
 msgstr "• プレイヤーからの通報"
 
@@ -553,6 +589,9 @@ msgstr "ゲームルールを順守していただいたため、懲戒ペナル
 
 msgid "IDS_ABUSE_STATUS_CONFIRMED"
 msgstr "スポーツマンシップ違反ペナルティ"
+
+msgid "IDS_ABUSE_STATUS_CONFIRMED_DESCRIPTION"
+msgstr "Co-op 戦、クラン戦、トレーニング戦を除く全ての戦闘タイプへのアクセスが一時的にブロックされています。"
 
 msgid "IDS_ABUSE_STATUS_NORMAL"
 msgstr "ペナルティ解除済み"
@@ -1785,6 +1824,9 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLEKILL_PA"
 msgstr "敵艦艇を 10 秒以内に 2 隻撃沈する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLE_KILL"
+msgstr "敵艦艇を %(timeInterval)s 秒以内に 2 隻撃沈する。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLE_KILL_COOP"
 msgstr "敵艦艇を %(timeInterval)s 秒以内に 2 隻撃沈する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT"
@@ -3570,6 +3612,12 @@ msgstr "追加"
 msgid "IDS_ADDITIONAL"
 msgstr "追加"
 
+msgid "IDS_ADDITIONAL_BATTLE_XP"
+msgstr "各戦での追加 EXP"
+
+msgid "IDS_ADDITIONAL_BATTLE_XP_HINT"
+msgstr "各戦での追加 EXP"
+
 msgid "IDS_ADDITIONAL_CONSUMABLES_CHANGED"
 msgstr "艦艇の消耗品の数が増加"
 
@@ -3898,6 +3946,12 @@ msgstr "長射程の対空兵装"
 
 msgid "IDS_AIR_DEFENSE_DISTANCE_LOW"
 msgstr "対空兵装の射程が短い"
+
+msgid "IDS_AIR_DEFENSE_EFFICIENCY_HIGH"
+msgstr "対空兵装の有効性が高い"
+
+msgid "IDS_AIR_DEFENSE_EFFICIENCY_LOW"
+msgstr "対空兵装の有効性が低い"
 
 msgid "IDS_AIR_DEFENSE_HELP_SCREEN"
 msgstr "対空兵装"
@@ -5433,6 +5487,9 @@ msgstr "このレベルに未到達"
 
 msgid "IDS_BATTLEPASS_ONBOARDING_BUTTON_MAIN"
 msgstr "開始"
+
+msgid "IDS_BATTLEPASS_ONBOARDING_TITLE_0"
+msgstr "バトルパスとは"
 
 msgid "IDS_BATTLEPASS_ONBOARDING_TITLE_1"
 msgstr "褒賞"
@@ -7273,6 +7330,9 @@ msgstr "達成済み"
 msgid "IDS_CAMPAIGN_TASK_IS_LOOTED_REWARDS"
 msgstr "入手済み"
 
+msgid "IDS_CAMPAIGN_TASK_LOCKED"
+msgstr "達成不能"
+
 msgid "IDS_CAMPAIGN_TASK_NUMBER"
 msgstr "タスク %(_taskNumber)d"
 
@@ -7401,6 +7461,9 @@ msgstr "非対称戦に適合する艦艇をフィルター"
 
 msgid "IDS_CAROUSEL_PCVE021_FILTER"
 msgstr "「隠密作戦」イベントに適合する艦艇をフィルター"
+
+msgid "IDS_CAROUSEL_PCVE023_FILTER"
+msgstr "非対称戦に適合する艦艇をフィルター"
 
 msgid "IDS_CAROUSEL_PCVE025_FILTER"
 msgstr "飛行船護衛に適合する艦艇をフィルター"
@@ -8086,6 +8149,30 @@ msgstr "横隔壁"
 
 msgid "IDS_CIT_INCLIN"
 msgstr "装甲甲板スロープ"
+
+msgid "IDS_CIT_ROLE01"
+msgstr "標的"
+
+msgid "IDS_CIT_ROLE02"
+msgstr "標的"
+
+msgid "IDS_CIT_ROLE03"
+msgstr "標的"
+
+msgid "IDS_CIT_ROLE04"
+msgstr "標的"
+
+msgid "IDS_CIT_ROLE05"
+msgstr "標的"
+
+msgid "IDS_CIT_ROLE06"
+msgstr "標的"
+
+msgid "IDS_CIT_ROLE07"
+msgstr "標的"
+
+msgid "IDS_CIT_ROLE08"
+msgstr "標的"
 
 msgid "IDS_CIT_SIDE"
 msgstr "装甲板"
@@ -9933,6 +10020,9 @@ msgstr "コンペティションの全体における所属チームの勝利数
 msgid "IDS_COMPENDIUM_RESET"
 msgstr "リセット"
 
+msgid "IDS_COMPENDIUM_UNIFIED_STATUS_WITHOUT_COMMANDER"
+msgstr "艦長なし"
+
 msgid "IDS_COMPENSATION"
 msgstr "補填"
 
@@ -11104,7 +11194,7 @@ msgid "IDS_COUNTRIES_TV"
 msgstr "ツバル"
 
 msgid "IDS_COUNTRIES_TW"
-msgstr "台湾"
+msgstr "中国台湾省"
 
 msgid "IDS_COUNTRIES_TZ"
 msgstr "タンザニア"
@@ -16875,6 +16965,9 @@ msgstr "習得するスキルを選択"
 msgid "IDS_CREW_SKILL_UNSELECT_INSTRUCTION"
 msgstr "スキル選択をキャンセル"
 
+msgid "IDS_CREW_SORT_DEFAULT"
+msgstr "標準"
+
 msgid "IDS_CREW_SPECIALIZATION_TO_SELECT_SHIP"
 msgstr "適性:"
 
@@ -18131,6 +18224,9 @@ msgstr "対空兵装/副砲無効"
 msgid "IDS_DISABLING_AA_AND_ATBA_PREF_TOOLTIP_DESCRIPTION"
 msgstr "対空兵装と副砲を無効化します。"
 
+msgid "IDS_DISCIPLINE_DAMAGE"
+msgstr "火力"
+
 msgid "IDS_DISMISS_DIVISION"
 msgstr "分艦隊を解散"
 
@@ -18248,6 +18344,9 @@ msgstr ""
 "\n"
 "装甲に浅い角度で命中した場合には跳弾する可能性があります。"
 
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AP_SEC"
+msgstr "<p>重装甲の目標に対して効果的であり、装甲を貫通して内部で炸裂することにより大打撃を与えます。</p><p class=\"p_spacing\"> </p><p>装甲厚が不足していた場合、砲弾は全貫通を起こし、小さなダメージに留まります。</p><p class=\"p_spacing\"> </p><p>装甲に浅い角度で命中した場合には跳弾する可能性があります。</p>"
+
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AXISLASER"
 msgstr ""
 "特徴\n"
@@ -18261,6 +18360,9 @@ msgstr ""
 " • 射撃の前にエネルギー蓄積が必要で、目標セクターにロックされ続ける\n"
 "\n"
 "長距離において低速の目標に対して最も効果的"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_CS_SEC"
+msgstr "<p>軽装甲の目標に対して効果的であり、大ダメージを与えることができます。</p><p class=\"p_spacing\"> </p><p>不貫通または跳弾が発生した場合にはダメージを与えることができません。</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_DEPTHCHARGE_ACID_FIRST_APRIL23"
 msgstr ""
@@ -18289,12 +18391,18 @@ msgstr ""
 "\n"
 "大きなダメージを与えるポテンシャルを有しており、高確率で火災を引き起こしたりモジュールを機能停止に陥らせたりすることができます。"
 
+msgid "IDS_DOCK_AMMO_DESCRIPTION_HE_SEC"
+msgstr "<p>軽装甲の目標に対して効果的です。</p><p class=\"p_spacing\"> </p><p>火災を引き起こしたりモジュールを機能停止に陥らせたりする確率が高いため、大きなダメージを与え得るポテンシャルを有しています。</p>"
+
 msgid "IDS_DOCK_AMMO_DESCRIPTION_SECTOR_WAVE"
 msgstr ""
 "特徴\n"
 " • ウェーブは複数の目標に命中可能\n"
 " • 与ダメージはインパクトエリアのサイズに比例する\n"
 " • 敵の魚雷とウェーブを撃破することが可能"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_SKIP_HE_ALT"
+msgstr "<p>爆撃機は</p><p class=\"p_spacing\"> </p><p>強力な爆弾を投下し、</p><p class=\"p_spacing\"> </p><p>高確率で火災を引き起こします。</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_ACID_FIRST_APRIL23"
 msgstr ""
@@ -18590,6 +18698,9 @@ msgstr "対空砲火の強度を向上します。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY012_FIGHTERPREMIUM"
 msgstr "艦に追従し、敵機を自動的に迎撃します。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTERACCURACY"
+msgstr "<p>主砲の射程を延伸し、射撃精度を高めます。</p><p class=\"p_spacing\"> </p><p>動作時間は短いです。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTERPREMIUM"
 msgstr "主砲の射程を延伸します。"
@@ -20205,6 +20316,9 @@ msgstr "巡洋艦 Cleveland が Tier VI だった古き良き日々を記念し�
 
 msgid "IDS_DOGTAG_PCNB079_NAME"
 msgstr "Cleveland (旧)"
+
+msgid "IDS_DOGTAG_PCNB080_DESCRIPTION"
+msgstr "<p>ウィリアム・ハルゼー提督は、太平洋戦争における連合国の勝利の立役者となった人物のひとりです。</p><p class=\"p_spacing\"> </p><p>\"Hit hard! Hit fast! Hit often!\\\" キャンペーン完了に対する記念シンボル。</p>"
 
 msgid "IDS_DOGTAG_PCNB080_NAME"
 msgstr "ハルゼー提督"
@@ -24299,6 +24413,9 @@ msgstr "消耗品「エンジンブースト」を使用できない"
 msgid "IDS_FEAT_BAD_MOVE_SPEED"
 msgstr "低速である"
 
+msgid "IDS_FEAT_BAD_MOVE_SPEED_SURFACE"
+msgstr "水上では低速"
+
 msgid "IDS_FEAT_BAD_NARROW_PING"
 msgstr "ソナーピンガーの幅が狭い"
 
@@ -24430,6 +24547,9 @@ msgstr "装甲が脆弱で、艦首および船尾の装甲板が薄い"
 
 msgid "IDS_FEAT_CENTRAL_ARMOR_GOOD"
 msgstr "艦中央部の装甲防御力が強化されている"
+
+msgid "IDS_FEAT_CONSUMABLE_SPOTTERACCURACY"
+msgstr "消耗品「高精度着弾観測機」を使用できる"
 
 msgid "IDS_FEAT_CRASHCREW_LONG_DESC"
 msgstr "消耗品「応急工作班」の動作時間が長めです。"
@@ -25616,6 +25736,9 @@ msgstr "形式: 5 対 12"
 msgid "IDS_FORSAGE_INDICATOR_KILOMETERS"
 msgstr "kts"
 
+msgid "IDS_FORWARD_ENGINE_FORSAG_HIGH"
+msgstr "艦艇の加速力が高い"
+
 msgid "IDS_FOR_ALCHEMY_EXCHANGE"
 msgstr "変換:"
 
@@ -26041,6 +26164,9 @@ msgstr "制圧戦"
 
 msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_3"
 msgstr "魚雷装填ブースター"
+
+msgid "IDS_GAMEMODE_DREADNOUGHT_RULES_DESCRIPTION_TEXT_5"
+msgstr "HP 回復"
 
 msgid "IDS_GAMEMODE_EPICENTER_RING_DESCRIPTION"
 msgstr ""
@@ -26731,6 +26857,9 @@ msgstr "艦艇の特徴"
 msgid "IDS_GUIDING_TIP_309_HEADER"
 msgstr "艦艇の特徴"
 
+msgid "IDS_GUIDING_TIP_313_HEADER"
+msgstr "戦闘開始!"
+
 msgid "IDS_GUIDING_TIP_315_HEADER"
 msgstr "ミッションが変更されました"
 
@@ -27103,6 +27232,9 @@ msgstr "HE 爆弾空襲"
 msgid "IDS_HELP_AVIATION"
 msgstr "航空機"
 
+msgid "IDS_HELP_BATTLE_COMMANDS"
+msgstr "戦闘中"
+
 msgid "IDS_HELP_CALLFIGHTERS_UPGRADE"
 msgstr "迎撃機"
 
@@ -27261,6 +27393,9 @@ msgstr "艦艇ステータス"
 
 msgid "IDS_HELP_STEERING_MACHINE"
 msgstr "操舵装置"
+
+msgid "IDS_HELP_TAB_EVENT_INFO"
+msgstr "戦闘の特徴"
 
 msgid "IDS_HELP_TAB_MODULES"
 msgstr "装備"
@@ -28513,6 +28648,9 @@ msgstr "(クラン戦)"
 
 msgid "IDS_IN_COOPERATIVEBATTLE"
 msgstr "(Co-op 戦):"
+
+msgid "IDS_IN_PCVE020"
+msgstr "(非対称戦): "
 
 msgid "IDS_IN_PCVE023"
 msgstr "(非対称戦):"
@@ -30994,6 +31132,9 @@ msgstr "絨毯爆撃"
 msgid "IDS_MAIN_CONSUMABLE_SONARSEARCH_GOOD"
 msgstr "強化版の消耗品「水中聴音」"
 
+msgid "IDS_MAIN_CONSUMABLE_SPOTTERACCURACY"
+msgstr "消耗品「高精度着弾観測機」を使用できる"
+
 msgid "IDS_MAIN_CSAPONLY"
 msgstr "SAP 弾と AP 弾を使用可能"
 
@@ -32445,6 +32586,9 @@ msgstr "強化エリア"
 msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_3_HEADER"
 msgstr "モジュール"
 
+msgid "IDS_MODAL_WINDOW_PCVT001_DAMAGE_PRIME_BATTLE_RULES_HEADER"
+msgstr "火力"
+
 msgid "IDS_MODAL_WINDOW_POSTBATTLE_KEY_BATTLE_RESULTS_5"
 msgstr "ポータルからの脱出に成功!"
 
@@ -33170,6 +33314,339 @@ msgstr "ナチ"
 msgid "IDS_NAKHIMOV"
 msgstr "Pavel Nakhimov"
 
+msgid "IDS_NAME01"
+msgstr "標的"
+
+msgid "IDS_NAME02"
+msgstr "標的"
+
+msgid "IDS_NAME03"
+msgstr "標的"
+
+msgid "IDS_NAME04"
+msgstr "標的"
+
+msgid "IDS_NAME05"
+msgstr "標的"
+
+msgid "IDS_NAME06"
+msgstr "標的"
+
+msgid "IDS_NAME07"
+msgstr "標的"
+
+msgid "IDS_NAME08"
+msgstr "標的"
+
+msgid "IDS_NAME09"
+msgstr "標的"
+
+msgid "IDS_NAME10"
+msgstr "標的"
+
+msgid "IDS_NAME11"
+msgstr "標的"
+
+msgid "IDS_NAME110"
+msgstr "標的"
+
+msgid "IDS_NAME111"
+msgstr "標的"
+
+msgid "IDS_NAME112"
+msgstr "標的"
+
+msgid "IDS_NAME113"
+msgstr "標的"
+
+msgid "IDS_NAME114"
+msgstr "標的"
+
+msgid "IDS_NAME115"
+msgstr "標的"
+
+msgid "IDS_NAME116"
+msgstr "標的"
+
+msgid "IDS_NAME117"
+msgstr "標的"
+
+msgid "IDS_NAME118"
+msgstr "標的"
+
+msgid "IDS_NAME119"
+msgstr "標的"
+
+msgid "IDS_NAME12"
+msgstr "標的"
+
+msgid "IDS_NAME120"
+msgstr "標的"
+
+msgid "IDS_NAME121"
+msgstr "標的"
+
+msgid "IDS_NAME122"
+msgstr "標的"
+
+msgid "IDS_NAME123"
+msgstr "標的"
+
+msgid "IDS_NAME124"
+msgstr "標的"
+
+msgid "IDS_NAME13"
+msgstr "標的"
+
+msgid "IDS_NAME14"
+msgstr "標的"
+
+msgid "IDS_NAME15"
+msgstr "標的"
+
+msgid "IDS_NAME16"
+msgstr "標的"
+
+msgid "IDS_NAME17"
+msgstr "標的"
+
+msgid "IDS_NAME18"
+msgstr "標的"
+
+msgid "IDS_NAME19"
+msgstr "標的"
+
+msgid "IDS_NAME1D"
+msgstr "標的"
+
+msgid "IDS_NAME1F"
+msgstr "標的"
+
+msgid "IDS_NAME20"
+msgstr "標的"
+
+msgid "IDS_NAME21"
+msgstr "標的"
+
+msgid "IDS_NAME210"
+msgstr "標的"
+
+msgid "IDS_NAME211"
+msgstr "標的"
+
+msgid "IDS_NAME212"
+msgstr "標的"
+
+msgid "IDS_NAME213"
+msgstr "標的"
+
+msgid "IDS_NAME214"
+msgstr "標的"
+
+msgid "IDS_NAME215"
+msgstr "標的"
+
+msgid "IDS_NAME216"
+msgstr "標的"
+
+msgid "IDS_NAME217"
+msgstr "標的"
+
+msgid "IDS_NAME218"
+msgstr "標的"
+
+msgid "IDS_NAME219"
+msgstr "標的"
+
+msgid "IDS_NAME22"
+msgstr "標的"
+
+msgid "IDS_NAME220"
+msgstr "標的"
+
+msgid "IDS_NAME221"
+msgstr "標的"
+
+msgid "IDS_NAME222"
+msgstr "標的"
+
+msgid "IDS_NAME223"
+msgstr "標的"
+
+msgid "IDS_NAME224"
+msgstr "標的"
+
+msgid "IDS_NAME23"
+msgstr "標的"
+
+msgid "IDS_NAME24"
+msgstr "標的"
+
+msgid "IDS_NAME25"
+msgstr "標的"
+
+msgid "IDS_NAME26"
+msgstr "標的"
+
+msgid "IDS_NAME27"
+msgstr "標的"
+
+msgid "IDS_NAME28"
+msgstr "標的"
+
+msgid "IDS_NAME29"
+msgstr "標的"
+
+msgid "IDS_NAME2D"
+msgstr "標的"
+
+msgid "IDS_NAME2F"
+msgstr "標的"
+
+msgid "IDS_NAME30"
+msgstr "標的"
+
+msgid "IDS_NAME31"
+msgstr "標的"
+
+msgid "IDS_NAME32"
+msgstr "標的"
+
+msgid "IDS_NAME33"
+msgstr "標的"
+
+msgid "IDS_NAME34"
+msgstr "標的"
+
+msgid "IDS_NAME35"
+msgstr "標的"
+
+msgid "IDS_NAME36"
+msgstr "標的"
+
+msgid "IDS_NAME37"
+msgstr "標的"
+
+msgid "IDS_NAME38"
+msgstr "標的"
+
+msgid "IDS_NAME39"
+msgstr "標的"
+
+msgid "IDS_NAME3D"
+msgstr "標的"
+
+msgid "IDS_NAME3F"
+msgstr "標的"
+
+msgid "IDS_NAME40"
+msgstr "標的"
+
+msgid "IDS_NAME41"
+msgstr "標的"
+
+msgid "IDS_NAME410"
+msgstr "標的"
+
+msgid "IDS_NAME411"
+msgstr "標的"
+
+msgid "IDS_NAME412"
+msgstr "標的"
+
+msgid "IDS_NAME413"
+msgstr "標的"
+
+msgid "IDS_NAME414"
+msgstr "標的"
+
+msgid "IDS_NAME415"
+msgstr "標的"
+
+msgid "IDS_NAME416"
+msgstr "標的"
+
+msgid "IDS_NAME417"
+msgstr "標的"
+
+msgid "IDS_NAME42"
+msgstr "標的"
+
+msgid "IDS_NAME43"
+msgstr "標的"
+
+msgid "IDS_NAME44"
+msgstr "標的"
+
+msgid "IDS_NAME45"
+msgstr "標的"
+
+msgid "IDS_NAME46"
+msgstr "標的"
+
+msgid "IDS_NAME47"
+msgstr "標的"
+
+msgid "IDS_NAME48"
+msgstr "標的"
+
+msgid "IDS_NAME49"
+msgstr "標的"
+
+msgid "IDS_NAME4D"
+msgstr "標的"
+
+msgid "IDS_NAME4F"
+msgstr "標的"
+
+msgid "IDS_NAME50"
+msgstr "標的"
+
+msgid "IDS_NAME51"
+msgstr "標的"
+
+msgid "IDS_NAME52"
+msgstr "標的"
+
+msgid "IDS_NAME53"
+msgstr "標的"
+
+msgid "IDS_NAME54"
+msgstr "標的"
+
+msgid "IDS_NAME55"
+msgstr "標的"
+
+msgid "IDS_NAME56"
+msgstr "標的"
+
+msgid "IDS_NAME57"
+msgstr "標的"
+
+msgid "IDS_NAME58"
+msgstr "標的"
+
+msgid "IDS_NAME59"
+msgstr "標的"
+
+msgid "IDS_NAME5D"
+msgstr "標的"
+
+msgid "IDS_NAME5F"
+msgstr "標的"
+
+msgid "IDS_NAMEA1"
+msgstr "標的"
+
+msgid "IDS_NAMEA2"
+msgstr "標的"
+
+msgid "IDS_NAMEA3"
+msgstr "標的"
+
+msgid "IDS_NAMEA4"
+msgstr "標的"
+
 msgid "IDS_NAME_ALLY_1"
 msgstr "味方"
 
@@ -33453,6 +33930,1086 @@ msgstr "オランダ潜水艦"
 
 msgid "IDS_NETH_WWII_SA"
 msgstr "Frederik van Hendriks"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT6"
+msgstr "Kettenhund"
 
 msgid "IDS_NEWBIE_QUESTS_BANNER_TOOLTIP_AVAILABLE_TASKS"
 msgstr "利用可能なチュートリアル・ミッション"
@@ -36408,6 +37965,9 @@ msgstr "全体音量"
 msgid "IDS_OVERALL_SOUND_EFFECTS_VOLUME_PREF_TOOLTIP_DESCRIPTION"
 msgstr "すべてのサウンドエフェクトの音量の設定です。"
 
+msgid "IDS_OWNED_LOOTBOXES_BY_TYPE"
+msgstr "利用可能:"
+
 msgid "IDS_OWN_SHIP_IN_COMPARE_OFF"
 msgstr "自艦の表示 OFF"
 
@@ -38403,6 +39963,9 @@ msgstr "406 mm HE/HC Mk13"
 msgid "IDS_PAPA215_305MM_HE_CONSTITUTION"
 msgstr "305 mm HE/HC Mk8"
 
+msgid "IDS_PAPA216_305MM_AP_CONSTITUTION"
+msgstr "305 mm AP Mk15 mod. 1"
+
 msgid "IDS_PAPA217_356MM_HE_OREGON"
 msgstr "356 mm HE/HC Mk22"
 
@@ -38769,6 +40332,9 @@ msgstr "Mk29 MIE"
 msgid "IDS_PAPT068_W_R_RUSH_MK_17"
 msgstr "Mk17"
 
+msgid "IDS_PAPT070_533MM_MK15_CONSTITUTION"
+msgstr "Mk15 mod. 0"
+
 msgid "IDS_PAPT104_LANGLEY_STOCK"
 msgstr "Torpedo Mk.7D"
 
@@ -38894,6 +40460,9 @@ msgstr "対空継続ダメージ"
 
 msgid "IDS_PARAMS_MODIFIER_AAAURADAMAGE_SUBMARINE"
 msgstr "対空継続ダメージ"
+
+msgid "IDS_PARAMS_MODIFIER_AABUBBLEDAMAGEBONUS"
+msgstr "対空砲弾の爆発によるダメージ"
 
 msgid "IDS_PARAMS_MODIFIER_AABUBBLEDAMAGE_AIRCARRIER"
 msgstr "対空砲弾の爆発によるダメージ"
@@ -40576,8 +42145,14 @@ msgstr "3"
 msgid "IDS_PASA538_YEAR"
 msgstr "1941"
 
+msgid "IDS_PASA588"
+msgstr "Hornet B"
+
 msgid "IDS_PASA588_DESCR"
 msgstr "ヨークタウン級航空母艦の 3 番艦であったホーネットは、有名なドーリットル空襲に参加し、ミッドウェイ海戦およびソロモン諸島作戦で戦いました。南太平洋海戦では、ホーネットは航空母艦翔鶴を損傷させたものの、空襲により複数の命中弾を受けました。その結果として機関が破壊されたため、艦を放棄することが決定されました。その後、本艦を処分するためにアメリカの駆逐艦 2 隻が 9 本の魚雷を命中させて数百発の 127 mm 砲弾を撃ち込んだにも関わらず本艦は浮いたままでしたが、最終的には日本の駆逐艦 2 隻が雷撃により止めを刺しました。"
+
+msgid "IDS_PASA588_FULL"
+msgstr "Hornet B"
 
 msgid "IDS_PASA588_YEAR"
 msgstr "1941"
@@ -40632,6 +42207,15 @@ msgstr "3"
 
 msgid "IDS_PASA915_YEAR"
 msgstr "1945"
+
+msgid "IDS_PASA990"
+msgstr "Midway Test"
+
+msgid "IDS_PASA990_DESCR"
+msgstr "テスト用艦艇"
+
+msgid "IDS_PASA990_FULL"
+msgstr "Midway Test"
 
 msgid "IDS_PASA990_YEAR"
 msgstr "1945"
@@ -40971,6 +42555,12 @@ msgstr "1"
 
 msgid "IDS_PASB519_YEAR"
 msgstr "1938"
+
+msgid "IDS_PASB520"
+msgstr "President"
+
+msgid "IDS_PASB520_FULL"
+msgstr "President"
 
 msgid "IDS_PASB520_YEAR"
 msgstr "1918"
@@ -41608,6 +43198,12 @@ msgstr "Alaska"
 msgid "IDS_PASC510_NUMBER"
 msgstr "3"
 
+msgid "IDS_PASC517"
+msgstr "Chancellorsville"
+
+msgid "IDS_PASC517_FULL"
+msgstr "Chancellorsville"
+
 msgid "IDS_PASC517_YEAR"
 msgstr "1925"
 
@@ -41677,6 +43273,12 @@ msgstr "8"
 msgid "IDS_PASC548_YEAR"
 msgstr "1942"
 
+msgid "IDS_PASC558"
+msgstr "Constitution"
+
+msgid "IDS_PASC558_FULL"
+msgstr "Constitution"
+
 msgid "IDS_PASC558_YEAR"
 msgstr "1915"
 
@@ -41730,6 +43332,12 @@ msgstr "1"
 
 msgid "IDS_PASC610_YEAR"
 msgstr "1940"
+
+msgid "IDS_PASC620"
+msgstr "Chesapeake"
+
+msgid "IDS_PASC620_FULL"
+msgstr "Chesapeake"
 
 msgid "IDS_PASC620_YEAR"
 msgstr "1941"
@@ -41962,14 +43570,38 @@ msgstr "1"
 msgid "IDS_PASD111_YEAR"
 msgstr "1950"
 
+msgid "IDS_PASD207"
+msgstr "Farrand"
+
+msgid "IDS_PASD207_FULL"
+msgstr "Farrand"
+
 msgid "IDS_PASD207_YEAR"
 msgstr "1932"
+
+msgid "IDS_PASD208"
+msgstr "Hogg"
+
+msgid "IDS_PASD208_FULL"
+msgstr "Hogg"
 
 msgid "IDS_PASD208_YEAR"
 msgstr "1933"
 
+msgid "IDS_PASD209"
+msgstr "Maffitt"
+
+msgid "IDS_PASD209_FULL"
+msgstr "Maffitt"
+
 msgid "IDS_PASD209_YEAR"
 msgstr "1939"
+
+msgid "IDS_PASD210"
+msgstr "Lynch"
+
+msgid "IDS_PASD210_FULL"
+msgstr "Lynch"
 
 msgid "IDS_PASD210_YEAR"
 msgstr "1940"
@@ -42060,6 +43692,12 @@ msgstr "5"
 
 msgid "IDS_PASD510_YEAR"
 msgstr "1937"
+
+msgid "IDS_PASD517"
+msgstr "Mayo"
+
+msgid "IDS_PASD517_FULL"
+msgstr "Mayo"
 
 msgid "IDS_PASD517_YEAR"
 msgstr "1940"
@@ -42270,6 +43908,9 @@ msgstr "Archerfish"
 
 msgid "IDS_PASS610_FULL"
 msgstr "Archerfish"
+
+msgid "IDS_PASS610_NUMBER"
+msgstr "120"
 
 msgid "IDS_PASS610_YEAR"
 msgstr "1943"
@@ -43223,6 +44864,9 @@ msgstr "推力: 53,500 馬力"
 msgid "IDS_PAUE511_D6_ENG_STOCK"
 msgstr "推力: 42,800 馬力"
 
+msgid "IDS_PAUE513_CV6_ENG_STOCK"
+msgstr "推力: 100,800 馬力"
+
 msgid "IDS_PAUE521_ENGINE_55000"
 msgstr "推力: 55,000 馬力"
 
@@ -43279,6 +44923,9 @@ msgstr "推力: 50,000 馬力"
 
 msgid "IDS_PAUE614_D7_ENG_STOCK"
 msgstr "推力: 50,000 馬力"
+
+msgid "IDS_PAUE615_ENG_CHANCELLORSVILLE"
+msgstr "推力: 107,000 馬力"
 
 msgid "IDS_PAUE621_ENGINE_INDIANAPOLIS"
 msgstr "推力: 107,000 馬力"
@@ -43376,8 +45023,14 @@ msgstr "推力: 52,000 馬力"
 msgid "IDS_PAUE727_ENG_CONSTITUTION"
 msgstr "推力: 125,000 馬力"
 
+msgid "IDS_PAUE728_CV8_ENG_STOCK"
+msgstr "推力: 120,000 馬力"
+
 msgid "IDS_PAUE729_ENG_BLACK_HORNET"
 msgstr "推力: 120,000 馬力"
+
+msgid "IDS_PAUE730_ENG_OREGON"
+msgstr "推力: 121,000 馬力"
 
 msgid "IDS_PAUE731_ENGINE_75000"
 msgstr "推力: 75,000 馬力"
@@ -43450,6 +45103,9 @@ msgstr "推力: 60,000 馬力"
 
 msgid "IDS_PAUE814_ENG_BLACK_BLACK"
 msgstr "推力: 60,000 馬力"
+
+msgid "IDS_PAUE815_D9_ENG_STOCK"
+msgstr "推力: 75,000 馬力"
 
 msgid "IDS_PAUE821_ENGINE_120000"
 msgstr "推力: 120,000 馬力"
@@ -43532,11 +45188,20 @@ msgstr "推力: 80,000 馬力"
 msgid "IDS_PAUE923_ENG_ESSEX"
 msgstr "推力: 150,000 馬力"
 
+msgid "IDS_PAUE924_ENG_N_HAMPSHIRE"
+msgstr "推力: 172,000 馬力"
+
 msgid "IDS_PAUE925_ENG_CHESAPEAKE"
 msgstr "推力: 135,000 馬力"
 
+msgid "IDS_PAUE926_ENG_BALAO_TEST"
+msgstr "推力: 5,400 馬力"
+
 msgid "IDS_PAUE927_D10_ENG_STOCK"
 msgstr "推力: 80,000 馬力"
+
+msgid "IDS_PAUE928_ENG_ARCHERFISH"
+msgstr "推力: 5,480 馬力"
 
 msgid "IDS_PAUE929_ENG_W_R_RUSH"
 msgstr "推力: 60,000 馬力"
@@ -43546,6 +45211,12 @@ msgstr "推力: 212,000 馬力"
 
 msgid "IDS_PAUE931_ENG_ANNAPOLIS"
 msgstr "推力: 160,000 馬力"
+
+msgid "IDS_PAUE932_B11_ENG_STOCK"
+msgstr "推力: 221,000 馬力"
+
+msgid "IDS_PAUE933_ENG_PRESIDENT"
+msgstr "推力: 210,000 馬力"
 
 msgid "IDS_PAUE934_CV10_ENG_STOCK"
 msgstr "推力: 150,000 馬力"
@@ -43616,6 +45287,9 @@ msgstr "Mk6 mod. 2"
 msgid "IDS_PAUF503_FLIGHTCONTROL_3"
 msgstr "Mk6 mod. 3"
 
+msgid "IDS_PAUF504_CV6_FC_STOCK"
+msgstr "Mk8"
+
 msgid "IDS_PAUF511_FLIGHTCONTROL_1"
 msgstr "Mk6 mod. 1"
 
@@ -43678,6 +45352,9 @@ msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF708_FC_CONCORD_BRIDGE"
 msgstr "Mk8 mod. 1"
+
+msgid "IDS_PAUF709_CV8_FC_STOCK"
+msgstr "Mk8"
 
 msgid "IDS_PAUF710_FC_BLACK_HORNET"
 msgstr "Mk8 mod. 1"
@@ -43753,6 +45430,9 @@ msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUF905_FC_CV_TEST"
 msgstr "Mk10 mod. 1"
+
+msgid "IDS_PAUF906_CV10_FC_STOCK"
+msgstr "Mk8"
 
 msgid "IDS_PAUF911_FLIGHTCONTROL_1"
 msgstr "Mk10 mod. 1"
@@ -44863,6 +46543,9 @@ msgstr "Mk7 mod. 1"
 msgid "IDS_PAUS614_D7_SUO_STOCK"
 msgstr "Mk7 mod. 1"
 
+msgid "IDS_PAUS615_SUO_CHANCELLORSVILLE"
+msgstr "Mk7"
+
 msgid "IDS_PAUS621_SUO"
 msgstr "Mk7 mod. 1"
 
@@ -44958,6 +46641,9 @@ msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS724_SUO_CONSTITUTION"
 msgstr "Mk8 mod. 1"
+
+msgid "IDS_PAUS725_SUO_OREGON"
+msgstr "Mk8"
 
 msgid "IDS_PAUS731_SUO"
 msgstr "Mk8 mod. 1"
@@ -45106,6 +46792,12 @@ msgstr "Mk10 mod. 1"
 msgid "IDS_PAUS917_SUO_CHESAPEAKE"
 msgstr "Mk10 mod. 1"
 
+msgid "IDS_PAUS918_D10_SUO_STOCK"
+msgstr "Mk10"
+
+msgid "IDS_PAUS919_SUO_ARCHERFISH"
+msgstr "Mk10"
+
 msgid "IDS_PAUS920_SUO_W_R_RUSH"
 msgstr "Mk10 mod. 1"
 
@@ -45246,6 +46938,12 @@ msgstr "Mk12"
 
 msgid "IDS_PAUT603_TORP_BLACK_ATLANTA"
 msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAUT604_TORP_MAYO"
+msgstr "Mk15 mod. 0"
+
+msgid "IDS_PAUT605_D7_TORP_STOCK"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT611_533_4_APT001"
 msgstr "533 mm (4x Mk14)"
@@ -46897,6 +48595,24 @@ msgstr "350-lb. Bomb Mk VIII"
 msgid "IDS_PBPD108_DEPTH_CV_10"
 msgstr "650-lb. Bomb Mk VIII"
 
+msgid "IDS_PBPM010_ASW_SEAMINE_T6"
+msgstr "Mk XVII"
+
+msgid "IDS_PBPM011_ASW_SEAMINE_T8"
+msgstr "Mk XVII"
+
+msgid "IDS_PBPM012_ASW_SEAMINE_T10"
+msgstr "Mk XVII"
+
+msgid "IDS_PBPN011_ASW_PLANESEAMINE_T6"
+msgstr "Mk XVII"
+
+msgid "IDS_PBPN012_ASW_PLANESEAMINE_T8"
+msgstr "Mk XVII"
+
+msgid "IDS_PBPN013_ASW_PLANESEAMINE_T10"
+msgstr "Mk XVII"
+
 msgid "IDS_PBPN998_PLANESEAMINE_T10"
 msgstr " "
 
@@ -47235,6 +48951,9 @@ msgstr "1938"
 
 msgid "IDS_PBSA520"
 msgstr "Theseus"
+
+msgid "IDS_PBSA520_DESCR"
+msgstr "テスト用艦艇"
 
 msgid "IDS_PBSA520_FULL"
 msgstr "Theseus"
@@ -47614,8 +49333,20 @@ msgstr "Nelson"
 msgid "IDS_PBSB517_NUMBER"
 msgstr "2"
 
+msgid "IDS_PBSB518"
+msgstr "Anson"
+
+msgid "IDS_PBSB518_FULL"
+msgstr "Anson"
+
 msgid "IDS_PBSB518_YEAR"
 msgstr "1940"
+
+msgid "IDS_PBSB520"
+msgstr "Zeus"
+
+msgid "IDS_PBSB520_FULL"
+msgstr "Zeus"
 
 msgid "IDS_PBSB520_YEAR"
 msgstr "1949"
@@ -47643,6 +49374,12 @@ msgstr "5"
 
 msgid "IDS_PBSB527_YEAR"
 msgstr "1941"
+
+msgid "IDS_PBSB530"
+msgstr "Jellicoe"
+
+msgid "IDS_PBSB530_FULL"
+msgstr "Jellicoe"
 
 msgid "IDS_PBSB530_YEAR"
 msgstr "1940"
@@ -48043,6 +49780,12 @@ msgstr "1"
 msgid "IDS_PBSC508_YEAR"
 msgstr "1940"
 
+msgid "IDS_PBSC509"
+msgstr "Resistance"
+
+msgid "IDS_PBSC509_FULL"
+msgstr "Resistance"
+
 msgid "IDS_PBSC509_YEAR"
 msgstr "1932"
 
@@ -48087,6 +49830,12 @@ msgstr "3"
 
 msgid "IDS_PBSC518_YEAR"
 msgstr "1959"
+
+msgid "IDS_PBSC519"
+msgstr "Mita"
+
+msgid "IDS_PBSC519_FULL"
+msgstr "Mita"
 
 msgid "IDS_PBSC519_YEAR"
 msgstr "1939"
@@ -48195,6 +49944,15 @@ msgstr "1"
 
 msgid "IDS_PBSC910_YEAR"
 msgstr "1949"
+
+msgid "IDS_PBSC918"
+msgstr "Cougar"
+
+msgid "IDS_PBSC918_FULL"
+msgstr "Cougar"
+
+msgid "IDS_PBSC918_YEAR"
+msgstr "1959"
 
 msgid "IDS_PBSD102"
 msgstr "Medea"
@@ -48429,6 +50187,12 @@ msgstr "8"
 
 msgid "IDS_PBSD605_YEAR"
 msgstr "1930"
+
+msgid "IDS_PBSD809"
+msgstr "Jutland CLR"
+
+msgid "IDS_PBSD809_FULL"
+msgstr "Jutland CLR"
 
 msgid "IDS_PBSD809_YEAR"
 msgstr "1947"
@@ -49148,6 +50912,9 @@ msgstr "推力: 110,000 馬力"
 msgid "IDS_PBUE718_ENG_TIGER_TEST"
 msgstr "推力: 80,000 馬力"
 
+msgid "IDS_PBUE719_ENG_ANSON"
+msgstr "推力: 144,000 馬力"
+
 msgid "IDS_PBUE721_B8_ENG_STOCK"
 msgstr "推力: 100,000 馬力"
 
@@ -49264,6 +51031,9 @@ msgstr "推力: 135,650 馬力"
 
 msgid "IDS_PBUE921_ENG_THESEUS"
 msgstr "推力: 40,000 馬力"
+
+msgid "IDS_PBUE922_ENG_JELLICOE"
+msgstr "推力: 139,000 馬力"
 
 msgid "IDS_PBUE930_C11_ENG_STOCK"
 msgstr "推力: 130,000 馬力"
@@ -50026,6 +51796,9 @@ msgstr "Mk VIII mod. 1"
 msgid "IDS_PBUS719_SUO_TIGER_TEST"
 msgstr "Mk VIII mod. 1"
 
+msgid "IDS_PBUS720_SUO_ANSON"
+msgstr "Mk VIII"
+
 msgid "IDS_PBUS800_B9_SUO_STOCK"
 msgstr "Mk IX mod. 1"
 
@@ -50067,6 +51840,9 @@ msgstr "Mk IX mod. 2"
 
 msgid "IDS_PBUS813_SUO_RESISTANCE"
 msgstr "Mk IX mod. 1"
+
+msgid "IDS_PBUS814_SUO_CLR_JUTLAND"
+msgstr "Mk IX"
 
 msgid "IDS_PBUS816_SUO_MITA"
 msgstr "Mk IX mod. 1"
@@ -50115,6 +51891,12 @@ msgstr "Mk XI mod. 1"
 
 msgid "IDS_PBUS914_SUO_DEFENCE"
 msgstr "Mk X mod. 1"
+
+msgid "IDS_PBUS915_SUO_ZEUS"
+msgstr "Mk X"
+
+msgid "IDS_PBUS916_SUO_JELLICOE"
+msgstr "Mk X"
 
 msgid "IDS_PBUS930_C11_SUO_STOCK"
 msgstr "Mk XI mod. 1"
@@ -54432,6 +56214,9 @@ msgstr "イタリア巡洋艦"
 msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG_DESCRIPTION"
 msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
+msgid "IDS_PCEE766_BRISBANE_B_FLAG"
+msgstr "Brisbane B"
+
 msgid "IDS_PCEE766_BRISBANE_B_FLAG_DESCRIPTION"
 msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
@@ -55236,6 +57021,9 @@ msgstr "エルメス"
 msgid "IDS_PCVO010_OP_09_S09_LEPVE_NAME_RESULT_SCREEN"
 msgstr "エルメス"
 
+msgid "IDS_PCVO010_OP_09_S09_LEPVE_PVE_TOOLTIP_GOAL"
+msgstr "旗艦 Ruan 以下の戦隊を指定のセクターまで護衛し、金塊を安全に輸送せよ。"
+
 msgid "IDS_PCVO011_OP_10_S10_USS_CL_DESCRIPTION"
 msgstr "メリル少将指揮下の第 12 巡洋艦戦隊に、第 3 海兵師団の拠点を防衛し、この領域から敵戦力を排除するという任務が与えられた。"
 
@@ -55467,6 +57255,9 @@ msgstr "Transylvania の最後の航海"
 
 msgid "IDS_PCVO031_EV_HL_23_E02_HALLOWEEN_2023_PVE_TOOLTIP_GOAL"
 msgstr "Transylvania がポータルを完全に破壊することができるよう、本船をポータルまで護衛せよ。"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_NAME"
+msgstr "火力"
 
 msgid "IDS_PCZA002_BISMARCK"
 msgstr "ビスマルク追撃戦"
@@ -55897,11 +57688,20 @@ msgstr "真珠湾の軍港の地図 (1941 年、日本)"
 msgid "IDS_PCZC091_MK_ECO"
 msgstr "経済改革"
 
+msgid "IDS_PCZC091_MK_ECO_DESCRIPTION"
+msgstr "<p>アップデート 0.5.12 は、何といってもゲーム内エコノミーへの変更があった点が、プレイヤーと開発者の双方にとって記憶に残ることでしょう。チームの成功に貢献するような行動こそが、戦闘終了後の報酬に影響するようになったのです。その狙いは、プレイヤーがダメージを受けることを恐れすぎずに、積極的に行動し、多様な戦術を駆使するように促すことでした。</p><p class=\"p_spacing\"> </p><p>この新しいシステムに慣れるには、時間と努力を要しました。また、次のアップデートにおいて若干の追加調整を施しました。紆余曲折もありつつ、最終的にはうまく機能するようになりました。経済改革は、ほぼ完了したと言えるでしょう。少なくとも現時点においては。</p>"
+
 msgid "IDS_PCZC092_MK_BRIT"
 msgstr "イギリス艦隊の進撃"
 
+msgid "IDS_PCZC092_MK_BRIT_DESCRIPTION"
+msgstr "<p>イギリス巡洋艦ツリーの誕生は、新たなオペラの良き題材となりました。それともバレエ、あるいはスリラー映画でしょうか。</p><p class=\"p_spacing\"> </p><p>プレイヤーの皆様からの支援とサポートを得て、スーパータンカーのような特大コーヒーポットに頼りつつ、リアルさとゲームプレイとのバランスを取るという挑戦を続けてきた結果として、全てを望み通りに仕上げることができました。アップデート 0.5.13 で実装されたこれらの艦艇は、特徴的な性質を備えており、実装後間もなく、栄光をその手に掴みました。その戦闘能力を考えれば、当然のことだったと言えるでしょう。</p>"
+
 msgid "IDS_PCZC093_MK_LOOTBOX"
 msgstr "今日の褒賞をお届けします"
+
+msgid "IDS_PCZC093_MK_LOOTBOX_DESCRIPTION"
+msgstr "<p>アップデート 0.5.13 では、デイリーミッションがよりインタラクティブなコンテナへと置き換えられました。それに合せて登場したのが、あの魚雷磨き男でした。</p><p class=\"p_spacing\"> </p><p>毎日、多くのプレイヤーによって無数のコンテナが開封されています。「大当たり」を狙っている人もいれば、堅実に消耗品や信号旗を補給するためにコンテナを利用している人もいます。そんな中、魚雷磨き男は、昼夜を問わず魚雷を磨き続けているのです。</p>"
 
 msgid "IDS_PCZC094_MK_HALLOWEEN"
 msgstr "闇と光の戦い"
@@ -55912,14 +57712,26 @@ msgstr "ゴールド迷彩"
 msgid "IDS_PCZC096_MK_ALTJAPAN"
 msgstr "忍者!!"
 
+msgid "IDS_PCZC096_MK_ALTJAPAN_DESCRIPTION"
+msgstr "<p>アップデート 0.5.15 で実装された日本駆逐艦ツリーのサブブランチは、多くの感情を生み出しました。サブブランチの駆逐艦は、他の日本駆逐艦に比べ、主砲を活用しながら戦うことが重要である点が特徴でした。そして、白露と秋月は最高に楽しい駆逐艦でした。</p><p class=\"p_spacing\"> </p><p>前者は恐ろしいほどの数の魚雷を一斉に撃ち出すことが可能であり、後者は他に類を見ないような特徴的な両用砲を搭載しています。</p><p class=\"p_spacing\"> </p><p>ですが、残念な部分もありました。このサブブランチは、Tier VIII の秋月で終わっているのです。少なくとも、現時点においては。</p>"
+
 msgid "IDS_PCZC097_MK_CAMPAIGN"
 msgstr "ミッション・ブリーフィング"
+
+msgid "IDS_PCZC097_MK_CAMPAIGN_DESCRIPTION"
+msgstr "<p>アップデート 0.5.15 で実装された新要素として、2 種類のキャンペーンがありました。キャンペーンは、それに含まれる様々なミッションを達成していくことで、ゲームへの理解を進めたり、プレイスキルを高めたりすることができるようにデザインされています。開発チームは、その意図の重要性を示すため、キャンペーン「名誉ある貢献」および「勝利の科学」の最終褒賞として、Tier VI 駆逐艦東雲およびプレミアム 7 日間をそれぞれ用意しました。</p><p class=\"p_spacing\"> </p><p>そしてこれは始まりに過ぎません。プレイヤーはこの要素を気に入ってくれましたし、これはこのゲームの重要な要素となったのですから。</p>"
 
 msgid "IDS_PCZC098_MK_GERMDESTR"
 msgstr "駆逐艦ハンター"
 
+msgid "IDS_PCZC098_MK_GERMDESTR_DESCRIPTION"
+msgstr "<p>プレイヤーは不満でした。「なんでこのツリーの駆逐艦はどれも隠蔽性が悪く、魚雷の射程も短いんだよ?」そして開発チームは答えました。「水中聴音で敵艦を見つけて魚雷を撃ち込んだり、高貫通の徹甲弾で敵を驚かせるためです」と。しかしプレイヤーは納得せず、ドイツ駆逐艦ツリーは当初にはあまり歓迎されなかったのです。</p><p class=\"p_spacing\"> </p><p>ですが、その後の数回のアップデートによりバランス調整を重ねた結果として、確かな評価を得るに至り、一部の艦艇についてはその Tier における最高の艦艇だと評価されるようになりました。それに至る道のりは平坦ではありませんでしたが、最終的には安定した航海を実現するに至りました。</p><p class=\"p_spacing\"> </p><p>それ以来、開発者とのコミュニケーションにおいて、穏当に意義を唱えたいときには、「おい、ドイツ駆逐艦のときみたいに混乱を招くのはもうこりごりだろ?」のようなことを言うのが良いエチケットとみなされるようになりました。</p>"
+
 msgid "IDS_PCZC099_MK_ARPOFF"
 msgstr "美しき軍艦"
+
+msgid "IDS_PCZC099_MK_ARPOFF_DESCRIPTION"
+msgstr "<p>私たちが初めて取り組んだ、とても風変わりで特徴的なコンテンツをこのゲームに実装する、という試みについては、多くの皆様が覚えてくれていることでしょう。そのために若干の機能調整が必要でしたし、「おお神よ、私はこんなものは見たくないんだ!」に応える機能を実装する必要もありましたが、その結果として、よりフレキシブルにコンテンツを追加できるメカニズムが整いました。今後開発チームが想像力を活かした様々なコンテンツを実装する上では、壁はもうありません。</p><p class=\"p_spacing\"> </p><p>その姿が大好きな人もいれば、単に日本艦艇を無料で取得したかっただけという人もいたことでしょう。どちらにしても、忘れられない日々になったと思います。</p>"
 
 msgid "IDS_PCZC1000_BD25_PUZZLE_24"
 msgstr "パズルのピース"
@@ -55954,6 +57766,9 @@ msgstr "パズルのピース"
 msgid "IDS_PCZC100_MK_NYSPEE"
 msgstr "鈴の音"
 
+msgid "IDS_PCZC100_MK_NYSPEE_DESCRIPTION"
+msgstr "<p>キャンペーン「グラーフ・シュペー追撃」および「秘密のサンタ」によって、2016 年 12 月の薄暗い空は、明るく照らし出されました。そう、炎上中の艦艇が放つ陽気な光によって。特別コンテナの中には価値あるアイテムや素晴らしい褒賞が含まれており、新年の華やかな雰囲気をさらに盛り上げました。</p><p class=\"p_spacing\"> </p><p>しかし、花火やクラッカーの煙が晴れたら、また仕事が始まります。2017 年には、開発者には多くの困難かつ重要な挑戦が待ち構えており、プレイヤーは、大海の制覇を目指した激戦を繰り広げ続けるのです...</p>"
+
 msgid "IDS_PCZC1010_BD25_PUZZLE_34"
 msgstr "パズルのピース"
 
@@ -55986,6 +57801,9 @@ msgstr "パズルのピース"
 
 msgid "IDS_PCZC101_MK_CAPREWORK"
 msgstr "変化の風"
+
+msgid "IDS_PCZC101_MK_CAPREWORK_DESCRIPTION"
+msgstr "<p>アップデート 0.6.0 のハイライトは、艦長スキルが全面的に刷新されたことでした。従来のスキルの再構成に加え、新スキルも登場し、エリート艦長 EXP という新機能も実装されました。これらに関しては、公開テスト中から活発な議論が交わされました。</p><p class=\"p_spacing\"> </p><p>これは大変な作業でしたが、プレイヤーの皆様からのサポート (およびちょっとした黒魔術) のおかげで、何とか正式リリースすることができました。そしてその努力は報われたのです。刷新版の艦長スキル・システムは、プレイヤーのニーズにとてもうまく応えてくれました。</p>"
 
 msgid "IDS_PCZC1020_BD25_PUZZLE_44"
 msgstr "パズルのピース"
@@ -56020,6 +57838,9 @@ msgstr "パズルのピース"
 msgid "IDS_PCZC102_MK_SMOKERANK"
 msgstr "俺は好きな場所で煙幕を展開する"
 
+msgid "IDS_PCZC102_MK_SMOKERANK_DESCRIPTION"
+msgstr "<p>アップデート 0.6.1 のリリースに合せてランク戦第 6 シーズンを開始しましたが、これは論争の種となりました。多くのプレイヤーが積極的に参加してくれたことは良かったのですが、無視できない大きな問題を抱えていたのです。</p><p class=\"p_spacing\"> </p><p>そして、プレイヤーの皆様からのフィードバックを参考にしつつ検討を進めた結果として、煙幕を乱用する戦術や、各種マップの問題点、艦艇バランスに関するその他の問題について究明することができたのでした。</p>"
+
 msgid "IDS_PCZC1030_BD25_PUZZLE_54"
 msgstr "パズルのピース"
 
@@ -56044,14 +57865,26 @@ msgstr "パズルのピース"
 msgid "IDS_PCZC103_MK_MORESOVIETDESTR"
 msgstr "もっと駆逐艦が必要だ"
 
+msgid "IDS_PCZC103_MK_MORESOVIETDESTR_DESCRIPTION"
+msgstr "<p>アップデート 0.6.2 では、ソ連駆逐艦ツリーにサブブランチを追加し、これは好評を得ました。ハバロフスク (Khabarovsk) を頂点とするメインブランチは、巡洋艦に近い砲戦主体のプレイスタイルに適しており、常に動き続けながら積極的に射撃し、高速を活かして急襲を仕掛ける。このようなスリリングな戦闘体験が保証されていました。</p><p class=\"p_spacing\"> </p><p>一方で、グロザヴォイ (Grozovoi) を頂点としたサブブランチは、魚雷を主体として主砲を補助的に使うという、一般的な駆逐艦に近い特性を有していました。</p>"
+
 msgid "IDS_PCZC104_MK_FRENCHCRUISER"
 msgstr "次は? エンジンブーストを戦艦にも搭載するの?"
+
+msgid "IDS_PCZC104_MK_FRENCHCRUISER_DESCRIPTION"
+msgstr "<p>アップデート 0.6.4 で実装されたフランス巡洋艦ツリーはバランスが良好であり、バランス上の問題点が皆無でした。そしてこのツリーの実装は、プレイヤーがフランス料理の用語を学ぶ良い機会になりました。</p><p class=\"p_spacing\"> </p><p>消耗品「エンジンブースト」はこれらの艦艇の特性によく合っており、Tier X のアンリ 4 世 (Henri IV) は、巡洋艦としては異例の 240 mm 砲を搭載しており、最高火力の巡洋艦としての地位を素早く固めました。</p>"
 
 msgid "IDS_PCZC105_MK_BISMARCK"
 msgstr "マイティ・ビスマルク"
 
+msgid "IDS_PCZC105_MK_BISMARCK_DESCRIPTION"
+msgstr "<p>キャンペーン「ビスマルク追撃戦」は、大規模なものでした。参加者は 30 万人以上であり、そのうち 14 万人がコレクションを完成させ、付与されたコンテナの数は 700 万個を超えました。そして 6 万隻以上もの Tier VIII 戦艦ビスマルク (Bismarck) が、様々なスキルのプレイヤーの手に渡りました。</p><p class=\"p_spacing\"> </p><p>このイベントでは、キャンペーンの各種ミッションを達成することで、歴史に関する読み物が読めるという要素が用意されており、これもまたプレイヤーを大いに楽しませました。</p>"
+
 msgid "IDS_PCZC106_MK_BOTREVENGE"
 msgstr "ボットの逆襲"
+
+msgid "IDS_PCZC106_MK_BOTREVENGE_DESCRIPTION"
+msgstr "<p>霧に覆われたある美しい朝に、開発チームは、Co-op 戦でボット相手の戦闘を楽しむプレイヤーの数が驚くほど多い、という事実に気付きました。このモードは当初は入手したばかりの新艦艇を試すためのモードとして設計されたモードであったため、開発チームにとってこの事実は驚くべきものだったのです。しかし、このモードを楽しむプレイヤーの数が多いという事実と、ハロウィーン・モードが大好評だったという結果を踏まえ、PvE 要素の充実を図ることに決めました。</p><p class=\"p_spacing\"> </p><p>そしてアップデート 0.6.6 において、PvE オペレーションの第 1 弾を実装し、海軍基地の防衛、船団奪還、基地攻撃、空母護衛という、4 つの特徴的なシナリオを用意しました。これに伴いボットが少し賢くなり、PvE モードが単純に敵艦を撃つだけのモードから、特徴的な興味深い戦闘モードへと進化を果たしつつあるという点は、特筆に値すべきでしょう。</p>"
 
 msgid "IDS_PCZC107_NY2018_TORPEDOTUBE533MK8"
 msgstr "イギリス駆逐艦の魚雷発射管"
@@ -57205,6 +59038,9 @@ msgstr "遅刻魔"
 msgid "IDS_PCZC422_TM_DRAGMAN"
 msgstr "MVP"
 
+msgid "IDS_PCZC422_TM_DRAGMAN_DESCRIPTION"
+msgstr "<p>空母の使い手ではないが、チームの救世母である。</p><p class=\"p_spacing\"> </p><p>戦略家、戦術家、ブレイン、ユニカム…。彼のことをどう呼ぶかは自由だが、彼はチームを勝利へと導く存在だ。</p>"
+
 msgid "IDS_PCZC423_TM_BUGMAN"
 msgstr "Mr. 技術的問題"
 
@@ -57226,8 +59062,17 @@ msgstr "全速で体当たり!"
 msgid "IDS_PCZC429_TM_SMOKE"
 msgstr "破滅のカタツムリ"
 
+msgid "IDS_PCZC429_TM_SMOKE_DESCRIPTION"
+msgstr ""
+"<p>「なんであの雲は俺たちを撃っているんだ? 接近して来る! 逃げろ!」</p><p class=\"p_spacing\"> </p><p>煙幕内にはあらゆるものを隠せます。巡洋艦も、戦艦も、島々も…\n"
+"煙幕内で射撃した際のペナルティが実装される前には、煙幕に隠れながら全艦で前進するという戦術が頻繁に見られました。\n"
+"悪名高いこの戦術は、ゆっくり前進し、煙幕内から計り知れない火力を発揮することができたことから「破滅のカタツムリ (doomsnail)」と渾名されました。</p>"
+
 msgid "IDS_PCZC430_TM_ISLAND"
 msgstr "陸地だ!"
+
+msgid "IDS_PCZC430_TM_ISLAND_DESCRIPTION"
+msgstr "<p>「俺の前にこの島を置いたのは誰なんだ!??」</p><p class=\"p_spacing\"> </p><p>何故俺の艦はこの島に乗り上げたんだ? 敵の謀略か?</p><p class=\"p_spacing\"> </p><p>あまりにも多くの戦闘が、どこからともなく突然現れる島のせいで決してきました。誰のせいなのでしょうか? 全くわかりません…</p>"
 
 msgid "IDS_PCZC431_TM_DETONATION"
 msgstr "ラッキーショット"
@@ -57235,8 +59080,21 @@ msgstr "ラッキーショット"
 msgid "IDS_PCZC432_TM_TORPEDOES"
 msgstr "魚雷磁石"
 
+msgid "IDS_PCZC432_TM_TORPEDOES_DESCRIPTION"
+msgstr ""
+"<p> - 「お前が聴音を使ったと思ってたんだ!」\n"
+" - 「いや、俺は君が使ったと思ってたよ。」</p><p class=\"p_spacing\"> </p><p>煙幕は魚雷を吸い寄せる磁石です!\n"
+"複数の艦艇が煙幕内にいても、誰も聴音を使わない。そんなことがよくあります。\n"
+"さりげなく魚雷を流し、「ハカイチ連続攻撃」をお楽しみください! でもそういえば、トレーニングルームでは実績を得られないのでした…</p>"
+
 msgid "IDS_PCZC433_TM_BASE"
 msgstr "安全第一!"
+
+msgid "IDS_PCZC433_TM_BASE_DESCRIPTION"
+msgstr ""
+"<p>「心配すんな、この占領はいける! あとちょっと… ぎゃー!!! レーダーだ!!! 逃げろ!!!」</p><p class=\"p_spacing\"> </p><p>占領を試みる際、駆逐艦はまず策士のダンスを披露する必要があります。くるりと回って、後進でサークル内に入るのです。\n"
+"そうすれば、例え危険が迫っても、キーを 1 個タップするだけで速やかにその場を離脱することができるのです。\n"
+"ですので、ランダム戦でそのような奇妙な機動を目撃したとしても、その人は賭けに負けたために 10 戦連続でそうすることを強いられているわけではないのです。きっとその人は熟練のトーナメントプレイヤーだと思いますよ!</p>"
 
 msgid "IDS_PCZC434_TM_HINDEN"
 msgstr "ドイツのタンク"
@@ -59552,6 +61410,9 @@ msgstr "305 mm/56 SK C/39 (砲塔)"
 msgid "IDS_PFGM168_305MM_56_SKC_39"
 msgstr "305 mm/56 SK C/39 (砲塔)"
 
+msgid "IDS_PFGM169_88MM45_SK_35"
+msgstr "88 mm/45 SK C/35 (Ubts LC/35 砲座)"
+
 msgid "IDS_PFGM174_120MM_50_BOFORS_M50"
 msgstr "120 mm/50 Model 1950 (砲塔)"
 
@@ -59660,8 +61521,17 @@ msgstr "550 mm tube lance-torpilles"
 msgid "IDS_PFGT133_550MM_4TUBE_L"
 msgstr "550 mm tube lance-torpilles"
 
+msgid "IDS_PFGT142_550MM_TRIPLE_SAPHIR"
+msgstr "400 mm/550 mm tube lance-torpilles"
+
 msgid "IDS_PFGT146_550MM_3TUBE_KT50"
 msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT147_550MM_1TUBE_400MM_2TUBE"
+msgstr "400 mm/550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT149_550MM_1TUBE_400MM_2TUBE"
+msgstr "400 mm/550 mm tube lance-torpilles"
 
 msgid "IDS_PFGT152_550MM_3TUBE_AT47_L"
 msgstr "550 mm tube lance-torpilles"
@@ -59669,8 +61539,14 @@ msgstr "550 mm tube lance-torpilles"
 msgid "IDS_PFGT154_550MM_3TUBE_AT47_R"
 msgstr "550 mm tube lance-torpilles"
 
+msgid "IDS_PFGT155_400_500MM_TRIPLE_DIANE"
+msgstr "400 mm/550 mm tube lance-torpilles"
+
 msgid "IDS_PFGT156_550MM_2TUBE_DIANE"
 msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT157_400_550MM_QUADRUPLE_CASABIANCA"
+msgstr "400 mm/550 mm tube lance-torpilles"
 
 msgid "IDS_PFGT158_550MM_TRIPLE_CASABIANCA"
 msgstr "550 mm tube lance-torpilles"
@@ -60110,11 +61986,20 @@ msgstr "550 mm 23DT"
 msgid "IDS_PFPT020_550MM_DUPLEIX"
 msgstr "550 mm 23DT"
 
+msgid "IDS_PFPT022_400MM_SURCOUF_MZ"
+msgstr "400-mm M26V / 550-mm 23DT"
+
 msgid "IDS_PFPT023_T11"
 msgstr "550 mm 24V Mle 2"
 
+msgid "IDS_PFPT024_550_SAPHIR"
+msgstr "400-mm M26V / 550-mm 23DT"
+
 msgid "IDS_PFPT025_BERNADOTTE"
 msgstr "Torped M1943 mod 2"
+
+msgid "IDS_PFPT031_CASABIANCA"
+msgstr "400-mm M26V / 550-mm 23DT"
 
 msgid "IDS_PFPT032_FORBIN_ALT"
 msgstr "550 mm 24V Mle 2"
@@ -60305,6 +62190,12 @@ msgstr "0"
 msgid "IDS_PFSB508_YEAR"
 msgstr "1939"
 
+msgid "IDS_PFSB509"
+msgstr "Bernadotte"
+
+msgid "IDS_PFSB509_FULL"
+msgstr "Bernadotte"
+
 msgid "IDS_PFSB509_YEAR"
 msgstr "1952"
 
@@ -60319,6 +62210,12 @@ msgstr "0"
 
 msgid "IDS_PFSB510_YEAR"
 msgstr "1939"
+
+msgid "IDS_PFSB511"
+msgstr "Aquitaine"
+
+msgid "IDS_PFSB511_FULL"
+msgstr "Aquitaine"
 
 msgid "IDS_PFSB511_YEAR"
 msgstr "1939"
@@ -60392,8 +62289,14 @@ msgstr "2"
 msgid "IDS_PFSB596_YEAR"
 msgstr "1937"
 
+msgid "IDS_PFSB598"
+msgstr "Gascogne B"
+
 msgid "IDS_PFSB598_DESCR"
 msgstr "1930 年代後半に全ての海軍列強が新型戦艦を大量に建造したことを受けて、フランスも新型戦艦計画に着手しました。ダンケルクのテスト後、戦艦の艦首側に主砲を集中配置する構想に疑問が投げかけられました。この結果、リシュリュー級戦艦と互角の速力と装甲を有する新型戦艦 2 隻の建造が計画されました。戦艦ガスコーニュは、主砲を艦首側と船尾側に配置する設計に基づいて建造される予定でした。しかしフランスが降伏したため、本艦は起工されませんでした。"
+
+msgid "IDS_PFSB598_FULL"
+msgstr "Gascogne B"
 
 msgid "IDS_PFSB598_YEAR"
 msgstr "1939"
@@ -60725,8 +62628,14 @@ msgstr "0"
 msgid "IDS_PFSC810_YEAR"
 msgstr "1956"
 
+msgid "IDS_PFSC811"
+msgstr "Condé CLR"
+
 msgid "IDS_PFSC811_DESCR"
 msgstr "コンデは、フランス重巡洋艦の開発が更に進んだという仮定に基づく艦艇です。ドイツの重巡洋艦に対抗することが想定された本艦は、戦前の重巡洋艦の開発状況に基づいています。主砲は、フランス海軍では典型的であった 240 mm 四連装砲塔 3 基でした。"
+
+msgid "IDS_PFSC811_FULL"
+msgstr "Condé CLR"
 
 msgid "IDS_PFSC811_YEAR"
 msgstr "1957"
@@ -60854,6 +62763,12 @@ msgstr "1"
 msgid "IDS_PFSD110_YEAR"
 msgstr "1940"
 
+msgid "IDS_PFSD111"
+msgstr "Robespierre"
+
+msgid "IDS_PFSD111_FULL"
+msgstr "Robespierre"
+
 msgid "IDS_PFSD111_YEAR"
 msgstr "1945"
 
@@ -60908,8 +62823,20 @@ msgstr "6"
 msgid "IDS_PFSD508_YEAR"
 msgstr "1936"
 
+msgid "IDS_PFSD509"
+msgstr "Duperré"
+
+msgid "IDS_PFSD509_FULL"
+msgstr "Duperré"
+
 msgid "IDS_PFSD509_YEAR"
 msgstr "1957"
+
+msgid "IDS_PFSD510"
+msgstr "Voltigeur"
+
+msgid "IDS_PFSD510_FULL"
+msgstr "Voltigeur"
 
 msgid "IDS_PFSD510_YEAR"
 msgstr "1954"
@@ -60919,6 +62846,9 @@ msgstr "Forbin"
 
 msgid "IDS_PFSD519_FULL"
 msgstr "Forbin"
+
+msgid "IDS_PFSD519_YEAR"
+msgstr "1958"
 
 msgid "IDS_PFSD605"
 msgstr "Cyclone"
@@ -60934,6 +62864,12 @@ msgstr "12"
 
 msgid "IDS_PFSD605_YEAR"
 msgstr "1928"
+
+msgid "IDS_PFSD610"
+msgstr "Châteaurenault"
+
+msgid "IDS_PFSD610_FULL"
+msgstr "Châteaurenault"
 
 msgid "IDS_PFSD610_YEAR"
 msgstr "1942"
@@ -60965,17 +62901,53 @@ msgstr "1"
 msgid "IDS_PFSD810_YEAR"
 msgstr "1940"
 
+msgid "IDS_PFSD910"
+msgstr "HND Voltigeur"
+
+msgid "IDS_PFSD910_FULL"
+msgstr "HND Voltigeur"
+
 msgid "IDS_PFSD910_YEAR"
 msgstr "1954"
+
+msgid "IDS_PFSS106"
+msgstr "Diane"
+
+msgid "IDS_PFSS106_FULL"
+msgstr "Diane"
 
 msgid "IDS_PFSS106_YEAR"
 msgstr "1932"
 
+msgid "IDS_PFSS108"
+msgstr "L'Africaine"
+
+msgid "IDS_PFSS108_FULL"
+msgstr "L'Africaine"
+
 msgid "IDS_PFSS108_YEAR"
 msgstr "1949"
 
+msgid "IDS_PFSS110"
+msgstr "Casabianca"
+
+msgid "IDS_PFSS110_FULL"
+msgstr "Casabianca"
+
+msgid "IDS_PFSS110_NUMBER"
+msgstr "31"
+
 msgid "IDS_PFSS110_YEAR"
 msgstr "1937"
+
+msgid "IDS_PFSS506"
+msgstr "Saphir"
+
+msgid "IDS_PFSS506_FULL"
+msgstr "Saphir"
+
+msgid "IDS_PFSS506_YEAR"
+msgstr "1930"
 
 msgid "IDS_PFSS510"
 msgstr "Surcouf"
@@ -61268,6 +63240,12 @@ msgstr "推力: 84,000 馬力"
 msgid "IDS_PFUE506_ENG_DUPLEIX"
 msgstr "推力: 90,000 馬力"
 
+msgid "IDS_PFUE507_ENG_SAPHIR"
+msgstr "推力: 1,300 馬力"
+
+msgid "IDS_PFUE508_S6_ENG"
+msgstr "推力: 1,400 馬力"
+
 msgid "IDS_PFUE509_B6_ENG_TOP"
 msgstr "推力: 112,000 馬力"
 
@@ -61325,6 +63303,9 @@ msgstr "推力: 155,000 馬力"
 msgid "IDS_PFUE707_ENG_PICARDIE"
 msgstr "推力: 107,000 馬力"
 
+msgid "IDS_PFUE708_S8_ENG_STOCK"
+msgstr "推力: 3,000 馬力"
+
 msgid "IDS_PFUE709_ENG_BLACK_GASCOGNE"
 msgstr "推力: 155,000 馬力"
 
@@ -61364,6 +63345,12 @@ msgstr "推力: 100,000 馬力"
 msgid "IDS_PFUE806_ENG_BERNADOTTE"
 msgstr "推力: 152,000 馬力"
 
+msgid "IDS_PFUE807_ENG_DUPERRE"
+msgstr "推力: 63,000 馬力"
+
+msgid "IDS_PFUE808_ENG_FORBIN"
+msgstr "推力: 63,000 馬力"
+
 msgid "IDS_PFUE810_B9_ENG_STOCK"
 msgstr "推力: 180,000 馬力"
 
@@ -61384,6 +63371,15 @@ msgstr "推力: 96,842 馬力"
 
 msgid "IDS_PFUE906_ENG_CHATEAURENAULT"
 msgstr "推力: 110,000 馬力"
+
+msgid "IDS_PFUE907_ENG_SURCOUF"
+msgstr "推力: 7,600 馬力"
+
+msgid "IDS_PFUE908_D11_ENG_STOCK"
+msgstr "推力: 108,454 馬力"
+
+msgid "IDS_PFUE909_S10_ENG_STOCK"
+msgstr "推力: 8,000 馬力"
 
 msgid "IDS_PFUE910_B10_ENG_STOCK"
 msgstr "推力: 220,000 馬力"
@@ -61865,6 +63861,9 @@ msgstr "PCA n° 8 Mle 1"
 msgid "IDS_PFUS716_SUO_TST_TERRIBLE"
 msgstr "PCA n° 8 Mle 1"
 
+msgid "IDS_PFUS717_SUO_BLACK_GASCOGNE"
+msgstr "PCA n°8"
+
 msgid "IDS_PFUS801_C9_SUO_STOCK"
 msgstr "PCA n° 9 Mle 1"
 
@@ -61889,11 +63888,20 @@ msgstr "PCA n° 9 Mle 1"
 msgid "IDS_PFUS808_C9_SUO_TOP"
 msgstr "PCA n° 9 Mle 2"
 
+msgid "IDS_PFUS809_SUO_BERNADOTTE"
+msgstr "PCA n°9"
+
+msgid "IDS_PFUS810_SUO_DUPERRE"
+msgstr "PCA n°9"
+
 msgid "IDS_PFUS811_B9_SUO_STOCK"
 msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PFUS812_B9_SUO_TOP"
 msgstr "PCA n° 9 Mle 2"
+
+msgid "IDS_PFUS813_SUO_FORBIN"
+msgstr "PCA n°9"
 
 msgid "IDS_PFUS900_C10_SUO_STOCK"
 msgstr "PCA n° 10 Mle 1"
@@ -61913,11 +63921,29 @@ msgstr "PCA n° 10 Mle 1"
 msgid "IDS_PFUS905_SUO_COLORFUL_KLEBER"
 msgstr "PCA n° 10 Mle 1"
 
+msgid "IDS_PFUS906_SUO_CHATEAURENAULT"
+msgstr "PCA n°10"
+
+msgid "IDS_PFUS907_D11_SUO_STOCK"
+msgstr "PCA n°11"
+
+msgid "IDS_PFUS909_SUO_CLR_CONDE"
+msgstr "PCA n°11"
+
+msgid "IDS_PFUS910_SUO_HALLAND_H_EVENT"
+msgstr "SUO Mk 10"
+
 msgid "IDS_PFUS911_B10_SUO_STOCK"
 msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS912_SUO_CHAMPAGNE"
 msgstr "PCA n° 10 Mle 1"
+
+msgid "IDS_PFUS913_SUO_AQUITAINE"
+msgstr "PCA n°11"
+
+msgid "IDS_PFUS914_SUO_VOLTIGEUR"
+msgstr "SUO Mk 10"
 
 msgid "IDS_PFUS931_B11_SUO_STOCK"
 msgstr "PCA n° 11 Mle 1"
@@ -63869,6 +65895,9 @@ msgstr "G7 Schildbutt"
 msgid "IDS_PGPT064_Z32"
 msgstr "G7 T1 Ausf. B"
 
+msgid "IDS_PGPT065_Z38"
+msgstr "G7 T1 Ausf. D"
+
 msgid "IDS_PGPT066_533MM_T11"
 msgstr "G7 Steinwal"
 
@@ -64400,6 +66429,12 @@ msgstr "1"
 msgid "IDS_PGSB509_YEAR"
 msgstr "1945"
 
+msgid "IDS_PGSB510"
+msgstr "Lothringen"
+
+msgid "IDS_PGSB510_FULL"
+msgstr "Lothringen"
+
 msgid "IDS_PGSB510_YEAR"
 msgstr "1942"
 
@@ -64427,6 +66462,12 @@ msgstr "1"
 msgid "IDS_PGSB528_YEAR"
 msgstr "1944"
 
+msgid "IDS_PGSB537"
+msgstr "Pfalz"
+
+msgid "IDS_PGSB537_FULL"
+msgstr "Pfalz"
+
 msgid "IDS_PGSB537_YEAR"
 msgstr "1935"
 
@@ -64441,6 +66482,12 @@ msgstr "1"
 
 msgid "IDS_PGSB538_YEAR"
 msgstr "1945"
+
+msgid "IDS_PGSB548"
+msgstr "Odin B"
+
+msgid "IDS_PGSB548_FULL"
+msgstr "Odin B"
 
 msgid "IDS_PGSB548_YEAR"
 msgstr "1935"
@@ -64486,6 +66533,12 @@ msgstr "0"
 
 msgid "IDS_PGSB610_YEAR"
 msgstr "1945"
+
+msgid "IDS_PGSB810"
+msgstr "Schlieffen CLR"
+
+msgid "IDS_PGSB810_FULL"
+msgstr "Schlieffen CLR"
 
 msgid "IDS_PGSB810_YEAR"
 msgstr "1944"
@@ -64646,14 +66699,38 @@ msgstr "1"
 msgid "IDS_PGSC111_YEAR"
 msgstr "1945"
 
+msgid "IDS_PGSC207"
+msgstr "Vineta"
+
+msgid "IDS_PGSC207_FULL"
+msgstr "Vineta"
+
 msgid "IDS_PGSC207_YEAR"
 msgstr "1939"
+
+msgid "IDS_PGSC208"
+msgstr "Hertha"
+
+msgid "IDS_PGSC208_FULL"
+msgstr "Hertha"
 
 msgid "IDS_PGSC208_YEAR"
 msgstr "1939"
 
+msgid "IDS_PGSC209"
+msgstr "Freya"
+
+msgid "IDS_PGSC209_FULL"
+msgstr "Freya"
+
 msgid "IDS_PGSC209_YEAR"
 msgstr "1940"
+
+msgid "IDS_PGSC210"
+msgstr "Hansa"
+
+msgid "IDS_PGSC210_FULL"
+msgstr "Hansa"
 
 msgid "IDS_PGSC210_YEAR"
 msgstr "1940"
@@ -64766,6 +66843,12 @@ msgstr "1"
 msgid "IDS_PGSC519_YEAR"
 msgstr "1945"
 
+msgid "IDS_PGSC520"
+msgstr "Falkenhayn"
+
+msgid "IDS_PGSC520_FULL"
+msgstr "Falkenhayn"
+
 msgid "IDS_PGSC520_YEAR"
 msgstr "1938"
 
@@ -64793,11 +66876,29 @@ msgstr "1"
 msgid "IDS_PGSC529_YEAR"
 msgstr "1945"
 
+msgid "IDS_PGSC538"
+msgstr "Sabie"
+
+msgid "IDS_PGSC538_FULL"
+msgstr "Sabie"
+
 msgid "IDS_PGSC538_YEAR"
 msgstr "1936"
 
+msgid "IDS_PGSC539"
+msgstr "Danzig"
+
+msgid "IDS_PGSC539_FULL"
+msgstr "Danzig"
+
 msgid "IDS_PGSC539_YEAR"
 msgstr "1943"
+
+msgid "IDS_PGSC588"
+msgstr "Prinz Eugen B"
+
+msgid "IDS_PGSC588_FULL"
+msgstr "Prinz Eugen B"
 
 msgid "IDS_PGSC588_YEAR"
 msgstr "1940"
@@ -65162,6 +67263,12 @@ msgstr "U-2501 (< 04.10.2022)"
 msgid "IDS_PGSS110_NUMBER"
 msgstr "267"
 
+msgid "IDS_PGSS111"
+msgstr "U-796"
+
+msgid "IDS_PGSS111_FULL"
+msgstr "U-796"
+
 msgid "IDS_PGSS111_YEAR"
 msgstr "1943"
 
@@ -65206,6 +67313,15 @@ msgstr "U-4501"
 
 msgid "IDS_PGSS510_NUMBER"
 msgstr "4"
+
+msgid "IDS_PGSS910"
+msgstr "U-2601"
+
+msgid "IDS_PGSS910_FULL"
+msgstr "U-2601"
+
+msgid "IDS_PGSS910_YEAR"
+msgstr "1944"
 
 msgid "IDS_PGSX799"
 msgstr "U-96"
@@ -65779,6 +67895,12 @@ msgstr "推力: 80,000 馬力"
 msgid "IDS_PGUE608_BB7_ENG_STOCK"
 msgstr "推力: 110,000 馬力"
 
+msgid "IDS_PGUE609_ENG_PFALZ"
+msgstr "推力: 75,000 馬力"
+
+msgid "IDS_PGUE610_C7_ENG_STOCK"
+msgstr "推力: 116,500 馬力"
+
 msgid "IDS_PGUE611_B7_ENG_STOCK"
 msgstr "推力: 125,000 馬力"
 
@@ -65865,6 +67987,15 @@ msgstr "推力: 140,000 馬力"
 
 msgid "IDS_PGUE724_ENG_BLACK_BRANDENBURG"
 msgstr "推力: 180,000 馬力"
+
+msgid "IDS_PGUE725_D8_ENG_STOCK"
+msgstr "推力: 70,000 馬力"
+
+msgid "IDS_PGUE726_D8_ENG_STOCK"
+msgstr "推力: 70,000 馬力"
+
+msgid "IDS_PGUE727_D8_ENG_STOCK"
+msgstr "推力: 70,000 馬力"
 
 msgid "IDS_PGUE728_C8_ENG_STOCK"
 msgstr "推力: 120,000 馬力"
@@ -65971,6 +68102,9 @@ msgstr "推力: 183,600 馬力"
 msgid "IDS_PGUE913_ENG_Z42"
 msgstr "推力: 70,000 馬力"
 
+msgid "IDS_PGUE914_S11_ENG_STOCK"
+msgstr "推力: 15,000 馬力"
+
 msgid "IDS_PGUE915_ENG_COLORFUL_SCHLIEFFEN"
 msgstr "推力: 200,000 馬力"
 
@@ -65979,6 +68113,12 @@ msgstr "推力: 76,000 馬力"
 
 msgid "IDS_PGUE917_C10_ENG_STOCK"
 msgstr "推力: 132,000 馬力"
+
+msgid "IDS_PGUE918_ENG_FALKENHAYN"
+msgstr "推力: 144,000 馬力"
+
+msgid "IDS_PGUE920_ENG_SUBTEST"
+msgstr "推力: 5,000 馬力"
 
 msgid "IDS_PGUE922_ENG_U4501"
 msgstr "推力: 7,500 馬力"
@@ -66024,6 +68164,9 @@ msgstr "FID Typ 8 Mod. 2"
 
 msgid "IDS_PGUF791_FC1_GRAF_Z"
 msgstr "FID Typ 8 Mod. 1"
+
+msgid "IDS_PGUF801_FC_LOTHRINGEN"
+msgstr "FID Typ 9 Mod. 1"
 
 msgid "IDS_PGUF900_CV10_FC_STOCK"
 msgstr "FID Typ 10 Mod. 1"
@@ -66732,6 +68875,9 @@ msgstr "FKS Typ 7 Mod. 2"
 msgid "IDS_PGUS616_SUO_PFALZ"
 msgstr "FKS Typ 7"
 
+msgid "IDS_PGUS617_C7_SUO_STOCK"
+msgstr "FKS Typ 7"
+
 msgid "IDS_PGUS621_SUO_SCHARNHORST"
 msgstr "FKS Typ 7 Mod. 1"
 
@@ -66783,6 +68929,15 @@ msgstr "FKS Typ 8 Mod. 1"
 msgid "IDS_PGUS715_DD8_SUO_TOP"
 msgstr "FKS Typ 8 Mod. 2"
 
+msgid "IDS_PGUS717_D8_SUO_STOCK"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS718_D8_SUO_STOCK"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS719_D8_SUO_STOCK"
+msgstr "FKS Typ 8"
+
 msgid "IDS_PGUS720_SUO_WH_BLACKTEMPLAR"
 msgstr "FKS Typ 8 Mod. 1"
 
@@ -66797,6 +68952,18 @@ msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS724_BB8_SUO_TOP"
 msgstr "FKS Typ 8 Mod. 2"
+
+msgid "IDS_PGUS725_C8_SUO_STOCK"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS726_SUO_BLACK_ODIN"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS727_SUO_SABIE"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS728_SUO_BLACK_EUGEN"
+msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS731_SUO_SCHARNHORST"
 msgstr "FKS Typ 7 Mod. 1"
@@ -66858,11 +69025,26 @@ msgstr "FKS Typ 9 Mod. 2"
 msgid "IDS_PGUS817_SUO_BLACK_POMMERN"
 msgstr "FKS Typ 9 Mod. 1"
 
+msgid "IDS_PGUS818_SUO_LOTHRINGEN"
+msgstr "FKS Typ 10 Mod. 1"
+
+msgid "IDS_PGUS819_C9_SUO_STOCK"
+msgstr "FKS Typ 9"
+
+msgid "IDS_PGUS820_SUO_DANZIG"
+msgstr "FKS Typ 9"
+
+msgid "IDS_PGUS900_D11_SUO_STOCK"
+msgstr "FKS Typ 11"
+
 msgid "IDS_PGUS904_SUO_HANNOVER"
 msgstr "FKS Typ 11 Mod. 1"
 
 msgid "IDS_PGUS908_C11_SUO_STOCK"
 msgstr "FKS Typ 11 Mod. 1"
+
+msgid "IDS_PGUS912_SUO_COLORFUL_SCHLIEFFEN"
+msgstr "FKS Typ 10"
 
 msgid "IDS_PGUS913_C10_SUO_STOCK"
 msgstr "FKS Typ 10"
@@ -67646,6 +69828,12 @@ msgstr "1"
 msgid "IDS_PHSC990_YEAR"
 msgstr "1940"
 
+msgid "IDS_PHSD506"
+msgstr "Kortenaer"
+
+msgid "IDS_PHSD506_FULL"
+msgstr "Kortenaer"
+
 msgid "IDS_PHSD506_YEAR"
 msgstr "1943"
 
@@ -67774,6 +69962,9 @@ msgstr "推力: 56,000 馬力"
 
 msgid "IDS_PHUE903_C10_ENG_STOCK"
 msgstr "推力: 156,000 馬力"
+
+msgid "IDS_PHUE904_ENG_CALLENBURGH"
+msgstr "推力: 126,000 馬力"
 
 msgid "IDS_PHUH001_C1_HULL_STOCK"
 msgstr "Van Kinsbergen"
@@ -68828,6 +71019,12 @@ msgstr "1"
 msgid "IDS_PISA508_YEAR"
 msgstr "1944"
 
+msgid "IDS_PISA510"
+msgstr "Lazio"
+
+msgid "IDS_PISA510_FULL"
+msgstr "Lazio"
+
 msgid "IDS_PISA510_YEAR"
 msgstr "1942"
 
@@ -68915,6 +71112,12 @@ msgstr "1"
 msgid "IDS_PISB110_YEAR"
 msgstr "1945"
 
+msgid "IDS_PISB111"
+msgstr "Galileo"
+
+msgid "IDS_PISB111_FULL"
+msgstr "Galileo"
+
 msgid "IDS_PISB111_YEAR"
 msgstr "1943"
 
@@ -68978,8 +71181,20 @@ msgstr "1"
 msgid "IDS_PISB519_YEAR"
 msgstr "1942"
 
+msgid "IDS_PISB529"
+msgstr "Tranclucator"
+
+msgid "IDS_PISB529_FULL"
+msgstr "Tranclucator"
+
 msgid "IDS_PISB529_YEAR"
 msgstr "1942"
+
+msgid "IDS_PISB539"
+msgstr "Impero"
+
+msgid "IDS_PISB539_FULL"
+msgstr "Impero"
 
 msgid "IDS_PISB539_YEAR"
 msgstr "1934"
@@ -69175,20 +71390,56 @@ msgstr "1"
 msgid "IDS_PISC111_YEAR"
 msgstr "1935"
 
+msgid "IDS_PISC206"
+msgstr "A. Diocleziano"
+
+msgid "IDS_PISC206_FULL"
+msgstr "Aurelio Diocleziano"
+
 msgid "IDS_PISC206_YEAR"
 msgstr "1943"
+
+msgid "IDS_PISC207"
+msgstr "V. Constantino"
+
+msgid "IDS_PISC207_FULL"
+msgstr "Valerio Constantino"
 
 msgid "IDS_PISC207_YEAR"
 msgstr "1943"
 
+msgid "IDS_PISC208"
+msgstr "Marco Aurelio"
+
+msgid "IDS_PISC208_FULL"
+msgstr "Marco Aurelio"
+
 msgid "IDS_PISC208_YEAR"
 msgstr "1950"
+
+msgid "IDS_PISC209"
+msgstr "Elio Adriano"
+
+msgid "IDS_PISC209_FULL"
+msgstr "Elio Adriano"
 
 msgid "IDS_PISC209_YEAR"
 msgstr "1950"
 
+msgid "IDS_PISC210"
+msgstr "Ulpio Traiano"
+
+msgid "IDS_PISC210_FULL"
+msgstr "Ulpio Traiano"
+
 msgid "IDS_PISC210_YEAR"
 msgstr "1950"
+
+msgid "IDS_PISC211"
+msgstr "Liguria"
+
+msgid "IDS_PISC211_FULL"
+msgstr "Liguria"
 
 msgid "IDS_PISC211_YEAR"
 msgstr "1935"
@@ -69457,6 +71708,12 @@ msgstr "1"
 msgid "IDS_PISD509_YEAR"
 msgstr "1936"
 
+msgid "IDS_PISS508"
+msgstr "G. Nani"
+
+msgid "IDS_PISS508_FULL"
+msgstr "Giacomo Nani"
+
 msgid "IDS_PISS508_YEAR"
 msgstr "1938"
 
@@ -69673,6 +71930,9 @@ msgstr "推力: 75,000 馬力"
 msgid "IDS_PIUE506_DD6_ENG_STOCK"
 msgstr "推力: 48,000 馬力"
 
+msgid "IDS_PIUE507_C6_ENG_STOCK"
+msgstr "推力: 105,000 馬力"
+
 msgid "IDS_PIUE601_ENGINE_ABRUZZI"
 msgstr "推力: 101,000 馬力"
 
@@ -69720,6 +71980,9 @@ msgstr "推力: 130,000 馬力"
 
 msgid "IDS_PIUE707_DD8_ENG_STOCK"
 msgstr "推力: 76,000 馬力"
+
+msgid "IDS_PIUE709_ENG_NANI"
+msgstr "推力: 3,600 馬力"
 
 msgid "IDS_PIUE801_C9_ENG_STOCK"
 msgstr "推力: 220,000 馬力"
@@ -69777,6 +72040,12 @@ msgstr "推力: 235,000 馬力"
 
 msgid "IDS_PIUE908_C11_ENG_STOCK"
 msgstr "推力: 240,000 馬力"
+
+msgid "IDS_PIUE909_ENG_LAZIO"
+msgstr "推力: 139,320 馬力"
+
+msgid "IDS_PIUE910_BB11_ENG_STOCK"
+msgstr "推力: 210,000 馬力"
 
 msgid "IDS_PIUE911_C10_ENG_STOCK"
 msgstr "推力: 150,000 馬力"
@@ -70123,6 +72392,12 @@ msgstr "SDT 7 mod.2"
 msgid "IDS_PIUS609_FR25"
 msgstr "SDT 7"
 
+msgid "IDS_PIUS610_SUO_FR_FERRUCCIO"
+msgstr "SDT 7"
+
+msgid "IDS_PIUS611_C7_SUO_STOCK"
+msgstr "SDT 7"
+
 msgid "IDS_PIUS701_ROMA"
 msgstr "SDT 8"
 
@@ -70182,6 +72457,12 @@ msgstr "SDT 9 mod.2"
 
 msgid "IDS_PIUS810_SUO_MICHELANGELO"
 msgstr "SDT 9 mod.1"
+
+msgid "IDS_PIUS811_SUO_TRANCLUCATOR"
+msgstr "SDT 9"
+
+msgid "IDS_PIUS812_SUO_IMPERO"
+msgstr "SDT 9"
 
 msgid "IDS_PIUS813_C9_SUO_STOCK"
 msgstr "SDT 9 mod.2"
@@ -72079,6 +74360,9 @@ msgstr "127 mm AP/SC Mk38"
 msgid "IDS_PJPA153_150MM_HE_KUZURYU"
 msgstr "150 mm HE Type 0"
 
+msgid "IDS_PJPA154_150MM_AP_KUZURYU"
+msgstr "150 mm AP Type 0"
+
 msgid "IDS_PJPA163_SHELL_305MM_AP_850LBS_MIKASA"
 msgstr "305 mm AP 850 lb"
 
@@ -72099,6 +74383,12 @@ msgstr "406 mm HE Model 1928"
 
 msgid "IDS_PJPA181_406MM_AP_RAIJU"
 msgstr "406 mm AP Model 1928"
+
+msgid "IDS_PJPA303_SHELL_305MM_AP_APC_41_YEAR_TYPE_SAND"
+msgstr "305 mm AP/APC Type41year mod.1"
+
+msgid "IDS_PJPA305_SHELL_305MM_AP_APC_41_YEAR_TYPE_SAND"
+msgstr "305 mm AP/APC Type41year mod.1"
 
 msgid "IDS_PJPA611_140MM_CS_KITAKAMI"
 msgstr "140 mm CS Type0"
@@ -72691,8 +74981,20 @@ msgstr "0"
 msgid "IDS_PJSA111_YEAR"
 msgstr "1945"
 
+msgid "IDS_PJSA206"
+msgstr "瑞鳳"
+
+msgid "IDS_PJSA206_FULL"
+msgstr "瑞鳳"
+
 msgid "IDS_PJSA206_YEAR"
 msgstr "1940"
+
+msgid "IDS_PJSA208"
+msgstr "飛龍"
+
+msgid "IDS_PJSA208_FULL"
+msgstr "飛龍"
 
 msgid "IDS_PJSA208_YEAR"
 msgstr "1939"
@@ -72988,6 +75290,12 @@ msgstr "1"
 msgid "IDS_PJSB210_YEAR"
 msgstr "1921"
 
+msgid "IDS_PJSB502"
+msgstr "三笠 '04"
+
+msgid "IDS_PJSB502_FULL"
+msgstr "三笠 '04"
+
 msgid "IDS_PJSB502_YEAR"
 msgstr "1902"
 
@@ -73084,6 +75392,12 @@ msgstr "1"
 msgid "IDS_PJSB519_YEAR"
 msgstr "1935"
 
+msgid "IDS_PJSB520"
+msgstr "雷獣"
+
+msgid "IDS_PJSB520_FULL"
+msgstr "雷獣"
+
 msgid "IDS_PJSB520_YEAR"
 msgstr "1956"
 
@@ -73152,6 +75466,12 @@ msgstr "1"
 
 msgid "IDS_PJSB559_YEAR"
 msgstr "1935"
+
+msgid "IDS_PJSB599"
+msgstr "尾張の鬼"
+
+msgid "IDS_PJSB599_FULL"
+msgstr "尾張の鬼"
 
 msgid "IDS_PJSB599_YEAR"
 msgstr "1942"
@@ -73274,6 +75594,12 @@ msgstr "河内"
 msgid "IDS_PJSB802_DESCR"
 msgstr "入門ミッションで使用される戦艦 河内"
 
+msgid "IDS_PJSB810"
+msgstr "大和 CLR"
+
+msgid "IDS_PJSB810_FULL"
+msgstr "大和 CLR"
+
 msgid "IDS_PJSB810_YEAR"
 msgstr "1941"
 
@@ -73315,6 +75641,12 @@ msgstr "2"
 
 msgid "IDS_PJSB906_YEAR"
 msgstr "1917"
+
+msgid "IDS_PJSB910"
+msgstr "HND 雷獣"
+
+msgid "IDS_PJSB910_FULL"
+msgstr "HND 雷獣"
 
 msgid "IDS_PJSB910_YEAR"
 msgstr "1956"
@@ -73571,6 +75903,12 @@ msgstr "4"
 msgid "IDS_PJSC038_YEAR"
 msgstr "1932"
 
+msgid "IDS_PJSC111"
+msgstr "仙丈"
+
+msgid "IDS_PJSC111_FULL"
+msgstr "仙丈"
+
 msgid "IDS_PJSC111_YEAR"
 msgstr "1945"
 
@@ -73688,6 +76026,12 @@ msgstr "4"
 msgid "IDS_PJSC505_YEAR"
 msgstr "1943"
 
+msgid "IDS_PJSC506"
+msgstr "大淀"
+
+msgid "IDS_PJSC506_FULL"
+msgstr "大淀"
+
 msgid "IDS_PJSC506_YEAR"
 msgstr "1943"
 
@@ -73729,6 +76073,15 @@ msgstr "1"
 
 msgid "IDS_PJSC510_YEAR"
 msgstr "1940"
+
+msgid "IDS_PJSC512"
+msgstr "浅間"
+
+msgid "IDS_PJSC512_FULL"
+msgstr "浅間"
+
+msgid "IDS_PJSC512_YEAR"
+msgstr "1899"
 
 msgid "IDS_PJSC517"
 msgstr "摩耶"
@@ -73774,8 +76127,20 @@ msgstr "1"
 msgid "IDS_PJSC520_YEAR"
 msgstr "1940"
 
+msgid "IDS_PJSC530"
+msgstr "九頭龍"
+
+msgid "IDS_PJSC530_FULL"
+msgstr "九頭龍"
+
 msgid "IDS_PJSC530_YEAR"
 msgstr "1944"
+
+msgid "IDS_PJSC540"
+msgstr "筑後"
+
+msgid "IDS_PJSC540_FULL"
+msgstr "筑後"
 
 msgid "IDS_PJSC540_YEAR"
 msgstr "1940"
@@ -74391,6 +76756,15 @@ msgstr "1"
 msgid "IDS_PJSD510_YEAR"
 msgstr "1945"
 
+msgid "IDS_PJSD512"
+msgstr "漣"
+
+msgid "IDS_PJSD512_FULL"
+msgstr "漣"
+
+msgid "IDS_PJSD512_YEAR"
+msgstr "1899"
+
 msgid "IDS_PJSD518"
 msgstr "朝潮"
 
@@ -74417,6 +76791,12 @@ msgstr "19"
 
 msgid "IDS_PJSD528_YEAR"
 msgstr "1939"
+
+msgid "IDS_PJSD548"
+msgstr "ミカ"
+
+msgid "IDS_PJSD548_FULL"
+msgstr "ミカ"
 
 msgid "IDS_PJSD548_YEAR"
 msgstr "1940"
@@ -74450,6 +76830,12 @@ msgstr "10"
 
 msgid "IDS_PJSD598_YEAR"
 msgstr "1937"
+
+msgid "IDS_PJSD610"
+msgstr "夏風"
+
+msgid "IDS_PJSD610_FULL"
+msgstr "夏風"
 
 msgid "IDS_PJSD610_YEAR"
 msgstr "1943"
@@ -74508,6 +76894,12 @@ msgstr "磯風"
 msgid "IDS_PJSD803_DESCR"
 msgstr "入門ミッションで使用される駆逐艦 磯風"
 
+msgid "IDS_PJSD808"
+msgstr "秋月 CLR"
+
+msgid "IDS_PJSD808_FULL"
+msgstr "秋月 CLR"
+
 msgid "IDS_PJSD808_YEAR"
 msgstr "1942"
 
@@ -74558,6 +76950,12 @@ msgstr "3"
 
 msgid "IDS_PJSS518_YEAR"
 msgstr "1944"
+
+msgid "IDS_PJSS520"
+msgstr "伊 2"
+
+msgid "IDS_PJSS520_FULL"
+msgstr "伊 2"
 
 msgid "IDS_PJSS520_YEAR"
 msgstr "1942"
@@ -75336,6 +77734,12 @@ msgstr "推力: 9,500 馬力"
 msgid "IDS_PJUE104_ENG_MIKASA"
 msgstr "推力: 16,000 馬力"
 
+msgid "IDS_PJUE105_ENG_ASAMA"
+msgstr "推力: 13,000 馬力"
+
+msgid "IDS_PJUE106_ENG_SAZANAMI"
+msgstr "推力: 6,000 馬力"
+
 msgid "IDS_PJUE111_C2_ENG_STOCK"
 msgstr "推力: 22,500 馬力"
 
@@ -75485,6 +77889,9 @@ msgstr "推力: 125,000 馬力"
 
 msgid "IDS_PJUE507_C6_ENG_STOCK"
 msgstr "推力: 153,000 馬力"
+
+msgid "IDS_PJUE508_CV6_ENG_STOCK"
+msgstr "推力: 52,000 馬力"
 
 msgid "IDS_PJUE509_ENG_OYODO"
 msgstr "推力: 110,000 馬力"
@@ -75801,6 +78208,12 @@ msgstr "推力: 212,000 馬力"
 msgid "IDS_PJUE917_ENG_CLR_YAMATO"
 msgstr "推力: 150,000 馬力"
 
+msgid "IDS_PJUE918_ENG_I2"
+msgstr "推力: 4,400 馬力"
+
+msgid "IDS_PJUE919_ENG_CHIKUGO"
+msgstr "推力: 118,860 馬力"
+
 msgid "IDS_PJUE920_ENG_LAZAREV_H_EVENT"
 msgstr "推力: 200,000 馬力"
 
@@ -75821,6 +78234,9 @@ msgstr "推力: 150,000 馬力"
 
 msgid "IDS_PJUE933_ENG_SATSUMA"
 msgstr "推力: 166,000 馬力"
+
+msgid "IDS_PJUE934_C11_ENG_STOCK"
+msgstr "推力: 176,000 馬力"
 
 msgid "IDS_PJUE941_D10_ENG_STOCK"
 msgstr "推力: 75,000 馬力"
@@ -75854,6 +78270,12 @@ msgstr "Type8 mod. 1"
 
 msgid "IDS_PJUF503_FLIGHTCONTROL_2_U"
 msgstr "Type6 mod. 3"
+
+msgid "IDS_PJUF506_CV6_FC_STOCK"
+msgstr "Type6 mod. 1"
+
+msgid "IDS_PJUF507_FC_OYODO"
+msgstr "Type6 mod. 1"
 
 msgid "IDS_PJUF603_FLIGHTCONTROL_2_U"
 msgstr "Type7 mod. 3"
@@ -75906,8 +78328,14 @@ msgstr "Type10 mod. 1"
 msgid "IDS_PJUF905_CV10_FC_STOCK"
 msgstr "Type10 mod. 1"
 
+msgid "IDS_PJUF906_FC_SHINANO"
+msgstr "Type10"
+
 msgid "IDS_PJUF907_FC_KUZURYU"
 msgstr "Type8 mod. 1"
+
+msgid "IDS_PJUF908_FC_I2"
+msgstr "Type10"
 
 msgid "IDS_PJUF974_FC_1_HAKU"
 msgstr "Type10 mod. 1"
@@ -76743,6 +79171,15 @@ msgstr "Type8 mod. 1"
 msgid "IDS_PJUQ702_SONAR_I54"
 msgstr "Type8 mod. 1"
 
+msgid "IDS_PJUS105_SUO_MIKASA"
+msgstr "Type2 mod. 1"
+
+msgid "IDS_PJUS106_SUO_ASAMA"
+msgstr "Type2"
+
+msgid "IDS_PJUS107_SUO_SAZANAMI"
+msgstr "Type2"
+
 msgid "IDS_PJUS332_SUO_TEST"
 msgstr "テスト GFCS"
 
@@ -76760,6 +79197,9 @@ msgstr "Type5"
 
 msgid "IDS_PJUS498_SUO_HIEI"
 msgstr "Type5"
+
+msgid "IDS_PJUS517_SUO_OYODO"
+msgstr "Type6"
 
 msgid "IDS_PJUS606_SUO_MAYA2"
 msgstr "Type8 mod. 1"
@@ -76890,6 +79330,12 @@ msgstr "Type9 mod. 1"
 msgid "IDS_PJUS822_SUO"
 msgstr "Type9 mod. 2"
 
+msgid "IDS_PJUS823_SUO_BLACK_AZUMA"
+msgstr "Type9"
+
+msgid "IDS_PJUS824_SUO_OWARI"
+msgstr "Type9"
+
 msgid "IDS_PJUS831_SUO"
 msgstr "Type9 mod. 1"
 
@@ -76941,8 +79387,23 @@ msgstr "Type10 mod. 1"
 msgid "IDS_PJUS914_B10_SUO_STOCK"
 msgstr "Type10 mod. 1"
 
+msgid "IDS_PJUS915_SUO_NATSUKAZE"
+msgstr "Type10"
+
+msgid "IDS_PJUS916_SUO_KUZURYU"
+msgstr "Type10"
+
 msgid "IDS_PJUS917_SUO_CLR_YAMATO"
 msgstr "Type10 mod. 1"
+
+msgid "IDS_PJUS918_SUO_CHIKUGO"
+msgstr "Type10"
+
+msgid "IDS_PJUS919_SUO_LAZAREV_H_EVENT"
+msgstr "Type10"
+
+msgid "IDS_PJUS920_SUO_RAIJU"
+msgstr "Type10"
 
 msgid "IDS_PJUS921_SUO"
 msgstr "Type10 mod. 1"
@@ -78682,6 +81143,9 @@ msgstr "85 mm/52 Model 1939 (92-K 砲座)"
 msgid "IDS_PRGA218_40MM_BOFORS"
 msgstr "40 mm/56 Bofors (Mk.2 砲座)"
 
+msgid "IDS_PRGA238_12_DSHK"
+msgstr "12.7 mm DShK"
+
 msgid "IDS_PRGA3002_45MM_SM_20_ZIF"
 msgstr "45 mm SM-20-ZIF 砲座"
 
@@ -79796,6 +82260,9 @@ msgstr "254 mm HE Model 1938"
 msgid "IDS_PRPA149_254MM_55_AP_T11"
 msgstr "254 mm AP Model 1938"
 
+msgid "IDS_PRPA150_406MM_HE_RTC_S_RUSSIA"
+msgstr "406 mm HE Model 1937"
+
 msgid "IDS_PRPA151_406MM_AP_RTC_S_RUSSIA"
 msgstr "406 mm AP Model 1937"
 
@@ -79804,6 +82271,12 @@ msgstr "OFU-35"
 
 msgid "IDS_PRPA153_152MM_B35_SCHERBAKOV"
 msgstr "AP-35"
+
+msgid "IDS_PRPA154_305MM_HE_FRUNZE"
+msgstr "305 mm HE Model 1930"
+
+msgid "IDS_PRPA155_305MM_AP_FRUNZE"
+msgstr "305 mm AP Model 1930"
 
 msgid "IDS_PRPA156_180MM_HE_Y_DOLGORUKIY"
 msgstr "HE-32"
@@ -79892,6 +82365,12 @@ msgstr "152 mm proiettili CS 1926 mod.1"
 msgid "IDS_PRPA216_203MM_55_AP_TOGLIATTI"
 msgstr "203 mm proiettili AP 1924 mod.2"
 
+msgid "IDS_PRPA218_305MM_HE_R_ALASKA"
+msgstr "305 mm HE Mk17 mod. 1"
+
+msgid "IDS_PRPA219_305MM_AP_R_ALASKA"
+msgstr "305 mm AP Mk18 mod. 1"
+
 msgid "IDS_PRPA220_127MM_HE_SG"
 msgstr "127 mm HE Mk32"
 
@@ -79904,6 +82383,12 @@ msgstr "HE-46"
 msgid "IDS_PRPA224_130MM_AP_OGNENNY"
 msgstr "SAP-46"
 
+msgid "IDS_PRPA237_305MM_HE_P_KOMMUNA"
+msgstr "305 mm HE Model 1911"
+
+msgid "IDS_PRPA238_305MM_AP_P_KOMMUNA"
+msgstr "305 mm AP Model 1911"
+
 msgid "IDS_PRPA239_130MM_HE_OGNEVOY"
 msgstr "HE-46"
 
@@ -79913,11 +82398,20 @@ msgstr "SAP-46"
 msgid "IDS_PRPA241_152MM_OFU35_SG_T8_11"
 msgstr "OFU-35"
 
+msgid "IDS_PRPA251_305MM_HE_BORODINO"
+msgstr "305 mm HE Model 1895"
+
+msgid "IDS_PRPA252_305MM_AP_BORODINO"
+msgstr "305 mm AP Model 1895"
+
 msgid "IDS_PRPA254_152_AP_VARYAG_EVENT"
 msgstr "152 mm AP 91 lb"
 
 msgid "IDS_PRPA255_152_HE_AVRORA_EVENT"
 msgstr "152 mm HE 109 lb"
+
+msgid "IDS_PRPA256_120_HE_NOVIK_EVENT"
+msgstr "120 mm HE Model 1907"
 
 msgid "IDS_PRPA257_457MM_HE_S_GRUZIA"
 msgstr "457 mm HE Type B"
@@ -79937,6 +82431,9 @@ msgstr "203 mm HE OEA Mle 1927"
 msgid "IDS_PRPA262_203MM_AP_GREM"
 msgstr "203 mm AP OPf Mle 1936"
 
+msgid "IDS_PRPA264_102MM_AP_SHAUMIAN"
+msgstr "102 mm AP Model 1915"
+
 msgid "IDS_PRPA265_406MM_HE_SOVET"
 msgstr "406 mm HE Model 1928"
 
@@ -79945,6 +82442,12 @@ msgstr "406 mm AP Model 1928"
 
 msgid "IDS_PRPA267_102MM_HE_SHAUMIAN"
 msgstr "102 mm HE Model 1915"
+
+msgid "IDS_PRPA301_305_AP_1911_SAND"
+msgstr "305 mm AP Model 1911 mod.1"
+
+msgid "IDS_PRPA302_305_HE_1911_SAND"
+msgstr "305 mm HE Model 1911 mod.1"
 
 msgid "IDS_PRPA601_1ST_AP_APRIL"
 msgstr "BANG"
@@ -80165,8 +82668,14 @@ msgstr "53-51"
 msgid "IDS_PRPT034_SMOLENSK"
 msgstr "53-51"
 
+msgid "IDS_PRPT035_53_36_SUB"
+msgstr "53-36"
+
 msgid "IDS_PRPT035_SAET_80"
 msgstr "SAET-80"
+
+msgid "IDS_PRPT036_450MM_SHAUMIAN"
+msgstr "Torpedo Model 1908"
 
 msgid "IDS_PRPT038_53_36_MIKOYAN"
 msgstr "53-36 mod. 1"
@@ -80231,6 +82740,9 @@ msgstr "53-39 mod. 4"
 msgid "IDS_PRPT066_533MM_SUB_T11"
 msgstr "53-38U"
 
+msgid "IDS_PRPT067_533MM_SUB_MAG_T11"
+msgstr "53-38U MZ"
+
 msgid "IDS_PRPT068_KERCH"
 msgstr "533 mm Si 270"
 
@@ -80240,8 +82752,17 @@ msgstr "53-38"
 msgid "IDS_PRPT070_MONOMAKH"
 msgstr "53-50"
 
+msgid "IDS_PRPT071_STOROJEVOY"
+msgstr "Torpedo Model 1910"
+
+msgid "IDS_PRPT072_DERZKY"
+msgstr "Torpedo Model 1910"
+
 msgid "IDS_PRPT073_PODVOISKY"
 msgstr "53-38"
+
+msgid "IDS_PRPT074_PR_7"
+msgstr "53-39 mod. 1"
 
 msgid "IDS_PRPT075_MINSK"
 msgstr "53-38U"
@@ -80249,17 +82770,62 @@ msgstr "53-38U"
 msgid "IDS_PRPT076_PR_48"
 msgstr "53-36 mod. 2"
 
+msgid "IDS_PRPT077_IZYASLAV"
+msgstr "Torpedo Model 1912"
+
+msgid "IDS_PRPT078_FRUNZE"
+msgstr "53-31"
+
+msgid "IDS_PRPT079_BORODINO"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRPT080_GROMOBOY"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRPT081_BOYKIY_STOCK"
+msgstr "Torpedo Model 1895 mod. 1"
+
+msgid "IDS_PRPT082_SOOBRAZITELNY"
+msgstr "53-38 mod. 1"
+
+msgid "IDS_PRPT083_OSMOTRITELNY"
+msgstr "53-38 mod. 2"
+
 msgid "IDS_PRPT084_SMELY"
 msgstr "53-39 mod. 2"
 
+msgid "IDS_PRPT085_SPOKOINY"
+msgstr "53-50 mod. 1"
+
+msgid "IDS_PRPT086_GORDELIVY"
+msgstr "53-50 mod. 2"
+
+msgid "IDS_PRPT087_SOVREMENNY"
+msgstr "53-39 mod. 5"
+
+msgid "IDS_PRPT089_OGNEVOY"
+msgstr "53-39 mod. 3"
+
+msgid "IDS_PRPT090_BOYKIY_TOP"
+msgstr "Torpedo Model 1895 mod. 2"
+
+msgid "IDS_PRPT091_OGNENNY"
+msgstr "53-39 mod. 1"
+
 msgid "IDS_PRPT092_GREM_AIR"
 msgstr "TAN-12"
+
+msgid "IDS_PRPT093_GREM_SURFACE"
+msgstr "53-39 mod. 3"
 
 msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VII"
 
 msgid "IDS_PRPT990_SUBTEST"
 msgstr "53-38U"
+
+msgid "IDS_PRPT991_SUBTEST_MZ"
+msgstr "53-38U MZ"
 
 msgid "IDS_PRPT992_ORLOV_TOP"
 msgstr "45-36AN-B"
@@ -80326,6 +82892,12 @@ msgstr "1"
 
 msgid "IDS_PRSA110_YEAR"
 msgstr "1951"
+
+msgid "IDS_PRSA111"
+msgstr "Ulyanovsk"
+
+msgid "IDS_PRSA111_FULL"
+msgstr "Ulyanovsk"
 
 msgid "IDS_PRSA111_YEAR"
 msgstr "1957"
@@ -80480,14 +83052,47 @@ msgstr "1"
 msgid "IDS_PRSB111_YEAR"
 msgstr "1949"
 
+msgid "IDS_PRSB207"
+msgstr "Senyavin"
+
+msgid "IDS_PRSB207_FULL"
+msgstr "Admiral Senyavin"
+
+msgid "IDS_PRSB207_YEAR"
+msgstr "1922"
+
+msgid "IDS_PRSB208"
+msgstr "Istomin"
+
+msgid "IDS_PRSB208_FULL"
+msgstr "Admiral Istomin"
+
 msgid "IDS_PRSB208_YEAR"
 msgstr "1914"
+
+msgid "IDS_PRSB209"
+msgstr "Kornilov"
+
+msgid "IDS_PRSB209_FULL"
+msgstr "Admiral Kornilov"
 
 msgid "IDS_PRSB209_YEAR"
 msgstr "1914"
 
+msgid "IDS_PRSB210"
+msgstr "Lazarev"
+
+msgid "IDS_PRSB210_FULL"
+msgstr "Admiral Lazarev"
+
 msgid "IDS_PRSB210_YEAR"
 msgstr "1915"
+
+msgid "IDS_PRSB502"
+msgstr "Borodino '04"
+
+msgid "IDS_PRSB502_FULL"
+msgstr "Borodino '04"
 
 msgid "IDS_PRSB502_YEAR"
 msgstr "1904"
@@ -80537,6 +83142,12 @@ msgstr "0"
 msgid "IDS_PRSB510_YEAR"
 msgstr "1950"
 
+msgid "IDS_PRSB515"
+msgstr "P. Commune"
+
+msgid "IDS_PRSB515_FULL"
+msgstr "Paris Commune"
+
 msgid "IDS_PRSB515_YEAR"
 msgstr "1914"
 
@@ -80564,11 +83175,29 @@ msgstr "1"
 msgid "IDS_PRSB518_YEAR"
 msgstr "1936"
 
+msgid "IDS_PRSB519"
+msgstr "Perm Velikaya"
+
+msgid "IDS_PRSB519_FULL"
+msgstr "Perm Velikaya"
+
 msgid "IDS_PRSB519_YEAR"
 msgstr "1936"
 
+msgid "IDS_PRSB520"
+msgstr "Severomorsk"
+
+msgid "IDS_PRSB520_FULL"
+msgstr "Severomorsk"
+
 msgid "IDS_PRSB520_YEAR"
 msgstr "1938"
+
+msgid "IDS_PRSB526"
+msgstr "Top Secret"
+
+msgid "IDS_PRSB526_FULL"
+msgstr "Top Secret"
 
 msgid "IDS_PRSB526_YEAR"
 msgstr "???"
@@ -80585,8 +83214,20 @@ msgstr "1"
 msgid "IDS_PRSB528_YEAR"
 msgstr "1952"
 
+msgid "IDS_PRSB529"
+msgstr "Sov. Russia"
+
+msgid "IDS_PRSB529_FULL"
+msgstr "Soviet Russia"
+
 msgid "IDS_PRSB529_YEAR"
 msgstr "1939"
+
+msgid "IDS_PRSB530"
+msgstr "Krasnoye Znamya"
+
+msgid "IDS_PRSB530_FULL"
+msgstr "Krasnoye Znamya"
 
 msgid "IDS_PRSB530_YEAR"
 msgstr "1953"
@@ -80597,8 +83238,20 @@ msgstr "1"
 msgid "IDS_PRSB538_YEAR"
 msgstr "1936"
 
+msgid "IDS_PRSB540"
+msgstr "Strana Sovetov"
+
+msgid "IDS_PRSB540_FULL"
+msgstr "Strana Sovetov"
+
 msgid "IDS_PRSB540_YEAR"
 msgstr "1914"
+
+msgid "IDS_PRSB548"
+msgstr "Frunze"
+
+msgid "IDS_PRSB548_FULL"
+msgstr "Frunze"
 
 msgid "IDS_PRSB548_YEAR"
 msgstr "1933"
@@ -80635,8 +83288,20 @@ msgstr "1"
 msgid "IDS_PRSB710_YEAR"
 msgstr "1950"
 
+msgid "IDS_PRSB910"
+msgstr "Invincible"
+
+msgid "IDS_PRSB910_FULL"
+msgstr "Invincible"
+
 msgid "IDS_PRSB910_YEAR"
 msgstr "1941"
+
+msgid "IDS_PRSB999"
+msgstr "Krasnoye Znamya (R)"
+
+msgid "IDS_PRSB999_FULL"
+msgstr "Krasnoye Znamya (R)"
 
 msgid "IDS_PRSB999_YEAR"
 msgstr "1953"
@@ -80950,6 +83615,15 @@ msgstr "3"
 msgid "IDS_PRSC510_YEAR"
 msgstr "1951"
 
+msgid "IDS_PRSC512"
+msgstr "Gromoboy"
+
+msgid "IDS_PRSC512_FULL"
+msgstr "Gromoboy"
+
+msgid "IDS_PRSC512_YEAR"
+msgstr "1899"
+
 msgid "IDS_PRSC513"
 msgstr "Varyag"
 
@@ -80974,6 +83648,12 @@ msgstr "1"
 msgid "IDS_PRSC515_YEAR"
 msgstr "1933"
 
+msgid "IDS_PRSC516"
+msgstr "Kerch"
+
+msgid "IDS_PRSC516_FULL"
+msgstr "Kerch"
+
 msgid "IDS_PRSC516_YEAR"
 msgstr "1935"
 
@@ -80988,6 +83668,12 @@ msgstr "7"
 
 msgid "IDS_PRSC518_YEAR"
 msgstr "1939"
+
+msgid "IDS_PRSC519"
+msgstr "Scherbakov"
+
+msgid "IDS_PRSC519_FULL"
+msgstr "Scherbakov"
 
 msgid "IDS_PRSC519_YEAR"
 msgstr "1954"
@@ -81036,6 +83722,12 @@ msgstr "2"
 msgid "IDS_PRSC525_YEAR"
 msgstr "1938"
 
+msgid "IDS_PRSC526"
+msgstr "Molotov B"
+
+msgid "IDS_PRSC526_FULL"
+msgstr "Molotov B"
+
 msgid "IDS_PRSC526_YEAR"
 msgstr "1941"
 
@@ -81050,6 +83742,12 @@ msgstr "1"
 
 msgid "IDS_PRSC528_YEAR"
 msgstr "1950"
+
+msgid "IDS_PRSC529"
+msgstr "Togliatti"
+
+msgid "IDS_PRSC529_FULL"
+msgstr "Togliatti"
 
 msgid "IDS_PRSC529_YEAR"
 msgstr "1941"
@@ -81069,6 +83767,12 @@ msgstr "1"
 msgid "IDS_PRSC538_YEAR"
 msgstr "1945"
 
+msgid "IDS_PRSC539"
+msgstr "Y. Dolgoruky"
+
+msgid "IDS_PRSC539_FULL"
+msgstr "Yuri Dolgoruky"
+
 msgid "IDS_PRSC539_YEAR"
 msgstr "1954"
 
@@ -81084,6 +83788,12 @@ msgstr "1"
 msgid "IDS_PRSC548_YEAR"
 msgstr "1945"
 
+msgid "IDS_PRSC549"
+msgstr "Rus. Alaska"
+
+msgid "IDS_PRSC549_FULL"
+msgstr "Russian Alaska"
+
 msgid "IDS_PRSC549_YEAR"
 msgstr "1944"
 
@@ -81095,6 +83805,12 @@ msgstr "21"
 
 msgid "IDS_PRSC558_YEAR"
 msgstr "1954"
+
+msgid "IDS_PRSC559"
+msgstr "Sverdlovsk"
+
+msgid "IDS_PRSC559_FULL"
+msgstr "Sverdlovsk"
 
 msgid "IDS_PRSC559_YEAR"
 msgstr "1937"
@@ -81129,6 +83845,15 @@ msgstr "0"
 msgid "IDS_PRSC610_YEAR"
 msgstr "1950"
 
+msgid "IDS_PRSC708"
+msgstr "Grem"
+
+msgid "IDS_PRSC708_DESCR"
+msgstr "テスト用艦艇"
+
+msgid "IDS_PRSC708_FULL"
+msgstr "Grem"
+
 msgid "IDS_PRSC708_YEAR"
 msgstr "1940"
 
@@ -81156,6 +83881,12 @@ msgstr "1"
 msgid "IDS_PRSC810_YEAR"
 msgstr "1935"
 
+msgid "IDS_PRSC902"
+msgstr "Iron Aurora"
+
+msgid "IDS_PRSC902_FULL"
+msgstr "Iron Aurora"
+
 msgid "IDS_PRSC902_YEAR"
 msgstr "1935"
 
@@ -81171,14 +83902,38 @@ msgstr "0"
 msgid "IDS_PRSC910_YEAR"
 msgstr "1953"
 
+msgid "IDS_PRSC912"
+msgstr "Iron Novik"
+
+msgid "IDS_PRSC912_FULL"
+msgstr "Iron Novik"
+
 msgid "IDS_PRSC912_YEAR"
 msgstr "1935"
+
+msgid "IDS_PRSC916"
+msgstr "Makarov U"
+
+msgid "IDS_PRSC916_FULL"
+msgstr "Makarov (訓練)"
 
 msgid "IDS_PRSC916_YEAR"
 msgstr "1935"
 
+msgid "IDS_PRSC922"
+msgstr "Iron Varyag"
+
+msgid "IDS_PRSC922_FULL"
+msgstr "Iron Varyag"
+
 msgid "IDS_PRSC922_YEAR"
 msgstr "1935"
+
+msgid "IDS_PRSC970"
+msgstr "Ivan Kalita"
+
+msgid "IDS_PRSC970_FULL"
+msgstr "Ivan Kalita"
 
 msgid "IDS_PRSC970_YEAR"
 msgstr "1955"
@@ -81417,8 +84172,20 @@ msgstr "Grozovoi"
 msgid "IDS_PRSD210_NUMBER"
 msgstr "0"
 
+msgid "IDS_PRSD218"
+msgstr "Opytniy"
+
+msgid "IDS_PRSD218_FULL"
+msgstr "Opytniy"
+
 msgid "IDS_PRSD218_YEAR"
 msgstr "1941"
+
+msgid "IDS_PRSD306"
+msgstr "Soobrazitelny"
+
+msgid "IDS_PRSD306_FULL"
+msgstr "Soobrazitelny"
 
 msgid "IDS_PRSD306_YEAR"
 msgstr "1941"
@@ -81459,8 +84226,20 @@ msgstr "Osmotritelny"
 msgid "IDS_PRSD317_YEAR"
 msgstr "1947"
 
+msgid "IDS_PRSD318"
+msgstr "Smely"
+
+msgid "IDS_PRSD318_FULL"
+msgstr "Smely"
+
 msgid "IDS_PRSD318_YEAR"
 msgstr "1951"
+
+msgid "IDS_PRSD319"
+msgstr "Spokoiny"
+
+msgid "IDS_PRSD319_FULL"
+msgstr "Spokoiny"
 
 msgid "IDS_PRSD319_YEAR"
 msgstr "1956"
@@ -81470,6 +84249,9 @@ msgstr "Gordelivy"
 
 msgid "IDS_PRSD320_FULL"
 msgstr "Gordelivy"
+
+msgid "IDS_PRSD320_YEAR"
+msgstr "1957"
 
 msgid "IDS_PRSD409"
 msgstr "Tashkent"
@@ -81498,6 +84280,12 @@ msgstr "1"
 msgid "IDS_PRSD410_YEAR"
 msgstr "1952"
 
+msgid "IDS_PRSD502"
+msgstr "Boykiy"
+
+msgid "IDS_PRSD502_FULL"
+msgstr "Boykiy"
+
 msgid "IDS_PRSD502_YEAR"
 msgstr "1902"
 
@@ -81525,6 +84313,21 @@ msgstr "3"
 msgid "IDS_PRSD507_YEAR"
 msgstr "1936"
 
+msgid "IDS_PRSD509"
+msgstr "Sovremenny"
+
+msgid "IDS_PRSD509_FULL"
+msgstr "Sovremenny"
+
+msgid "IDS_PRSD509_YEAR"
+msgstr "1962"
+
+msgid "IDS_PRSD516"
+msgstr "Shaumian"
+
+msgid "IDS_PRSD516_FULL"
+msgstr "Shaumian"
+
 msgid "IDS_PRSD516_YEAR"
 msgstr "1925"
 
@@ -81539,6 +84342,12 @@ msgstr "1"
 
 msgid "IDS_PRSD517_YEAR"
 msgstr "1939"
+
+msgid "IDS_PRSD519"
+msgstr "Ognenny"
+
+msgid "IDS_PRSD519_FULL"
+msgstr "Ognenny"
 
 msgid "IDS_PRSD519_YEAR"
 msgstr "1950"
@@ -81630,6 +84439,12 @@ msgstr "B-4"
 msgid "IDS_PRSS111_FULL"
 msgstr "B-4"
 
+msgid "IDS_PRSS111_NUMBER"
+msgstr "75"
+
+msgid "IDS_PRSS111_YEAR"
+msgstr "1961"
+
 msgid "IDS_PRSS508"
 msgstr "S-189"
 
@@ -81642,8 +84457,20 @@ msgstr "236"
 msgid "IDS_PRSS508_YEAR"
 msgstr "1955"
 
+msgid "IDS_PRSS518"
+msgstr "S-189 B"
+
+msgid "IDS_PRSS518_FULL"
+msgstr "S-189 B"
+
 msgid "IDS_PRSS518_YEAR"
 msgstr "1955"
+
+msgid "IDS_PRSS910"
+msgstr "K-41"
+
+msgid "IDS_PRSS910_FULL"
+msgstr "K-41"
 
 msgid "IDS_PRSS910_YEAR"
 msgstr "1939"
@@ -81782,6 +84609,9 @@ msgstr "152 mm/53 OTO Model 1929 (Model 1929 砲座)"
 
 msgid "IDS_PRUA506_ART_BLACK_MOLOTOV"
 msgstr "180 mm/57 Model 1932 (MK-3-180 砲座)"
+
+msgid "IDS_PRUA507_D6_ART_STOCK"
+msgstr "130 mm/50 Model 1936 (B-13-IIc 砲座)"
 
 msgid "IDS_PRUA508_ART_MAKAROV_CHALLENGE"
 msgstr "150 mm/60 SK C/25 (Drh Tr C/28 砲座)"
@@ -82098,6 +84928,15 @@ msgstr "推力: 20,000 馬力"
 msgid "IDS_PRUE101_ENGINE_11600_DIANA"
 msgstr "推力: 11,600 馬力"
 
+msgid "IDS_PRUE102_ENG_BORODINO"
+msgstr "推力: 16,300 馬力"
+
+msgid "IDS_PRUE103_ENG_GROMOBOY"
+msgstr "推力: 14,500 馬力"
+
+msgid "IDS_PRUE104_ENG_BOYKIY"
+msgstr "推力: 5,700 馬力"
+
 msgid "IDS_PRUE105_ENG_AVRORA_EVENT"
 msgstr "推力: 11,600 馬力"
 
@@ -82161,6 +85000,9 @@ msgstr "推力: 120,000 馬力"
 msgid "IDS_PRUE405_ENG_KIROV"
 msgstr "推力: 110,000 馬力"
 
+msgid "IDS_PRUE406_ENG_P_KOMMUNA"
+msgstr "推力: 62,300 馬力"
+
 msgid "IDS_PRUE411_ENGINE_48000"
 msgstr "推力: 48,000 馬力"
 
@@ -82203,6 +85045,9 @@ msgstr "推力: 124,600 馬力"
 msgid "IDS_PRUE505_ENG_NOVOR"
 msgstr "推力: 97,500 馬力"
 
+msgid "IDS_PRUE506_ENG_KERCH"
+msgstr "推力: 128,000 馬力"
+
 msgid "IDS_PRUE507_D6_ENG_STOCK"
 msgstr "推力: 54,000 馬力"
 
@@ -82220,6 +85065,9 @@ msgstr "推力: 130,000 馬力"
 
 msgid "IDS_PRUE512_S6_ENG_STOCK"
 msgstr "推力: 4 000 馬力"
+
+msgid "IDS_PRUE513_ENG_SHAUMIAN"
+msgstr "推力: 28,300 馬力"
 
 msgid "IDS_PRUE521_ENGINE_110000_MOLOTOV"
 msgstr "推力: 110,000 馬力"
@@ -82241,6 +85089,12 @@ msgstr "推力: 100,000 馬力"
 
 msgid "IDS_PRUE604_ENG_TASHKENT39"
 msgstr "推力: 110,000 馬力"
+
+msgid "IDS_PRUE605_B7_ENG_STOCK"
+msgstr "推力: 86,000 馬力"
+
+msgid "IDS_PRUE606_D7_ENG_STOCK"
+msgstr "推力: 60,810 馬力"
 
 msgid "IDS_PRUE611_C7_ENG_STOCK"
 msgstr "推力: 126,500 馬力"
@@ -82302,11 +85156,20 @@ msgstr "推力: 121,000 馬力"
 msgid "IDS_PRUE719_B8_ENG_STOCK"
 msgstr "推力: 140,000 馬力"
 
+msgid "IDS_PRUE720_ENG_BLACK_S_189"
+msgstr "推力: 4,000 馬力"
+
 msgid "IDS_PRUE721_C8_ENG_STOCK"
 msgstr "推力: 124,600 馬力"
 
 msgid "IDS_PRUE722_ENG_FRUNZE"
 msgstr "推力: 130,000 馬力"
+
+msgid "IDS_PRUE723_D8_ENG_STOCK"
+msgstr "推力: 62,100 馬力"
+
+msgid "IDS_PRUE724_D8_ENG_STOCK"
+msgstr "推力: 70,000 馬力"
 
 msgid "IDS_PRUE725_ENG_GREM"
 msgstr "推力: 120,000 馬力"
@@ -82338,6 +85201,9 @@ msgstr "推力: 100,000 馬力"
 msgid "IDS_PRUE809_ENG_RTC_SOV_RUSSIA"
 msgstr "推力: 231,000 馬力"
 
+msgid "IDS_PRUE810_B9_ENG_STOCK"
+msgstr "推力: 144,000 馬力"
+
 msgid "IDS_PRUE811_C9_ENG_STOCK"
 msgstr "推力: 144,000 馬力"
 
@@ -82346,6 +85212,12 @@ msgstr "推力: 231,000 馬力"
 
 msgid "IDS_PRUE813_ENG_NEUSTR"
 msgstr "推力: 64,200 馬力"
+
+msgid "IDS_PRUE814_ENG_TOGLIATTI"
+msgstr "推力: 220,000 馬力"
+
+msgid "IDS_PRUE815_ENG_SCHERBAKOV"
+msgstr "推力: 124,000 馬力"
 
 msgid "IDS_PRUE816_ENG_R_ALASKA"
 msgstr "推力: 180,000 馬力"
@@ -82367,6 +85239,9 @@ msgstr "推力: 90,000 馬力"
 
 msgid "IDS_PRUE822_ENG_S_GRUZIA"
 msgstr "推力: 230,000 馬力"
+
+msgid "IDS_PRUE823_ENG_OGNENNY"
+msgstr "推力: 60,700 馬力"
 
 msgid "IDS_PRUE830_BB8_ENG_BORODINO"
 msgstr "推力: 210,000 馬力"
@@ -82434,6 +85309,9 @@ msgstr "推力: 108,000 馬力"
 msgid "IDS_PRUE920_ENG_SEVEROMORSK"
 msgstr "推力: 300,000 馬力"
 
+msgid "IDS_PRUE921_S11_ENG_STOCK"
+msgstr "推力: 6,000 馬力"
+
 msgid "IDS_PRUE922_B10_ENG_STOCK"
 msgstr "推力: 200,000 馬力"
 
@@ -82443,11 +85321,20 @@ msgstr "推力: 192,000 馬力"
 msgid "IDS_PRUE924_D10_ENG_STOCK"
 msgstr "推力: 76,000 馬力"
 
+msgid "IDS_PRUE925_CV11_ENG_STOCK"
+msgstr "推力: 267,000 馬力"
+
 msgid "IDS_PRUE926_ENG_SUBTEST"
 msgstr "推力: 8,400 馬力"
 
+msgid "IDS_PRUE927_ENG_KR_ZNAMYA"
+msgstr "推力: 280,000 馬力"
+
 msgid "IDS_PRUE928_ENG_KZ_RUBKA"
 msgstr "推力: 280,000 馬力"
+
+msgid "IDS_PRUE929_ENG_STRANA_SOVETOV"
+msgstr "推力: 268,000 馬力"
 
 msgid "IDS_PRUE930_D11_ENG_STOCK"
 msgstr "推力: 130,000 馬力"
@@ -82493,6 +85380,9 @@ msgstr "Type 8"
 
 msgid "IDS_PRUF703_FC_GREM"
 msgstr "Type 6"
+
+msgid "IDS_PRUF900_CV11_FC_STOCK"
+msgstr "Type 11"
 
 msgid "IDS_PRUF901_CV10_FC"
 msgstr "Type 10"
@@ -83016,6 +85906,54 @@ msgstr "水中聴音 8"
 msgid "IDS_PRUQ999_SONAR_TST_SUB"
 msgstr "水中聴音 10"
 
+msgid "IDS_PRUS102_SUO_BORODINO"
+msgstr "GFCS II"
+
+msgid "IDS_PRUS103_SUO_GROMOBOY"
+msgstr "GFCS II"
+
+msgid "IDS_PRUS104_SUO_BOYKIY"
+msgstr "GFCS II"
+
+msgid "IDS_PRUS105_SUO_AVRORA_EVENT"
+msgstr "GFCS II"
+
+msgid "IDS_PRUS106_SUO_NOVIK_EVENT"
+msgstr "GFCS II"
+
+msgid "IDS_PRUS107_SUO_VARYAG_EVENT"
+msgstr "GFCS II"
+
+msgid "IDS_PRUS406_SUO_P_KOMMUNA"
+msgstr "GFCS V mod. 1"
+
+msgid "IDS_PRUS506_SUO_KERCH"
+msgstr "GFCS VI mod. 1"
+
+msgid "IDS_PRUS507_SUO_BLACK_MOLOTOV"
+msgstr "GFCS VI"
+
+msgid "IDS_PRUS508_SUO_TOP_SECRET"
+msgstr "GFCS VI"
+
+msgid "IDS_PRUS509_D6_SUO_STOCK"
+msgstr "GFCS VI"
+
+msgid "IDS_PRUS510_SUO_MAKAROV_CHALLENGE"
+msgstr "GFCS VI mod. 1"
+
+msgid "IDS_PRUS515_SUO_DESTROYER_CHALLENGE"
+msgstr "GFCS VI"
+
+msgid "IDS_PRUS516_SUO_SHAUMIAN"
+msgstr "GFCS VI"
+
+msgid "IDS_PRUS606_B7_SUO_STOCK"
+msgstr "GFCS VII mod. 1"
+
+msgid "IDS_PRUS608_D7_SUO_STOCK"
+msgstr "GFCS VII"
+
 msgid "IDS_PRUS700_SUO_DMITRY_POZHARSKY"
 msgstr "GFCS VIII mod. 1"
 
@@ -83030,6 +85968,12 @@ msgstr "GFCS VIII mod. 1"
 
 msgid "IDS_PRUS708_B8_SUO_STOCK"
 msgstr "GFCS VIII mod. 1"
+
+msgid "IDS_PRUS709_SUO_FRUNZE"
+msgstr "GFCS VIII"
+
+msgid "IDS_PRUS710_D8_SUO_STOCK"
+msgstr "GFCS VIII"
 
 msgid "IDS_PRUS711_SUO_KUTUZOV"
 msgstr "GFCS VIII mod. 1"
@@ -83055,6 +85999,12 @@ msgstr "GFCS VIII mod. 1"
 msgid "IDS_PRUS723_SUO_P_BAGRATION"
 msgstr "GFCS VIII mod. 1"
 
+msgid "IDS_PRUS724_D8_SUO_STOCK"
+msgstr "GFCS VIII"
+
+msgid "IDS_PRUS725_SUO_GREM"
+msgstr "GFCS VIII"
+
 msgid "IDS_PRUS801_SUO"
 msgstr "GFCS IX mod. 1"
 
@@ -83072,6 +86022,12 @@ msgstr "GFCS IX mod. 1"
 
 msgid "IDS_PRUS808_B9_SUO_STOCK"
 msgstr "GFCS IX mod. 1"
+
+msgid "IDS_PRUS809_SUO_PERM_VELIKAYA"
+msgstr "GFCS IX"
+
+msgid "IDS_PRUS810_SUO_TOGLIATTI"
+msgstr "GFCS IX"
 
 msgid "IDS_PRUS811_SUO"
 msgstr "GFCS IX mod. 1"
@@ -83097,8 +86053,29 @@ msgstr "GFCS IX mod. 1"
 msgid "IDS_PRUS823_SUO_SCHERBAKOV"
 msgstr "GFCS IX mod. 1"
 
+msgid "IDS_PRUS824_SUO_R_ALASKA"
+msgstr "GFCS IX"
+
+msgid "IDS_PRUS825_SUO_SVERDLOVSK"
+msgstr "GFCS IX"
+
+msgid "IDS_PRUS826_SUO_YURI_DOLGORUKIY"
+msgstr "GFCS IX"
+
+msgid "IDS_PRUS827_D9_SUO_STOCK"
+msgstr "GFCS IX"
+
+msgid "IDS_PRUS828_SUO_SOVREMENNY"
+msgstr "GFCS IX"
+
+msgid "IDS_PRUS829_SUO_S_GRUZIA"
+msgstr "GFCS IX"
+
 msgid "IDS_PRUS830_BB8_SUO_BORODINO"
 msgstr "GFCS VIII mod. 1"
+
+msgid "IDS_PRUS831_SUO_OGNENNY"
+msgstr "GFCS IX"
 
 msgid "IDS_PRUS900_C10_SUO_STOCK"
 msgstr "GFCS X mod. 1"
@@ -83160,6 +86137,21 @@ msgstr "GFCS X mod. 1"
 msgid "IDS_PRUS919_SUO_CRUISER_TEST"
 msgstr "GFCS X mod. 1"
 
+msgid "IDS_PRUS920_D10_SUO_STOCK"
+msgstr "GFCS X"
+
+msgid "IDS_PRUS921_SUO_KR_ZNAMYA"
+msgstr "GFCS X"
+
+msgid "IDS_PRUS922_SUO_KZ_RUBKA"
+msgstr "GFCS X"
+
+msgid "IDS_PRUS923_SUO_STRANA_SOVETOV"
+msgstr "GFCS X"
+
+msgid "IDS_PRUS925_SUO_KIBERSLAVA"
+msgstr "GFCS X"
+
 msgid "IDS_PRUS930_D11_SUO_STOCK"
 msgstr "GFCS XI mod. 1"
 
@@ -83178,6 +86170,9 @@ msgstr "GFCS X mod. 1"
 msgid "IDS_PRUS977_STALINGRAD"
 msgstr "GFCS X mod. 1"
 
+msgid "IDS_PRUS980_SUO_KREMLIN"
+msgstr "GFCS XI"
+
 msgid "IDS_PRUS990_SUO_TEST"
 msgstr "Iamassist"
 
@@ -83192,6 +86187,18 @@ msgstr "533 mm D4"
 
 msgid "IDS_PRUT005_53_27P"
 msgstr "53-27P"
+
+msgid "IDS_PRUT103_TORP_BORODINO"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRUT104_TORP_GROMOBOY"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRUT105_TORP_BOYKIY_STOCK"
+msgstr "Torpedo Model 1895"
+
+msgid "IDS_PRUT106_TORP_BOYKIY_TOP"
+msgstr "Torpedo Model 1895"
 
 msgid "IDS_PRUT202_45_36NI"
 msgstr "45-36NU"
@@ -83255,6 +86262,9 @@ msgstr "G7a T1"
 
 msgid "IDS_PRUT506_TORP_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VIII"
+
+msgid "IDS_PRUT507_TORP_SHAUMIAN"
+msgstr "Torpedo Model 1908"
 
 msgid "IDS_PRUT511_D6_TORP_STOCK"
 msgstr "53-38"
@@ -83384,6 +86394,9 @@ msgstr "53-51"
 
 msgid "IDS_PRUT815_D9_TORP_STOCK"
 msgstr "53-51"
+
+msgid "IDS_PRUT816_TORP_OGNENNY"
+msgstr "53-30"
 
 msgid "IDS_PRUT900_TORP_VLADIMIR_MONOMAKH"
 msgstr "53-51"
@@ -83799,6 +86812,12 @@ msgstr "533 mm MkIV* ES"
 msgid "IDS_PSPT009_MADRID"
 msgstr "533 mm Mk VIII ES"
 
+msgid "IDS_PSSB510"
+msgstr "Conquistador"
+
+msgid "IDS_PSSB510_FULL"
+msgstr "Conquistador"
+
 msgid "IDS_PSSB510_YEAR"
 msgstr "1943"
 
@@ -83967,8 +86986,20 @@ msgstr "1"
 msgid "IDS_PSSC508_YEAR"
 msgstr "1926"
 
+msgid "IDS_PSSC510"
+msgstr "Madrid"
+
+msgid "IDS_PSSC510_FULL"
+msgstr "Madrid"
+
 msgid "IDS_PSSC510_YEAR"
 msgstr "1938"
+
+msgid "IDS_PSSC809"
+msgstr "Andalucía CLR"
+
+msgid "IDS_PSSC809_FULL"
+msgstr "Andalucía CLR"
 
 msgid "IDS_PSSC809_YEAR"
 msgstr "1938"
@@ -84071,6 +87102,9 @@ msgstr "推力: 200,000 馬力"
 
 msgid "IDS_PSUE903_ENG_CONQUISTADOR"
 msgstr "推力: 160,000 馬力"
+
+msgid "IDS_PSUE904_ENG_MADRID"
+msgstr "推力: 135,560 馬力"
 
 msgid "IDS_PSUH001_C1_HULL_STOCK"
 msgstr "Júpiter"
@@ -84189,11 +87223,20 @@ msgstr "SCI Mk IX Mod. 1"
 msgid "IDS_PSUS802_C9_SUO_TOP"
 msgstr "SCI Mk IX Mod. 2"
 
+msgid "IDS_PSUS803_SUO_COLORFUL_ANDALUCIA"
+msgstr "SCI Mk IX"
+
 msgid "IDS_PSUS901_SUO_BAZAN"
 msgstr "SCI Mk X Mod. 1"
 
 msgid "IDS_PSUS902_CA10_SUO_STOCK"
 msgstr "SCI Mk X Mod. 1"
+
+msgid "IDS_PSUS903_SUO_CONQUISTADOR"
+msgstr "SCI Mk X"
+
+msgid "IDS_PSUS904_SUO_MADRID"
+msgstr "SCI Mk X"
 
 msgid "IDS_PSUT301_C4_TORP_STOCK"
 msgstr "533 mm Mk VII ES"
@@ -84653,6 +87696,9 @@ msgstr "Mk X mod. 1"
 
 msgid "IDS_PUUS902_SUO_BRISBANE"
 msgstr "Mk X mod. 1"
+
+msgid "IDS_PUUS903_SUO_BLACK_BRISBANE"
+msgstr "Mk X"
 
 msgid "IDS_PUUT501_PERTH"
 msgstr "533 mm Mk IX"
@@ -85238,6 +88284,12 @@ msgstr "1"
 msgid "IDS_PVSB508_YEAR"
 msgstr "1945"
 
+msgid "IDS_PVSB509"
+msgstr "Patagonia"
+
+msgid "IDS_PVSB509_FULL"
+msgstr "Patagonia"
+
 msgid "IDS_PVSB509_YEAR"
 msgstr "1918"
 
@@ -85418,8 +88470,20 @@ msgstr "2"
 msgid "IDS_PVSC508_YEAR"
 msgstr "1953"
 
+msgid "IDS_PVSC509"
+msgstr "F. de Miranda"
+
+msgid "IDS_PVSC509_FULL"
+msgstr "Francisco de Miranda"
+
 msgid "IDS_PVSC509_YEAR"
 msgstr "1955"
+
+msgid "IDS_PVSC510"
+msgstr "Simón Bolívar"
+
+msgid "IDS_PVSC510_FULL"
+msgstr "Simón Bolívar"
 
 msgid "IDS_PVSC510_YEAR"
 msgstr "1943"
@@ -85537,6 +88601,9 @@ msgstr "推力: 85,000 馬力"
 
 msgid "IDS_PVUE801_C9_ENG_STOCK"
 msgstr "推力: 120,000 馬力"
+
+msgid "IDS_PVUE802_ENG_PATAGONIA"
+msgstr "推力: 68,000 馬力"
 
 msgid "IDS_PVUE803_ENG_F_MIRANDA"
 msgstr "推力: 108,000 馬力"
@@ -85688,8 +88755,14 @@ msgstr "Mk9 mod. 2"
 msgid "IDS_PVUS803_SUO_PATAGONIA"
 msgstr "Mk9 mod. 1"
 
+msgid "IDS_PVUS804_SUO_F_MIRANDA"
+msgstr "Mk9"
+
 msgid "IDS_PVUS901_C10_SUO_STOCK"
 msgstr "Mk10 mod. 1"
+
+msgid "IDS_PVUS902_SUO_BOLIVAR"
+msgstr "Mk10"
 
 msgid "IDS_PVUT301_C4_TORP_STOCK"
 msgstr "533 mm Mk II"
@@ -86369,8 +89442,20 @@ msgstr "2"
 msgid "IDS_PWSC506_YEAR"
 msgstr "1936"
 
+msgid "IDS_PWSC510"
+msgstr "Tordenskjold"
+
+msgid "IDS_PWSC510_FULL"
+msgstr "Tordenskjold"
+
 msgid "IDS_PWSC510_YEAR"
 msgstr "1953"
+
+msgid "IDS_PWSC910"
+msgstr "HND Tordenskjold"
+
+msgid "IDS_PWSC910_FULL"
+msgstr "HND Tordenskjold"
 
 msgid "IDS_PWSC910_YEAR"
 msgstr "1953"
@@ -86603,6 +89688,12 @@ msgstr "2"
 msgid "IDS_PWSD501_YEAR"
 msgstr "1937"
 
+msgid "IDS_PWSD507"
+msgstr "Piorun"
+
+msgid "IDS_PWSD507_FULL"
+msgstr "Piorun"
+
 msgid "IDS_PWSD507_YEAR"
 msgstr "1941"
 
@@ -86648,8 +89739,20 @@ msgstr "8"
 msgid "IDS_PWSD510_YEAR"
 msgstr "1956"
 
+msgid "IDS_PWSD517"
+msgstr "Błyskawica B"
+
+msgid "IDS_PWSD517_FULL"
+msgstr "Błyskawica B"
+
 msgid "IDS_PWSD517_YEAR"
 msgstr "1937"
+
+msgid "IDS_PWSD518"
+msgstr "Błyskawica '63"
+
+msgid "IDS_PWSD518_FULL"
+msgstr "Błyskawica '63"
 
 msgid "IDS_PWSD518_YEAR"
 msgstr "1937"
@@ -86669,8 +89772,14 @@ msgstr "1"
 msgid "IDS_PWSD519_YEAR"
 msgstr "1917"
 
+msgid "IDS_PWSD599"
+msgstr "Jäger B"
+
 msgid "IDS_PWSD599_DESCR"
 msgstr "1917 年、オーストリア＝ハンガリー帝国は嚮導駆逐艦を建造するプロジェクトに取り組み始めました。合計 8 隻の嚮導駆逐艦と 12 隻の駆逐艦の建造が計画されていました。設計草案は、ブローム・ウント・フォスとガンズ＝ダノビウスから提出されました。いくつかの計画案は、オーストリア＝ハンガリー海洋技術委員会によって開発されました。1917 年に提示された計画案の 1 つは、2,000 トンの魚雷艇の建造を目的としており、6 インチ主砲を搭載する予定でした。しかし、第一次世界大戦の終結とオーストリア＝ハンガリー帝国の崩壊により、これらの駆逐艦は建造されませんでした。それを具現化したのがこのイェーガーです。"
+
+msgid "IDS_PWSD599_FULL"
+msgstr "Jäger B"
 
 msgid "IDS_PWSD599_YEAR"
 msgstr "1917"
@@ -86722,6 +89831,12 @@ msgstr "2"
 
 msgid "IDS_PWSD990_YEAR"
 msgstr "1955"
+
+msgid "IDS_PWSS508"
+msgstr "Saldıray"
+
+msgid "IDS_PWSS508_FULL"
+msgstr "Saldıray"
 
 msgid "IDS_PWSS508_YEAR"
 msgstr "1939"
@@ -86887,6 +90002,9 @@ msgstr "推力: 55,000 馬力"
 
 msgid "IDS_PWUE704_ENG_BLYSKAWICA_63"
 msgstr "推力: 54,000 馬力"
+
+msgid "IDS_PWUE705_ENG_SALDIRAY"
+msgstr "推力: 3,500 馬力"
 
 msgid "IDS_PWUE801_DD9_ENG_STOCK"
 msgstr "推力: 44,000 馬力"
@@ -87146,6 +90264,9 @@ msgstr "SUO Mk 8 Mod. 1"
 msgid "IDS_PWUS705_D8_SUO_TOP"
 msgstr "SUO Mk 8 Mod. 2"
 
+msgid "IDS_PWUS706_SUO_BLYSKAWICA_63"
+msgstr "SUO Mk 8"
+
 msgid "IDS_PWUS801_DD9_SUO_STOCK"
 msgstr "SUO Mk 9 Mod. 1"
 
@@ -87167,6 +90288,9 @@ msgstr "SUO Mk 9 Mod. 1"
 msgid "IDS_PWUS807_SUO_KARL_XIV"
 msgstr "SUO Mk 9 Mod. 1"
 
+msgid "IDS_PWUS808_SUO_BLACK_JAGER"
+msgstr "SUO Mk 9"
+
 msgid "IDS_PWUS900_D10_SUO_TOP"
 msgstr "SUO Mk 10 Mod. 1"
 
@@ -87187,6 +90311,12 @@ msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PWUS907_D10_SUO_STOCK"
 msgstr "SUO Mk 10 Mod. 1"
+
+msgid "IDS_PWUS908_SUO_VENEZIA_H_EVENT"
+msgstr "SUO Mk 10"
+
+msgid "IDS_PWUS909_SUO_TORDENSKJOLD"
+msgstr "SUO Mk 10"
 
 msgid "IDS_PWUS941_DD11_SUO_STOCK"
 msgstr "SUO Mk 11 Mod. 1"
@@ -88781,6 +91911,15 @@ msgstr "1"
 msgid "IDS_PXSB103_YEAR"
 msgstr "2020"
 
+msgid "IDS_PXSB502"
+msgstr "Borodino '04"
+
+msgid "IDS_PXSB502_FULL"
+msgstr "Borodino '04"
+
+msgid "IDS_PXSB502_YEAR"
+msgstr "1904"
+
 msgid "IDS_PXSB504"
 msgstr "クァマンドー"
 
@@ -88810,6 +91949,15 @@ msgstr "1"
 
 msgid "IDS_PXSB506_YEAR"
 msgstr "2023"
+
+msgid "IDS_PXSB512"
+msgstr "三笠 '04"
+
+msgid "IDS_PXSB512_FULL"
+msgstr "三笠 '04"
+
+msgid "IDS_PXSB512_YEAR"
+msgstr "1902"
 
 msgid "IDS_PXSC001"
 msgstr "Igor"
@@ -88997,6 +92145,33 @@ msgstr "1"
 msgid "IDS_PXSC016_YEAR"
 msgstr "2020"
 
+msgid "IDS_PXSC017"
+msgstr "Flammenreiter"
+
+msgid "IDS_PXSC017_FULL"
+msgstr "Flammenreiter"
+
+msgid "IDS_PXSC017_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXSC018"
+msgstr "Geisterjäger"
+
+msgid "IDS_PXSC018_FULL"
+msgstr "Geisterjäger"
+
+msgid "IDS_PXSC018_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXSC019"
+msgstr "Signalträger"
+
+msgid "IDS_PXSC019_FULL"
+msgstr "Signalträger"
+
+msgid "IDS_PXSC019_YEAR"
+msgstr "1959"
+
 msgid "IDS_PXSC101"
 msgstr "Valkyrie"
 
@@ -89026,6 +92201,42 @@ msgstr "1"
 
 msgid "IDS_PXSC102_YEAR"
 msgstr "2020"
+
+msgid "IDS_PXSC103"
+msgstr "Swift"
+
+msgid "IDS_PXSC103_FULL"
+msgstr "Swift"
+
+msgid "IDS_PXSC103_NUMBER"
+msgstr "22"
+
+msgid "IDS_PXSC103_YEAR"
+msgstr "1969"
+
+msgid "IDS_PXSC104"
+msgstr "Unexpected"
+
+msgid "IDS_PXSC104_FULL"
+msgstr "Unexpected"
+
+msgid "IDS_PXSC104_NUMBER"
+msgstr "22"
+
+msgid "IDS_PXSC104_YEAR"
+msgstr "1969"
+
+msgid "IDS_PXSC105"
+msgstr "Agile"
+
+msgid "IDS_PXSC105_FULL"
+msgstr "Agile"
+
+msgid "IDS_PXSC105_NUMBER"
+msgstr "22"
+
+msgid "IDS_PXSC105_YEAR"
+msgstr "1969"
 
 msgid "IDS_PXSC501"
 msgstr "L. マクワレーン"
@@ -89059,6 +92270,24 @@ msgstr "2023"
 
 msgid "IDS_PXSC503"
 msgstr "Ship"
+
+msgid "IDS_PXSC512"
+msgstr "Gromoboy"
+
+msgid "IDS_PXSC512_FULL"
+msgstr "Gromoboy"
+
+msgid "IDS_PXSC512_YEAR"
+msgstr "1899"
+
+msgid "IDS_PXSC522"
+msgstr "浅間"
+
+msgid "IDS_PXSC522_FULL"
+msgstr "浅間"
+
+msgid "IDS_PXSC522_YEAR"
+msgstr "1899"
 
 msgid "IDS_PXSD001"
 msgstr "Blade"
@@ -89128,6 +92357,12 @@ msgstr "1"
 
 msgid "IDS_PXSD005_YEAR"
 msgstr "1967"
+
+msgid "IDS_PXSD007_FULL"
+msgstr "Schnellboot"
+
+msgid "IDS_PXSD007_NUMBER"
+msgstr "150"
 
 msgid "IDS_PXSD007_YEAR"
 msgstr "1940"
@@ -89405,6 +92640,9 @@ msgstr "貪欲なアングラー (アンコウ) 艦であり、歯が並べら�
 msgid "IDS_PXSD026_FULL"
 msgstr "Gearing"
 
+msgid "IDS_PXSD026_YEAR"
+msgstr "2024"
+
 msgid "IDS_PXSD102"
 msgstr "Whirlwind"
 
@@ -89458,6 +92696,24 @@ msgstr "1"
 
 msgid "IDS_PXSD503_YEAR"
 msgstr "2023"
+
+msgid "IDS_PXSD512"
+msgstr "Boykiy"
+
+msgid "IDS_PXSD512_FULL"
+msgstr "Boykiy"
+
+msgid "IDS_PXSD512_YEAR"
+msgstr "1902"
+
+msgid "IDS_PXSD522"
+msgstr "漣"
+
+msgid "IDS_PXSD522_FULL"
+msgstr "漣"
+
+msgid "IDS_PXSD522_YEAR"
+msgstr "1904"
 
 msgid "IDS_PXSS107"
 msgstr "Zipper Sub"
@@ -89778,6 +93034,9 @@ msgstr "推力: 24,000 馬力"
 
 msgid "IDS_PXUE005_ENG_HELLSINK"
 msgstr "推力: 21,500 馬力"
+
+msgid "IDS_PXUE006_ENG_SCHNELLBOT"
+msgstr "推力: 6,000 馬力"
 
 msgid "IDS_PXUE400_ENG_BERSERK"
 msgstr "ロング・フィン"
@@ -91019,6 +94278,15 @@ msgstr "Athena I"
 msgid "IDS_PXUS926_KHABAROVSK_H19_SUO"
 msgstr "Eye"
 
+msgid "IDS_PXUS927_SUO_DICTATOR"
+msgstr "GFCS X"
+
+msgid "IDS_PXUS928_SUO_PREDATOR"
+msgstr "GFCS X"
+
+msgid "IDS_PXUS929_SUO_BOTOMANCER"
+msgstr "GFCS X"
+
 msgid "IDS_PXUS931_PARIS_SUO"
 msgstr "Atlas I"
 
@@ -91039,6 +94307,9 @@ msgstr "Eagle eye"
 
 msgid "IDS_PXUT001_TORP_HELLSINK"
 msgstr "Type 6"
+
+msgid "IDS_PXUT003_TORP_SHCNELLBOT"
+msgstr "Type 6"
 
 msgid "IDS_PXUT400_TORP_BERSERK"
 msgstr "  "
@@ -91874,6 +95145,9 @@ msgstr "128 mm Spr.Gr. Kz."
 msgid "IDS_PZPA070_135MM_HE_BEN_MA"
 msgstr "135 mm proiettili HE 1938"
 
+msgid "IDS_PZPA071_135MM_CS_BEN_MA"
+msgstr "135 mm proiettili CS 1938"
+
 msgid "IDS_PZPA073_457MM_HE_CHANGZHENG"
 msgstr "457 mm HE Model 1946"
 
@@ -91898,8 +95172,20 @@ msgstr "SAP-42"
 msgid "IDS_PZPA082_152MM_HE_SG"
 msgstr "152 mm HE Mk V"
 
+msgid "IDS_PZPA083_305MM_HE_CM_42"
+msgstr "305 mm HE Model 1928"
+
+msgid "IDS_PZPA084_305MM_AP_CM_42"
+msgstr "305 mm AP Model 1928"
+
 msgid "IDS_PZPA085_152MM_OFU35_SG"
 msgstr "152 mm OFU-35"
+
+msgid "IDS_PZPA086_305MM_55_HE"
+msgstr "305 mm HE Model 1928"
+
+msgid "IDS_PZPA087_305MM_55_AP"
+msgstr "305 mm AP Model 1928"
 
 msgid "IDS_PZPA088_152MM_HE_HENGSHUI"
 msgstr "152 mm HE Mk39"
@@ -91918,6 +95204,12 @@ msgstr "105 mm Spr.Gr. Kz."
 
 msgid "IDS_PZPA093_150MM_HE_XIAN_DENG"
 msgstr "150 mm Spr.Gr. L/4.5"
+
+msgid "IDS_PZPA094_305MM_HE_JULANG"
+msgstr "305 mm HE Model 1928"
+
+msgid "IDS_PZPA095_305MM_AP_JULANG"
+msgstr "305 mm AP Model 1928"
 
 msgid "IDS_PZPA096_130MM_HE_OF_46_B2U_SG"
 msgstr "HE-46"
@@ -92102,20 +95394,56 @@ msgstr "1"
 msgid "IDS_PZSA508_YEAR"
 msgstr "1946"
 
+msgid "IDS_PZSA518"
+msgstr "Xian Deng"
+
+msgid "IDS_PZSA518_FULL"
+msgstr "Xian Deng"
+
 msgid "IDS_PZSA518_YEAR"
 msgstr "1946"
+
+msgid "IDS_PZSB106"
+msgstr "Chakri"
+
+msgid "IDS_PZSB106_FULL"
+msgstr "Chakri"
 
 msgid "IDS_PZSB106_YEAR"
 msgstr "1926"
 
+msgid "IDS_PZSB107"
+msgstr "Zulfiqar"
+
+msgid "IDS_PZSB107_FULL"
+msgstr "Zulfiqar"
+
 msgid "IDS_PZSB107_YEAR"
 msgstr "1926"
+
+msgid "IDS_PZSB108"
+msgstr "Hanoi"
+
+msgid "IDS_PZSB108_FULL"
+msgstr "Hanoi"
 
 msgid "IDS_PZSB108_YEAR"
 msgstr "1936"
 
+msgid "IDS_PZSB109"
+msgstr "Dongfeng"
+
+msgid "IDS_PZSB109_FULL"
+msgstr "Dongfeng"
+
 msgid "IDS_PZSB109_YEAR"
 msgstr "1936"
+
+msgid "IDS_PZSB110"
+msgstr "Tiangong"
+
+msgid "IDS_PZSB110_FULL"
+msgstr "Tiangong"
 
 msgid "IDS_PZSB110_YEAR"
 msgstr "1936"
@@ -92168,8 +95496,20 @@ msgstr "2"
 msgid "IDS_PZSB539_YEAR"
 msgstr "1938"
 
+msgid "IDS_PZSB549"
+msgstr "Julang"
+
+msgid "IDS_PZSB549_FULL"
+msgstr "Julang"
+
 msgid "IDS_PZSB549_YEAR"
 msgstr "1954"
+
+msgid "IDS_PZSB610"
+msgstr "Changzheng"
+
+msgid "IDS_PZSB610_FULL"
+msgstr "Changzheng"
 
 msgid "IDS_PZSB610_YEAR"
 msgstr "1949"
@@ -92249,6 +95589,12 @@ msgstr "Jinan"
 msgid "IDS_PZSC110_NUMBER"
 msgstr "1"
 
+msgid "IDS_PZSC111"
+msgstr "Xi'an"
+
+msgid "IDS_PZSC111_FULL"
+msgstr "Xi'an"
+
 msgid "IDS_PZSC111_YEAR"
 msgstr "1950"
 
@@ -92315,8 +95661,20 @@ msgstr "0"
 msgid "IDS_PZSC518_YEAR"
 msgstr "1939"
 
+msgid "IDS_PZSC519"
+msgstr "Hengshui"
+
+msgid "IDS_PZSC519_FULL"
+msgstr "Hengshui"
+
 msgid "IDS_PZSC519_YEAR"
 msgstr "1939"
+
+msgid "IDS_PZSC528"
+msgstr "Dou Jian"
+
+msgid "IDS_PZSC528_FULL"
+msgstr "Dou Jian"
 
 msgid "IDS_PZSC528_YEAR"
 msgstr "1945"
@@ -92507,6 +95865,12 @@ msgstr "13"
 msgid "IDS_PZSD518_YEAR"
 msgstr "1945"
 
+msgid "IDS_PZSD529"
+msgstr "Ben Ma"
+
+msgid "IDS_PZSD529_FULL"
+msgstr "Ben Ma"
+
 msgid "IDS_PZSD529_YEAR"
 msgstr "1945"
 
@@ -92515,6 +95879,15 @@ msgstr "24"
 
 msgid "IDS_PZSD598_YEAR"
 msgstr "1940"
+
+msgid "IDS_PZSD610"
+msgstr "Tuntou"
+
+msgid "IDS_PZSD610_DESCR"
+msgstr "テスト用艦艇"
+
+msgid "IDS_PZSD610_FULL"
+msgstr "Tuntou"
 
 msgid "IDS_PZSD610_YEAR"
 msgstr "1945"
@@ -92533,6 +95906,12 @@ msgstr " "
 
 msgid "IDS_PZSD718_YEAR"
 msgstr " "
+
+msgid "IDS_PZSS508"
+msgstr "Pasopati"
+
+msgid "IDS_PZSS508_FULL"
+msgstr "Pasopati"
 
 msgid "IDS_PZSS508_YEAR"
 msgstr "1954"
@@ -92747,6 +96126,9 @@ msgstr "推力: 52,000 馬力"
 msgid "IDS_PZUE710_C8_ENG_STOCK"
 msgstr "推力: 80,000 馬力"
 
+msgid "IDS_PZUE711_ENG_PASOPATI"
+msgstr "推力: 4,000 馬力"
+
 msgid "IDS_PZUE712_B8_ENG_STOCK"
 msgstr "推力: 192,000 馬力"
 
@@ -92783,8 +96165,14 @@ msgstr "推力: 130,000 馬力"
 msgid "IDS_PZUE808_ENG_BEN_MA"
 msgstr "推力: 100,000 馬力"
 
+msgid "IDS_PZUE809_B9_ENG_STOCK"
+msgstr "推力: 201,000 馬力"
+
 msgid "IDS_PZUE810_ENG_HENGSHUI"
 msgstr "推力: 120,000 馬力"
+
+msgid "IDS_PZUE811_ENG_JULANG"
+msgstr "推力: 201,000 馬力"
 
 msgid "IDS_PZUE900_D11_ENG_STOCK"
 msgstr "推力: 70,000 馬力"
@@ -92797,6 +96185,15 @@ msgstr "推力: 110,000 馬力"
 
 msgid "IDS_PZUE903_ENG_LUSHUN"
 msgstr "推力: 64,200 馬力"
+
+msgid "IDS_PZUE904_ENG_CHANGZHENG"
+msgstr "推力: 158,200 馬力"
+
+msgid "IDS_PZUE905_C11_ENG_STOCK"
+msgstr "推力: 111,000 馬力"
+
+msgid "IDS_PZUE906_B10_ENG_STOCK"
+msgstr "推力: 201,000 馬力"
 
 msgid "IDS_PZUE907_ENG_TUNTOU"
 msgstr "推力: 60,000 馬力"
@@ -92993,6 +96390,9 @@ msgstr "Mk VI mod. 1"
 msgid "IDS_PZUS506_C6_SUO_TOP"
 msgstr "Mk VI mod. 2"
 
+msgid "IDS_PZUS507_B6_SUO_STOCK"
+msgstr "Mk VI"
+
 msgid "IDS_PZUS601_D7_SUO_STOCK"
 msgstr "Mk VII mod. 1"
 
@@ -93035,6 +96435,12 @@ msgstr "Mk8 mod. 2"
 msgid "IDS_PZUS711_C8_SUO_STOCK"
 msgstr "Mk8 mod. 1"
 
+msgid "IDS_PZUS712_B8_SUO_STOCK"
+msgstr "GFCS VIII"
+
+msgid "IDS_PZUS713_SUO_DOU_JIAN"
+msgstr "Mk VIII"
+
 msgid "IDS_PZUS800_SUO_MENGCHONG"
 msgstr "FKS Typ 9 Mod. 1"
 
@@ -93068,6 +96474,15 @@ msgstr "Mk IX mod. 1"
 msgid "IDS_PZUS810_SUO_BEN_MA"
 msgstr "Mk IX mod. 1"
 
+msgid "IDS_PZUS811_B9_SUO_STOCK"
+msgstr "GFCS IX"
+
+msgid "IDS_PZUS812_SUO_HENGSHUI"
+msgstr "Mk9"
+
+msgid "IDS_PZUS813_SUO_JULANG"
+msgstr "GFCS IX"
+
 msgid "IDS_PZUS900_D11_SUO_STOCK"
 msgstr "Mk11 mod. 1"
 
@@ -93082,6 +96497,12 @@ msgstr "GFCS X mod. 1"
 
 msgid "IDS_PZUS904_SUO_CHANGZHENG"
 msgstr "GFCS X mod. 1"
+
+msgid "IDS_PZUS905_C11_SUO_STOCK"
+msgstr "GFCS XI"
+
+msgid "IDS_PZUS906_B10_SUO_STOCK"
+msgstr "GFCS X"
 
 msgid "IDS_PZUS907_SUO_TUNTOU"
 msgstr "Mk10 mod. 1"
@@ -93337,6 +96758,9 @@ msgstr "港に戻る?"
 
 msgid "IDS_QUESTION_SELL_SHIP_FOR"
 msgstr "艦を売却しますか? 価格:"
+
+msgid "IDS_QUESTION_TALENT_UNLOCK_FOR"
+msgstr "入手:"
 
 msgid "IDS_QUESTION_UNEQUAL_TEAMS"
 msgstr "チームが不完全です。戦闘を開始しますか?"
@@ -93757,6 +97181,9 @@ msgstr "昇格ゾーン"
 
 msgid "IDS_RATING_BATTLES_RESULTS_STATUS_QUALIFICATION_PASSED"
 msgstr "昇格ゾーンを通過"
+
+msgid "IDS_RATING_BATTLES_RESULTS_STATUS_RATING_NOT_CHANGED"
+msgstr "レーティングは変化なし"
 
 msgid "IDS_RATING_BATTLES_STATS_BATTLES_COUNT"
 msgstr "参加戦闘数"
@@ -95900,6 +99327,9 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_0_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "プレミアム艦艇"
+
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
@@ -97976,6 +101406,24 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_TITLE_FULL"
 msgstr "艦艇"
 
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier X 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Tier IX 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Tier VIII 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
+msgstr "Tier VIII"
+
 msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
@@ -98108,6 +101556,9 @@ msgstr "X またはレア"
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
 
+msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VIII–IX"
+
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Tier V–VII 艦艇"
 
@@ -98140,6 +101591,12 @@ msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "特別 Tier X 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "プレミアム艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
@@ -98183,6 +101640,9 @@ msgstr "「ブラックフライデー 2023」プレミアムコンテナ"
 msgid "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_TITLE_SHORT"
 msgstr "ブラックフライデー 2023"
 
+msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "プレミアム艦艇"
+
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
@@ -98225,6 +101685,9 @@ msgstr "X またはレア"
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
 
+msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VIII–IX"
+
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Tier V–VII 艦艇"
 
@@ -98242,6 +101705,9 @@ msgstr "X またはレア"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VIII–IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Tier V–VII 艦艇"
@@ -98284,6 +101750,9 @@ msgstr "Tier VII–VIII プレミアム艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
 msgstr "Tier VII–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "無期限迷彩"
 
 msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "迷彩"
@@ -98333,6 +101802,9 @@ msgstr "「日本戦隊」プレミアムコンテナ"
 msgid "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_TITLE_SHORT"
 msgstr "日本戦隊"
 
+msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_TITLE"
+msgstr "「ブラックフライデー 2024」コンテナ"
+
 msgid "IDS_REWARD_LOOTBOX_PCL209_BLACK_FRIDAY_TITLE_SHORT"
 msgstr "ブラックフライデー 2024"
 
@@ -98341,6 +101813,9 @@ msgstr "Tier X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_TITLE"
 msgstr "「ブラックフライデー 2024」プレミアムコンテナ"
+
+msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_TITLE_SHORT"
+msgstr "ブラックフライデー 2024"
 
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
@@ -98353,6 +101828,9 @@ msgstr "X またはレア"
 
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VIII–IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Tier V–VII 艦艇"
@@ -98372,11 +101850,17 @@ msgstr "X またはレア"
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
 
+msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VIII–IX"
+
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "Tier V–VII 艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_TITLE_SHORT"
 msgstr "ニューイヤー"
+
+msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "プレミアム艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
@@ -98398,6 +101882,9 @@ msgstr "Tier VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier VIII プレミアム艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Tier VIII"
@@ -98432,6 +101919,9 @@ msgstr "艦艇"
 msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
+msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier VIII プレミアム艦艇"
+
 msgid "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Tier VIII"
 
@@ -98462,17 +101952,53 @@ msgstr "迷彩"
 msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
+msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX またはレア"
+
+msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Tier VI–VIII 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VI–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier IX"
+
 msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier X 艦艇またはレア艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X またはレア"
 
 msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
 
+msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VIII–IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Tier V–VII 艦艇"
+
 msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
+msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier X 艦艇またはレア艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "X またはレア"
+
 msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VIII–IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
+msgstr "Tier V–VII 艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "特別艦艇"
@@ -98490,7 +102016,7 @@ msgid "IDS_REWARD_LOOTBOX_SLOTS_TITLE"
 msgstr "空きスロット"
 
 msgid "IDS_REWARD_MK_PREMIUM_TITLE"
-msgstr "MK プレミアムアカウント аккаунт"
+msgstr "MK プレミアムアカウント"
 
 msgid "IDS_REWARD_MOLYBDENUM_TITLE"
 msgstr "クラントークン"
@@ -98843,14 +102369,26 @@ msgstr "目標に命中"
 msgid "IDS_RIBBON_RIBBON_DBOMB_MINE"
 msgstr "機雷によるダメージ"
 
+msgid "IDS_RIBBON_RIBBON_DEARM"
+msgstr "爆雷で撃破"
+
 msgid "IDS_RIBBON_RIBBON_DETECTED"
 msgstr "発見"
+
+msgid "IDS_RIBBON_RIBBON_EFFECTIVE_SMOKES"
+msgstr "掩護"
 
 msgid "IDS_RIBBON_RIBBON_FLOOD"
 msgstr "浸水を発生させた"
 
 msgid "IDS_RIBBON_RIBBON_FRAG"
 msgstr "撃沈"
+
+msgid "IDS_RIBBON_RIBBON_HELP_TEAM"
+msgstr "戦術的貢献"
+
+msgid "IDS_RIBBON_RIBBON_HIT_SEGMENT"
+msgstr "装甲に命中"
 
 msgid "IDS_RIBBON_RIBBON_MAIN_CALIBER"
 msgstr "目標に命中"
@@ -98870,11 +102408,17 @@ msgstr "目標に命中"
 msgid "IDS_RIBBON_RIBBON_SPLANE"
 msgstr "戦闘機による撃墜"
 
+msgid "IDS_RIBBON_RIBBON_SUPPORTED"
+msgstr "味方の支援"
+
 msgid "IDS_RIBBON_RIBBON_SUPPRESSED"
 msgstr "制圧完了"
 
 msgid "IDS_RIBBON_RIBBON_TORPEDO"
 msgstr "目標に命中"
+
+msgid "IDS_RIBBON_RIBBON_VICTORY_ACTION"
+msgstr "戦略的貢献"
 
 msgid "IDS_RIBBON_RIBBON_WAVE"
 msgstr "ウェーブが命中した"
@@ -98888,14 +102432,29 @@ msgstr "ソナーでマーク"
 msgid "IDS_RIBBON_SSE_RIBBON_BOMB"
 msgstr "爆弾命中"
 
+msgid "IDS_RIBBON_SSE_RIBBON_BUILDING_KILL"
+msgstr "撃破"
+
 msgid "IDS_RIBBON_SSE_RIBBON_BURN"
 msgstr "火災を発生させた"
+
+msgid "IDS_RIBBON_SSE_RIBBON_CITADEL"
+msgstr "防郭への命中"
+
+msgid "IDS_RIBBON_SSE_RIBBON_CRIT"
+msgstr "機能停止"
 
 msgid "IDS_RIBBON_SSE_RIBBON_DBOMB"
 msgstr "爆雷命中"
 
+msgid "IDS_RIBBON_SSE_RIBBON_DEARM"
+msgstr "爆雷で撃破"
+
 msgid "IDS_RIBBON_SSE_RIBBON_DETECTED"
 msgstr "発見"
+
+msgid "IDS_RIBBON_SSE_RIBBON_EFFECTIVE_SMOKES"
+msgstr "掩護"
 
 msgid "IDS_RIBBON_SSE_RIBBON_FLOOD"
 msgstr "浸水を発生させた"
@@ -98903,8 +102462,17 @@ msgstr "浸水を発生させた"
 msgid "IDS_RIBBON_SSE_RIBBON_FRAG"
 msgstr "撃沈"
 
+msgid "IDS_RIBBON_SSE_RIBBON_HELP_TEAM"
+msgstr "戦術的貢献"
+
+msgid "IDS_RIBBON_SSE_RIBBON_HIT_SEGMENT"
+msgstr "装甲に命中"
+
 msgid "IDS_RIBBON_SSE_RIBBON_MAIN_CALIBER"
 msgstr "主砲命中"
+
+msgid "IDS_RIBBON_SSE_RIBBON_MINE"
+msgstr "与ダメージ"
 
 msgid "IDS_RIBBON_SSE_RIBBON_PLANE"
 msgstr "航空機撃墜"
@@ -98912,14 +102480,26 @@ msgstr "航空機撃墜"
 msgid "IDS_RIBBON_SSE_RIBBON_ROCKET"
 msgstr "ロケット弾命中"
 
+msgid "IDS_RIBBON_SSE_RIBBON_SECONDARY_CALIBER"
+msgstr "副砲命中"
+
 msgid "IDS_RIBBON_SSE_RIBBON_SPLANE"
 msgstr "戦闘機による撃墜"
+
+msgid "IDS_RIBBON_SSE_RIBBON_SUPPORTED"
+msgstr "味方の支援"
 
 msgid "IDS_RIBBON_SSE_RIBBON_SUPPRESSED"
 msgstr "制圧完了"
 
+msgid "IDS_RIBBON_SSE_RIBBON_TANKING"
+msgstr "挑発"
+
 msgid "IDS_RIBBON_SSE_RIBBON_TORPEDO"
 msgstr "魚雷命中"
+
+msgid "IDS_RIBBON_SSE_RIBBON_VICTORY_ACTION"
+msgstr "戦略的貢献"
 
 msgid "IDS_RIBBON_SSE_RIBBON_WAVE"
 msgstr "ウェーブが命中した"
@@ -98930,11 +102510,98 @@ msgstr "ソナーピンガーが無効化された"
 msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_CURR"
 msgstr "2 回命中"
 
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
+msgstr "目標にマーク"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_BOOST"
+msgstr "飛行船を加速した"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_BOOST_ASSIST"
+msgstr "加速アシスト"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_SLOW"
+msgstr "飛行船を減速した"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_AIRSHIP_SLOW_ASSIST"
+msgstr "減速アシスト"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_CAPTURE"
+msgstr "占領"
+
 msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_CAPTURE_ASSIST"
 msgstr "占領アシスト"
 
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BASE_DEFENSE"
+msgstr "防衛"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_BULGE"
+msgstr "対水雷防御に命中"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_NO_PENETRATION"
+msgstr "不貫通"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_OVER_PENETRATION"
+msgstr "全貫通"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_PENETRATION"
+msgstr "貫通"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BOMB_RICOCHET"
+msgstr "跳弾"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_BULGE"
+msgstr "対水雷防御に命中"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_CORRECTED"
+msgstr "補正射撃"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_DAMAGED_SEGMENT"
+msgstr "装甲損傷"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_DBOMB_FULL_DAMAGE"
+msgstr "直撃"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_DBOMB_PARTIAL_DAMAGE"
+msgstr "衝撃ダメージ"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_DESTROYED_SEGMENT"
+msgstr "装甲破壊"
+
 msgid "IDS_RIBBON_SSE_SUBRIBBON_DROP"
 msgstr "強化を確保"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
+msgstr "不貫通"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_OVER_PENETRATION"
+msgstr "全貫通"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_PENETRATION"
+msgstr "貫通"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_RICOCHET"
+msgstr "跳弾"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_MINE_DESTROY"
+msgstr "機雷破壊"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_BULGE"
+msgstr "対水雷防御に命中"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_NO_PENETRATION"
+msgstr "不貫通"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_OVER_PENETRATION"
+msgstr "全貫通"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_PENETRATION"
+msgstr "貫通"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_RICOCHET"
+msgstr "跳弾"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_TORPEDO_DESTROY"
+msgstr "魚雷破壊"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_WAVE_CUT_WAVE"
 msgstr "ウェーブを自艦のウェーブで相殺した"
@@ -99484,6 +103151,9 @@ msgstr "暗闇を照らす光 (難易度: 超高)"
 
 msgid "IDS_SCENARIO_PCVO031_EV_HL_23_E02_HALLOWEEN_2023"
 msgstr "Transylvania の最後の航海"
+
+msgid "IDS_SCENARIO_PCVT001_DAMAGE_PRIME"
+msgstr "火力"
 
 msgid "IDS_SCENARIO_PORTAL"
 msgstr "ポータル"
@@ -100545,6 +104215,9 @@ msgstr "艦 EXP :"
 msgid "IDS_SHIP_EXPERIENCE_MOVED_TO_COLON"
 msgstr "艦艇に転送された EXP:"
 
+msgid "IDS_SHIP_EXP_SORT_DEFAULT"
+msgstr "標準"
+
 msgid "IDS_SHIP_EXT_ARMOUR"
 msgstr "外部装甲"
 
@@ -101310,6 +104983,9 @@ msgstr "兵装"
 
 msgid "IDS_SHIP_MASTERY_BUTTON_ABOUT"
 msgstr "ルール"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_CONDITION"
+msgstr "1 戦中に"
 
 msgid "IDS_SHIP_MODIFIER_CAPTURING_INACTIVE"
 msgstr "強化待ち"
@@ -105973,6 +109649,9 @@ msgstr "ミッション達成期限: %(expiryDateTime)s"
 msgid "IDS_SUBST_SSE_IS_ACTIVATED_AT"
 msgstr "このミッションが利用可能になる日時: %(activationDateTime)s"
 
+msgid "IDS_SUBST_SSE_MOTIVATOR_RESET_IN"
+msgstr "更新まで %(timeLeft)s"
+
 msgid "IDS_SUBST_SSE_TIME_LEFT_LAST_DAY"
 msgstr "ミッションが利用可能な残り時間: %(timeLeft)s"
 
@@ -107383,6 +111062,9 @@ msgstr "実績「クラーケン来襲!」を取得することで発動。"
 
 msgid "IDS_TALENT_PJW461_ACHIEVEMENT_8_20_21"
 msgstr "フレキシブル"
+
+msgid "IDS_TALENT_PJW461_ACHIEVEMENT_8_20_21_DESCRIPTION"
+msgstr "実績「大口径」を取得することで発動。"
 
 msgid "IDS_TALENT_PRW406_ACHIEVEMENT_0"
 msgstr "緊急リザーブ"
@@ -109737,6 +113419,9 @@ msgstr "凡例"
 msgid "IDS_TRIALS_OBJECTIVE_COMMON"
 msgstr "ミッション"
 
+msgid "IDS_TRIAL_DAMAGE"
+msgstr "火力"
+
 msgid "IDS_TRIPLE_BUFFERING"
 msgstr "トリプルバッファ"
 
@@ -110767,6 +114452,11 @@ msgstr "Carl Barth"
 msgid "IDS_W03_SHP03"
 msgstr "Cecil Bean"
 
+msgid "IDS_WAFFENTRAGER_BATTLE_DURATION"
+msgstr ""
+"戦闘\n"
+"時間"
+
 msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_HEADER"
 msgstr "ブリーフィング"
 
@@ -111144,6 +114834,96 @@ msgstr "パスワードが間違っています。再度お試しください。
 msgid "IDS_WRONG_TITLE"
 msgstr "この名称のチャンネルは既に存在します"
 
+msgid "IDS_WT_BB1_NAME_01"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_02"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_03"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_04"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_05"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_06"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_07"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_08"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_09"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_10"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB2_NAME_01"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_02"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_03"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_04"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_05"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_06"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_07"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_08"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_09"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_10"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB3_NAME_01"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_02"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_03"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_04"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_05"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_06"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_07"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_08"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_09"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_10"
+msgstr "Retter"
+
 msgid "IDS_WT_BUREAU_CARD_BUTTON_PURCHASE"
 msgstr "購入"
 
@@ -111152,6 +114932,186 @@ msgstr "購入しますか? 費用:"
 
 msgid "IDS_WT_BUREAU_TECH_LEVEL"
 msgstr "レベル %(_level)s"
+
+msgid "IDS_WT_CR1_NAME_01"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_02"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_03"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_04"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_05"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_06"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_07"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_08"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_09"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_10"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR2_NAME_01"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_02"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_03"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_04"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_05"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_06"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_07"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_08"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_09"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_10"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR3_NAME_01"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_02"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_03"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_04"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_05"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_06"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_07"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_08"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_09"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_10"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_DD1_NAME_01"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_02"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_03"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_04"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_05"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_06"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_07"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_08"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_09"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_10"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD2_NAME_01"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_02"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_03"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_04"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_05"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_06"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_07"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_08"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_09"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_10"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD3_NAME_01"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_02"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_03"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_04"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_05"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_06"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_07"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_08"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_09"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_10"
+msgstr "Büchsenmacher"
 
 msgid "IDS_WT_PROGRESS_CHANGE_TASK"
 msgstr "このミッションを置き換える"
@@ -112133,6 +116093,10 @@ msgstr[0] "隻の航空母艦"
 msgid "IDS_PL_CASUAL_CVC_WAR_STAGE_ATTEMPTS_STATUS"
 msgid_plural "IDS_PL_CASUAL_CVC_WAR_STAGE_ATTEMPTS_STATUS"
 msgstr[0] "アテンプト残り: %(_attemptsLeft)s"
+
+msgid "IDS_PL_CREW_POINTS"
+msgid_plural "IDS_PL_CREW_POINTS"
+msgstr[0] "%(points)s ポイント"
 
 msgid "IDS_PL_CRUISER"
 msgid_plural "IDS_PL_CRUISER"

@@ -20,6 +20,9 @@ base_dict = {ent.msgid : ent
 changed_redirected = {ent.msgid : ent
                     for ent in polib.pofile(str(migration_path / 'changed' / 'redirected.po')) if not ent.fuzzy}
 
+changed_redirected_vague = {ent.msgid : ent
+                    for ent in polib.pofile(str(migration_path / 'changed' / 'redirected_vague.po')) if not ent.fuzzy}
+
 changed_real = {ent.msgid : ent
                     for ent in polib.pofile(str(migration_path / 'changed' / 'real.po')) if not ent.fuzzy}
 
@@ -31,7 +34,7 @@ added_real = {ent.msgid : ent
 
 merged_dict = merge(
     base_dict,
-    changed_redirected, changed_real,
+    changed_redirected, changed_redirected_vague, changed_real,
     added_redirected, added_real
 )
 

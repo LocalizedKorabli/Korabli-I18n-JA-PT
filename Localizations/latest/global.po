@@ -39392,6 +39392,9 @@ msgstr "SHIFT"
 msgid "IDS_LUTJENS"
 msgstr "Günther Lütjens"
 
+msgid "IDS_L_O_C_A_L_I_Z_E_D_K_O_R_A_B_L_I"
+msgstr "Copyright © 2024–2026 LocalizedKorabli"
+
 msgid "IDS_MAIN_AIRCRAFT_SPEED_GOOD"
 msgstr "高速な航空機"
 
@@ -69435,7 +69438,7 @@ msgid "IDS_PCEE789_HUANGDI_FLAG"
 msgstr "黄帝"
 
 msgid "IDS_PCEE789_HUANGDI_FLAG_DESCRIPTION"
-msgstr "黄帝（こうてい）は、古代中国の伝説的な統治者であり、漢民族の始祖とされ、死後に神格化された存在です。中国の宇宙観である五行説において、黄帝は土星に対応しています。"
+msgstr "黄帝 (こうてい) は、古代中国の伝説的な統治者であり、漢民族の始祖とされ、死後に神格化された存在です。中国の宇宙観である五行説において、黄帝は土星に対応しています。"
 
 msgid "IDS_PCEE791_SIMON_BOLIVAR_FLAG"
 msgstr "ARC Simón Bolívar"
@@ -95358,7 +95361,7 @@ msgid "IDS_PJSD207"
 msgstr "白露"
 
 msgid "IDS_PJSD207_DESCR"
-msgstr "<p>The Shiratsuyu-class destroyers were built to an improved design based on the Hatsuharu class. The new ships had an increased draft and were armed with two quadruple torpedo launchers.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Shuratsuyu, was built in Sasebo. Upon commissioning, the destroyer joined the 27th Destroyer Division.</p><p class=\"p_spacing\"> </p><p>During World War II, the ship escorted convoys in the western Pacific, participated in the Battle of Midway, the campaigns in the Solomon and Marshall Islands, the First Naval Battle of Guadalcanal, and the Battle of Empress Augusta Bay. On June 14, 1944, near the Surigao Strait, Shiratsuyu collided with the tanker Seiyo Maru and sank due to the damage sustained.</p>"
+msgstr "<p>白露型駆逐艦は、初春型をベースに改良を加えた設計で建造された。新造艦は吃水が増加しており、2 基の四連装魚雷発射管を装備していた。</p><p class=\"p_spacing\"> </p><p>白露型のネームシップである「白露」は、佐世保で建造され、竣工後に第 27 駆逐隊に編入された。</p><p class=\"p_spacing\"> </p><p>第二次世界大戦中、同艦は太平洋西部での輸送船団護衛任務に従事し、ミッドウェー海戦、ソロモン・マーシャル諸島方面の作戦、第一次ガダルカナル島海戦、インパールプリンセス湾海戦に参加した。1944 年 6 月 14 日、「白露」はスリガオ海峡付近でタンカー「清洋丸」と衝突し、損傷により沈没した。</p>"
 
 msgid "IDS_PJSD207_FULL"
 msgstr "白露"
@@ -95373,7 +95376,7 @@ msgid "IDS_PJSD208"
 msgstr "陽炎"
 
 msgid "IDS_PJSD208_DESCR"
-msgstr "<p>Japan's refusal to sign the Second London Naval Treaty in 1937 removed all tonnage restrictions for Japanese warships. Consequently, the Imperial Japanese Navy General Staff prepared requirements for a new destroyer: improved stability and increased range compared to preceding ships of this class while retaining their armament. Welding was extensively used in the construction.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Kagerō, was built in Maizuru. During World War II, the destroyer fought in the battles of the Eastern Solomons, the Santa Cruz Islands, Guadalcanal, and Tassafaronga. The destroyer Kagerō was damaged by a naval mine near Vila port in the Solomon Islands on May 7, 1943, was nearly immobilized, and was destroyed a short time later by aircraft.</p>"
+msgstr "<p>日本が 1937 年に第二次ロンドン海軍条約への署名を拒否したことで、日本の艦艇に対する全てのトン数制限が解除された。これを受け、海軍省は新型駆逐艦に対し、従来の同クラス艦艇と比較して改善された安定性と向上した航続距離を維持しつつ、武装を保持するという要求を策定した。設計には溶接が広く採用されていた。</p><p class=\"p_spacing\"> </p><p>陽炎型駆逐艦のネームシップである「陽炎」は、舞鶴海軍工廠で建造された。第二次世界大戦中、同艦は東ソロモン諸島沖、サンタクルーズ諸島沖、ガダルカナル島沖、タサファロング岬沖での戦闘に参加した。1943 年 5 月 7 日、ソロモン諸島のヴィラ港近くで海中機雷に接触し損傷、ほぼ航行不能に陥り、その後航空機によって撃沈された。</p>"
 
 msgid "IDS_PJSD208_FULL"
 msgstr "陽炎"
@@ -95388,7 +95391,7 @@ msgid "IDS_PJSD209"
 msgstr "夕雲"
 
 msgid "IDS_PJSD209_DESCR"
-msgstr "<p>The Yūgumo-class destroyers were built to an improved design based on the Kagerō class. They differed from their predecessors primarily in their new type of gun mount.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Yūgumo, was built in Maizuru. During World War II, the destroyer fought at the Battle of Midway, the Eastern Solomons, and the Santa Cruz Islands, and delivered reinforcements to Guadalcanal. In 1943, the ship was primarily engaged in troop evacuations — from the Aleutians to the Solomons. The destroyer Yūgumo was sunk by American destroyers near Vella Lavella Island on October 7, 1943.</p>"
+msgstr "<p>夕雲型駆逐艦は、陽炎型をベースに改良を加えた設計で建造された。先行型との主な違いは、新型の砲架を採用したことである。</p><p class=\"p_spacing\"> </p><p>夕雲型のネームシップ「夕雲」は、舞鶴海軍工廠で建造された。第二次世界大戦中、同艦はミッドウェー海戦、東ソロモン諸島沖海戦、サンタクルーズ諸島沖海戦に参加し、ガダルカナル島への増援輸送任務に従事した。1943 年にはアレツィフ列島からソロモン諸島までの部隊撤収作戦を主に担当した。1943 年 10 月 7 日、「夕雲」はベララベラ島沖でアメリカ海軍の駆逐艦部隊に撃沈された。</p>"
 
 msgid "IDS_PJSD209_FULL"
 msgstr "夕雲"
@@ -95403,7 +95406,7 @@ msgid "IDS_PJSD210"
 msgstr "春雲"
 
 msgid "IDS_PJSD210_DESCR"
-msgstr "<p>A variant of Japanese destroyer development aimed at enhancing combat capabilities based on the Akizuki-class ships.</p><p class=\"p_spacing\"> </p><p>The number of main battery turrets has been increased to five, and to maintain an acceptable speed, the main propulsion system from the experimental destroyer Shimakaze has been adopted. For the basis of the small-caliber anti-aircraft artillery, a 40-mm mount developed by Japanese engineers based on captured Bofors guns is used.</p>"
+msgstr "<p>秋月型駆逐艦は、島風型駆逐艦をベースに戦闘能力向上を図った発展型である。</p><p class=\"p_spacing\"> </p><p>主砲塔数は 5 基に増加し、許容可能な速度を維持するため、実験駆逐艦「島風」の主機関が採用された。小口径対空砲火の基礎としては、日本の技術者が鹵獲したボフォース砲を原型に開発した 40 ミリ機関砲が用いられた。</p>"
 
 msgid "IDS_PJSD210_FULL"
 msgstr "春雲"
@@ -95418,7 +95421,7 @@ msgid "IDS_PJSD219"
 msgstr "北風"
 
 msgid "IDS_PJSD219_DESCR"
-msgstr "<p>After the experimental destroyer Shimakaze was laid down in 1941, intended to mark a new milestone in Japanese shipbuilding, 16 ships of this type were included in the fleet replenishment program. However, the heavy losses inflicted by American aviation in 1942 forced Japan to revise the program and replace some of these ships with Akizuki-class destroyers.</p><p class=\"p_spacing\"> </p><p>In October 1943, seven ships based on an improved design of the Akizuki class were ordered. In May of the following year, their construction was canceled, as the fleet required mass-produced and inexpensive ships for convoy escort, not expensive and time-consuming destroyers. Subsequently, the resources intended for these destroyers were used in the construction of Tachibana-class escort destroyers and Kaibōkan — Japanese escort ships.</p>"
+msgstr "<p>1941 年に起工した実験駆逐艦「島風」は、日本の艦艇建造における新たな指標となるはずだったが、その後艦隊補充計画に 16 隻の同型艦が組み込まれた。しかし 1942 年にアメリカ軍機による深刻な損失を被ったことを受け、日本は計画を見直し、一部の艦を秋月型駆逐艦に置き換える措置を取った。</p><p class=\"p_spacing\"> </p><p>1943 年 10 月、秋月型をベースに改良した設計の 7 隻の建造が発注された。だが翌年 5 月、計画は中止された — 当時の海軍は、高価で建造期間の長い駆逐艦ではなく、輸送船団護衛に適した量産性と低コストを兼ね備えた艦艇を必要としていたためである。その後、これらの駆逐艦に割り当てられていた資源は、橘型駆逐艦 (改丁型) や海防艦 (日本の哨戒艦) の建造に転用された。</p>"
 
 msgid "IDS_PJSD219_FULL"
 msgstr "北風"
@@ -95463,7 +95466,7 @@ msgid "IDS_PJSD507"
 msgstr "夕立"
 
 msgid "IDS_PJSD507_DESCR"
-msgstr "<p>Yūdachi, a Shiratsuyu-class destroyer, was built in Sasebo. During World War II, the ship escorted troop transports during the invasions of the Philippines and the Dutch East Indies, and participated in the Battle of the Java Sea and the Battle of the Santa Cruz Islands. In September 1942, the destroyer began running supply runs on the route to Guadalcanal.</p><p class=\"p_spacing\"> </p><p>During the Naval Battle of Guadalcanal, the ship lost power due to damage inflicted by the destroyer USS Sterett and was abandoned by its crew. The abandoned Yūdachi was finished off by gunfire from the cruiser USS Portland southeast of Savo Island.</p>"
+msgstr "<p>白露型駆逐艦「夕立」は、佐世保で建造された。第二次世界大戦中、同艦はフィリピンおよび蘭印方面への侵攻に際し、兵員輸送船団を護衛し、ジャワ海戦やサンタクルーズ諸島沖海戦に参加した。1942 年 9 月、ガダルカナル島への補給任務を開始した。</p><p class=\"p_spacing\"> </p><p>ガダルカナル島沖海戦において、同艦はアメリカ海軍駆逐艦「ステレット」の攻撃により損傷し、航行不能となったため乗員は退艦。放棄された「夕立」は、サヴォ島南東でアメリカ海軍重巡洋艦「ポートランド」の砲撃により撃沈された。</p>"
 
 msgid "IDS_PJSD507_FULL"
 msgstr "夕立"
@@ -119523,70 +119526,70 @@ msgid "IDS_RAGE_MODE_DESCRIPTION_ATBA_HITS_OVERRIDE_FOR_WEB"
 msgstr "<p>敵艦艇に副砲の砲弾を命中させ、条件の達成進捗を増加させてください。</p><p class=\"p_spacing\"> </p><p>命中をやめると、準備の進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_BOTOMANCER"
-msgstr "<p>Destroy enemy ships to prepare for the activation of combat instructions.</p><p class=\"p_spacing\"> </p><p>Preparation progress cannot be lost. Combat instructions will be activated automatically when the progress reaches 100%.</p>"
+msgstr "<p>敵の艦艇を撃破し、戦闘命令の起動準備を整えましょう。</p><p class=\"p_spacing\"> </p><p>準備進捗は失われません。進捗が 100% に達すると、戦闘命令は自動的に起動します。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_BOTOMANCER_AUTO"
 msgstr "猟犬の艦艇を撃沈するごとに、「信号」タイプの消耗品を1チャージ獲得します。戦闘中に同時に存在できるオートマトンは最大5体です。"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_HEADER"
-msgstr "Preparing for activation"
+msgstr "起動条件"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_HEAVY_SHOTS"
-msgstr "<p>Stay detected, increasing progress with each time interval.</p><p class=\"p_spacing\"> </p><p>If the enemy loses sight of you, you will begin to lose progress. When your progress reaches 100%, it can no longer be lost. </p><p class=\"p_spacing\"> </p><p>To activate combat instructions, press [CMD_ACTIVATE_RAGE_MODE].</p>"
+msgstr "<p>発見された状態を維持し、時間経過とともに進捗を増加させます。</p><p class=\"p_spacing\"> </p><p>敵が視界から外れると、進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p><p class=\"p_spacing\"> </p><p>戦闘命令を起動するには、[CMD_ACTIVATE_RAGE_MODE] を押してください。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_HEAVY_SHOTS_OVERRIDE_FOR_WEB"
-msgstr "<p>Stay detected, increasing progress with each time interval.</p><p class=\"p_spacing\"> </p><p>If the enemy loses sight of you, you will begin to lose progress. When your progress reaches 100%, it can no longer be lost.</p>"
+msgstr "<p>発見された状態を維持し、時間の経過とともに進捗を増加させます。</p><p class=\"p_spacing\"></p><p>敵が視界から外れると、進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_MAIN_GUN_ACCURACY"
 msgstr "<p>敵艦の所在エリアに主砲を命中させ、命中するごとに進捗を増加させます。</p><p class=\"p_spacing\"> </p><p>命中をやめると、準備の進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p><p class=\"p_spacing\"> </p><p>戦闘命令を起動するには、[CMD_ACTIVATE_RAGE_MODE] を押してください。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_MAIN_GUN_ACCURACY_AUTO"
-msgstr "<p>Hit the area where an enemy ship is located with main battery shells to increase your completion progress with each hit.</p><p class=\"p_spacing\"> </p><p>If you stop hitting, you will start losing your progress.</p><p class=\"p_spacing\"> </p><p>Combat Instructions activate automatically when your progress reaches 100%.</p>"
+msgstr "<p>敵艦の所在エリアに主砲を命中させ、命中するごとに進捗を増加させます。</p><p class=\"p_spacing\"> </p><p>命中しなくなると、準備の進捗が減少し始めます。</p><p class=\"p_spacing\"> </p><p>進捗が 100% に達すると、戦闘命令が自動的に起動します。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_MAIN_GUN_ACCURACY_OVERRIDE_FOR_WEB"
 msgstr "<p>敵艦の所在エリアに主砲を命中させ、命中するごとに達成進捗を増加させます。</p><p class=\"p_spacing\"> </p><p>命中を止めると、準備の進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_MAIN_GUN_HIT"
-msgstr "<p>Hit enemy ships with your main guns to increase your completion progress with each hit.</p><p class=\"p_spacing\"> </p><p>If you stop hitting, you will start losing your progress. When your progress reaches 100%, it cannot be lost.</p><p class=\"p_spacing\"> </p><p>To activate Combat Instructions, press [CMD_ACTIVATE_RAGE_MODE].</p>"
+msgstr "<p>主砲を敵艦艇に命中させ、命中するごとに進捗を増加させます。</p><p class=\"p_spacing\"> </p><p>命中しなくなると、準備の進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p><p class=\"p_spacing\"> </p><p>戦闘命令を起動するには、[CMD_ACTIVATE_RAGE_MODE] を押してください。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_MAIN_GUN_HIT_AUTO"
-msgstr "<p>Hit enemy ships with main battery shells to increase your completion progress with each hit.</p><p class=\"p_spacing\"> </p><p>If you stop hitting, you will start losing your progress.</p><p class=\"p_spacing\"> </p><p>Combat Instructions activate automatically when your progress reaches 100%.</p>"
+msgstr "<p>敵の艦艇に主砲を命中させ、命中するごとに進捗を増加させてください。</p><p class=\"p_spacing\"></p><p>命中しなくなると、準備の進捗が減少し始めます。</p><p class=\"p_spacing\"></p><p>進捗が 100% に達すると、戦闘命令が自動的に起動します。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_MAIN_GUN_HIT_OVERRIDE_FOR_WEB"
-msgstr "<p>Hit enemy ships with your main guns to increase your completion progress with each hit.</p><p class=\"p_spacing\"> </p><p>If you stop hitting, you will start losing your progress. When your progress reaches 100%, it cannot be lost.</p>"
+msgstr "<p>主砲を敵艦艇に命中させ、命中するごとに進捗を増加させます。</p><p class=\"p_spacing\"> </p><p>命中しなくなると、準備の進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_MANEUVERABILITY"
-msgstr "<p>Stay detected, increasing progress with each time interval.</p><p class=\"p_spacing\"> </p><p>If the enemy loses sight of you, you will begin to lose progress. When your progress reaches 100%, it can no longer be lost. </p><p class=\"p_spacing\"> </p><p>To activate combat instructions, press [CMD_ACTIVATE_RAGE_MODE].</p>"
+msgstr "<p>発見された状態を維持し、時間経過とともに進捗を増加させます。</p><p class=\"p_spacing\"> </p><p>敵が視界から外れると、進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p><p class=\"p_spacing\"> </p><p>戦闘命令を起動するには、[CMD_ACTIVATE_RAGE_MODE] を押してください。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_MANEUVERABILITY_OVERRIDE_FOR_WEB"
-msgstr "<p>Stay detected, increasing progress with each time interval.</p><p class=\"p_spacing\"> </p><p>If the enemy loses sight of you, you will begin to lose progress. When your progress reaches 100%, it can no longer be lost.</p>"
+msgstr "<p>発見された状態を維持し、時間の経過とともに進捗を増加させます。</p><p class=\"p_spacing\"></p><p>敵が視界から外れると、進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_PLANE_RELOADING_BOOST"
-msgstr "<p>Progress accumulates as you receive potential damage.</p><p class=\"p_spacing\"> </p><p>If you stop taking damage, you will start losing progress. Once your progress reaches 100%, it cannot be lost.</p><p class=\"p_spacing\"> </p><p>To activate combat instructions, press [CMD_ACTIVATE_RAGE_MODE].</p>"
+msgstr "<p>潜在ダメージを受けるたびに、進捗が増加します。</p><p class=\"p_spacing\"> </p><p>潜在ダメージを受けなくなると、進捗は減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p><p class=\"p_spacing\"> </p><p>戦闘命令を起動するには、[CMD_ACTIVATE_RAGE_MODE] を押してください。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_PLANE_RELOADING_BOOST_OVERRIDE_FOR_WEB"
-msgstr "<p>Progress accumulates as you receive potential damage.</p><p class=\"p_spacing\"> </p><p>If you stop taking damage, you will start losing progress. Once your progress reaches 100%, it cannot be lost.</p>"
+msgstr "<p>潜在ダメージを受けるたびに、進捗が増加します。</p><p class=\"p_spacing\"> </p><p>潜在ダメージを受けなくなると、進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_POTENTIAL_DAMAGE"
-msgstr "<p>Progress accumulates as you receive potential damage.</p><p class=\"p_spacing\"> </p><p>If you stop taking damage, you will start losing progress. Once your progress reaches 100%, it cannot be lost.</p><p class=\"p_spacing\"> </p><p>To activate combat instructions, press [CMD_ACTIVATE_RAGE_MODE].</p>"
+msgstr "<p>潜在ダメージを受けるたびに、進捗が増加します。</p><p class=\"p_spacing\"> </p><p>潜在ダメージを受けなくなると、進捗は減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p><p class=\"p_spacing\"> </p><p>戦闘命令を起動するには、[CMD_ACTIVATE_RAGE_MODE] を押してください。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_POTENTIAL_DAMAGE_AUTO"
-msgstr "<p>Completion progress increases when you receive potential damage.</p><p class=\"p_spacing\"> </p><p>If you stop taking damage, you will start losing progress.</p><p class=\"p_spacing\"> </p><p>Combat Instructions activate automatically when your progress reaches 100%.</p>"
+msgstr "<p>潜在ダメージを受けるたびに、進捗が増加します。</p><p class=\"p_spacing\"> </p><p>潜在ダメージを受けなくなると、進捗が減少し始めます。</p><p class=\"p_spacing\"> </p><p>進捗が 100% に達すると、戦闘命令が自動的に起動します。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_POTENTIAL_DAMAGE_OVERRIDE_FOR_WEB"
-msgstr "<p>Progress accumulates as you receive potential damage.</p><p class=\"p_spacing\"> </p><p>If you stop taking damage, you will start losing progress. Once your progress reaches 100%, it cannot be lost.</p>"
+msgstr "<p>潜在ダメージを受けるたびに、進捗が増加します。</p><p class=\"p_spacing\"> </p><p>潜在ダメージを受けなくなると、進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_PREDATOR"
 msgstr "<p>戦闘命令発動中にチャージし、その後、敵全員にその艦艇の HP の 70% に相当するダメージを与える。</p><p class=\"p_spacing\"> </p><p>起動へのアクセスを得るには、敵の艦艇を撃破せよ。</p><p class=\"p_spacing\"> </p><p>戦闘命令を起動するには、[CMD_ACTIVATE_RAGE_MODE] を押す。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_SHIP_FRAG"
-msgstr "<p>Destroy enemy ships to prepare for the activation of combat instructions.</p><p class=\"p_spacing\"> </p><p>Preparation progress cannot be lost. Combat instructions will be activated automatically when the progress reaches 100%.</p>"
+msgstr "<p>敵の艦艇を撃破し、戦闘命令の起動準備を整えましょう。</p><p class=\"p_spacing\"> </p><p>準備進捗は失われません。進捗が 100% に達すると、戦闘命令は自動的に起動します。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_STAY_INVISIBLE"
-msgstr "<p>Stay undetected to increase your completion progress with each interval.</p><p class=\"p_spacing\"> </p><p>When detected, you will start losing your progress. When your progress reaches 100%, it cannot be lost.</p><p class=\"p_spacing\"> </p><p>To activate Combat Instructions, press [CMD_ACTIVATE_RAGE_MODE].</p>"
+msgstr "<p>戦闘命令起動の準備のため、発見されないようにしてください。</p><p class=\"p_spacing\"> </p><p>敵に発見されると、進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p><p class=\"p_spacing\"> </p><p>戦闘命令を起動するには、[CMD_ACTIVATE_RAGE_MODE] を押してください。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_STAY_INVISIBLE_OVERRIDE_FOR_WEB"
-msgstr "<p>Stay undetected to increase your completion progress with each interval.</p><p class=\"p_spacing\"> </p><p>When detected, you will start losing your progress. When your progress reaches 100%, it cannot be lost.</p>"
+msgstr "<p>戦闘命令の発動準備のため、発見されないようにしてください。</p><p class=\"p_spacing\"> </p><p>敵に発見されると、進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_SUPPCV_AUTO"
 msgstr "煙幕による援護、敵艦艇の発見、味方の射撃修正アシスト、味方チームを支援するたびに自動的に発動します。"
@@ -119601,13 +119604,13 @@ msgid "IDS_RAGE_MODE_SUBTITLE"
 msgstr "戦闘命令"
 
 msgid "IDS_RAGE_MODE_TRIGGER_DESCRIPTION_RIBBONACTIVATOR"
-msgstr "<p>Hit enemy ships with your main guns to increase your completion progress with each hit.</p><p class=\"p_spacing\"> </p><p>If you stop hitting, you will start losing your progress. When your progress reaches 100%, it cannot be lost.</p><p class=\"p_spacing\"> </p><p>To activate Combat Instructions, press [CMD_ACTIVATE_RAGE_MODE].</p>"
+msgstr "<p>主砲を敵艦艇に命中させ、命中するごとに進捗を増加させます。</p><p class=\"p_spacing\"> </p><p>命中しなくなると、準備の進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p><p class=\"p_spacing\"> </p><p>戦闘命令を起動するには、[CMD_ACTIVATE_RAGE_MODE] を押してください。</p>"
 
 msgid "IDS_RAGE_MODE_TRIGGER_DESCRIPTION_RIBBONACTIVATOR_AUTO"
-msgstr "<p>Hit enemy ships with main battery shells to increase your completion progress with each hit.</p><p class=\"p_spacing\"> </p><p>If you stop hitting, you will start losing your progress.</p><p class=\"p_spacing\"> </p><p>Combat Instructions activate automatically when your progress reaches 100%.</p>"
+msgstr "<p>主砲を敵艦艇に命中させ、命中するごとに進捗を増加させます。</p><p class=\"p_spacing\"> </p><p>命中しなくなると、進捗が減少し始めます。</p><p class=\"p_spacing\"> </p><p>進捗が 100% に達すると、戦闘命令が自動的に起動します。</p>"
 
 msgid "IDS_RAGE_MODE_TRIGGER_DESCRIPTION_RIBBONACTIVATOR_OVERRIDE_FOR_WEB"
-msgstr "<p>Hit enemy ships with your main guns to increase your completion progress with each hit.</p><p class=\"p_spacing\"> </p><p>If you stop hitting, you will start losing your progress. When your progress reaches 100%, it cannot be lost.</p>"
+msgstr "<p>主砲を敵艦艇に命中させ、命中するごとに進捗を増加させます。</p><p class=\"p_spacing\"> </p><p>命中しなくなると、準備の進捗が減少し始めます。進捗が 100% に達すると、それ以上減少することはありません。</p>"
 
 msgid "IDS_RAGE_MODE_TRIGGER_PROGRESS"
 msgstr "任務の進捗"

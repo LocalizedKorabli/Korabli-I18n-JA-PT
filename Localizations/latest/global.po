@@ -2990,7 +2990,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_VICTORYDAY"
 msgstr "「大祖国戦争勝利 80 周年記念式典」に参加しましょう。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WAFFENTRAGER_ISOLATION"
-msgstr "アルファとエルメリンデ・ユングの対立の全段階を突破する。"
+msgstr "同盟と Ermelinda Jung の対立の全段階を突破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR"
 msgstr "敵艦艇を %(victimsCount)s 隻以上撃沈する。"
@@ -3122,40 +3122,40 @@ msgid "IDS_ACHIEVEMENT_DOUBLE_KILL"
 msgstr "連続攻撃"
 
 msgid "IDS_ACHIEVEMENT_DOUBLE_KILL_COOP"
-msgstr "連続攻撃"
+msgstr "一石二鳥"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT"
 msgstr "ドレッドノート"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_ATBA_CALIBER"
-msgstr "接近戦エキスパート"
+msgstr "砲弾の雨"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_DOUBLE_KILL"
-msgstr "連続攻撃"
+msgstr "一挙両得"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_FIRST_BLOOD"
-msgstr "最初の獲物"
+msgstr "デビュー"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_HEADBUTT"
-msgstr "頑強"
+msgstr "鋼鉄の衝角"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_INSTANT_KILL"
-msgstr "破壊的一撃"
+msgstr "処罰者"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_IRONCLAD"
 msgstr "装甲艦"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_MAIN_CALIBER"
-msgstr "大口径"
+msgstr "海軍大将"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_RETRIBUTION"
 msgstr "最後の偉業"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_SUPPORT"
-msgstr "共謀者"
+msgstr "副官"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_UNSINKABLE"
-msgstr "不沈"
+msgstr "浸水の鎮め手"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_WARRIOR"
 msgstr "レヴィアタン来襲!"
@@ -7122,7 +7122,7 @@ msgid "IDS_BASE_AI_15"
 msgstr "「ゼウス」システム、充填完了! さあ、ぶっ放そうか?"
 
 msgid "IDS_BASE_AI_16"
-msgstr "オートマタはエルメリンダのように基地のシールドモジュールで保護されています!"
+msgstr "オートマタは Ermelinda のように基地のシールドモジュールで保護されています!"
 
 msgid "IDS_BASE_AI_17"
 msgstr "Waffenträger 調整プロトコル発動! 猟犬艦艇にダメージを与えると、「嵐の目」と「腐食」フィールドの半径と持続時間、および装填速度が増加します!"
@@ -10474,11 +10474,8 @@ msgstr "偵察報告によると、突破を試みている敵船団を発見し
 msgid "IDS_CHAT_OP_11_CONVOY_APPEARANCE"
 msgstr "航空偵察部隊が輸送船団の最後の既知の位置に向かっている。全ての潜水艦に告ぐ。指定の座標 [sm_attack_enemy] へ向かえ!"
 
-msgid "IDS_CHAT_PLAYER_PRAISED_CHAT"
-msgstr "あなたは良好なマナーにより賛辞が送られました"
-
 msgid "IDS_CHAT_PLAYER_PRAISED_PLAY"
-msgstr "あなたは巧みなプレイにより賛辞が送られました"
+msgstr "あなたに絵文字が送信されました"
 
 msgid "IDS_CHAT_SECONDARY1_FAILURE"
 msgstr "港湾施設が時間内に破壊されませんでした!"
@@ -20745,7 +20742,7 @@ msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
 msgstr "一時的なリソース。アップデート 26.1 のリリースにより補償なしで削除されます。"
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "アメリカのトークン"
+msgstr "アメリカ・トークン"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
 msgstr "アップデート 26.1 終了までに、イベント「パーソナル・チャレンジ」の任務を達成し、BATTLE PASS のレベルに到達すること、ならびにアップデート 26.1 および 26.2 期間中に限り武器庫のセットから入手できます。"
@@ -22360,7 +22357,7 @@ msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_5"
 msgstr "制圧ポイントを占領し、魚雷でダメージを与えよ"
 
 msgid "IDS_DISCIPLINE_REGATTA"
-msgstr "高速機動"
+msgstr "機動"
 
 msgid "IDS_DISCIPLINE_REGATTA_DESCRIPTION"
 msgstr "航路を進んでください"
@@ -22369,7 +22366,7 @@ msgid "IDS_DISCIPLINE_REGATTA_FULL_DESCRIPTION"
 msgstr "ルートの区間を通過して、できるだけ多くのポイントを獲得してください"
 
 msgid "IDS_DISCIPLINE_SURVIVAL"
-msgstr "戦闘耐久力"
+msgstr "耐久"
 
 msgid "IDS_DISCIPLINE_SURVIVAL_DESCRIPTION"
 msgstr "HP を維持せよ"
@@ -22659,7 +22656,7 @@ msgstr ""
 " • 敵の魚雷とウェーブを撃破することが可能"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_SECTOR_WAVE_SMF_WAVE_GUN"
-msgstr "波は卵とサメを沈め、さらに相手の船から放たれた波も破壊します。"
+msgstr "ウェーブは卵とサメを沈め、また、相手の艦艇から発射されたウェーブも破壊します。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_SKIP_HE"
 msgstr "<p>HE 爆弾が水面で跳ねながら目標に向かって進む一連の攻撃を行う。</p><p class=\"p_spacing\"> </p><p>HE 爆弾は火災を発生させ、モジュールを機能停止させることができます。</p>"
@@ -24167,7 +24164,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY519_2025WT_HOUNDSBATTLEFORSAGE"
 msgstr "ニトロブースター"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY520_2025WT_HOUNDSMASSHEAL"
-msgstr "Team Durability Charge"
+msgstr "チーム HP チャージ"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
 msgstr "チーム・エンジンブースト"
@@ -24185,7 +24182,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY528_2025WT_FIREANDICE"
 msgstr "嵐の目"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY529_2025WT_DONORPARTS"
-msgstr "Donor Parts"
+msgstr "ドナー部品"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY530_2025WT_METAL_CORROSION"
 msgstr "腐食"
@@ -24194,25 +24191,25 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY532_2025WT_QUANTUMLEAP"
 msgstr "量子追跡"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY533_2025WT_HOUNDSMEGAHEAL"
-msgstr "Mechanism Regeneration"
+msgstr "メカニズムの再生"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY534_2025WT_HOUNDSSLOWDOWN"
-msgstr "Slowing Shells"
+msgstr "減速弾"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY535_2025WT_HOUNDSSUPERDESPERATE"
-msgstr "Toxic Filler Shells"
+msgstr "有毒物質を充填した砲弾"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY536_2025WT_HOUNDSLOSSCOUNTER"
 msgstr "倒れし者のエネルギー"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY537_2025WT_HOUNDSLASTCHANSE"
-msgstr "Emergency Repair Module"
+msgstr "緊急修理モジュール"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY538_2025WT_HOUNDSTORPEDOCOUNTERATTACK"
-msgstr "Torpedo Counterattack Module"
+msgstr "魚雷迎撃モジュール"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY539_2025WT_HOUNDSALTMASSHEAL"
-msgstr "Team Mechanism Regeneration"
+msgstr "チーム・メカニズム再生"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY540_2025WT_ADDDD2"
 msgstr "信号: 駆逐艦 II"
@@ -27486,7 +27483,7 @@ msgid "IDS_DOGTAG_PCNB465_NAME"
 msgstr "Ot vinta!"
 
 msgid "IDS_DOGTAG_PCNB466_DESCRIPTION"
-msgstr "同盟は強大な戦闘技術の支配を目指す秘密組織である。組織の任務により、猟犬隊は南極基地「フォート・エレバス」へ向かい、エルメリンデ・ユングと彼女の独自の艦艇に対峙する。"
+msgstr "同盟は強大な戦闘技術の支配を目指す秘密組織である。組織の任務により、猟犬隊は南極基地「フォート・エレバス」へ向かい、Ermelinda Jung と彼女の独自の艦艇に対峙する。"
 
 msgid "IDS_DOGTAG_PCNB466_NAME"
 msgstr "近づくな、感電するぞ!"
@@ -32484,7 +32481,7 @@ msgid "IDS_GAMEMODE_AWESOME_DESCRIPTION"
 msgstr "キーエリアを占領し敵艦艇を撃沈して %(score_count)s %(score_plural)s先取せよ"
 
 msgid "IDS_GAMEMODE_AWESOME_DESCRIPTION_0"
-msgstr "Destroy Ermelinda's ship before the evacuation system launches"
+msgstr "Ermelinda の艦艇を撃沈せよ、避難システムが起動する前に"
 
 msgid "IDS_GAMEMODE_AWESOME_DESCRIPTION_1"
 msgstr "避難システムを充電し、猟犬に破壊されないようにしてください"
@@ -34750,7 +34747,7 @@ msgid "IDS_HELP_SKIPBOMBER"
 msgstr "反跳爆撃機"
 
 msgid "IDS_HELP_SMOKE"
-msgstr "発煙装置"
+msgstr "煙幕展張機"
 
 msgid "IDS_HELP_SONAR"
 msgstr "ソナー"
@@ -35879,49 +35876,49 @@ msgid "IDS_HOUNDS_LEADER_11"
 msgstr "全巡洋艦へ! 皆さんの消耗品は全員のために働いている、このことを考慮して互いに助け合おう!"
 
 msgid "IDS_HOUNDS_LEADER_12"
-msgstr "Hound, prepare! Self-assembly device activated, your ship is returning to battle!"
+msgstr "猟犬、準備せよ! 自己組立装置が作動、艦は戦闘に復帰する!"
 
 msgid "IDS_HOUNDS_LEADER_13"
-msgstr "Attention all! Ermelinda is summoning automatons for support!"
+msgstr "全員注意! Ermelinda が自動艦を援軍として呼び寄せた!"
 
 msgid "IDS_HOUNDS_LEADER_14"
-msgstr "Automatons, like Ermelinda, are protected by the base's shield module!"
+msgstr "オートマタは Ermelinda のように基地のシールドモジュールで保護されています!"
 
 msgid "IDS_HOUNDS_LEADER_15"
-msgstr "Evacuation system charged to 50%!"
+msgstr "避難システムが 50% 充填されました!"
 
 msgid "IDS_HOUNDS_LEADER_16"
-msgstr "Commanders, the evacuation system is 75% charged!"
+msgstr "艦長、避難システムが 75% 充填されました!"
 
 msgid "IDS_HOUNDS_LEADER_17"
-msgstr "Hounds, we must hurry: the evacuation system is 90% charged! A little more and Ermelinda will escape!"
+msgstr "猟犬たち、急いでください: 避難システムが 90% 充填されました! もう少しで Ermelinda が逃げてしまいます!"
 
 msgid "IDS_HOUNDS_LEADER_18"
-msgstr "Intercontinental teleport activating!"
+msgstr "大陸間テレポーターが起動します!"
 
 msgid "IDS_HOUNDS_LEADER_2"
-msgstr "発電機が避難システムとエルメリンダのシールドに電力を供給しています。戦闘を開始する前にそれらを停止してください!"
+msgstr "発電機が避難システムと Ermelinda のシールドに電力を供給しています。戦闘を開始する前にそれらを停止してください!"
 
 msgid "IDS_HOUNDS_LEADER_3"
-msgstr "The self-assembly device returns you to battle but speeds up the 'Phase Bridge' charging. Don't overuse it!"
+msgstr "自己組立装置によって戦闘に復帰できますが、フェーズブリッジの充電速度が速くなります。あまり頼りすぎないでくださいね!"
 
 msgid "IDS_HOUNDS_LEADER_4"
-msgstr "Portals ahead! Use them for quick travel to points."
+msgstr "前方にポータルがあります! キーエリアへの素早い移動に活用してください。"
 
 msgid "IDS_HOUNDS_LEADER_5"
-msgstr "Generator disabled! Enemy shield module weakened, evacuation system charging slowed!"
+msgstr "ジェネレーターが停止! 敵のシールドモジュールが弱体化、避難システムの充填速度が低下!"
 
 msgid "IDS_HOUNDS_LEADER_6"
-msgstr "All generators under our control! Evacuation system charging halted. Enemy shield module deactivated. Everyone focus on destroying Ermelinda's ship!"
+msgstr "全発電機を制圧! 避難システムの充填を停止。敵のシールドモジュールを無効化。全員、Ermelinda の艦艇撃破に集中せよ!"
 
 msgid "IDS_HOUNDS_LEADER_7"
-msgstr "Ermelinda slipped away again! Hounds, return to base!"
+msgstr "Ermelinda がまた逃げた! 猟犬たち、基地に戻れ!"
 
 msgid "IDS_HOUNDS_LEADER_8"
-msgstr "Zeus weapon activating. Use consumables to reduce damage for you and your allies!"
+msgstr "武器「ゼウス」が起動します。消耗品を使用して、あなたと味方が受けるダメージを軽減しましょう!"
 
 msgid "IDS_HOUNDS_LEADER_9"
-msgstr "Ermelinda's ship destroyed! Excellent work, Hounds!"
+msgstr "Ermelinda の艦艇を撃沈! 素晴らしい働きだ、猟犬たちよ!"
 
 msgid "IDS_HOUNDS_WON"
 msgstr "猟犬が勝利した"
@@ -41198,13 +41195,13 @@ msgid "IDS_MODAL_WINDOW_PCVE017_RULES_PARAGRAPH_1_HEADER"
 msgstr "戦闘の特徴"
 
 msgid "IDS_MODAL_WINDOW_PCVE017_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "When entering battle, you will be randomly assigned to either the attacking or escorting team."
+msgstr "戦闘に加わる際、攻撃チームか護衛チームにランダムに配属されます。"
 
 msgid "IDS_MODAL_WINDOW_PCVE017_RULES_PARAGRAPH_1_TEXT_2"
 msgstr "護衛チームの勝利条件は、1 隻以上の輸送船を目的地まで護衛すること、または攻撃チームの艦艇を殲滅することです。"
 
 msgid "IDS_MODAL_WINDOW_PCVE017_RULES_PARAGRAPH_1_TEXT_3"
-msgstr "The attacking team must either prevent transports from reaching the destination or destroy all escort team ships."
+msgstr "攻撃チームは、輸送船が目的地に到達することを阻止するか、護衛チームの艦艇を殲滅する必要があります。"
 
 msgid "IDS_MODAL_WINDOW_PCVE017_RULES_PARAGRAPH_2_HEADER"
 msgstr "参加条件"
@@ -41300,22 +41297,22 @@ msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_HEADER"
 msgstr "戦闘の特徴"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "You will compete with other players in a contest consisting of 5 rounds."
+msgstr "あなたは 5 ラウンドからなる競技で他のプレイヤーと戦うことになります。"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "In each round, you will participate in one of the challenges selected at random: 'Combat Endurance', 'Speed Maneuvers', 'Firepower', 'Target Elimination', and 'Shooting Accuracy'."
+msgstr "各ラウンドでは、ランダムに選ばれた「耐久」「機動」「火力」「殲滅」「精度」のいずれかの試練に参加します。"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_3"
-msgstr "In different challenges, certain changes and restrictions will be applied to your ship's characteristics. You will not be able to use consumables throughout the contest."
+msgstr "様々な試練において、あなたの艦艇の性能には特定の変更と制限が適用されます。競技会全体を通して、消耗品を使用することはできません。"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_4"
-msgstr "At the end of each round, the leaderboard is updated, and the player with the lowest score is eliminated from the contest. Of two players with the same score, the one who reached it first will take the higher position on the leaderboard."
+msgstr "各ラウンド終了後、トーナメント表が更新され、最も低いスコアのプレイヤーが競技から脱落します。同点のプレイヤーが 2 人いる場合、先にそのスコアに到達したプレイヤーがより高い順位を獲得します。"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_HEADER"
 msgstr "参加条件"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "You can enter the battle alone or as part of a division of up to 3 participants."
+msgstr "単独で参加することも、最大 3 名編成の分艦隊で参加することもできます。"
 
 msgid "IDS_MODAL_WINDOW_PCVE023_RULES_HEADER"
 msgstr "非対称戦"
@@ -41441,7 +41438,7 @@ msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_2_HEADER"
 msgstr "ウェーブキャスター"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "波は卵やサメを沈め、また、相手の艦艇から放たれた波も破壊します。"
+msgstr "ウェーブは卵とサメを沈め、また、相手の艦艇から発射されたウェーブも破壊します。"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_HEADER"
 msgstr "ヌー、パガジー!"
@@ -41450,19 +41447,19 @@ msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_1_HEADER"
 msgstr "任務"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "You need to score as many points as possible by catching eggs."
+msgstr "できるだけ多くの卵をキャッチして、高得点を目指しましょう。"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Golden eggs give more points than white ones. If a shark hits you, you lose points."
+msgstr "金の卵は白い卵よりも多くのポイントをもたらします。もしサメに衝突すると、ポイントを失います。"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_2_HEADER"
 msgstr "ウェーブキャスター"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Each ship is equipped with a wave gun."
+msgstr "各艦艇はウェーブキャスターを装備しています。"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "It can be used to sink eggs and sharks and to destroy waves fired by other ships."
+msgstr "これを使って、卵やサメを沈めたり、他の艦艇から放たれたウェーブを破壊することができます。"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_HEADER"
 msgstr "褒賞"
@@ -41471,7 +41468,7 @@ msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_TEXT_1"
 msgstr "1 位、2 位、3 位には記念実績が授与されます。"
 
 msgid "IDS_MODAL_WINDOW_PCVE028_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "The higher your score, the more resources you receive at the end of the battle."
+msgstr "あなたの結果が高ければ高いほど、戦闘終了時に受け取るリソースが多くなります。"
 
 msgid "IDS_MODAL_WINDOW_PCVE029_BATTLE_RULES_HEADER"
 msgstr "潜水艦"
@@ -41483,16 +41480,16 @@ msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_HEADER"
 msgstr "戦闘の特徴"
 
 msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "You can enter battle on a submarine to test the changed characteristics of this ship type."
+msgstr "潜水艦に乗り込んで戦闘に参加し、このクラスの変更された特性を体験することができます。"
 
 msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "If you enter battle on a ship of another type, you will be able to test the updated anti-submarine warfare tools."
+msgstr "他の種類の艦艇で戦闘に出撃すると、変更された対潜水艦戦闘手段を体験できます。"
 
 msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_HEADER"
 msgstr "潜水艦"
 
 msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Sonar and acoustic torpedoes are merged: after a sonar hit on a ship, the weapon automatically switches. A sonar hit allows you to launch one torpedo."
+msgstr "ソナーと音響誘導魚雷が連動: ソナーで艦艇を捕捉すると、兵装が自動的に切り替わります。ソナーによる捕捉により、魚雷を 1 本発射可能となります。"
 
 msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_2_TEXT_2"
 msgstr "消耗品「受波器」を使用できない。全ての潜水艦は、潜望鏡深度と作戦深度で受動ソナーを常時作動させています"
@@ -41516,28 +41513,28 @@ msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_HEADER"
 msgstr "戦闘の特徴"
 
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "You can battle on the side of Ermelinda Jung, commander of powerful ships, or the Hounds — hunters of the Alliance. Each side has its own tactics, goals, and truth."
+msgstr "あなたは、強大な艦艇の艦長である Ermelinda Jung の側に立って戦うことも、同盟の猟犬であるハンターたちの側に立つこともできます。それぞれの陣営には独自の戦術、目標、そして真実があります。"
 
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "At the start of the battle, all points are under Ermelinda's control. Portals are located on the map for quick travel to the opposite side of the battlefield."
+msgstr "戦闘開始時、全てのエリアは Ermelinda の支配下にあります。マップ上にはポータルが配置されており、これを使用して戦場の反対側へ移動することができます。"
 
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_2_HEADER"
-msgstr "Ermelinda: Retribution Protocol"
+msgstr "Ermelinda: 報復プロトコル"
 
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Ermelinda's goal is to escape the Hounds using the evacuation system, which charges from captured points and destroying Hounds. Each captured point also powers the shield module on Ermelinda's ship."
+msgstr "Ermelinda の目的は、占領エリアの確保と猟犬の撃破によってチャージされる脱出システムを使って猟犬から逃げることです。各占領エリアは、Ermelinda の艦艇のシールドモジュールも維持します。"
 
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "エルメリンダの指揮下には 3 隻の艦艇があり、それぞれが独自の兵装と特別な戦術的役割を備えています。"
+msgstr "Ermelinda の指揮下には 3 隻の艦艇があり、それぞれが独自の兵装と特別な戦術的役割を備えています。"
 
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_3_HEADER"
-msgstr "Hounds: The Alliance's Attack Dogs"
+msgstr "猟犬: 同盟の手下"
 
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "The Alliance possesses regeneration technologies: all destroyed Hounds can return to battle."
+msgstr "同盟は再生技術を有しています: 全ての破壊された猟犬は戦闘に復帰することが可能です。"
 
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "猟犬は避難システムの起動を阻止しつつ、エルメリンダのシールドモジュールを破壊して彼女を倒すために、キーエリアを占領する必要がある。"
+msgstr "猟犬は避難システムの起動を阻止しつつ、Ermelinda のシールドモジュールを破壊して彼女を倒すために、キーエリアを占領する必要がある。"
 
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_HEADER"
 msgstr "ヒドラの巣"
@@ -41624,7 +41621,7 @@ msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_2_TEXT_1"
 msgstr "戦闘では強化された敵と遭遇することがあります。"
 
 msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "Destroying such a ship allows you to pick up the upgrade for a limited time."
+msgstr "そのような艦艇を破壊すると、限られた時間内に強化を確保することができます。"
 
 msgid "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_3_HEADER"
 msgstr "モジュール"
@@ -44932,7 +44929,7 @@ msgstr ""
 "を作成または分艦隊に参加"
 
 msgid "IDS_NOT_LIMITED"
-msgstr "unlimited"
+msgstr "無制限"
 
 msgid "IDS_NOT_LINKED"
 msgstr "未割り当て"
@@ -45566,7 +45563,7 @@ msgid "IDS_OPEN_MODERNIZATIONS_LIST_MOUSE_INSTRUCTION"
 msgstr "アップグレードを選択"
 
 msgid "IDS_OPEN_MODULES_LIST_MOUSE_INSTRUCTION"
-msgstr "Open modules list"
+msgstr "モジュールリストを開く"
 
 msgid "IDS_OPEN_SYSTEM_MESSAGES"
 msgstr "メッセージ一覧を開く"
@@ -45671,7 +45668,7 @@ msgid "IDS_OPTIONS_CAMERA_SHAKING_SHOOTING_DESCRIPTION"
 msgstr "主砲射撃時のカメラの揺れの強度。"
 
 msgid "IDS_OPTIONS_CAMERA_SWITCH_HINT"
-msgstr "Manual switching between armament groups is always available by pressing [KEY_C]"
+msgstr "[KEY_C] キーで各砲塔への手動切り替えが可能です"
 
 msgid "IDS_OPTIONS_CONTRAST_UI"
 msgstr "GUI コントラストを高める"
@@ -45743,7 +45740,7 @@ msgid "IDS_OPTIONS_FOV"
 msgstr "視野角"
 
 msgid "IDS_OPTIONS_FOV_DESCRIPTION"
-msgstr "Allows you to select the field of view in battle. Does not affect 'Binocular' mode."
+msgstr "戦闘中の視野角を手動で設定できます。この設定は双眼鏡視点には影響しません。"
 
 msgid "IDS_OPTIONS_GENERAL"
 msgstr "一般"
@@ -45755,7 +45752,7 @@ msgid "IDS_OPTIONS_HIGH"
 msgstr "高"
 
 msgid "IDS_OPTIONS_HINT_OVERVIEW"
-msgstr "Overview — [KEY_RIGHTMOUSE]"
+msgstr "自由観察 — [KEY_RIGHTMOUSE]"
 
 msgid "IDS_OPTIONS_INSCTRUCTION_CONTROLS_HELP"
 msgstr "操作方法の説明は、メインメニューの「ヘルプ」セクションで確認できるほか、バトル中に [KEY_F1] キーを長押ししても表示されます。"
@@ -48207,7 +48204,7 @@ msgid "IDS_ORDER_AIRPLANES"
 msgstr "指令を与える"
 
 msgid "IDS_ORDER_AIRPLANES_MAP"
-msgstr "Give order on the minimap"
+msgstr "ミニマップ上で指令を与える"
 
 msgid "IDS_OSHIRO_INUYAMA"
 msgstr "川島太郎"
@@ -48857,7 +48854,7 @@ msgid "IDS_PAAS992_CV_TEST_SPY"
 msgstr "Vought OS2U Kingfisher"
 
 msgid "IDS_PAEE001_USA1908_DESC"
-msgstr "The Star-Spangled Banner with corresponding changes in the arrangement and number of stars—symbols of the states. Used as the U.S. Navy flag from 1777 to the present day."
+msgstr "星条旗の星数は州を表しており、その数と配置は時代によって異なります。現在の星条旗には、アメリカを構成する 50 州を表す 50 個の星、そして独立当初の 13 州を表す 13 本のストライプがあしらわれています。この旗は、アメリカ海軍の軍艦旗として 1777 年から使用されてきました"
 
 msgid "IDS_PAEE001_USA1908_TITLE"
 msgstr "アメリカ海軍"
@@ -48866,7 +48863,7 @@ msgid "IDS_PAEE001_USA1908_YEARS"
 msgstr "1896 – 1908"
 
 msgid "IDS_PAEE002_USA1912_DESC"
-msgstr "The Star-Spangled Banner with corresponding changes in the arrangement and number of stars—symbols of the states. Used as the U.S. Navy flag from 1777 to the present day."
+msgstr "星条旗の星数は州を表しており、その数と配置は時代によって異なります。現在の星条旗には、アメリカを構成する 50 州を表す 50 個の星、そして独立当初の 13 州を表す 13 本のストライプがあしらわれています。この旗は、アメリカ海軍の軍艦旗として 1777 年から使用されてきました"
 
 msgid "IDS_PAEE002_USA1912_TITLE"
 msgstr "アメリカ海軍"
@@ -48875,7 +48872,7 @@ msgid "IDS_PAEE002_USA1912_YEARS"
 msgstr "1908 – 1912"
 
 msgid "IDS_PAEE003_USA1959_DESC"
-msgstr "The Star-Spangled Banner with corresponding changes in the arrangement and number of stars—symbols of the states. Used as the U.S. Navy flag from 1777 to the present day."
+msgstr "星条旗の星数は州を表しており、その数と配置は時代によって異なります。現在の星条旗には、アメリカを構成する 50 州を表す 50 個の星、そして独立当初の 13 州を表す 13 本のストライプがあしらわれています。この旗は、アメリカ海軍の軍艦旗として 1777 年から使用されてきました"
 
 msgid "IDS_PAEE003_USA1959_TITLE"
 msgstr "アメリカ海軍"
@@ -49214,13 +49211,13 @@ msgid "IDS_PAES510_GEARING_FLYFIRE"
 msgstr "FlyFire"
 
 msgid "IDS_PAES511_HOGG_MIAMI"
-msgstr "Palm Coast"
+msgstr "パームコースト"
 
 msgid "IDS_PAES512_MAFFITT_MIAMI"
 msgstr "Orlando"
 
 msgid "IDS_PAES513_LYNCH_MIAMI"
-msgstr "Sunrise"
+msgstr "日の出"
 
 msgid "IDS_PAES519_HALFORD_ID_DAY"
 msgstr "サンダーバード"
@@ -52699,7 +52696,7 @@ msgid "IDS_PARAMS_MODIFIER_VULNERABILITYWAVE"
 msgstr "ウェーブによるダメージ"
 
 msgid "IDS_PARAMS_MODIFIER_WAFFENTRAGERRELAYFACTOR"
-msgstr "Reactor Alloys"
+msgstr "リアクトロイ"
 
 msgid "IDS_PARAMS_MODIFIER_WAVESPEEDMULTIPLIER"
 msgstr "ウェーブ速度"
@@ -53033,7 +53030,7 @@ msgid "IDS_PASA206"
 msgstr "Independence"
 
 msgid "IDS_PASA206_DESCR"
-msgstr "<p>After Japan's attack on the U.S. in December 1941, the U.S. Navy leadership recognized the need for aircraft carriers. Given that Essex-class ships wouldn't be ready before 1944, it was decided to complete the hulls of Cleveland-class cruisers as light aircraft carriers.</p><p class=\"p_spacing\"> </p><p>The ships received a hangar for three dozen aircraft and a flight deck, and bulges were added to compensate for weight. The former cruisers lacked outstanding seakeeping but were advantageous over escort carriers in speed.</p><p class=\"p_spacing\"> </p><p>USS Independence was built in New York and was originally laid down as USS Amsterdam. During World War II, the ship participated in raids on Rabaul and Tarawa, attacks on the Philippines and Japan, and the Battle of Leyte Gulf. After the war, USS Independence transported American soldiers back home.</p>"
+msgstr "<p>1941 年 12 月の日本によるアメリカへの攻撃後、アメリカ海軍首脳部は航空母艦の必要性を痛感しました。エセックス級空母の就役が 1944 年以降になることを見越し、建造中であったクリーブランド級巡洋艦の船体を軽空母として完成させることが決定されました。</p><p class=\"p_spacing\"> </p><p>これらの艦は 30 機程度の航空機を収容可能な格納庫と飛行甲板を備え、重量増加を補うためにバルジが追加されました。巡洋艦由来の船体であったため耐航性に優れていたわけではありませんが、護衛空母を大きく上回る速力を備えていたことが大きな利点となりました。</p><p class=\"p_spacing\"> </p><p>USS インディペンデンスはニューヨークで建造され、起工時には USS アムステルダムと命名されていました。第二次世界大戦中、本艦はラバウルやタラワへの空襲、フィリピンや日本本土への攻撃、そしてレイテ沖海戦に参加しました。戦後、USS インディペンデンスはアメリカ軍兵士を本土へ帰還させる任務に従事しました。</p>"
 
 msgid "IDS_PASA206_FULL"
 msgstr "Independence"
@@ -53048,7 +53045,7 @@ msgid "IDS_PASA208"
 msgstr "Yorktown"
 
 msgid "IDS_PASA208_DESCR"
-msgstr "<p>The Yorktown-class aircraft carriers were superior to their predecessor, Ranger, with a larger air group, decent armor, and torpedo protection. The lead ship of the Yorktown class was built at the Newport News Shipyard.</p><p class=\"p_spacing\"> </p><p>During the Battle of the Coral Sea in May 1942, aircraft from the Yorktown sank the light aircraft carrier Shōhō and damaged the Shōkaku. In the process, the Yorktown itself sustained serious damage. Later, the carrier participated in the Battle of Midway Atoll.</p><p class=\"p_spacing\"> </p><p>In June 1942, Japanese torpedo bombers hit Yorktown with two torpedoes, causing the carrier to lose power and list to port. The captain ordered the crew to abandon ship, but Yorktown did not sink. Towing of the aircraft carrier began, but the Japanese submarine I-168 hit it with a torpedo salvo. Salvage efforts were unsuccessful, and on June 7, the ship sank.</p>"
+msgstr "<p>ヨークタウン級航空母艦は、前級であるレンジャーと比較して、より多くの艦載機を運用可能であり、かつ十分な装甲と対水雷防御を備えていたという点で非常に優れていました。本級のネームシップであるヨークタウンは、ニューポート・ニューズ造船所で建造されました。</p><p class=\"p_spacing\"> </p><p>1942 年 5 月の珊瑚海海戦において、ヨークタウンの艦載機は軽空母「祥鳳」を撃沈し、「翔鶴」に損傷を与えました。その際、ヨークタウン自身も深刻な被害を受けましたが、後にミッドウェー海戦にも参加することとなります。</p><p class=\"p_spacing\"> </p><p>1942 年 6 月、日本の雷撃機による 2 本の魚雷が命中し、ヨークタウンは航行不能に陥り左舷へ傾斜しました。艦長は総員退去を命じましたが、それでもヨークタウンは沈みませんでした。曳航作業が開始されたものの、日本の潜水艦「伊 168」による魚雷攻撃を受けました。応急工作班による懸命な救助作業も虚しく、6 月 7 日に本艦は没しました。</p>"
 
 msgid "IDS_PASA208_FULL"
 msgstr "Yorktown"
@@ -53063,7 +53060,7 @@ msgid "IDS_PASA210"
 msgstr "Essex"
 
 msgid "IDS_PASA210_DESCR"
-msgstr "<p>After Japan and Italy abandoned naval construction restrictions, the U.S. Navy leadership began developing new warships of main classes. In the late 1930s, a project was created for a large aircraft carrier with a large air group, enhanced armor, and numerous anti-aircraft armament.</p><p class=\"p_spacing\"> </p><p>USS Essex was built at the Newport News shipyard. In the spring of 1943, after accelerated trials, the ship was transferred to the Pacific. During WWII, the carrier participated in strikes on Wake Atoll, Rabaul, the Gilbert Islands, and Kwajalein, covered landing operations on Tarawa and the Marshall Islands. In 1944, as part of a fast carrier group, Essex participated in strikes on Saipan, Tinian, and Guam. After repairs in 1944, the carrier participated in attacks on Palau and Mindanao, strikes on Okinawa and Taiwan, and then fought in Leyte Gulf.</p><p class=\"p_spacing\"> </p><p>In 1963, the aircraft carrier participated in the naval blockade of Cuba. In the 1960s, Essex served as a search and rescue ship for the Apollo space missions.</p>"
+msgstr "<p>日本とイタリアが海軍軍縮条約による制限を破棄した後、アメリカ海軍首脳部は主要艦種の新型艦の開発に着手しました。1930 年代後半、大規模な航空グループ、強化された装甲、そして多数の対空兵装を備えた大型航空母艦の設計案が作成されました。</p><p class=\"p_spacing\"> </p><p>USS エセックスはニューポート・ニューズ造船所で建造されました。1943 年春、短期間の試験航海を経て太平洋戦線に配備されました。第二次世界大戦中、本艦はウェーク島、ラバウル、ギルバート諸島、クェゼリン環礁への攻撃に参加したほか、タラワやマーシャル諸島での上陸作戦を支援しました。1944 年には高速空母機動部隊の一員として、サイパン、テニアン、グアムへの攻撃に従事。1944 年の修理完了後は、パラオやミンダナオへの攻撃、沖縄や台湾への空襲に参加し、その後レイテ沖海戦で戦いました。</p><p class=\"p_spacing\"> </p><p>1963 年にはキューバ海上封鎖に参加。1960 年代、エセックスは宇宙ミッション「アポロ計画」における捜索救助艦としての役割を果たしました。</p>"
 
 msgid "IDS_PASA210_FULL"
 msgstr "Essex"
@@ -53306,7 +53303,7 @@ msgid "IDS_PASB008"
 msgstr "Colorado"
 
 msgid "IDS_PASB008_DESCR"
-msgstr "It is a repeat of the Tennessee-class design, but with twin 406 mm/45 gun mounts. After entering service, USS Colorado joined the Battle Fleet. The ship participated in the support of the Tarawa landing, provided firepower at Kwajalein and Eniwetok."
+msgstr "テネシー級の設計を踏襲していますが、主砲には 406 mm / 45 口径の連装砲塔を採用しています。就役後、USS コロラドは合衆国艦隊の主力艦隊に配属されました。本艦はタラワ上陸作戦の支援に参加したほか、クェゼリンやエニウェトクへの艦砲射撃による制圧に従事しました。"
 
 msgid "IDS_PASB008_FULL"
 msgstr "Colorado"
@@ -53366,7 +53363,7 @@ msgid "IDS_PASB018"
 msgstr "Iowa"
 
 msgid "IDS_PASB018_DESCR"
-msgstr "In the late 1930s, the US Navy returned to the idea of a battleship to support fast aircraft carriers and protect them from heavy and battlecruisers. The lifting of international restrictions allowed the creation of a ship with good protection and powerful armament. USS Iowa played an active role in the Pacific theater of operations. In 2012, the ship took its place in permanent mooring in San Pedro, California, as a museum ship."
+msgstr "1930 年代後半、アメリカ海軍は高速空母部隊を支援し、重巡洋艦や巡洋戦艦の脅威から空母を護衛するという戦艦の構想に立ち戻りました。国際的な軍縮条約の制限が撤廃されたことで、優れた防御力と強力な武装を兼ね備えた艦の建造が可能となりました。USS アイオワは太平洋戦域において数々の作戦に従事し、目覚ましい活躍を見せました。2012 年、本艦はカリフォルニア州サンペドロにて博物館艦として保存され。"
 
 msgid "IDS_PASB018_FULL"
 msgstr "Iowa"
@@ -53621,7 +53618,7 @@ msgid "IDS_PASB519"
 msgstr "Kearsarge"
 
 msgid "IDS_PASB519_DESCR"
-msgstr "In 1937, consultations were held through the Soviet trade delegation in the US to purchase a battleship project. A Soviet commission sent to the US established contact with the Gibbs & Cox firm through the US Navy command, which developed a hybrid battleship-carrier project. The Soviet side recognized the impracticality of building such a large and expensive ship, and the work was stopped. If the ship had been built in the US, it would have received American armament and aviation."
+msgstr "1937 年、在米ソ連通商代表部を通じて、戦艦の設計案購入を目的とした協議が行われました。訪米したソ連委員会はアメリカ海軍司令部を介してギブス＆コックス社と接触し、同社はハイブリッドな航空戦艦の設計案を提示しました。しかしソ連側は、これほど巨大かつ高価な艦の建造は不合理であると判断し、計画は中止されました。もしこの設計案に基づいた艦がアメリカ国内で建造されていたならば、アメリカ製の兵装や艦載機が搭載されていたはずです。"
 
 msgid "IDS_PASB519_FULL"
 msgstr "Kearsarge"
@@ -53741,7 +53738,7 @@ msgid "IDS_PASB599"
 msgstr "Kearsarge B"
 
 msgid "IDS_PASB599_DESCR"
-msgstr "In 1937, consultations were held through the Soviet trade delegation in the US to purchase a battleship project. A Soviet commission sent to the US established contact with the Gibbs & Cox firm through the US Navy command, which developed a hybrid battleship-carrier project. The Soviet side recognized the impracticality of building such a large and expensive ship, and the work was stopped. If the ship had been built in the US, it would have received American armament and aviation."
+msgstr "1937 年、在米ソ連通商代表部を通じて、戦艦の設計案購入を目的とした協議が行われました。訪米したソ連委員会はアメリカ海軍司令部を介してギブス＆コックス社と接触し、同社はハイブリッドな航空戦艦の設計案を提示しました。しかしソ連側は、これほど巨大かつ高価な艦の建造は不合理であると判断し、計画は中止されました。もしこの設計案に基づいた艦がアメリカ国内で建造されていたならば、アメリカ製の兵装や艦載機が搭載されていたはずです。"
 
 msgid "IDS_PASB599_FULL"
 msgstr "Kearsarge B"
@@ -58986,7 +58983,7 @@ msgid "IDS_PBES300_CONQUEROR_NY23"
 msgstr "銀の渦"
 
 msgid "IDS_PBES301_ANSON_COSMOS"
-msgstr "Plasma Patrol"
+msgstr "プラズマ・ドーズール"
 
 msgid "IDS_PBES305_AGINCOURT_JUTLAND"
 msgstr "ユトランドの退役軍人"
@@ -59043,7 +59040,7 @@ msgid "IDS_PBES358_BELFAST_43_ST_PATRICK"
 msgstr "アイルランドのエメラルド"
 
 msgid "IDS_PBES360_ZEUS"
-msgstr "Dazzling Thunder God"
+msgstr "眩惑の雷霆の主"
 
 msgid "IDS_PBES368_BELFAST_59_ST_PATRICK"
 msgstr "アイルランドのエメラルド"
@@ -59058,7 +59055,7 @@ msgid "IDS_PBES379_UKBB_DUNKAN"
 msgstr "産業の力"
 
 msgid "IDS_PBES380_ST_VINCENT_ARIA"
-msgstr "Chimera"
+msgstr "キメラ"
 
 msgid "IDS_PBES396_REPULSEBLACK"
 msgstr "特別"
@@ -59082,7 +59079,7 @@ msgid "IDS_PBES428_EDINBURGH_RANGER"
 msgstr "Adamas Viridis"
 
 msgid "IDS_PBES509_JUTLAND_COLORFUL"
-msgstr "Pink Beam"
+msgstr "ピンクの光線"
 
 msgid "IDS_PBES510_MAD_DARING"
 msgstr "Master of the Water World"
@@ -61728,7 +61725,7 @@ msgid "IDS_PBSC918"
 msgstr "Cougar"
 
 msgid "IDS_PBSC918_DESCR"
-msgstr "A copy of the Tiger '59 ship for testing the drum firing mechanism."
+msgstr "ドラム式射撃機構のテスト用に作成された、艦艇「Tiger '59」の複製です。"
 
 msgid "IDS_PBSC918_FULL"
 msgstr "Cougar"
@@ -64584,10 +64581,10 @@ msgid "IDS_PCEE013_SEASONFLAG03"
 msgstr "ハワイ"
 
 msgid "IDS_PCEE013_SEASONFLAG03_DESCRIPTION"
-msgstr "In 1889, the US Navy established a naval base in Hawaii. On the morning of December 7, 1941, the Pearl Harbor base was attacked by Japanese naval aviation and submarines, leading to the United States entering World War II."
+msgstr "1889 年、海軍基地がアメリカ海軍によってハワイの真珠湾に建設されました。1941 年 12 月 7 日朝、この真珠湾基地が日本軍の艦載機および特殊潜航艇による攻撃を受けたことが、アメリカが本格的に第二次世界大戦に参戦するきっかけとなりました。"
 
 msgid "IDS_PCEE013_SEASONFLAG03_EXTRA_DESCRIPTION"
-msgstr "For achieving the 14th rank in the 3rd season of old Ranked Battles."
+msgstr "ランク戦 (旧) 第 3 シーズンでのランク 14 達成を称えて。"
 
 msgid "IDS_PCEE014_FLAG_SUPERTEST"
 msgstr "ST 参加者"
@@ -64599,7 +64596,7 @@ msgid "IDS_PCEE015_JOLLY_ROGER_2"
 msgstr "海賊旗クラス II"
 
 msgid "IDS_PCEE015_JOLLY_ROGER_2_DESCRIPTION"
-msgstr "For re-achieving the 1st rank in old Ranked Battles."
+msgstr "ランク戦 (旧) でのランク 1 再達成を称えて。"
 
 msgid "IDS_PCEE016_FLAG_DEVELOPER"
 msgstr "開発者"
@@ -64617,7 +64614,7 @@ msgid "IDS_PCEE018_FLAG_VAL_PLAYER"
 msgstr "優秀プレイヤー"
 
 msgid "IDS_PCEE018_FLAG_VAL_PLAYER_DESCRIPTION"
-msgstr "You are a valued community player!"
+msgstr "あなたはこのコミュニティにおけるかけがえのないプレイヤーです!"
 
 msgid "IDS_PCEE019_FLAG_AT"
 msgstr "AT 参加者"
@@ -64686,7 +64683,7 @@ msgid "IDS_PCEE028_SEASONFLAG04_DESCRIPTION"
 msgstr "ミッドウェイ海戦は、第二次世界大戦の太平洋戦線において 1942 年 6 月に行われた大規模海戦です。アメリカ海軍が日本連合艦隊に対して決定的勝利を収めたこの戦いは、太平洋戦争の転換点となりました。"
 
 msgid "IDS_PCEE028_SEASONFLAG04_EXTRA_DESCRIPTION"
-msgstr "For achieving the 15th rank in the 4th season of old Ranked Battles."
+msgstr "ランク戦 (旧) 第 4 シーズンでのランク 15 達成を称えて。"
 
 msgid "IDS_PCEE029_SONGKRAN"
 msgstr "ソンクラーン・フェスティバル"
@@ -64761,7 +64758,7 @@ msgid "IDS_PCEE039_LEGACY_2016"
 msgstr "霧の同盟"
 
 msgid "IDS_PCEE039_LEGACY_2016_DESCRIPTION"
-msgstr "Under the cover of thick fog, facing uncertainty, unexpected alliances form and yesterday's enemies shake hands."
+msgstr "濃い霧に包まれた中、不確実性に直面して、思いがけない同盟が生まれ、昨日の敵同士が握手を交わす。"
 
 msgid "IDS_PCEE040_BURNING_MAN"
 msgstr "ブラックロック"
@@ -64820,13 +64817,13 @@ msgid "IDS_PCEE048_SEASONFLAG05_DESCRIPTION"
 msgstr "ヴィルヘルムスハーフェンは、第一次世界大戦および第二次世界大戦におけるドイツ最大の軍港でした。この都市は、プロイセン海軍の基地としてプロイセン王ヴィルヘルム 1 世によって 1869 年に創設され、1871 年には造船所が建造されました。ヴィルヘルムスハーフェンは、1918 年まではドイツ帝国海軍 (Kaiser's Navy) の、1918 年から 1935 年まではヴァイマル共和国海軍 (Reichsmarine) の、1935 年から 1945 年まではドイツ戦争海軍 (Kriegsmarine) の管理下にありました。"
 
 msgid "IDS_PCEE048_SEASONFLAG05_EXTRA_DESCRIPTION"
-msgstr "For achieving the 15th rank in the 5th season of old Ranked Battles."
+msgstr "ランク戦 (旧) 第 5 シーズンでのランク 15 達成を称えて。"
 
 msgid "IDS_PCEE049_JOLLY_ROGER_3"
 msgstr "海賊旗 クラス III"
 
 msgid "IDS_PCEE049_JOLLY_ROGER_3_DESCRIPTION"
-msgstr "For achieving the 1st rank in old Ranked Battles for the fourth time."
+msgstr "ランク戦 (旧) でランク 1 を 4 回達成したことを称えて。"
 
 msgid "IDS_PCEE050_LENINGRAD"
 msgstr "Leningrad"
@@ -64876,13 +64873,13 @@ msgid "IDS_PCEE058_FEST"
 msgstr "Fest 2016"
 
 msgid "IDS_PCEE058_FEST_DESCRIPTION"
-msgstr "For your participation in Fest 2016."
+msgstr "「Fest 2016」の参加者に対して。"
 
 msgid "IDS_PCEE059_PEARL_HARBOR"
-msgstr "75th Anniversary of the Tragic Events at Pearl Harbor"
+msgstr "真珠湾攻撃 75 周年"
 
 msgid "IDS_PCEE059_PEARL_HARBOR_DESCRIPTION"
-msgstr "On the morning of December 7, 1941, Japanese aviation and forces of the Imperial Japanese Navy launched a surprise massive attack on the American military base at Pearl Harbor, resulting in the deaths of over 2,000 servicemen. The United States declared war on Japan on December 8, thus entering World War II in both the European and Pacific theaters."
+msgstr "1941 年 12 月 7 日、日本軍がアメリカの真珠湾を攻撃し、2,000 名を超える軍人が戦死しました。この攻撃を受けたアメリカは翌 12 月 8 日に対日宣戦布告し、ヨーロッパ戦線と太平洋戦線の両方で第二次世界大戦に参戦しました。"
 
 msgid "IDS_PCEE060_OLEG_FLAG"
 msgstr "Oleg"
@@ -64897,13 +64894,13 @@ msgid "IDS_PCEE061_GRAF_SPEE_DESCRIPTION"
 msgstr "この艦は、マクシミリアン・フォン・シュペー提督にちなんで命名されました。シュペー提督は、一次大戦中にドイツ東洋艦隊の司令官としてコロネル沖海戦およびフォークランド沖海戦で戦い、戦死しました。"
 
 msgid "IDS_PCEE062_TM"
-msgstr "Naval Battle"
+msgstr "海上の戦い"
 
 msgid "IDS_PCEE062_TM_DESCRIPTION"
-msgstr "You fight on equal terms with any opponent. In the harsh conditions of naval battles, you have proven your superiority, elevating it to an art form. You are the Tsar of the Seas and will remain so until someone comes along who can take this title from you."
+msgstr "あなたはどんな敵とも互角に戦える。苛烈な海戦の状況下で、あなたは自身の優越性を証明し、それを芸術の域にまで高めた。あなたは海の皇帝であり、その称号を奪える者が現れるまで、その地位に留まるだろう。"
 
 msgid "IDS_PCEE062_TM_EXTRA_DESCRIPTION"
-msgstr "In honor of the \"Tsar Morey\" tournament."
+msgstr "「海の皇帝」トーナメントを記念して。"
 
 msgid "IDS_PCEE063_FLAG_VOLUNTEER_2"
 msgstr "ボランティア クラス II"
@@ -64977,7 +64974,7 @@ msgid "IDS_PCEE074_OSCAR_AWARDS"
 msgstr "表彰"
 
 msgid "IDS_PCEE074_OSCAR_AWARDS_DESCRIPTION"
-msgstr "<p>And here are the nominees for the award in the category of 'Best Film':</p><p class=\"p_spacing\"> </p><p>- 'The Cruiser and the Unusual Reckoning'<br>- 'Destroyer? We Barely Know Each Other!'<br>- 'The Carrier? Stephen King's One'<br>- 'This is a Completely Different Battleship'</p>"
+msgstr "<p>そして「作品賞」にノミネートされたのは:</p><p class=\"p_spacing\"> </p><p>- 巡洋艦と異常なる刑罰<br>- 駆逐艦のことを知りたい<br>- スティーヴン・キングのキャリー・アー<br>- バトルシップ -新たなる戦い</p>"
 
 msgid "IDS_PCEE075_SEASONFLAG06"
 msgstr "海軍要塞司令官"
@@ -64986,7 +64983,7 @@ msgid "IDS_PCEE075_SEASONFLAG06_DESCRIPTION"
 msgstr "ロシア帝国の皇帝ニコライ 2 世が 1913 年に制定した海軍要塞司令官旗には、聖アンドレイ十字を背景に、錨および交差した 2 本の砲身が描かれていました。この旗は、セヴァストーポリ、クロンシュタット、ヴラジヴォストクといった主要な沿岸基地を防衛する海軍要塞司令官に授与されました。"
 
 msgid "IDS_PCEE075_SEASONFLAG06_EXTRA_DESCRIPTION"
-msgstr "For achieving the 15th rank in the 6th season of old Ranked Battles."
+msgstr "ランク戦 (旧) 第 6 シーズンでのランク 15 達成を称えて。"
 
 msgid "IDS_PCEE076_ST_PATRICK"
 msgstr "Lá Fhéile Pádraig 2017"
@@ -65029,10 +65026,11 @@ msgstr "ブルーマーメイド"
 
 msgid "IDS_PCEE082_BLUE_MERMAID_DESCRIPTION"
 msgstr ""
-"Emblem of the 'Blue Mermaids'.\n"
-"The 'Blue Mermaids' are an elite women's organization responsible for maintaining maritime safety.\n"
-"Childhood friends Akeno Misaki and Moeka China dream of joining the 'Blue Mermaids', for which the girls enroll in the Yokosuka Maritime Academy. They live by the sea, protecting and conquering its expanses...\n"
-"These are the 'Blue Mermaids!'"
+"「ブルーマーメイド」のエンブレム。\n"
+"ブルーマーメイドは、海の安全を守る女性の職業。\n"
+"アニメ・シリーズ『ハイスクール・フリート』で、岬明乃と知名もえかはブルーマーメイドになることを目指して横須賀女子海洋学校に入学する。\n"
+"海に生き、海を守り、海を往く―\n"
+"それがブルーマーメイド!"
 
 msgid "IDS_PCEE082_BLUE_MERMAID_EXTRA_DESCRIPTION"
 msgstr "『ハイスクール・フリート』より出典。"
@@ -65164,7 +65162,7 @@ msgid "IDS_PCEE104_SEASONFLAG07_DESCRIPTION"
 msgstr "このイギリス海軍の工廠は、1567 年に設立され、以後 400 年以上に渡ってイギリス海軍の艦艇を建造してきました。チャタム工廠の紋章の特徴である交差する三叉槍と剣は、チャタムの街の紋章にも取り入れられています。"
 
 msgid "IDS_PCEE104_SEASONFLAG07_EXTRA_DESCRIPTION"
-msgstr "For achieving the 15th rank in the 7th season of old Ranked Battles."
+msgstr "ランク戦 (旧) 第 7 シーズンでのランク 15 達成を称えて。"
 
 msgid "IDS_PCEE105_OKTYABRSKAYA_REVOLUTSIYA"
 msgstr "Oktyabrskaya Revolutsiya"
@@ -65262,7 +65260,7 @@ msgid "IDS_PCEE118_JOLLY_ROGER_4"
 msgstr "海賊旗 クラス IV"
 
 msgid "IDS_PCEE118_JOLLY_ROGER_4_DESCRIPTION"
-msgstr "For achieving the 1st rank in old Ranked Battles for the sixth time."
+msgstr "ランク戦 (旧) でランク 1 を 6 回達成したことを称えて。"
 
 msgid "IDS_PCEE119_GRAF_ZEPPELIN"
 msgstr "Graf Zeppelin"
@@ -66624,10 +66622,10 @@ msgstr "海の玉座"
 
 msgid "IDS_PCEE330_TM_X_FLAG_DESCRIPTION"
 msgstr ""
-"There is a throne — adorned with pearls and amber,\n"
-"Upon it sits a King like the old waves.\n"
-"He stretches his hand to the bay, to the ocean,\n"
-"And with a sapphire scepter, he commands the waters."
+"そこには玉座がある — 真珠をちりばめた琥珀の玉座、\n"
+"その上に、白波に似た白髪の王が座っている。\n"
+"湾や大洋にその右手を伸ばし、\n"
+"サファイアの笏で水に命令を下す。"
 
 msgid "IDS_PCEE330_TM_X_FLAG_EXTRA_DESCRIPTION"
 msgstr "「海の皇帝」トーナメントを記念して。"
@@ -68108,7 +68106,7 @@ msgid "IDS_PCEE583_TM15_FLAG"
 msgstr "海の覇者"
 
 msgid "IDS_PCEE583_TM15_FLAG_DESCRIPTION"
-msgstr "海の支配者の怒りは恐ろしい：波は天まで高くうねり、風は帆を引き裂き、怪物たちは海底へと引きずり込もうと脅す。"
+msgstr "海の支配者の怒りは恐ろしい: 波は天まで高くうねり、風は帆を引き裂き、怪物たちは海底へと引きずり込もうと脅す。"
 
 msgid "IDS_PCEE583_TM15_FLAG_EXTRA_DESCRIPTION"
 msgstr "「海の皇帝」トーナメントを記念して。"
@@ -68262,10 +68260,10 @@ msgstr ""
 "アレクサンドルの石柱を越えた光景が、目に映える」"
 
 msgid "IDS_PCEE604_FAMILYDAY_FLAG"
-msgstr "Family Day, Love, and Fidelity"
+msgstr "家族・愛・忠誠の日"
 
 msgid "IDS_PCEE604_FAMILYDAY_FLAG_DESCRIPTION"
-msgstr "Happy is the one who is happy at home."
+msgstr "家庭で幸せな人は幸せな人です。"
 
 msgid "IDS_PCEE605_DMITRY_POZHARSKY_FLAG"
 msgstr "Dmitry Pozharsky"
@@ -68274,10 +68272,10 @@ msgid "IDS_PCEE605_DMITRY_POZHARSKY_FLAG_DESCRIPTION"
 msgstr "ドミートリィ・ポジャールスキー公 は、ロシアの国家的英雄であり、「動乱時代」における民兵隊の指導者でした。"
 
 msgid "IDS_PCEE607_MOSFILM_FLAG"
-msgstr "Mosfilm"
+msgstr "モスフィルム"
 
 msgid "IDS_PCEE607_MOSFILM_FLAG_DESCRIPTION"
-msgstr "One of the oldest and largest film companies in the USSR and Russia. The date of the foundation of the 1st State Cinema Factory is considered to be January 30, 1924, when the premiere of the film 'Up in the Air' took place. Later, new buildings with large filming pavilions were built on the Vorobyovy Gory, and the film studio 'Mosfilm' received its modern name in the mid-1930s."
+msgstr "ソ連およびロシアで最も古く、最大規模の映画会社の一つ。国営映画第一工場の創立日は、1924 年 1 月 30 日、映画『大空へ羽ばたく』の初上映が行われた日とされている。その後、大規模な撮影スタジオを備えた新棟がヴォロビヨーヴィ丘陵に建設され、現代の名称「モスフィルム」は 1930 年代半ばに与えられた。"
 
 msgid "IDS_PCEE608_SCHILL_FLAG"
 msgstr "Schill"
@@ -68319,7 +68317,7 @@ msgid "IDS_PCEE613_SCARLET_THUNDER_FLAG"
 msgstr "Scarlet Thunder"
 
 msgid "IDS_PCEE613_SCARLET_THUNDER_FLAG_DESCRIPTION"
-msgstr "Representatives of the Ministry of Progress and ubiquitous reporters call the International Space Overpass a marvel of engineering. But no less a marvel is the ship 'Scarlet Thunder', after re-equipment embodying the latest achievements in robotics. Thought out and refined to the smallest detail — from powerful magnetic toroids to the tiniest rivet."
+msgstr "進歩省の代表者たちとどこにでもいる記者たちは、国際宇宙高架橋を工学の奇跡と呼んでいます。しかし、それに劣らず驚異的なのが、改修を経て最新のロボット工学の成果を体現した「Scarlet Thunder」艦艇です。強力な磁気トロイドから最も小さなリベットに至るまで、細部に至るまで考え抜かれ、調整されています。"
 
 msgid "IDS_PCEE614_USHAKOV_FLAG"
 msgstr "Fyodor Ushakov"
@@ -68714,19 +68712,19 @@ msgid "IDS_PCEE677_PFALZ_FLAG"
 msgstr "Pfalz"
 
 msgid "IDS_PCEE677_PFALZ_FLAG_DESCRIPTION"
-msgstr "The flag of the Electorate of the Palatinate combines the heraldic symbols of the Hohenstaufen and Wittelsbach dynasties — two families that ruled the Palatinate. The heraldic symbol of the Hohenstaufens, the lion, became the symbol of the Palatinate, and the white-blue diamond pattern on the flag is associated with the Wittelsbach dynasty, later becoming the symbol of Bavaria."
+msgstr "プファルツ選帝侯国の旗は、プファルツを統治した二つの王朝、ホーエンシュタウフェン家とヴィッテルスバッハ家の家紋を組み合わせたものです。ホーエンシュタウフェン家の紋章である獅子はプファルツの象徴となり、ヴィッテルスバッハ家の白と青の菱形模様は後にバイエルンの象徴として旗に取り入れられました。"
 
 msgid "IDS_PCEE678_CHESAPEAKE_FLAG"
 msgstr "USS Chesapeake"
 
 msgid "IDS_PCEE678_CHESAPEAKE_FLAG_DESCRIPTION"
-msgstr "In Chesapeake Bay in 1781, a naval battle took place that decided the outcome of the American War of Independence. Nearly a year later, the first military award in US history was established — the Badge of Military Merit, awarded to soldiers of the Continental Army who distinguished themselves in battle."
+msgstr "1781 年、チェサピーク湾で海戦が行われ、アメリカ独立戦争の運命を決定づけました。ほぼ 1 年後、アメリカ史上初の軍事勲章となる「戦功章」が制定され、大陸軍で特に戦功のあった兵士に授与されました。"
 
 msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG"
 msgstr "Andalucía CLR"
 
 msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_DESCRIPTION"
-msgstr "Andalusia is the southernmost region of Spain, separated from North Africa by the Strait of Gibraltar. The coat of arms of Andalusia depicts a symbolic image of the Pillars of Hercules — the heights flanking the entrance to the strait. Between the pillars stands Hercules, taming two lions."
+msgstr "アンダルシアはスペイン最南端の地域で、ジブラルタル海峡を隔てて北アフリカと向き合っています。アンダルシアの紋章には、海峡の入り口を挟むようにそびえるヘラクレスの柱の象徴的な描写が施されています。柱の間には、二頭の獅子を従えるヘラクレスの姿が描かれています。"
 
 msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "まばゆいばかりの艦艇のリリースを記念して。"
@@ -68735,7 +68733,7 @@ msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG"
 msgstr "Schlieffen CLR"
 
 msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_DESCRIPTION"
-msgstr "The Schlieffen family is a German noble family from Pomerania, first mentioned in the 14th century. One of the most famous members of this family was the military strategist and commander Alfred von Schlieffen (1833–1913)."
+msgstr "シュリーフェン家は、ポメラニア出身のドイツ貴族の家系であり、その最初の記録は 14 世紀に遡る。この一族の中で最も著名な人物は、軍人かつ軍事戦略家のアルフレート・フォン・シュリーフェン (1833 年 - 1913 年) である。"
 
 msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "まばゆいばかりの艦艇のリリースを記念して。"
@@ -68777,19 +68775,19 @@ msgid "IDS_PCEE685_CONQUISTADOR_FLAG"
 msgstr "Conquistador"
 
 msgid "IDS_PCEE685_CONQUISTADOR_FLAG_DESCRIPTION"
-msgstr "The Burgundy Cross became part of the symbolism of the Spanish Empire when the Habsburg dynasty, holding the title of Dukes of Burgundy, ascended the throne. During the age of the conquistadors, it was used on the flags of Spanish possessions in the New World, as well as on the flags of the Spanish army and navy."
+msgstr "ブルゴーニュ十字は、ブルゴーニュ公の称号を持つハプスブルク家がスペイン帝国の王位に就いた際、その象徴の一部となりました。コンキスタドールの時代には、新世界におけるスペイン領の旗や、スペイン陸海軍の旗にも使用されました。"
 
 msgid "IDS_PCEE686_CHATEAURENAULT_FLAG"
 msgstr "Châteaurenault"
 
 msgid "IDS_PCEE686_CHATEAURENAULT_FLAG_DESCRIPTION"
-msgstr "The coat of arms of the French ship Châteaurenault. Such a name is traditionally given to French Navy ships in honor of Vice Admiral François Louis Rousselet de Châteaurenault, who distinguished himself in the wars and naval battles of the late 17th to early 18th centuries."
+msgstr "フランス艦艇シャトーレノーの紋章。この名前は、フランス海軍の艦艇が伝統的に、17 世紀末から 18 世紀初頭の戦争や海戦で活躍したフランソワ・ルイ・ルセレ・ド・シャトーレノー副提督にちなんで授けられるものです。"
 
 msgid "IDS_PCEE687_SCHERBAKOV_FLAG"
 msgstr "Scherbakov"
 
 msgid "IDS_PCEE687_SCHERBAKOV_FLAG_DESCRIPTION"
-msgstr "Alexander Sergeyevich Shcherbakov (1901–1945) was a Soviet statesman and party figure, Colonel General. During the Great Patriotic War, he headed the Soviet Information Bureau and the Main Political Directorate of the Red Army, and also served as Deputy People's Commissar of Defense of the USSR. From 1937 to 1945, he was a deputy of the Supreme Soviet."
+msgstr "アレクサンドル・セルゲーエヴィチ・シチェルバコフ (1901 年 – 1945 年) は、ソビエト連邦の国家・党幹部、上級大将である。大祖国戦争期には、ソ連情報局および赤軍政治総局を統括し、さらにソ連国防人民委員代理を務めた。1937 年から 1945 年まで最高会議代議員を歴任した。"
 
 msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG"
 msgstr "Akizuki CLR"
@@ -68804,13 +68802,13 @@ msgid "IDS_PCEE689_LOTHRINGEN_FLAG"
 msgstr "Lothringen"
 
 msgid "IDS_PCEE689_LOTHRINGEN_FLAG_DESCRIPTION"
-msgstr "Alsace and Lorraine were incorporated into the German Empire following the Franco-Prussian War of 1870–1871 and became 'imperial land', without achieving the status of a full province. The flag of this land depicted the national colors and the coat of arms of the German Empire, with the combined coat of arms of Lower Alsace, Upper Alsace, and Lorraine in the upper left corner."
+msgstr "エルザス＝ロートリンゲンは、1870 年から 1871 年にかけての普仏戦争の結果としてドイツ帝国に編入され、完全な州の地位を得ることなく「帝国直轄領」となりました。この地域の旗には、ドイツ帝国の国章色と紋章が描かれており、左上隅には下エルザス、上エルザス、ロートリンゲンの統合紋章が配置されています。"
 
 msgid "IDS_PCEE690_NATSUKAZE_FLAG"
 msgstr "夏風"
 
 msgid "IDS_PCEE690_NATSUKAZE_FLAG_DESCRIPTION"
-msgstr "Natsukaze translates from Japanese as 'summer breeze.' A breeze is a coastal wind with a daily cycle. During the day, the air moves from the sea to the warm land, while at night, the wind blows from the quickly cooling shore to the water."
+msgstr "Natsukaze は日本語で「夏風」を意味します。風とは、日周期を持つ海岸風のことです。日中は空気が海から暖かい陸地へと移動し、夜間は急速に冷える海岸から水辺へと風が吹きます。"
 
 msgid "IDS_PCEE691_OYODO_FLAG"
 msgstr "大淀"
@@ -68825,13 +68823,13 @@ msgid "IDS_PCEE692_USA_DD_EA_FLAG_DESCRIPTION"
 msgstr "Not for self but for country."
 
 msgid "IDS_PCEE692_USA_DD_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "In honor of the release of new US destroyers in early access in update 13.6."
+msgstr "アップデート 13.6 でアーリーアクセス艦艇として登場した新たなアメリカ駆逐艦を記念して。"
 
 msgid "IDS_PCEE693_PIORUN_FLAG"
 msgstr "ORP Piorun"
 
 msgid "IDS_PCEE693_PIORUN_FLAG_DESCRIPTION"
-msgstr "The Virtuti Militari Order is Poland's highest military order, awarded for outstanding combat achievements. One of the oldest military orders in the world. Established by the King of the Polish-Lithuanian Commonwealth Stanisław August Poniatowski in 1792. The order's motto: 'Honor and Homeland'."
+msgstr "ヴィルティ・ミリタリ勲章は、顕著な戦功に対して授与されるポーランド最高の軍事勲章です。世界で最も古い軍事勲章の一つであり、1792 年にポーランド・リトアニア共和国の国王スタニスワフ・アウグスト・ポニャトフスキによって制定されました。勲章のモットーは「名誉と祖国」です。"
 
 msgid "IDS_PCEE695_EVERLASTING_SUMMER_FLAG"
 msgstr "Everlasting Summer"
@@ -68847,10 +68845,10 @@ msgid "IDS_PCEE695_EVERLASTING_SUMMER_FLAG_EXTRA_DESCRIPTION"
 msgstr "『Everlasting Summer』より出典。"
 
 msgid "IDS_PCEE696_SCARLET_SAILS_FLAG"
-msgstr "Scarlet Sails"
+msgstr "赤い帆"
 
 msgid "IDS_PCEE696_SCARLET_SAILS_FLAG_DESCRIPTION"
-msgstr "'Scarlet Sails' is the only grand spectacle in the world dedicated to school graduates. The first celebration took place on June 27, 1968. On this day, Leningrad schoolchildren first greeted a brigantine under scarlet sails on the banks of the Neva — as a symbol of hope, faith in the future, and the fulfillment of cherished desires. The graduation celebration was held until 1979, and then, after a long break, the tradition was revived in 2005."
+msgstr "「赤い帆」は、世界中で唯一の高校卒業生に捧げられた壮大なスペクタクルです。最初の祝祭は 1968 年 6 月 27 日に開催されました。この日、レニングラードの高校生たちは、希望と未来への信頼、そして心からの願いの実現の象徴として、赤い帆を掲げたブリガンティン船をネヴァ川の岸辺で初めて迎えました。卒業生の祝祭は 1979 年まで続けられ、その後長い中断を経て、2005 年にこの伝統が復活しました。"
 
 msgid "IDS_PCEE697_BD9_SCARLET_FUTURE_2_FLAG"
 msgstr "未来のこだま"
@@ -68862,7 +68860,7 @@ msgid "IDS_PCEE698_KORTENAER_FLAG"
 msgstr "HNLMS Kortenaer"
 
 msgid "IDS_PCEE698_KORTENAER_FLAG_DESCRIPTION"
-msgstr "One of the British S-class destroyers was named Scorpion after the river gunboat of the same name was lost. In 1945, the destroyer was sold to the Netherlands, where it was named Kortenaer — in honor of the outstanding 17th-century admiral Egbert Bartolomeus Kortenaer, born in the city of Groningen."
+msgstr "S 型のイギリス駆逐艦の一隻は、同名の河川砲艦が沈没した後に「スコーピオン」と命名されました。1945 年、この駆逐艦はオランダに売却され、「コルテナール」と改名されました。この名前は、17 世紀の著名な提督エグベルト・バルトロメウス・コルテナールにちなんでおり、彼はフローニンゲン市で生まれました。"
 
 msgid "IDS_PCEE699_ZEUS_FLAG"
 msgstr "Zeus"
@@ -68898,7 +68896,7 @@ msgid "IDS_PCEE704_MOLOTOV_FLAG"
 msgstr "Molotov"
 
 msgid "IDS_PCEE704_MOLOTOV_FLAG_DESCRIPTION"
-msgstr "Vyacheslav Mikhailovich Molotov (1890–1986) was a prominent Soviet politician and statesman, serving as the People's Commissar, and later Minister of Foreign Affairs from 1939 to 1949 and from 1953 to 1956. In 1943–54, employees of the foreign policy department wore insignia on their hats: a cockade with the USSR emblem on the band and a palm branch symbolizing peaceful intentions on the crown."
+msgstr "ヴャチェスラフ・ミハイロヴィチ・モロトフ (1890–1986) は、ソ連の著名な国家・党指導者であり、1939 年から 1949 年、および 1953 年から 1956 年にかけて外務人民委員 (後に外務大臣) を務めた。1943 年から 1954 年にかけて、外交政策機関の職員は制帽に階級章を着用していた: 帽章には大きな星を伴ったソ連の国章が取り付けられ、帽子の本体部分には平和の意思を象徴するヤシの葉をあしらったエンブレムが配置されていた。"
 
 msgid "IDS_PCEE705_BLACK_ODIN_FLAG"
 msgstr "Odin B"
@@ -68910,10 +68908,10 @@ msgid "IDS_PCEE706_GER_GL_EA_FLAG"
 msgstr "ドイツの巡洋艦"
 
 msgid "IDS_PCEE706_GER_GL_EA_FLAG_DESCRIPTION"
-msgstr "Ships of the Hanseatic League, a medieval trade union of free cities in Europe, sailed under a red-and-white flag. The typical Hanseatic ship was a cog— a single-masted sailing ship with high sides and a strong hull."
+msgstr "ハンザ同盟、中世ヨーロッパの自由都市による貿易連合の船は、白と赤の旗の下で航海していました。典型的なハンザ船はコグと呼ばれる、高い舷側と頑丈な船体を持つ単檣帆船でした。"
 
 msgid "IDS_PCEE706_GER_GL_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "In honor of the early access release of new German cruisers in update 13.9."
+msgstr "アップデート 13.9 でアーリーアクセス艦艇として登場した新たなドイツ巡洋艦を記念して。"
 
 msgid "IDS_PCEE707_RUSSIAN_EMPIRE_FLAG"
 msgstr "ロシア帝国の紋章旗"
@@ -68925,49 +68923,49 @@ msgid "IDS_PCEE708_RESISTANCE_FLAG"
 msgstr "HMS Resistance"
 
 msgid "IDS_PCEE708_RESISTANCE_FLAG_DESCRIPTION"
-msgstr "Launched in 1861, the armored frigate Resistance was the first major ship of the British fleet equipped with a ram bow. For this, it earned the nickname 'Old Rammo.'"
+msgstr "1861 年に進水した装甲フリゲート艦「レジスタンス」は、イギリス海軍で衝角付き艦首を備えた最初の大型艦艇でした。この特徴から「オールド・ラモ (Old Rammo、『衝角じいさん』の意) 」という愛称で呼ばれました。"
 
 msgid "IDS_PCEE709_SURCOUF_FLAG"
 msgstr "Surcouf"
 
 msgid "IDS_PCEE709_SURCOUF_FLAG_DESCRIPTION"
-msgstr "The submarine Surcouf was named after Robert Surcouf (1773–1827), a famous French privateer who captured over 40 ships."
+msgstr "潜水艦シュルクーフは、40 隻以上の船舶を拿捕したことで知られる高名なフランスの私掠船船長、ロベール・シュルクーフ (1773–1827) にちなんで命名されました。"
 
 msgid "IDS_PCEE710_SAPHIR_FLAG"
 msgstr "Saphir"
 
 msgid "IDS_PCEE710_SAPHIR_FLAG_DESCRIPTION"
-msgstr "Until 1961, French submariners wore sleeve patches featuring two crossed torpedoes over golden lightning bolts."
+msgstr "1961 年まで、フランスの潜水艦乗組員は、金色の稲妻の上に交差した 2 本の魚雷が描かれた腕章を着用していました。"
 
 msgid "IDS_PCEE711_Z_32_FLAG"
 msgstr "Z-32"
 
 msgid "IDS_PCEE711_Z_32_FLAG_DESCRIPTION"
-msgstr "The flag of Ushant Island, near which the destroyer Z-32 was lost in battle on June 9, 1944."
+msgstr "1944 年 6 月 9 日、駆逐艦 Z-32 が戦闘に参加し失われたウェッサン島近海の旗。"
 
 msgid "IDS_PCEE712_Z_33_FLAG"
 msgstr "Z-33"
 
 msgid "IDS_PCEE712_Z_33_FLAG_DESCRIPTION"
-msgstr "The coat of arms of Spitsbergen features a walrus head on a yellow field. The destroyer Z-33 participated in the raid on Spitsbergen (Operation 'Sizilien') in September 1943."
+msgstr "スピッツベルゲンの紋章には、黄色の地にセイウチの頭が描かれています。駆逐艦 Z-33 は、1943 年 9 月にスピッツベルゲン襲撃 (オペレーション「ツィトロネラ」) に参加しました。"
 
 msgid "IDS_PCEE713_Z_38_FLAG"
 msgstr "Z-38"
 
 msgid "IDS_PCEE713_Z_38_FLAG_DESCRIPTION"
-msgstr "The coat of arms of the Norwegian coastal defense ship NoCGV Bjørnøya, named after Bear Island in the Svalbard archipelago. The destroyer Z-38 participated in the 'Ostfront' convoy interception operation near this island in December 1943."
+msgstr "ノルウェーの沿岸警備艦ビョルン島の紋章。この艦はスヴァールバル諸島のビョルン島にちなんで名付けられました。1943 年 12 月、この島の近くで、駆逐艦 Z-38 が参加した「オストフロント」船団迎撃作戦が行われました。"
 
 msgid "IDS_PCEE714_SHINANO_FLAG"
 msgstr "信濃"
 
 msgid "IDS_PCEE714_SHINANO_FLAG_DESCRIPTION"
-msgstr "In the 12th century, the historical province of Shinano was ruled by the legendary Japanese Minamoto clan. The kamon, or family crest, of the Minamoto clan depicted gentian and bamboo leaves."
+msgstr "12 世紀、歴史的な信濃国を支配したのは、伝説的な日本の源氏一族でした。家紋には、リンドウの葉と竹が描かれています。"
 
 msgid "IDS_PCEE715_ARCHERFISH_FLAG"
 msgstr "USS Archerfish"
 
 msgid "IDS_PCEE715_ARCHERFISH_FLAG_DESCRIPTION"
-msgstr "The emblem of the World War II-era American submarine USS Archerfish features a fish shooting a torpedo from a bow. The fish carries a quiver of torpedoes instead of arrows on its back, and wears a hat like that of the legendary Robin Hood."
+msgstr "第二次世界大戦時のアメリカ海軍潜水艦アーチャーフィッシュのエンブレムには、弓から魚雷を発射する魚が描かれています。魚の背中には矢の代わりに魚雷を収めた矢筒があり、頭には伝説的な義賊ロビン・フッドの帽子をかぶっています。"
 
 msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG"
 msgstr "Błyskawica '63"
@@ -68976,28 +68974,28 @@ msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG_DESCRIPTION"
 msgstr "グルンヴァルト十字は、ポーランドの軍事勲章であり、占領者に対する武装闘争においてポーランドの自由と独立のために勇敢に戦った者に授与されました。この勲章の構想は、第二次世界大戦中にドイツ占領下の地域で活動していたポーランド労働党の軍事組織である人民防衛隊の司令部で生まれました。"
 
 msgid "IDS_PCEE717_RUS_BOGATUR_FLAG"
-msgstr "Rusy Fleet"
+msgstr "ルーシ艦隊"
 
 msgid "IDS_PCEE717_RUS_BOGATUR_FLAG_DESCRIPTION"
-msgstr "The banner of the great Rusy, famed for their battle feats."
+msgstr "偉大なるルーシの旗、戦いの功績で輝く。"
 
 msgid "IDS_PCEE718_REPTILIAN_FLAG"
-msgstr "Lizard Fleet"
+msgstr "トカゲ艦隊"
 
 msgid "IDS_PCEE718_REPTILIAN_FLAG_DESCRIPTION"
-msgstr "The standard under which the vile lizard hordes march into battle."
+msgstr "卑劣なトカゲの大群が攻撃を仕掛ける際に掲げる軍旗。"
 
 msgid "IDS_PCEE719_SVERDLOVSK_FLAG"
 msgstr "Sverdlovsk"
 
 msgid "IDS_PCEE719_SVERDLOVSK_FLAG_DESCRIPTION"
-msgstr "In the USSR, Sverdlovsk was an industrial center of all-Union significance, and its key enterprise was the Ural Heavy Machinery Plant. This giant plant was awarded the most orders among all Soviet factories—eleven. Thus, in 1942 and 1983, Uralmash was awarded the Order of the Red Banner of Labor."
+msgstr "ソ連時代のスヴェルドロフスクは全連邦規模の工業中心地であり、その中核企業がウラル重機械製造工場でした。この巨大工場はソビエト連邦の全工場の中で最多となる 11 個の勲章を授与されました。例えば、1942 年と 1983 年にはウラルマシュが労働赤旗勲章を授与されています。"
 
 msgid "IDS_PCEE720_SOUZMULTFILM_FLAG"
-msgstr "Soyuzmultfilm"
+msgstr "ソユーズムリトフィルム"
 
 msgid "IDS_PCEE720_SOUZMULTFILM_FLAG_DESCRIPTION"
-msgstr "Soyuzmultfilm is a Soviet and Russian animation studio founded in 1936. Its animated works, like 'Nu, Pogodi!', 'Winnie-the-Pooh,' and 'The Adventures of Captain Wrongel,' have united generations of viewers and won over 400 international awards."
+msgstr "「ソユーズムリトフィルム」は 1936 年に設立された、ソ連およびロシアのアニメーション制作スタジオです。『ヌー、パガジー! 』、『愛しのプーさん』、『プロストクワシノ村の三人仲間』、『ワニのゲーナ』、『キッドとカールソン』といった名作の数々は、世代を超えて多くの視聴者に愛され続けています。同スタジオの作品は歴史を通じて 400 以上の国際的な賞を受賞しており、1970 年代から 80 年代にかけてはヨーロッパ最大の規模を誇るアニメーションスタジオとみなされていました。"
 
 msgid "IDS_PCEE721_KUZURYU_FLAG"
 msgstr "九頭龍"
@@ -69009,79 +69007,79 @@ msgid "IDS_PCEE722_CHANCELLORSVILLE_FLAG"
 msgstr "Chancellorsville"
 
 msgid "IDS_PCEE722_CHANCELLORSVILLE_FLAG_DESCRIPTION"
-msgstr "The Battle of Chancellorsville was a major battle of the American Civil War, where Confederate forces under General Robert E. Lee won one of their most brilliant victories, defeating an enemy force that was twice as large. The first flag of the Confederacy was modeled after the Austrian flag, and the stars arranged in a circle symbolized the states that joined the Confederacy."
+msgstr "チャンセラーズヴィルの戦いは、アメリカ南北戦争における主要な戦闘であり、ロバート・E・リー将軍率いるアメリカ連合国軍が、自軍の 2 倍の兵力を持つ敵軍を打ち破り、最も輝かしい勝利の一つを収めた。最初の連合国旗はオーストリア国旗を模して作られ、円形に配置された星は連合国に加盟した州を象徴していた。"
 
 msgid "IDS_PCEE723_FRUNZE_FLAG"
 msgstr "Frunze"
 
 msgid "IDS_PCEE723_FRUNZE_FLAG_DESCRIPTION"
-msgstr "Mikhail Vasilyevich Frunze (1885–1925) was a revolutionary, Soviet statesman, and military leader. From January 26 until his death on October 31, 1925, he served as the Chairman of the Revolutionary Military Council, the supreme collective body in charge of the Armed Forces of the RSFSR and later the USSR."
+msgstr "ミハイル・ヴァシーリエヴィチ・フルンゼ (1885–1925) は、革命家、ソビエトの国家指導者、軍司令官である。1925 年 1 月 26 日から同年 10 月 31 日に死去するまで、ロシア社会主義連邦ソビエト共和国、その後ソビエト連邦の軍隊を統括する最高合議制機関である革命軍事会議の議長を務めた。"
 
 msgid "IDS_PCEE724_HENGSHUI_FLAG"
 msgstr "衡水"
 
 msgid "IDS_PCEE724_HENGSHUI_FLAG_DESCRIPTION"
-msgstr "Paper lanterns play an important role in celebrating the Chinese New Year, which concludes with the Lantern Festival. New Year rituals based on the lunisolar calendar were described by Cui Shi, a scholar and official of the Han Dynasty, who hailed from an area now part of Hengshui city."
+msgstr "紙製の提灯は、元宵節で幕を閉じる中国の正月の祝賀において重要な役割を果たしています。旧暦の新年を祝う儀式は、現在の衡水市に当たる地域出身の漢王朝の学者であり政治家であった崔寔によって記述されました。"
 
 msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG"
 msgstr "パンアジア戦艦"
 
 msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_DESCRIPTION"
-msgstr "The image of the tiger unites many Eastern cultures and is often associated with healing and protection against evil forces in mythology. In ancient China, the tiger was considered the 'king of the forest' and symbolized the emperor's power."
+msgstr "虎のイメージは東洋の多くの文化に共通しており、神話においてはしばしば治癒や悪霊からの守護と結びついています。古代中国では、虎は「森の王」とされ、皇帝の権力を象徴していました。"
 
 msgid "IDS_PCEE725_PANASIA_BB_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "In honor of the early access release of Pan-Asian battleships in Update 25.1."
+msgstr "アップデート 25.1 でアーリーアクセス艦艇として登場したパンアジア戦艦を記念して。"
 
 msgid "IDS_PCEE726_USSR_FLAG"
-msgstr "State Flag of the USSR"
+msgstr "ソビエト連邦の国旗"
 
 msgid "IDS_PCEE726_USSR_FLAG_DESCRIPTION"
-msgstr "According to the Statute on the State Flag of the USSR, approved by the decree of the Presidium of the Supreme Soviet of the USSR on August 19, 1955, the State Flag of the Union of Soviet Socialist Republics symbolizes the state sovereignty of the USSR and the indissoluble union of workers and peasants in the fight for the construction of a communist society."
+msgstr "1955 年 8 月 19 日にソビエト連邦最高会議幹部会令によって承認された「ソビエト連邦国旗に関する規定」によれば、ソビエト社会主義共和国連邦の国旗は、ソビエト連邦の国家主権の象徴であり、共産主義社会建設の闘争における労働者と農民の固い同盟の象徴である。"
 
 msgid "IDS_PCEE728_YURI_DOLGORUKIY_FLAG"
 msgstr "Yuri Dolgoruky"
 
 msgid "IDS_PCEE728_YURI_DOLGORUKIY_FLAG_DESCRIPTION"
-msgstr "Yuri Dolgoruky was an ancient Russian prince linked to the first mention of Moscow in historical chronicles. A statue was erected in 1954, depicting him on horseback, pointing to the future city’s location."
+msgstr "ユーリー・ドルゴルーキーは、年代記にモスクワが初めて言及されることに関連する古代ロシアの公である。1954 年、ユーリー・ドルゴルーキーの記念碑が建立された：鐙に立ち上がり、騎手は新たな都市を築くべき場所を手で指し示している。"
 
 msgid "IDS_PCEE729_NANI_FLAG"
 msgstr "R. Smg. Giacomo Nani"
 
 msgid "IDS_PCEE729_NANI_FLAG_DESCRIPTION"
-msgstr "Giacomo Nani (1725–1797) was an admiral and statesman during the late Venetian Republic. The Nani family crest features a circular mirror, split into gold and red halves."
+msgstr "ジャコモ・ナーニ (1725–1797) は、ヴェネツィア共和国後期の提督であり政治家です。ナーニ家の紋章には、金色と赤色に二分された円形の鏡が描かれています。"
 
 msgid "IDS_PCEE730_MADRID_FLAG"
 msgstr "Madrid"
 
 msgid "IDS_PCEE730_MADRID_FLAG_DESCRIPTION"
-msgstr "The naval flag of Spain used between 1701 and 1785. During this period, Spanish kings reorganized and modernized the fleet to reclaim lost territories and strengthen influence in the New World."
+msgstr "1701 年から 1785 年にかけて使用されたスペイン海軍旗。この期間、スペインの国王たちは失われた領土を回復し、新世界における影響力を強化するために、艦隊の再編とアップグレードを実施しました。"
 
 msgid "IDS_PCEE731_ANSON_FLAG"
 msgstr "HMS Anson"
 
 msgid "IDS_PCEE731_ANSON_FLAG_DESCRIPTION"
-msgstr "George Anson (1697–1762) was a British admiral who undertook a circumnavigation. As Admiral of the Fleet, Anson commanded the Red Squadron, the most prestigious formation usually positioned at the center of the battle line."
+msgstr "ジョージ・アンソン (1697–1762) は、世界一周航海を成し遂げた英国の海軍提督である。艦隊司令官として、アンソンは赤戦隊の艦長を務めた。赤戦隊は、通常、戦列の中央に位置する最重要部隊であった。"
 
 msgid "IDS_PCEE732_SOVREMENNY_FLAG"
 msgstr "Sovremenny"
 
 msgid "IDS_PCEE732_SOVREMENNY_FLAG_DESCRIPTION"
-msgstr "The emblem of the 7th Operational ('Atlantic') Squadron of the Northern Fleet features seven stars representing the squadron’s number, a winged anchor signifying aviation units, and three swords symbolizing its three core components (aircraft carriers, missile ships, and artillery ships)."
+msgstr "第 7 作戦 (「大西洋」) 艦隊のエンブレムにおいて、7 つの星は艦隊番号を表し、翼の生えた錨は航空母艦搭乗員の徽章であり、3 本の剣は艦隊の 3 つの構成要素 (航空母艦、ミサイル艦、砲艦) を象徴しています。"
 
 msgid "IDS_PCEE733_PARIZHSKAYA_KOMMUNA_FLAG"
-msgstr "Paris Commune"
+msgstr "パリ・コミューン"
 
 msgid "IDS_PCEE733_PARIZHSKAYA_KOMMUNA_FLAG_DESCRIPTION"
 msgstr "赤色労働者・農民艦隊戦艦「パリ・コミューン」の指揮官旗。この艦は、1871 年春にパリで 72 日間存続した革命的なコミューンにちなんで命名されました。フリードリヒ・エンゲルスは、パリ・コミューンが世界に真のプロレタリア独裁の実例を示したと記しています。"
 
 msgid "IDS_PCEE734_SOVIET_DD_EA_FLAG"
-msgstr "Soviet Destroyers"
+msgstr "ソ連駆逐艦"
 
 msgid "IDS_PCEE734_SOVIET_DD_EA_FLAG_DESCRIPTION"
-msgstr "In the USSR, commemorative badges were produced in honor of warships. The main design was based on the naval ensign, and the ship’s silhouette was placed below."
+msgstr "ソ連では、戦闘艦艇を記念する記章が発行されていました。この記章の基本デザインは海軍の職務旗を描き、下部には艦艇のシルエットが配置されていました。"
 
 msgid "IDS_PCEE734_SOVIET_DD_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "In honor of the early access release of the new Soviet destroyers in Update 25.4."
+msgstr "アップデート 25.4でアーリーアクセス艦艇として登場した新たなソ連駆逐艦を記念して。"
 
 msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG"
 msgstr "Jutland CLR"
@@ -69177,22 +69175,22 @@ msgid "IDS_PCEE748_MITA_FLAG_DESCRIPTION"
 msgstr "She is friendly and tactful, moderately flirtatious. Mita demands attention and care."
 
 msgid "IDS_PCEE748_MITA_FLAG_EXTRA_DESCRIPTION"
-msgstr "From the MiSide game."
+msgstr "MiSide ゲームから。"
 
 msgid "IDS_PCEE749_BATTLE_TOURNAMENT_FLAG"
-msgstr "Tournament Banner"
+msgstr "トーナメントバナー"
 
 msgid "IDS_PCEE749_BATTLE_TOURNAMENT_FLAG_DESCRIPTION"
-msgstr "In Tournament Battles, everyone can test their skills and discover their potential. Through the crucible of competition, amateurs become professionals, and comrades-in-arms become champions ready for new victories."
+msgstr "トーナメント戦では、誰もが己の力を試し、自らの可能性を知ることができる。競争のるつぼをくぐり抜けることで、アマチュアはプロへと成長し、戦友たちは新たな勝利に向けて準備されたチャンピオンとなる。"
 
 msgid "IDS_PCEE750_TM_FLAG"
-msgstr "Discipline and Daring"
+msgstr "規律と大胆さ"
 
 msgid "IDS_PCEE750_TM_FLAG_DESCRIPTION"
-msgstr "Keira is the top student of the Northern Maritime Academy. She attacks quickly and precisely, like a sharp saber, and eliminates any opponents in her path."
+msgstr "キーラは北海の海軍士官学校の首席学生です。彼女は鋭いサーベルのように素早く正確に攻撃し、目の前の敵をすべて排除します。"
 
 msgid "IDS_PCEE750_TM_FLAG_EXTRA_DESCRIPTION"
-msgstr "In honor of the \"Tsar Morey\" tournament."
+msgstr "「海の皇帝」トーナメントを記念して。"
 
 msgid "IDS_PCEE751_FRENCH_SS_EA_FLAG"
 msgstr "フランス潜水艦"
@@ -69261,10 +69259,10 @@ msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG_EXTRA_DESCRIPTION"
 msgstr "In honor of the new Italian cruisers entering Early Access in update 25.10."
 
 msgid "IDS_PCEE761_THE_ALLIANCE_FLAG"
-msgstr "Alliance"
+msgstr "同盟"
 
 msgid "IDS_PCEE761_THE_ALLIANCE_FLAG_DESCRIPTION"
-msgstr "Operating in the shadows of superpowers is the powerful organization — the Alliance, created after WWII to prevent global conflicts. However, this organization's methods are far from humane. The Alliance seeks to reclaim technologies stolen by the Krieger family."
+msgstr "超大国の陰で活動する強大な組織――同盟は、第二次世界大戦後に全球的紛争を防ぐために創設された。しかし、この組織の手法は人道主義からかけ離れている。同盟は Krieger 家に盗まれた技術を取り戻そうとしている。"
 
 msgid "IDS_PCEE762_WAFFENTRAGER_FLAG"
 msgstr "Waffenträger"
@@ -69282,7 +69280,7 @@ msgid "IDS_PCEE764_BIRTHDAY2025_FLAG"
 msgstr "MK 記念日のお祝い"
 
 msgid "IDS_PCEE764_BIRTHDAY2025_FLAG_DESCRIPTION"
-msgstr "In honor of the tenth anniversary of \"Mir Korabley\"."
+msgstr "「Mir Korabley」の 10 周年を記念して。"
 
 msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG"
 msgstr "尾張の鬼"
@@ -69381,25 +69379,25 @@ msgid "IDS_PCEE780_NY_2026_FLAG"
 msgstr "新年への道"
 
 msgid "IDS_PCEE780_NY_2026_FLAG_DESCRIPTION"
-msgstr "Happy journey!"
+msgstr "良い旅を!"
 
 msgid "IDS_PCEE781_CYBER_SLAVA_FLAG"
 msgstr "Cyberslava"
 
 msgid "IDS_PCEE781_CYBER_SLAVA_FLAG_DESCRIPTION"
-msgstr "A warship created in the image and likeness of a mighty half-blooded hero possessing superhuman strength."
+msgstr "半神の英雄を模して造られた戦闘艦艇で、人間離れした力を備えています。"
 
 msgid "IDS_PCEE781_CYBER_SLAVA_FLAG_EXTRA_DESCRIPTION"
-msgstr "From the 'Cyberslav' series."
+msgstr "シリーズ「サイバースラブ」より。"
 
 msgid "IDS_PCEE782_CYBERSLAV_FLAG"
 msgstr "Cyberslav"
 
 msgid "IDS_PCEE782_CYBERSLAV_FLAG_DESCRIPTION"
-msgstr "Incredible power and endurance helped Cyberslav become the most successful hunter of evil spirits. The hero hates his beastly nature and voluntarily agrees to wear a church collar that restrains the manifestation of his 'dark essence'."
+msgstr "驚異的な力とスタミナが、キベルスラフを最も成功した悪霊狩人にした。英雄は自らの獣的な本性を憎み、自発的に「闇の本質」の発現を抑制する教会の首輪を着けることに同意する。"
 
 msgid "IDS_PCEE782_CYBERSLAV_FLAG_EXTRA_DESCRIPTION"
-msgstr "From the 'Cyberslav' series."
+msgstr "シリーズ「サイバースラブ」より。"
 
 msgid "IDS_PCEE783_STRANA_SOVETOV_FLAG"
 msgstr "Strana Sovetov"
@@ -70692,7 +70690,7 @@ msgid "IDS_PCVE022_MATCHMAKER_DESCRIPTION"
 msgstr "Complete five challenges, competing with other players in elimination."
 
 msgid "IDS_PCVE023"
-msgstr "Asymmetric Battle: Rusy vs Lizards"
+msgstr "非対称戦: Rusy vs Lizards"
 
 msgid "IDS_PCVE023_DESCRIPTION"
 msgstr "Great feats against lizards who outnumber you in both numbers and firepower but are outmatched in heroic vigor."
@@ -70748,37 +70746,37 @@ msgid "IDS_PCVE028"
 msgstr "ヌー、パガジー!"
 
 msgid "IDS_PCVE028_DESCRIPTION"
-msgstr "'Catch the Eggs' competition."
+msgstr "卵取り競争。"
 
 msgid "IDS_PCVE028_MATCHMAKER_DESCRIPTION"
-msgstr "'Catch the Eggs' competition."
+msgstr "卵取り競争。"
 
 msgid "IDS_PCVE029"
 msgstr "潜水戦線"
 
 msgid "IDS_PCVE029_DESCRIPTION"
-msgstr "Battles in which you will test changes made to submarines and the tools for countering them."
+msgstr "潜水艦と対潜水艦戦術の進化を体験できる戦闘。"
 
 msgid "IDS_PCVE029_MATCHMAKER_DESCRIPTION"
-msgstr "Battles in which you will test changes made to submarines and the tools for countering them."
+msgstr "潜水艦と対潜水艦戦術の進化を体験できる戦闘。"
 
 msgid "IDS_PCVE030"
 msgstr "Waffenträger: Isolation"
 
 msgid "IDS_PCVE030_DESCRIPTION"
-msgstr "Asymmetric battles between Ermelinda Jung and the Hounds. Choose your side and find your tactic!"
+msgstr "Ermelinda Jung と猟犬の間の非対称戦闘。陣営を選び、独自の戦術を見つけ出せ!"
 
 msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_1_HEADER"
 msgstr "戦闘への帰還"
 
 msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "The Alliance possesses regeneration technologies: all destroyed Hounds can return to battle."
+msgstr "同盟は再生技術を有しています: 全ての破壊された猟犬は戦闘に復帰することが可能です。"
 
 msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_2_HEADER"
-msgstr "PORTALS"
+msgstr "ポータル"
 
 msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Travel to the opposite side of the map using portals."
+msgstr "ポータルを使用してマップの反対側に移動してください。"
 
 msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_3_HEADER"
 msgstr "CONTROL POINTS"
@@ -70790,7 +70788,7 @@ msgid "IDS_PCVE030_MATCHMAKER_DESCRIPTION"
 msgstr "グリムズビー諸島"
 
 msgid "IDS_PCVE030_START_TASK_HOUND"
-msgstr "Destroy Ermelinda's ship before the evacuation system launches"
+msgstr "Ermelinda の艦艇を撃沈せよ、避難システムが起動する前に"
 
 msgid "IDS_PCVE030_START_TASK_WAFFENTRAGER"
 msgstr "避難システムを充電し、猟犬に破壊されないようにしてください"
@@ -70799,16 +70797,16 @@ msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_1_HEADER"
 msgstr "戦闘への復帰"
 
 msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "The Alliance possesses regeneration technologies: all destroyed Hounds can return to battle."
+msgstr "同盟は再生技術を有しています: 全ての破壊された猟犬は戦闘に復帰することが可能です。"
 
 msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_2_HEADER"
-msgstr "PORTALS"
+msgstr "ポータル"
 
 msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Travel to the opposite side of the map using portals."
+msgstr "ポータルを使用してマップの反対側に移動してください。"
 
 msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_3_HEADER"
-msgstr "EVACUATION SYSTEM"
+msgstr "避難システム"
 
 msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
 msgstr "ポイントを確保し、猟犬を破壊して避難システムをチャージしてください。占領したキーエリアは防御ボーナスも提供します。"
@@ -99429,25 +99427,25 @@ msgid "IDS_PORTAL_CLOSING_COUNTDOWN_PROGRESS"
 msgstr "ポータル閉鎖まで:"
 
 msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_1_F"
-msgstr "Allied Alliance ships without crew on board opened fire on Conrad's ships."
+msgstr "同盟の自動艦がコンラッドの艦艇に向けて発砲しました。"
 
 msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_2_F"
-msgstr "Someone from an allied ship made contact and mentioned a familiar surname."
+msgstr "同盟艦艇から誰かが通信に出て、聞き覚えのある名字を名乗った。"
 
 msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_3_F"
-msgstr "The general tells Conrad about the Krieger family. The isolation becomes increasingly frightening."
+msgstr "将軍はコンラッドに Krieger ー家のことを話す。孤立はますます恐ろしくなっていく。"
 
 msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_4_F"
-msgstr "Ermelinda removes her mask and reveals her plan."
+msgstr "エルメリンダは仮面を剥ぎ取り、自身の計画について語り始めます。"
 
 msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_5_F"
-msgstr "Congratulations, you have completed the portal campaign!"
+msgstr "おめでとうございます、ポータルキャンペーンをクリアしました!"
 
 msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_FINAL"
 msgstr "Portal campaign completed."
 
 msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_INTRO"
-msgstr "James Conrad received a task from the Alliance: he is to lead the Hounds."
+msgstr "ジェームス・コンラッドは同盟から任務を受けました: 彼は猟犬を率いることになります。"
 
 msgid "IDS_PORTAL_HARD"
 msgstr "逢魔時ハント"
@@ -99472,36 +99470,36 @@ msgstr "大海の覇権"
 
 msgid "IDS_PORTAL_TITLE_WTEVENT_2510_1_F"
 msgstr ""
-"Protect Erebus.\n"
-"Chapter 2"
+"エレブスを守れ。\n"
+"第 2 章"
 
 msgid "IDS_PORTAL_TITLE_WTEVENT_2510_2_F"
 msgstr ""
-"Protect Erebus.\n"
-"Chapter 3"
+"エレブスを守れ。\n"
+"第 3 章"
 
 msgid "IDS_PORTAL_TITLE_WTEVENT_2510_3_F"
 msgstr ""
-"Protect Erebus.\n"
-"Chapter 4"
+"エレブスを守れ。\n"
+"第 4 章"
 
 msgid "IDS_PORTAL_TITLE_WTEVENT_2510_4_F"
 msgstr ""
-"Protect Erebus.\n"
-"Chapter 5"
+"エレブスを守れ。\n"
+"第 5 章"
 
 msgid "IDS_PORTAL_TITLE_WTEVENT_2510_5_F"
 msgstr ""
-"Protect Erebus.\n"
-"Finale"
+"エレブスを守れ。\n"
+"フィナーレ"
 
 msgid "IDS_PORTAL_TITLE_WTEVENT_2510_FINAL"
-msgstr "Protect Erebus"
+msgstr "エレバスを守れ"
 
 msgid "IDS_PORTAL_TITLE_WTEVENT_2510_INTRO"
 msgstr ""
-"Protect Erebus.\n"
-"Chapter 1"
+"エレブスを守れ。\n"
+"第 1 章"
 
 msgid "IDS_PORTAL_ULTRAHARD"
 msgstr "逢魔時ハント"
@@ -99921,7 +99919,7 @@ msgid "IDS_PRAISES_RECEIVED_COUNT"
 msgstr "賛辞の取得数:"
 
 msgid "IDS_PRAISE_ACCEPTED"
-msgstr "賛辞送信完了"
+msgstr "絵文字リアクション送信完了"
 
 msgid "IDS_PRAL301_KOMSOMOLETS_STOCK"
 msgstr "TsKB ShON"
@@ -112457,13 +112455,13 @@ msgid "IDS_PXES330_YAMATO_HW19"
 msgstr "Scorpioid"
 
 msgid "IDS_PXES400_WAFFLE_SIGNALTRAGER"
-msgstr "Von Krieger's Legacy"
+msgstr "Von Krieger の遺産"
 
 msgid "IDS_PXES401_WAFFLE_FLAMMENREITER"
-msgstr "Von Krieger's Legacy"
+msgstr "Von Krieger の遺産"
 
 msgid "IDS_PXES402_WAFFLE_GEISTERJAGER"
-msgstr "Von Krieger's Legacy"
+msgstr "Von Krieger の遺産"
 
 msgid "IDS_PXES408_CHARLES_MARTEL_H2017"
 msgstr "Scarab"
@@ -114431,7 +114429,7 @@ msgid "IDS_PXSD007"
 msgstr "Schnellboot"
 
 msgid "IDS_PXSD007_DESCR"
-msgstr "Bot ship for operations."
+msgstr "オペレーション用ボット艦艇。"
 
 msgid "IDS_PXSD007_FULL"
 msgstr "Schnellboot"
@@ -121421,7 +121419,7 @@ msgid "IDS_REWARD_EVENTUM_2_TITLE"
 msgstr "新年証券"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "アメリカのトークン"
+msgstr "アメリカ・トークン"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr "三国志トークン"
@@ -128531,7 +128529,7 @@ msgid "IDS_SEASON_RESTRICTIONS_TOOLTIP_HEADER"
 msgstr "制限"
 
 msgid "IDS_SEASON_RESTRICTIONS_TOOLTIP_STATUS_LINE"
-msgstr "Restrictions on selecting specific ships apply in the selected battle type."
+msgstr "選択された戦闘タイプでは、特定の艦艇の選択に制限が適用されます。"
 
 msgid "IDS_SEASON_TITLE_0"
 msgstr "テストシーズン"
@@ -128744,7 +128742,7 @@ msgid "IDS_SECOND_AMERICAN_ARCSUBCOLLECTION_NAME"
 msgstr "巡洋艦 (1940 年代)"
 
 msgid "IDS_SECOND_ARIA_NAME"
-msgstr "Songs"
+msgstr "歌"
 
 msgid "IDS_SECOND_AZURLANESUBCOLLECTION_NAME"
 msgstr "ロイヤル"
@@ -128917,13 +128915,13 @@ msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_CLAN"
 msgstr "クラン戦に適合する艦艇を選択"
 
 msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_EVENT"
-msgstr "Select a suitable ship for the currently selected battle type"
+msgstr "選択中の戦闘タイプに適合する艦艇を選択"
 
 msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_OPERATION"
 msgstr "このオペレーションに参加可能な艦艇を選択"
 
 msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_TOURNAMENT"
-msgstr "Select a suitable ship for the Tournament Battle"
+msgstr "トーナメント戦の適合艦艇を選択"
 
 msgid "IDS_SELECT_ONE_OF_SHIPS_ALLOWED_FOR_TRAINING"
 msgstr "トレーニング戦の適合艦艇を選択"
@@ -129168,7 +129166,7 @@ msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_CHANGE_CONSUMABLES"
 msgstr "ステータスが「分艦隊での戦闘準備完了」になっています。搭載中の消耗品を変更するには、「準備中」をクリックしてください。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_CHANGE_WT_TASK"
-msgstr "Status set to 'Ready for Division Battle'. Press 'Not Ready' to change the task."
+msgstr "ステータスが「分艦隊での戦闘準備完了」になっています。任務を変更するには、「準備中」をクリックしてください。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_FREE_CREW_SKILLPOINTS"
 msgstr "ステータスが「分艦隊での戦闘準備完了」になっています。スキルを再分配するには、「準備中」をクリックしてください。"
@@ -131011,16 +131009,16 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM233_SLOWDOWN_WT"
 msgstr "減速弾"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM251_HOUNDS_REGENERATION_WT"
-msgstr "Mechanism Regeneration"
+msgstr "メカニズムの再生"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_RUSY_VS_LIZARDS"
-msgstr "Daring Valor"
+msgstr "若者の勇猛さ"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_SECRET_EFFECT"
 msgstr "実験的システム"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VAMPIRISM"
-msgstr "Techno-vampirism"
+msgstr "テクノヴァンピリズム"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE"
 msgstr "航空被発見距離"
@@ -131323,13 +131321,13 @@ msgid "IDS_SHIP_MODIFIER_PXOM190_REGENERATION_DE2025_APPLIED"
 msgstr "HP 回復"
 
 msgid "IDS_SHIP_MODIFIER_PXOM196_ENGINE_WT_APPLIED"
-msgstr "Team Engine Boost applied"
+msgstr "チーム・エンジンブーストが適用されました"
 
 msgid "IDS_SHIP_MODIFIER_PXOM217_HOUNDSRESIST_WT_APPLIED"
-msgstr "Team Shield applied"
+msgstr "チームシールドが適用されました"
 
 msgid "IDS_SHIP_MODIFIER_PXOM218_HOUNDSVAMPIRISM_WT_APPLIED"
-msgstr "Armor Extraction applied"
+msgstr "アーマー抽出が適用されました"
 
 msgid "IDS_SHIP_MODIFIER_PXOM239_2025WT_BMANCER_SHOTDELAY"
 msgstr "信号 1: ***"
@@ -131368,10 +131366,10 @@ msgid "IDS_SHIP_MODIFIER_PXOM244_2025WT_BM_BOTS_REGEN_APPLIED"
 msgstr "信号 6: HP 回復"
 
 msgid "IDS_SHIP_MODIFIER_PXOM251_HOUNDS_REGENERATION_WT_APPLIED"
-msgstr "Mechanism Regeneration applied"
+msgstr "メカニズムの再生が適用されました"
 
 msgid "IDS_SHIP_MODIFIER_PXY534_PXOM233_SLOWDOWN_WT_APPLIED"
-msgstr "Slowing Shells applied"
+msgstr "減速弾が適用されました"
 
 msgid "IDS_SHIP_MODIFIER_SOURCE_AIR_SUPPORT_SQUADRON"
 msgstr "主砲の射程と命中精度が向上しました"
@@ -133296,7 +133294,7 @@ msgid "IDS_SHOWSTATS"
 msgstr "チームラインナップ"
 
 msgid "IDS_SHOWSTATS_DESCRIPTION"
-msgstr "Display columns with the names, classes, tiers, and HP of ships in the team compositions. Player name display can be configured separately."
+msgstr "各チームの艦艇の名称、種類、Tier、HP を表示します。プレイヤー名の表示は個別に設定できます。"
 
 msgid "IDS_SHOW_ADDITION_CONTENT"
 msgstr "非歴史的なスタイルの迷彩と艦長"
@@ -134198,7 +134196,7 @@ msgid "IDS_SLAVYANA_WINTER"
 msgstr "冬のスラヴィア"
 
 msgid "IDS_SLOT_MODULES_SHIP_CROSS_RESEARCH"
-msgstr "Required to research for ship access"
+msgstr "次の艦艇を研究するには、これらのモジュールの研究が必要です"
 
 msgid "IDS_SLOT_PURCHASE"
 msgstr "スロットの購入"
@@ -136493,7 +136491,7 @@ msgid "IDS_START_BATTLE_DENY_REASON_DIVISION_PLAYERS_ABUSE_STATUS"
 msgstr "あなたの分艦隊のプレイヤー 1 名にスポーツマンシップ違反に対するペナルティが科されました。このため、あなたは現在、Co-op 戦とクラン戦のみに参加可能です。"
 
 msgid "IDS_START_BATTLE_DENY_REASON_IN_TOURNAMENT_ROOM"
-msgstr "The battle will start automatically after a certain time."
+msgstr "一定時間後に戦闘が自動的に開始されます。"
 
 msgid "IDS_START_BATTLE_DENY_REASON_NOT_READY_IN_DIVISION"
 msgstr "「準備完了!」ボタンを押してください。"
@@ -136524,7 +136522,7 @@ msgid "IDS_START_QUEST"
 msgstr "開始"
 
 msgid "IDS_STAR_SAVED_DESCRIPTION"
-msgstr "You did not win, but you ranked 1st in experience on your team."
+msgstr "あなたは勝利しませんでしたが、チーム内の EXP で 1 位を獲得しました。"
 
 msgid "IDS_STATIC_CROSSHAIRS"
 msgstr "静的"
@@ -137145,16 +137143,16 @@ msgid "IDS_SUBS_IMPROVE_EVENT"
 msgstr "潜水戦線"
 
 msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_LOSE"
-msgstr "The enemy managed to escape"
+msgstr "敵は逃げることに成功した"
 
 msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_WON"
-msgstr "Long live the Alliance!"
+msgstr "同盟万歳!"
 
 msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_LOSE"
-msgstr "Von Krieger's legacy will be forgotten"
+msgstr "Von Krieger の遺産は忘れ去られるだろう"
 
 msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_WON"
-msgstr "Von Krieger's legacy is immortal!"
+msgstr "Von Krieger の遺産は永遠に不滅だ!"
 
 msgid "IDS_SUB_ALBUM_COLLECTED_WINDOW_TITLE"
 msgstr "ページ完成"
@@ -137558,10 +137556,10 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
 msgstr "新年証券購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "Italian Tokens purchased"
+msgstr "アメリカ・トークンの購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
-msgstr "Three Kingdoms Tokens purchased"
+msgstr "三国志トークンの購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
 msgstr "Colorful Tokens purchased"
@@ -137789,7 +137787,7 @@ msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_UNIQUE_SKILL_UNLOCKING"
 msgstr "固有スキルを取得しました"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_AVAILABLE"
-msgstr "Elite training available."
+msgstr "エリート訓練が利用可能です"
 
 msgid "IDS_SYS_MSG_CREW_RESET_SKILLS"
 msgstr "艦長スキルのリセット完了"
@@ -137798,7 +137796,7 @@ msgid "IDS_SYS_MSG_CREW_START_ADAPTATION"
 msgstr "再訓練開始"
 
 msgid "IDS_SYS_MSG_DENUNCIATIONS_ACCEPTED"
-msgstr "通報の送信完了!"
+msgstr "あなたの通報の送信完了!"
 
 msgid "IDS_SYS_MSG_DENUNCIATIONS_RECEIVED"
 msgstr "通報されました!"
@@ -137915,7 +137913,7 @@ msgid "IDS_SYS_MSG_INVOICE_RENT_SHIP_PROLONGED"
 msgstr "艦艇のレンタル期間を延長"
 
 msgid "IDS_SYS_MSG_KICKED_FROM_TRAINING_ROOM"
-msgstr "You are excluded from the training room"
+msgstr "あなたはトレーニングルームから除外されました"
 
 msgid "IDS_SYS_MSG_LEFT_MOUSE_SHOW_PROMO_SCREEN"
 msgstr "詳細"
@@ -138032,7 +138030,7 @@ msgid "IDS_SYS_MSG_RECEIVED_BARRACKS_SPACE"
 msgstr "リザーブ部屋を取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_BP_POINTS"
-msgstr "Battle Pass points received"
+msgstr "BATTLE PASS ポイントを取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_BRASS"
 msgstr "チャンピオン・トークンを取得"
@@ -138092,7 +138090,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
 msgstr "新年券を受け取りました"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "アメリカのトークンが受け取られました"
+msgstr "アメリカ・トークンが受け取られました"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr "三国志トークンが受け取りました"
@@ -138316,7 +138314,7 @@ msgid "IDS_SYS_MSG_SHIP_BUY"
 msgstr "艦艇の購入完了"
 
 msgid "IDS_SYS_MSG_SHIP_CRAFTED"
-msgstr "Ship repaired"
+msgstr "艦艇は修理されました"
 
 msgid "IDS_SYS_MSG_SHIP_EXPLORE"
 msgstr "艦艇の研究完了"
@@ -138469,7 +138467,7 @@ msgid "IDS_SYS_MSG_WAFFENTRAGER_BOOSTER_UPGRADED"
 msgstr "Bureau bonus upgraded"
 
 msgid "IDS_SYS_MSG_WAFFENTRAGER_TASK_REROLLED"
-msgstr "Combat Task replaced"
+msgstr "戦闘任務が変更されました"
 
 msgid "IDS_SYS_MSG_WAFFENTRAGER_THRESHOLD_PASSED"
 msgstr "Level passed in the 'Waffenträger: Isolation' event"
@@ -138550,7 +138548,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
 msgstr "Italian Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
-msgstr "Three Kingdoms Tokens deducted"
+msgstr "三国志トークンの削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
 msgstr "Colorful Tokens written off"
@@ -138760,7 +138758,7 @@ msgid "IDS_TAKEN_CHARGE_LASER_HINT"
 msgstr "レーザーの被弾数と被ダメージ"
 
 msgid "IDS_TAKEN_DAMAGED_MODULES_HINT"
-msgstr "Number of incapacitated modules"
+msgstr "モジュールの損傷の数"
 
 msgid "IDS_TAKEN_DAMAGE_HINT"
 msgstr "被ダメージ"
@@ -139448,7 +139446,7 @@ msgid "IDS_TEAM_RESOURCES"
 msgstr "輸送中"
 
 msgid "IDS_TEAM_STRATEGIC_ACTIONS"
-msgstr "Raid in the Ice"
+msgstr "氷海の襲撃"
 
 msgid "IDS_TEAM_STRUCTURE"
 msgstr "チームメンバー"
@@ -139826,13 +139824,13 @@ msgid "IDS_THEODORECHANDLER"
 msgstr "Theodore E. Chandler"
 
 msgid "IDS_THE_WAITING_TIME_IN_A_COOPERATIVE_BATTLE_IS_FIXED"
-msgstr "Guaranteed matchmaking within 30 seconds"
+msgstr "30 秒でプレイヤーを保証付きでマッチング"
 
 msgid "IDS_THIRD_AMERICAN_ARCSUBCOLLECTION_NAME"
 msgstr "主砲"
 
 msgid "IDS_THIRD_ARIA_NAME"
-msgstr "Instruments"
+msgstr "ツール"
 
 msgid "IDS_THIRD_AZURLANESUBCOLLECTION_NAME"
 msgstr "鉄血"
@@ -139901,10 +139899,10 @@ msgid "IDS_THIRD_PCZA027_TFTM_108_NAME"
 msgstr "《オートボット》ゲームでの歴史"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_2_NAME"
-msgstr "Science Without Borders"
+msgstr "国境なき科学"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_NAME"
-msgstr "Scientists of all nations, unite!"
+msgstr "万国の科学者よ、団結せよ!"
 
 msgid "IDS_THIRD_SOVIETBBARC_NAME"
 msgstr "著名人"
@@ -140009,7 +140007,7 @@ msgid "IDS_TIME_TILL_CAPTURE_POINT_ACTIVATION"
 msgstr "キーエリア出現までの時間"
 
 msgid "IDS_TIME_TILL_RESPAWN"
-msgstr "Time until return to battle:"
+msgstr "再出撃まで:"
 
 msgid "IDS_TIME_TO_LOOT"
 msgstr "%(_lootTimeStamp)s EXP"
@@ -140199,7 +140197,7 @@ msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_DESCRIPTION"
 msgstr "<p>代替射撃モード「バースト射撃」は、主砲から、短い間隔で装填なしに複数の斉射を可能にします。</p><p class=\"p_spacing\"> </p><p>一連の斉射を行う毎に長い装填時間を要します。</p><p class=\"p_spacing\"> </p><p>射撃モードは [CMD_TOGGLE_FIRE_MODE] を押すことで切り替えられます。</p>"
 
 msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_NOT_SWITCHABLE"
-msgstr "Only \"Burst Fire\" mode available"
+msgstr "バースト射撃のみ利用可能です"
 
 msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_NOT_SWITCHABLE_DESCRIPTION"
 msgstr "<p>あなたの艦艇の主砲は、「バースト射撃」モードでのみ発砲します。</p><p class=\"p_spacing\"> </p><p>短い最小間隔で複数の斉射を行えますが、その後、より長い再装填時間を要します。</p>"
@@ -140268,7 +140266,7 @@ msgid "IDS_TIPS_DEPTH_CHARGES"
 msgstr "爆雷"
 
 msgid "IDS_TIPS_DEPTH_CHARGES_DESCRIPTION"
-msgstr "<p>Depth charge release is available via [CMD_AMMO_SLOT_G].</p><p class=\"p_spacing\"> </p><p>Depth charges remain in the water for a certain time and explode near submarines or other targets. Destroy torpedoes and mines, and also deal minor damage to surface targets.</p>"
+msgstr "<p>爆雷は [CMD_AMMO_SLOT_G] キーで投下できます。</p><p class=\"p_spacing\"></p><p>爆雷は水中で一定時間滞留し、潜水艦やその他の目標の近くで爆発する。魚雷や機雷を破壊し、水上目標に対してもわずかなダメージを与える。</p>"
 
 msgid "IDS_TIPS_DESTROYERS"
 msgstr "駆逐艦"
@@ -140280,7 +140278,7 @@ msgid "IDS_TIPS_FIRE_AND_FLOODING"
 msgstr "火災と浸水"
 
 msgid "IDS_TIPS_FIRE_AND_FLOODING_DESCRIPTION"
-msgstr "<p>Fires and flooding damage your ship until they are extinguished.</p><p class=\"p_spacing\"> </p><p>Use 'Damage Control Party' to quickly extinguish fires and stop flooding.</p>"
+msgstr "<p>火災や浸水が発生した場合、それが鎮火/復旧されるまでは徐々にダメージを受けます。</p><p class=\"p_spacing\"> </p><p>消耗品「応急工作班」[CMD_CONSUMABLE_0] を使用し、火災消火および浸水復旧作業を促進しましょう。</p>"
 
 msgid "IDS_TIPS_FIRE_CORRECTIONER"
 msgstr "着弾観測機"
@@ -140292,7 +140290,7 @@ msgid "IDS_TIPS_FORCING"
 msgstr "エンジンブースト"
 
 msgid "IDS_TIPS_FORCING_DESCRIPTION"
-msgstr "Temporarily increases the ship's maximum speed and reduces acceleration and deceleration time."
+msgstr "一時的に艦の最大速度を上げ、加速および減速時間を短縮します。"
 
 msgid "IDS_TIPS_HEAL_FORSAGE"
 msgstr "エンジン冷却"
@@ -140340,7 +140338,7 @@ msgid "IDS_TIPS_HYDROACUSTIC_SEARCH"
 msgstr "水中聴音"
 
 msgid "IDS_TIPS_HYDROACUSTIC_SEARCH_DESCRIPTION"
-msgstr "<p>Detects ships and submarines at periscope depth or on the surface, as well as torpedoes, mines, and depth charges, including within a smoke screen area.</p><p class=\"p_spacing\"> </p><p>Shows approximate positions of submarines at operating depth.</p>"
+msgstr "<p>潜望鏡深度または (煙幕内を含む) 水上にある艦艇や潜水艦、ならびに魚雷、機雷、爆雷を探知します。</p><p class=\"p_spacing\"></p><p>作戦深度にいる潜水艦の推定位置を表示します。</p>"
 
 msgid "IDS_TIPS_MAIN_CALIBER_RELOAD_BOOST"
 msgstr "主砲装填ブースター"
@@ -140366,7 +140364,7 @@ msgid "IDS_TIPS_MODULES"
 msgstr "モジュール"
 
 msgid "IDS_TIPS_MODULES_DESCRIPTION"
-msgstr "<p>Ship modules can be disabled.</p><p class=\"p_spacing\"> </p><p>Use 'Damage Control Party' to instantly repair damaged modules.</p>"
+msgstr "<p>艦艇のモジュールは故障する可能性があります。</p><p class=\"p_spacing\"> </p><p>損傷したモジュールを即座に修理するには「応急工作班」を使用してください。</p>"
 
 msgid "IDS_TIPS_MOVEMENT_UNDER_FIRE"
 msgstr "攻撃を受けた際の機動"
@@ -140378,7 +140376,7 @@ msgid "IDS_TIPS_PINGED_SECTOR_ON_SHIP"
 msgstr "ソナーピンガー"
 
 msgid "IDS_TIPS_PINGED_SECTOR_ON_SHIP_DESCRIPTION"
-msgstr "<p>Submarines use sonar to mark targets for torpedo homing.</p><p class=\"p_spacing\"> </p><p>Use the 'Damage Control Party' consumable to disperse the sonar pulse.</p>"
+msgstr "<p>ソナーを使用して潜水艦は魚雷を誘導するための目標をマークします。</p><p class=\"p_spacing\"> </p><p>消耗品「応急工作班」を使用することで誘導を阻止できます。</p>"
 
 msgid "IDS_TIPS_PLANE_SMOKES"
 msgstr "スモークカーテン発生装置"
@@ -140494,7 +140492,7 @@ msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE"
 msgstr "爆雷"
 
 msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION"
-msgstr "<p>Enemy ships are equipped with anti-submarine weapons—depth charges.</p><p class=\"p_spacing\"> </p><p>Submarines take reduced damage from depth charges while surfaced or at maximum depth.</p>"
+msgstr "<p>敵艦艇は潜水艦に対抗するための爆雷を搭載しています。</p><p class=\"p_spacing\"> </p><p>潜水艦は、水上航行時または最大深度に達している場合、爆雷からのダメージが軽減されます。</p>"
 
 msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_ENERGY_FREEZE"
 msgstr "予備バッテリーユニット"
@@ -140524,25 +140522,25 @@ msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE"
 msgstr "潜水艦の発見"
 
 msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_DESCRIPTION"
-msgstr "<p>A submarine's detectability depends on the depth at which it is located.</p><p class=\"p_spacing\"> </p><p>Periscope depth: the submarine can be detected using hydroacoustic search.</p><p class=\"p_spacing\"> </p><p>Operating depth: hydroacoustic search will show the submarine's approximate position.</p><p class=\"p_spacing\"> </p><p>Maximum depth: the submarine cannot be detected.</p>"
+msgstr "<p>潜水艦の被発見距離は、その深度によって異なります。</p><p class=\"p_spacing\"> </p><p>潜望鏡深度: 潜水艦は水中聴音によって発見可能です。</p><p class=\"p_spacing\"> </p><p>作戦深度: 水中聴音は潜水艦の推定位置を示します。</p><p class=\"p_spacing\"> </p><p>最大深度: 潜水艦を発見することは不可能です。</p>"
 
 msgid "IDS_TIPS_SUBMARINE_ENERGY_MANAGEMENT"
 msgstr "潜行能力"
 
 msgid "IDS_TIPS_SUBMARINE_ENERGY_MANAGEMENT_DESCRIPTION"
-msgstr "<p>Required to stay underwater.</p><p class=\"p_spacing\"> </p><p>When battery power runs out, the submarine is forced to surface.</p><p class=\"p_spacing\"> </p><p>Recharges on the surface. Not consumed at periscope depth.</p>"
+msgstr "<p>水中にとどまり、機動するために必要です。</p><p class=\"p_spacing\"> </p><p>潜行能力が尽きた場合、潜水艦は緊急浮上を開始します</p><p class=\"p_spacing\"> </p><p>水上で回復します。潜望鏡深度では消費されません。</p>"
 
 msgid "IDS_TIPS_SUBMARINE_TORPEDOES_MANEUVERABILITY"
-msgstr "Launching torpedoes from depth"
+msgstr "深度からの魚雷発射"
 
 msgid "IDS_TIPS_SUBMARINE_TORPEDOES_MANEUVERABILITY_DESCRIPTION"
-msgstr "<p>From an underwater position, you cannot hit surface targets that are too close.</p><p class=\"p_spacing\"> </p><p>Torpedoes need time to surface.</p>"
+msgstr "<p>水中からは、近すぎる水上目標を攻撃することはできません。</p><p class=\"p_spacing\"> </p><p>魚雷が浮上するには時間が必要です。</p>"
 
 msgid "IDS_TIPS_SUBMARINE_USE_WEAPON_AND_CONSUMABLE_ON_DEPTH"
-msgstr "Weapon and Equipment Underwater"
+msgstr "水中の兵装と消耗品"
 
 msgid "IDS_TIPS_SUBMARINE_USE_WEAPON_AND_CONSUMABLE_ON_DEPTH_DESCRIPTION"
-msgstr "Certain armament and consumable may be unavailable depending on the submarine's current depth."
+msgstr "特定の兵装と消耗品は、潜水艦がいる深度によっては使用できない場合があります。"
 
 msgid "IDS_TIPS_TACTICAL_AVIATION"
 msgstr "戦術飛行中隊"
@@ -141028,7 +141026,7 @@ msgid "IDS_TOKEN_TARGET_TYPE_SSE"
 msgstr "SSE"
 
 msgid "IDS_TOKEN_TARGET_TYPE_WAFFENTRAGER_PORTAL_CAMPAIGN"
-msgstr "'Protect Erebus' Portal Campaign"
+msgstr "ポータルキャンペーン「エレバスを守れ」"
 
 msgid "IDS_TONN"
 msgstr "t"
@@ -142045,28 +142043,28 @@ msgid "IDS_TOURNAMENTBATTLE"
 msgstr "トーナメント戦"
 
 msgid "IDS_TOURNAMENTBATTLE_DESCRIPTION"
-msgstr "Player-versus-player battles held as part of a tournament."
+msgstr "トーナメント内でのプレイヤー間の戦闘。"
 
 msgid "IDS_TOURNAMENT_BATTLE_CANCELLED"
-msgstr "Tournament battle canceled"
+msgstr "トーナメント戦は中止されました"
 
 msgid "IDS_TOURNAMENT_BATTLE_CANCELLED_DESC"
-msgstr "The battle was canceled for technical reasons."
+msgstr "戦闘は技術的な理由により中止されました。"
 
 msgid "IDS_TOURNAMENT_BATTLE_ENDED_DESC"
-msgstr "The last battle in the series has ended."
+msgstr "シリーズ最後の戦いが終わった。"
 
 msgid "IDS_TOURNAMENT_BATTLE_ENDED_HEADER"
-msgstr "Tournament Battle Ended"
+msgstr "トーナメント戦が終了しました"
 
 msgid "IDS_TOURNAMENT_BATTLE_MOVED_DESC"
-msgstr "The battle was rescheduled for technical reasons."
+msgstr "戦闘は技術的な理由により延期されました。"
 
 msgid "IDS_TOURNAMENT_BATTLE_MOVED_HEADER"
-msgstr "Tournament Battle Rescheduled"
+msgstr "トーナメント戦は延期されました"
 
 msgid "IDS_TOURNAMENT_BOTH_TEAMS_TECHNICAL_LOSE"
-msgstr "Both teams received a technical defeat: not all players confirmed readiness for battle."
+msgstr "両チームに技術的敗戦が記録されました: 全選手が戦闘準備を確認できませんでした。"
 
 msgid "IDS_TOURNAMENT_HEADER_LOADING_DATA"
 msgstr "読込中"
@@ -142081,7 +142079,7 @@ msgid "IDS_TOURNAMENT_INVITE_TIMER_ZERO_TEXT"
 msgstr "戦闘中"
 
 msgid "IDS_TOURNAMENT_LAST_BATTLE_CANCELLED"
-msgstr "The last battle in the series was canceled."
+msgstr "シリーズの最後の戦いは中止されました。"
 
 msgid "IDS_TOURNAMENT_ONE_TEAM_TECHNICAL_LOSE"
 msgstr "チーム %(teamName)s に技術的敗戦が記録されました: 全てのプレイヤーが戦闘準備を確認していません。"
@@ -142090,16 +142088,16 @@ msgid "IDS_TOURNAMENT_ROOM_CHAT"
 msgstr "トーナメント戦"
 
 msgid "IDS_TOURNAMENT_ROOM_DOES_NOT_EXIST_ERROR_DESC"
-msgstr "Tournament room not found"
+msgstr "トーナメントルームが見つかりません"
 
 msgid "IDS_TOURNAMENT_ROOM_LOADING"
-msgstr "Awaiting battle parameters"
+msgstr "戦闘パラメータ待機中"
 
 msgid "IDS_TOURNAMENT_ROOM_QUITING"
-msgstr "Leaving the tournament room"
+msgstr "トーナメントルームから退出"
 
 msgid "IDS_TOURNAMENT_ROOM_TIMER"
-msgstr "If players do not confirm readiness in time, the battle will be canceled"
+msgstr "プレイヤーが準備完了を確認できなかった場合、戦闘はキャンセルされます。"
 
 msgid "IDS_TOWER1_HW2023"
 msgstr "注意!"
@@ -142132,7 +142130,7 @@ msgid "IDS_TO_PORTAL_TOOLTIP"
 msgstr "ポータルへ"
 
 msgid "IDS_TO_REFERRAL"
-msgstr "Go to Naval Brotherhood"
+msgstr "「募集ステーション」へ"
 
 msgid "IDS_TO_SHIP_ROUTE_UPPER_CASE"
 msgstr "艦艇へ"
@@ -142536,16 +142534,16 @@ msgid "IDS_TRIAL_MAN_TEXT_SUBTRACTING_SCORE_2"
 msgstr "あなたの艦艇が魚雷を受け、ポイントを失いました。敵の魚雷を回避してください!"
 
 msgid "IDS_TRIAL_MAN_TEXT_TORPEDO_FAN_R1_09"
-msgstr "Press [KEY_3] to adjust torpedo spread width"
+msgstr "魚雷照準器の幅を変更するには、[KEY_3] キーを押してください"
 
 msgid "IDS_TRIAL_MAN_TEXT_VISIBILITY_5_7_R2_03"
 msgstr "自艦の被発見距離は 5.7 km です。敵をこの距離以内に近づけないようにしましょう!"
 
 msgid "IDS_TRIAL_MAN_TEXT_VISIBILITY_MAIN_GK_R2_09"
-msgstr "Firing main guns increases your detectability. Switch to torpedoes to avoid increasing detection range."
+msgstr "主砲射撃は、あなたの被発見距離を増加させます。被発見距離を増加しないために、魚雷に切り替えてください。"
 
 msgid "IDS_TRIAL_PRIME_SPEECH_012"
-msgstr "Use all the experience you've gained to destroy as many ships as possible!"
+msgstr "得た経験を全て活かして、できるだけ多くの艦艇を撃沈せよ!"
 
 msgid "IDS_TRIAL_ROUNDS_COUNTER"
 msgstr "ステージ%(_trialRound)s / %(_trialRoundsCount)s"
@@ -143078,7 +143076,7 @@ msgid "IDS_UNIQUE_CREW"
 msgstr "伝説艦長"
 
 msgid "IDS_UNIQUE_CREW_CAN_NOT_BE_DEMOBOLIZED"
-msgstr "Legendary Commanders cannot be dismissed"
+msgstr "伝説艦長は解任不能"
 
 msgid "IDS_UNIQUE_CREW_DESCRIPTION"
 msgstr "伝説艦長は改良型スキル、固有スキル、そしてカスタマイズ機能を有している可能性があります"
@@ -143135,10 +143133,10 @@ msgid "IDS_UNLOCKS_11"
 msgstr "艦艇にエコノミーボーナスを搭載し、各戦後により多くの銀と EXP を取得しましょう。"
 
 msgid "IDS_UNLOCKS_12"
-msgstr "Modernizations improve your ships' characteristics."
+msgstr "アップグレードはあなたの艦艇の性能を向上させます。"
 
 msgid "IDS_UNLOCKS_13"
-msgstr "Commander skills enhance ship attributes and unlock new abilities."
+msgstr "艦艇に艦長を配属してパラメーターを高め、新たな能力をアンロックしましょう。"
 
 msgid "IDS_UNLOCKS_14"
 msgstr "艦艇に信号旗を搭載し、戦闘能力を高めましょう。"
@@ -143147,7 +143145,7 @@ msgid "IDS_UNLOCKS_15"
 msgstr "迷彩と旗で艦艇の外装をカスタマイズしましょう。"
 
 msgid "IDS_UNLOCKS_17"
-msgstr "Research and purchase new ships."
+msgstr "新たな艦艇を研究・購入しましょう。"
 
 msgid "IDS_UNLOCKS_2015"
 msgstr "迷彩と旗で艦艇の外装をカスタマイズしましょう。"
@@ -143156,25 +143154,25 @@ msgid "IDS_UNLOCKS_22"
 msgstr "キャンペーン任務群に取り組み、最終褒賞を目指しましょう。"
 
 msgid "IDS_UNLOCKS_23"
-msgstr "Sell unused modules, upgrades, and other assets."
+msgstr "倉庫内の不要になったアイテムを売却しましょう。"
 
 msgid "IDS_UNLOCKS_24"
-msgstr "Complete scenario missions with a team, fighting against bots."
+msgstr "他のプレイヤーたちとチームを組み、ボット艦艇と戦いながらストーリーベースの任務群を達成しましょう。"
 
 msgid "IDS_UNLOCKS_2827"
-msgstr "Join a clan and fight as a team!"
+msgstr "クランに加入して、緊密なチームの一員になりましょう!"
 
 msgid "IDS_UNLOCKS_3"
 msgstr "対人戦"
 
 msgid "IDS_UNLOCKS_301600"
-msgstr "Compete with other players, advance through leagues, and earn valuable rewards!"
+msgstr "他のプレイヤーと競い合い、リーグを昇格して貴重な褒賞を取得しましょう!"
 
 msgid "IDS_UNLOCKS_31292101"
 msgstr "プレイヤーチームとボットチームとの対戦"
 
 msgid "IDS_UNLOCKS_5"
-msgstr "Use Free XP to research any ship or module more easily."
+msgstr "艦艇の研究がより簡単になりました。フリー EXP は艦艇やモジュールの購入に使用できます。"
 
 msgid "IDS_UNLOCKS_6"
 msgstr "褒賞を含むコンテナを各日 3 個まで入手可能です。"
@@ -143192,7 +143190,7 @@ msgid "IDS_UNLOCKS_DESCRIPTION_12"
 msgstr "<p>アップグレードにより、艦艇の長所を伸ばし、短所を補正することができます。</p><p class=\"p_spacing\"> </p><p>艦艇の Tier が高いほど、より多くのアップグレードを搭載できます。</p><p class=\"p_spacing\"> </p><p>艦艇にアップグレードを装備するには、「艦艇」タブに移動し、その後「強化」をクリックしてください。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_13"
-msgstr "<p>Commander skills allow you to improve ship characteristics and use new capabilities.</p><p class=\"p_spacing\"> </p><p>Commanders earn skill points from XP earned in battles.</p><p class=\"p_spacing\"> </p><p>When assigned to another ship, a commander must undergo retraining. During retraining, the effectiveness of learned skills is reduced.</p><p class=\"p_spacing\"> </p><p>To access the 'Commander Skills' screen, click the commander's portrait in the Port.</p>"
+msgstr "<p>艦艇に艦長を配属してパラメーターを高め、新たな能力をアンロックしましょう。</p><p class=\"p_spacing\"> </p><p>艦長は戦闘で獲得した EXP によりスキルポイントを取得します。</p><p class=\"p_spacing\"> </p><p>他の艦艇に配属される際、艦長は再訓練を受ける必要があります。再訓練期間中は、習得済みスキルの効果が低下します。</p><p class=\"p_spacing\"> </p><p>「艦長スキル」画面に移動するには、港で艦長の画像をクリックしてください。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_14"
 msgstr "<p>信号旗はあなたの艦艇の戦闘性能を向上させることができます。</p><p class=\"p_spacing\"> </p><p>艦艇に搭載された信号旗は各戦後に削除され、在庫があれば自動的に再搭載されます。</p><p class=\"p_spacing\"> </p><p>信号旗は購入することも、各種のアクティビティへの参加により取得することも可能です。</p><p class=\"p_spacing\"> </p><p>信号旗を搭載するには、「艦艇」タブに移動し、次に「強化」を選択してください。</p>"
@@ -143210,7 +143208,7 @@ msgid "IDS_UNLOCKS_DESCRIPTION_22"
 msgstr "<p>キャンペーン任務群に取り組み、最終褒賞を目指しましょう。</p><p class=\"p_spacing\"> </p><p>任務群は複数の任務で構成され、それらを達成するとスターを取得できます。スターを集めることで、次の任務群に進むことができます。</p><p class=\"p_spacing\"> </p><p>足りないスターは、任務を再プレイすることで取得できます。</p><p class=\"p_spacing\"> </p><p>最大 3 つの任務を同時に進行できます。</p><p class=\"p_spacing\"> </p><p>キャンペーンセクションは「戦闘任務」画面にあります。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_23"
-msgstr "<p>Sell modules, upgrades, and other types of equipment you don't use.</p><p class=\"p_spacing\"> </p><p>Inventory management is available in the player menu in the upper right part of the screen.</p>"
+msgstr "<p>倉庫内の不要になったアイテムを売却しましょう。</p><p class=\"p_spacing\"> </p><p>アイテム管理は、画面右上のプレイヤーメニューから利用可能です。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_24"
 msgstr "<p>In Operations, your team must complete various tasks while fighting bots. Each Operation has unique story elements.</p><p class=\"p_spacing\"> </p><p>Achieve the main objective to win. Completing secondary tasks increases the resources earned in battle.</p><p class=\"p_spacing\"> </p><p>Operation difficulty depends on the tiers and classes of ships in your team.</p><p class=\"p_spacing\"> </p><p>Available on the battle type selection screen.</p>"
@@ -143633,10 +143631,10 @@ msgid "IDS_VIEW_EVENT_VIDEO_BUTTON_UPPER_CASE"
 msgstr "イベント紹介ビデオ"
 
 msgid "IDS_VIEW_SHIP_INFO_DISABLED"
-msgstr "Information about the equipment of enemy ships is hidden."
+msgstr "敵艦の装備情報は非表示です。"
 
 msgid "IDS_VIEW_SQUADRON"
-msgstr "View squadron armament and equipment"
+msgstr "飛行中隊の兵装と消耗品を確認する"
 
 msgid "IDS_VIKING_TM"
 msgstr "Björn Konungr"
@@ -143881,19 +143879,19 @@ msgid "IDS_WAFFENTRAGER_BATTLE_RESULTS_NEXT_BUTTON"
 msgstr "次へ"
 
 msgid "IDS_WAFFENTRAGER_BATTLE_STATS_GENERAL_HEADER_0"
-msgstr "エルメリンダ・ユング"
+msgstr "ERMELINDA JUNG"
 
 msgid "IDS_WAFFENTRAGER_BATTLE_STATS_GENERAL_HEADER_1"
-msgstr "EVACUATION SYSTEM"
+msgstr "避難システム"
 
 msgid "IDS_WAFFENTRAGER_BOOSTER_POST_BATTLE"
-msgstr "Bureau of Experimental Technology"
+msgstr "実験技術局"
 
 msgid "IDS_WAFFENTRAGER_CREDITS_BOOSTER_HINT"
-msgstr "Amount of additional credits from the Bureau of Experimental Technology bonus"
+msgstr "実験技術局ボーナスによる追加銀の数"
 
 msgid "IDS_WAFFENTRAGER_CREWXP_BOOSTER_HINT"
-msgstr "Amount of additional Commander XP from the Bureau of Experimental Technology bonus"
+msgstr "実験技術局ボーナスによる追加 EXP の量"
 
 msgid "IDS_WAFFENTRAGER_DAMAGE_DISPERSION_0"
 msgstr "Enemy damage protection"
@@ -143902,7 +143900,7 @@ msgid "IDS_WAFFENTRAGER_DAMAGE_DISPERSION_1"
 msgstr "Damage protection"
 
 msgid "IDS_WAFFENTRAGER_DESCRIPTION_0"
-msgstr "Destroy Ermelinda's ship before the evacuation system launches."
+msgstr "Ermelinda の艦艇を撃沈せよ、避難システムが起動する前に。"
 
 msgid "IDS_WAFFENTRAGER_DESCRIPTION_1"
 msgstr "避難システムを充電し、猟犬に破壊されないようにしてください"
@@ -143911,7 +143909,7 @@ msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_HEADER"
 msgstr "概要"
 
 msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_TEXT"
-msgstr "Six Hounds set out to hunt Ermelinda Jung — commander of powerful ships. Each side has its own tactics, goals, and truth."
+msgstr "6 隻の猟犬が、強大な艦艇の艦長 Ermelinda Jung を狩るために出撃する。それぞれの陣営には独自の戦術、目標、そして真実があります。"
 
 msgid "IDS_WAFFENTRAGER_NULL_FIELD_BATTLESHIP_FRAG_BOOST"
 msgstr "戦艦の撃沈"
@@ -143932,7 +143930,7 @@ msgid "IDS_WAFFENTRAGER_SHIELD_MODULE"
 msgstr "Shield Module"
 
 msgid "IDS_WAFFENTRAGER_TASK_DESCRIPTION_0"
-msgstr "Destroy Ermelinda's ship before the evacuation system launches"
+msgstr "Ermelinda の艦艇を撃沈せよ、避難システムが起動する前に"
 
 msgid "IDS_WAFFENTRAGER_TASK_DESCRIPTION_1"
 msgstr "避難システムを充電し、猟犬に破壊されないようにしてください"
@@ -143941,13 +143939,13 @@ msgid "IDS_WAFFENTRAGER_TITLE"
 msgstr "Waffenträger: Isolation"
 
 msgid "IDS_WAFFENTRAGER_WON"
-msgstr "ERMELINDA JUNG VICTORIOUS"
+msgstr "ERMELINDA JUNG 勝利"
 
 msgid "IDS_WAITING_FOR_PLAYERS"
 msgstr "マーチング中..."
 
 msgid "IDS_WAITING_IN_BATTLE_TYPE"
-msgstr "Battle search:"
+msgstr "戦闘待機:"
 
 msgid "IDS_WAITING_PLAYERS"
 msgstr "マーチング中"
@@ -144010,7 +144008,7 @@ msgid "IDS_WARNING_CAMOUFLAGE_EXPIRED"
 msgstr "選択中の迷彩は利用できません"
 
 msgid "IDS_WARNING_CANT_EQUIP_CAMOUFLAGE"
-msgstr "You can't put camouflage on this ship"
+msgstr "この艦艇には迷彩を搭載できません"
 
 msgid "IDS_WARNING_FIRST_LOGIN_NAME_SELECT"
 msgstr "ゲーム開始後、選択したユーザー名は変更できません"
@@ -144028,7 +144026,7 @@ msgid "IDS_WARNING_MODERNIZATION_UNMOUNT"
 msgstr "アップグレードは、金で解除するか、売却可能です。"
 
 msgid "IDS_WARNING_MSKIN_BEFORE_LINK"
-msgstr "Once the camouflage is bound, it cannot be installed on another ship."
+msgstr "迷彩をリンクすると、別の艦艇に搭載できなくなります。"
 
 msgid "IDS_WARNING_MULTIBOOST_BEFORE_LINK"
 msgstr "永久ボーナスをリンクすると、別の艦艇に搭載できなくなります。"
@@ -144369,7 +144367,7 @@ msgid "IDS_WRONG_GROUP_TITLE"
 msgstr "この名称のグループは既に存在します"
 
 msgid "IDS_WRONG_GROUP_TITLE_GET_TRY_ANOTHER_TITLE"
-msgstr "A group with this name already exists. Enter another name."
+msgstr "この名称のグループは既に存在します。別の名称をお試しください。"
 
 msgid "IDS_WRONG_PASSWORD_TRY_AGAIN"
 msgstr "パスワードが間違っています。もう一度お試しください。"
@@ -144552,10 +144550,10 @@ msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_2"
 msgstr "<p>Bonuses are divided into four categories: credits, Commander Free XP, Free XP, and reactor alloys.</p><p class=\"p_spacing\"> </p><p>Only one bonus can be active in each category.</p>"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_0"
-msgstr "Bureau"
+msgstr "技術局"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_1"
-msgstr "Bonus Configuration"
+msgstr "ボーナス設定"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_2"
 msgstr "ボーナスカテゴリー"
@@ -144572,25 +144570,25 @@ msgid "IDS_WT_BUREAU_SUMMARY_BOOSTERS_TITLE"
 msgstr "ボーナス"
 
 msgid "IDS_WT_BUREAU_SUMMARY_WT_TEXT"
-msgstr "<p>The Bureau bonuses are developed by the Alliance and do not apply to ships of Ermelinda Jung.</p>"
+msgstr "<p>実験技術局のボーナスは同盟によって開発されており、Ermelinda Jung の艦艇には適用されません。</p>"
 
 msgid "IDS_WT_BUREAU_SUMMARY_WT_TITLE"
-msgstr "Ermelinda's Ship"
+msgstr "Ermelinda の艦艇"
 
 msgid "IDS_WT_BUREAU_TECH_LEVEL"
 msgstr "レベル %(_level)s"
 
 msgid "IDS_WT_BUREAU_TITLE"
-msgstr "Bureau of Experimental Technology"
+msgstr "実験技術局"
 
 msgid "IDS_WT_BUREAU_TOOLTIP_MOUSE_INSTRUCTION"
-msgstr "Go to the 'Bureau of Experimental Technology' screen"
+msgstr "「実験技術局」画面へ"
 
 msgid "IDS_WT_BUREAU_TOOLTIP_TEXT_INACTIVE"
 msgstr "You have no active bonuses."
 
 msgid "IDS_WT_BUREAU_TOOLTIP_TEXT_WARNING"
-msgstr "Bureau bonuses do not apply to Ermelinda's ships."
+msgstr "Ermelinda の艦艇では、実験技術局のボーナスは適用されません"
 
 msgid "IDS_WT_BUREAU_TOOLTIP_TITLE"
 msgstr "Active Bureau Bonuses"
@@ -144599,7 +144597,7 @@ msgid "IDS_WT_BUREAU_WAFFENTRAGERRELAYFACTOR_0"
 msgstr "Expanded Reactor Alloy Storage"
 
 msgid "IDS_WT_BUREAU_WARNING"
-msgstr "Bureau bonuses do not work on Ermelinda Jung's ships"
+msgstr "Ermelinda の艦艇では、実験技術局のボーナスは適用されません"
 
 msgid "IDS_WT_CR1_NAME_01"
 msgstr "Handwerker"
@@ -144785,10 +144783,10 @@ msgid "IDS_WT_FRACTION_HOUND"
 msgstr "猟犬"
 
 msgid "IDS_WT_FRACTION_TASKS_HOUND"
-msgstr "Hound Combat Missions"
+msgstr "猟犬の戦闘任務"
 
 msgid "IDS_WT_FRACTION_TASKS_WAFFENTRAGER"
-msgstr "Ermelinda's Combat Missions"
+msgstr "Ermelinda の戦闘任務"
 
 msgid "IDS_WT_FRACTION_WAFFENTRAGER"
 msgstr "Ermelinda"
@@ -144836,7 +144834,7 @@ msgid "IDS_WT_PROGRESS_DESCRIPTION"
 msgstr "Learn the history of the legendary confrontation"
 
 msgid "IDS_WT_PROGRESS_EVENT_FINISHED_TEXT"
-msgstr "<p>The forces were equal — both the Alliance and Ermelinda Jung were forced to retreat, failing to achieve their goals.</p><p class=\"p_spacing\"> </p><p>The world does not yet know what happened, but a new game is already beginning behind the scenes. The Alliance has strength and influence, while Ermelinda has classified documents and technologies.</p><p class=\"p_spacing\"> </p><p>The Alliance will no longer be able to remain in the shadows. A period begins that will later be called the Resonance.</p>"
+msgstr "<p>力は拮抗していた — 同盟も Ermelinda Jung も、目的を達成することなく撤退を余儀なくされた。</p><p class=\"p_spacing\"> </p><p>世界はまだ何が起きたのか知らないが、舞台裏では新たな駆け引きが始まっている。同盟側には力と影響力があり、Ermelinda には極秘文書と技術がある。</p><p class=\"p_spacing\"> </p><p>同盟はもはや影に潜んでいることはできない。後に「共鳴」と呼ばれる時代が始まる。</p>"
 
 msgid "IDS_WT_PROGRESS_FINISH_STATUS_EARLY_DONE"
 msgstr "You have passed all progress levels and received a commemorative achievement!"
@@ -144881,7 +144879,7 @@ msgid "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_SKIP"
 msgstr "イベント終了間近!"
 
 msgid "IDS_WT_PROGRESS_STEPS_TEXT"
-msgstr "Event Progress"
+msgstr "イベント進捗"
 
 msgid "IDS_WT_PROGRESS_STEPS_TOOLTIP_TEXT"
 msgstr "<p>Every 200 reactor alloys earned increases your level in the reward progress. Reactor alloys are not spent in the process.</p><p class=\"p_spacing\"> </p><p>On most progress levels, rewards are awarded automatically.</p><p class=\"p_spacing\"> </p><p>On some levels, you will be offered a choice of one of two rewards.</p>"
@@ -144917,10 +144915,10 @@ msgid "IDS_WT_PROGRESS_TIME_LEFT"
 msgstr "Until Resonance: %(_timeLeft)s"
 
 msgid "IDS_WT_PROGRESS_TITLE"
-msgstr "Combat Missions and Progress"
+msgstr "戦闘任務と進捗"
 
 msgid "IDS_WT_PROGRESS_TOOLTIP_MOUSE_INSTRUCTION"
-msgstr "Go to the 'Combat Missions and Progress' screen"
+msgstr "「戦闘任務と進捗」画面へ"
 
 msgid "IDS_WT_PROGRESS_TOOLTIP_STATUS_WARNING"
 msgstr "Not enough Activation Keys for sorties"
@@ -145079,7 +145077,7 @@ msgid "IDS_YOU_HAVE_BEEN_DENUNCATED"
 msgstr "通報されました!"
 
 msgid "IDS_YOU_HAVE_BEEN_PRAISED"
-msgstr "あなたは褒められました!"
+msgstr "あなたに絵文字が送信されました!"
 
 msgid "IDS_YOU_HELP_THE_COMMUNITY"
 msgstr "貴方のご協力により、コミュニティはより良くなっています。"

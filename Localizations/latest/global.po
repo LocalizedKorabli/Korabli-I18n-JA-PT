@@ -3992,7 +3992,7 @@ msgid "IDS_ACHIEVEMENT_SWEETPORT_PA"
 msgstr "ハニー、ただいま!"
 
 msgid "IDS_ACHIEVEMENT_TIMER_WAFFENTRAGER_ISOLATION"
-msgstr "共振まで残り時間:"
+msgstr "共鳴まで残り時間:"
 
 msgid "IDS_ACHIEVEMENT_TM"
 msgstr "プレイヤー対抗戦 V ファイナリスト"
@@ -7104,13 +7104,13 @@ msgid "IDS_BASE_AI_1"
 msgstr "ジェネレーター作動、シールドモジュールの出力は 100%。避難システムの充電を開始します。"
 
 msgid "IDS_BASE_AI_10"
-msgstr "避難システムが 50% 充填されました!"
+msgstr "避難システムが 50% 充電されました!"
 
 msgid "IDS_BASE_AI_11"
-msgstr "避難システムが 75% 充填されました!"
+msgstr "避難システムが 75% 充電されました!"
 
 msgid "IDS_BASE_AI_12"
-msgstr "避難システムが 90% 充填されました!"
+msgstr "避難システムが 90% 充電されました!"
 
 msgid "IDS_BASE_AI_13"
 msgstr "避難システムが完全に充電されました! 大陸間テレポーターが起動します!"
@@ -7119,7 +7119,7 @@ msgid "IDS_BASE_AI_14"
 msgstr "注意! エネルギー不足…避難システムの起動に必要なエネルギーが不足しています。予備プロトコルを開始します…"
 
 msgid "IDS_BASE_AI_15"
-msgstr "「ゼウス」システム、充填完了! さあ、ぶっ放そうか?"
+msgstr "「ゼウス」システム、充電完了! さあ、ぶっ放そうか?"
 
 msgid "IDS_BASE_AI_16"
 msgstr "オートマタは Ermelinda のように基地のシールドモジュールで保護されています!"
@@ -20778,7 +20778,7 @@ msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
 msgstr " "
 
 msgid "IDS_CURRENCY_EVENTUM_6"
-msgstr " "
+msgstr "レイダートークン"
 
 msgid "IDS_CURRENCY_EVENTUM_6_GET_DESCRIPTION"
 msgstr " "
@@ -20790,7 +20790,7 @@ msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
 msgstr " "
 
 msgid "IDS_CURRENCY_EVENTUM_7"
-msgstr " "
+msgstr "白い宝石"
 
 msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
 msgstr " "
@@ -20802,7 +20802,7 @@ msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
 msgstr " "
 
 msgid "IDS_CURRENCY_EVENTUM_8"
-msgstr " "
+msgstr "紅い宝石"
 
 msgid "IDS_CURRENCY_EVENTUM_8_GET_DESCRIPTION"
 msgstr " "
@@ -31638,7 +31638,7 @@ msgid "IDS_FEEDBACK_RAGE_MODE_CANT_USE_AT_WORK"
 msgstr "既に使用中"
 
 msgid "IDS_FEEDBACK_RAGE_MODE_CANT_USE_MAX_STAGE"
-msgstr "Maximum stage already activated."
+msgstr "戦闘命令の最高段階に到達済み"
 
 msgid "IDS_FEEDBACK_RAGE_MODE_CANT_USE_NOT_ENOUGH_SHOTS"
 msgstr "条件未達成のため発動不可"
@@ -35885,13 +35885,13 @@ msgid "IDS_HOUNDS_LEADER_14"
 msgstr "オートマタは Ermelinda のように基地のシールドモジュールで保護されています!"
 
 msgid "IDS_HOUNDS_LEADER_15"
-msgstr "避難システムが 50% 充填されました!"
+msgstr "避難システムが 50% 充電されました!"
 
 msgid "IDS_HOUNDS_LEADER_16"
-msgstr "艦長、避難システムが 75% 充填されました!"
+msgstr "艦長、避難システムが 75% 充電されました!"
 
 msgid "IDS_HOUNDS_LEADER_17"
-msgstr "猟犬たち、急いでください: 避難システムが 90% 充填されました! もう少しで Ermelinda が逃げてしまいます!"
+msgstr "猟犬たち、急いでください: 避難システムが 90% 充電されました! もう少しで Ermelinda が逃げてしまいます!"
 
 msgid "IDS_HOUNDS_LEADER_18"
 msgstr "大陸間テレポーターが起動します!"
@@ -35906,10 +35906,10 @@ msgid "IDS_HOUNDS_LEADER_4"
 msgstr "前方にポータルがあります! キーエリアへの素早い移動に活用してください。"
 
 msgid "IDS_HOUNDS_LEADER_5"
-msgstr "ジェネレーターが停止! 敵のシールドモジュールが弱体化、避難システムの充填速度が低下!"
+msgstr "ジェネレーターが停止! 敵のシールドモジュールが弱体化、避難システムの充電速度が低下!"
 
 msgid "IDS_HOUNDS_LEADER_6"
-msgstr "全発電機を制圧! 避難システムの充填を停止。敵のシールドモジュールを無効化。全員、Ermelinda の艦艇撃破に集中せよ!"
+msgstr "全発電機を制圧! 避難システムの充電を停止。敵のシールドモジュールを無効化。全員、Ermelinda の艦艇撃破に集中せよ!"
 
 msgid "IDS_HOUNDS_LEADER_7"
 msgstr "Ermelinda がまた逃げた! 猟犬たち、基地に戻れ!"
@@ -36104,7 +36104,7 @@ msgid "IDS_INFINITY_BOT_22"
 msgstr "Romero"
 
 msgid "IDS_INFINITY_SCENARIO_DESCRIPTION"
-msgstr "Infinite scenario for interactive testing"
+msgstr "インタラクティブ・チュートリアル用エンドレス戦場"
 
 msgid "IDS_INFINITY_SCENARIO_GOAL"
 msgstr "敵と戦い、楽しみを得よ"
@@ -69040,7 +69040,7 @@ msgid "IDS_PCEE728_YURI_DOLGORUKIY_FLAG"
 msgstr "Yuri Dolgoruky"
 
 msgid "IDS_PCEE728_YURI_DOLGORUKIY_FLAG_DESCRIPTION"
-msgstr "ユーリー・ドルゴルーキーは、年代記にモスクワが初めて言及されることに関連する古代ロシアの公である。1954 年、ユーリー・ドルゴルーキーの記念碑が建立された：鐙に立ち上がり、騎手は新たな都市を築くべき場所を手で指し示している。"
+msgstr "ユーリー・ドルゴルーキーは、年代記にモスクワが初めて言及されることに関連する古代ロシアの公である。1954 年、ユーリー・ドルゴルーキーの記念碑が建立された: 鐙に立ち上がり、騎手は新たな都市を築くべき場所を手で指し示している。"
 
 msgid "IDS_PCEE729_NANI_FLAG"
 msgstr "R. Smg. Giacomo Nani"
@@ -69154,13 +69154,13 @@ msgid "IDS_PCEE745_BERNADOTTE_FLAG"
 msgstr "Bernadotte"
 
 msgid "IDS_PCEE745_BERNADOTTE_FLAG_DESCRIPTION"
-msgstr "Jean-Baptiste Jules Bernadotte (1763–1844) was a participant in the French Revolutionary and Napoleonic Wars, a Marshal of the Empire, and Prince of Pontecorvo. From 1818, he was King of Sweden and Norway under the name Carl XIV Johan, and founder of the Swedish royal house of Bernadotte."
+msgstr "ジャン＝バティスト・ジュール・ベルナドット (1763–1844) は、フランス革命戦争およびナポレオン戦争に参加したフランスの軍人で、帝国元帥、ポンテコルヴォ公を務めました。1818 年からはカール 14 世ヨハンとしてスウェーデンとノルウェーの国王となり、スウェーデン王室ベルナドッテ朝の創始者となりました。"
 
 msgid "IDS_PCEE746_VICTORYDAY_FLAG"
-msgstr "80 Years of the Great Victory"
+msgstr "世界反ファシズム戦争勝利 80 周年"
 
 msgid "IDS_PCEE746_VICTORYDAY_FLAG_DESCRIPTION"
-msgstr "In honor of the 80th anniversary of the Soviet people's victory in the Great Patriotic War against the Nazi invaders."
+msgstr "ソビエト人民の対ドイツ・ファシスト侵略者大祖国戦争勝利 80 周年を記念して。"
 
 msgid "IDS_PCEE747_ROYAL_SOVEREIGN_FLAG"
 msgstr "HMS Royal Sovereign"
@@ -69346,7 +69346,7 @@ msgid "IDS_PCEE775_CONSTITUTION_FLAG"
 msgstr "USS Constitution"
 
 msgid "IDS_PCEE775_CONSTITUTION_FLAG_DESCRIPTION"
-msgstr "\"We the People\"—these famous words begin the U.S. Constitution. On the handwritten original document, these words are written larger than the subsequent text."
+msgstr "「We the People (我ら合衆国人民は…) 」: この有名な言葉からアメリカ合衆国憲法は始まります。手書きの原本において、これらの言葉は後に続く本文よりも大きく力強い書体で記されています。"
 
 msgid "IDS_PCEE776_AQUITAINE_FLAG"
 msgstr "Aquitaine"
@@ -70779,10 +70779,10 @@ msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
 msgstr "ポータルを使用してマップの反対側に移動してください。"
 
 msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_3_HEADER"
-msgstr "CONTROL POINTS"
+msgstr "キーエリア"
 
 msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Capture points to weaken Ermelinda's defense and slow the evacuation system charging. When fully charged, Ermelinda wins!"
+msgstr "キーエリアを占領して Ermelinda の防御を弱め、避難システムの充電を遅らせましょう。システムが完全に充電されると、Ermelinda の勝利です!"
 
 msgid "IDS_PCVE030_MATCHMAKER_DESCRIPTION"
 msgstr "グリムズビー諸島"
@@ -94987,7 +94987,7 @@ msgid "IDS_PJSC810"
 msgstr "蔵王 P"
 
 msgid "IDS_PJSC810_DESCR"
-msgstr "<p>According to Japan's fleet replenishment program, it was planned to build eight heavy cruisers, which represented a further development of the Takao, Tone, and Mogami types.</p><p class=\"p_spacing\"> </p><p>The ships' armament was to consist of twelve 203-mm guns in four turrets arranged in the classic layout, and their armor was to provide protection against 203-mm high-explosive shells. Subsequently, the number of ships was reduced to four, and then their construction was canceled altogether.</p>"
+msgstr "<p>日本の海軍軍備充実を図った八八艦隊計画の一環として、8 隻の重巡洋艦の設計が進められました。本級は、高雄型、利根型、および最上型の発展型です。</p><p class=\"p_spacing\"> </p><p>主砲としては 12 門の 203 mm 砲を 4 基の砲塔に収めて搭載するという従来型の構成を採用する予定だったほか、装甲は 203 mm HE 弾の命中にも耐えうるように設計されました。しかし後に艦艇数が 4 隻に削減され、最終的には全艦の建造が中止されています。</p>"
 
 msgid "IDS_PJSC810_FULL"
 msgstr "蔵王 P"
@@ -108799,7 +108799,7 @@ msgid "IDS_PUSC506"
 msgstr "Perth"
 
 msgid "IDS_PUSC506_DESCR"
-msgstr "One of three ships built for the Royal Navy under the program of enhanced versions of Leander-class cruisers. Perth was handed over to the Australian Navy in 1939. In August of the same year, the ship represented Australia at the New York World's Fair. Perth returned to Australia at the beginning of World War II and was transferred to the Mediterranean from there. Once there, she was engaged in escorting Maltese convoys and protecting Greek waters. Later, Perth returned to Australia again, joined the ABDA squadron, and took part in the Battle of the Java Sea."
+msgstr "パースは、改リアンダー級巡洋艦に基づいてイギリス海軍用に建造された 3 隻のうちの 1 隻であり、1939 年にオーストラリア海軍に引き渡されました。同年 8 月、本艦はオーストラリア代表としてニューヨーク万国博覧会に参加しました。パースは第二次世界大戦初期にオーストラリアに帰還した後、地中海に移動しました。同地で、本艦はマルタ輸送船団を護衛し、ギリシャの海域の防衛に加わりました。その後、パースは再びオーストラリアに帰還し、ABDA 艦隊に所属してスラバヤ沖海戦に参加しました。"
 
 msgid "IDS_PUSC506_FULL"
 msgstr "Perth"
@@ -121428,16 +121428,16 @@ msgid "IDS_REWARD_EVENTUM_5_TITLE"
 msgstr "カラフル・トークン"
 
 msgid "IDS_REWARD_EVENTUM_6_TITLE"
-msgstr "Raider Tokens"
+msgstr "レイダートークン"
 
 msgid "IDS_REWARD_EVENTUM_7_TITLE"
-msgstr "White Gems"
+msgstr "白い宝石"
 
 msgid "IDS_REWARD_EVENTUM_8_TITLE"
-msgstr "Scarlet Gems"
+msgstr "紅い宝石"
 
 msgid "IDS_REWARD_EVENTUM_9_TITLE"
-msgstr "Ship Tokens"
+msgstr "艦艇トークン"
 
 msgid "IDS_REWARD_EVENTUM_CN_TITLE"
 msgstr "補給券"
@@ -127401,7 +127401,7 @@ msgid "IDS_RIBBON_RIBBON_SUPPORTED"
 msgstr "味方の支援"
 
 msgid "IDS_RIBBON_RIBBON_SUPPRESSED"
-msgstr "制圧完了"
+msgstr "制圧"
 
 msgid "IDS_RIBBON_RIBBON_TORPEDO"
 msgstr "目標に命中"
@@ -127476,7 +127476,7 @@ msgid "IDS_RIBBON_SSE_RIBBON_SUPPORTED"
 msgstr "味方の支援"
 
 msgid "IDS_RIBBON_SSE_RIBBON_SUPPRESSED"
-msgstr "制圧完了"
+msgstr "制圧"
 
 msgid "IDS_RIBBON_SSE_RIBBON_TANKING"
 msgstr "挑発"
@@ -128472,7 +128472,7 @@ msgid "IDS_SCHEDULLE"
 msgstr "予定"
 
 msgid "IDS_SCORES_CAN_BE_SUBSTRUCTED"
-msgstr "Points are lost with each hit you take"
+msgstr "あなたがヒットされるたびに、ポイントが失われます。"
 
 msgid "IDS_SCORE_FOR_BATTLE"
 msgstr "各戦でのポイント数"
@@ -132671,7 +132671,7 @@ msgid "IDS_SHIP_PARAM_TORPEDO_DISABLED_UNDERWATER"
 msgstr "最大深度では発射不可"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_DRUM_SHOT_DELAY"
-msgstr "魚雷 1 発の装填時間"
+msgstr "魚雷 1 本の装填時間"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_GUN"
 msgstr "魚雷発射管"
@@ -134196,7 +134196,9 @@ msgid "IDS_SLAVYANA_WINTER"
 msgstr "冬のスラヴィア"
 
 msgid "IDS_SLOT_MODULES_SHIP_CROSS_RESEARCH"
-msgstr "次の艦艇を研究するには、これらのモジュールの研究が必要です"
+msgstr ""
+"次の艦艇を研究するには、\n"
+"これらのモジュールの研究が必要です"
 
 msgid "IDS_SLOT_PURCHASE"
 msgstr "スロットの購入"
@@ -134208,7 +134210,7 @@ msgid "IDS_SMF_HARE"
 msgstr "ウサギ"
 
 msgid "IDS_SMF_MODERN_HARE"
-msgstr "ザヤツ '21"
+msgstr "ウサギ '21"
 
 msgid "IDS_SMF_MODERN_WOLF"
 msgstr "狼 '21"
@@ -134887,7 +134889,7 @@ msgid "IDS_SOUND_MOD_SMF_SMF_HARE"
 msgstr "ウサギ"
 
 msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_HARE"
-msgstr "ザヤツ '21"
+msgstr "ウサギ '21"
 
 msgid "IDS_SOUND_MOD_SMF_SMF_MODERN_WOLF"
 msgstr "狼 '21"
@@ -137089,7 +137091,7 @@ msgid "IDS_SUBST_SSE_CATEGORY_TIME_UNTIL_EVENT_END"
 msgstr "このセクションは期間限定です"
 
 msgid "IDS_SUBST_SSE_DAILY_RESET_IN"
-msgstr "毎日任務: %(timeLeft)s後に更新"
+msgstr "毎日任務: %(timeLeft)s 後に更新"
 
 msgid "IDS_SUBST_SSE_DAILY_RESET_IN_TOOLTIP"
 msgstr "任務は毎日更新されます。次の更新: %(timeLeft)s。"
@@ -137110,7 +137112,7 @@ msgid "IDS_SUBST_SSE_TIME_LEFT_LAST_DAY"
 msgstr "任務が利用可能な残り時間: %(timeLeft)s"
 
 msgid "IDS_SUBST_SSE_WEEKLY_RESET_IN"
-msgstr "毎週任務: %(timeLeft)s後に更新"
+msgstr "毎週任務: %(timeLeft)s 後に更新"
 
 msgid "IDS_SUBST_SSE_WEEKLY_RESET_IN_TOOLTIP"
 msgstr "任務は毎週更新されます。次の更新: %(timeLeft)s。"
@@ -137565,13 +137567,13 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
 msgstr "Colorful Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
-msgstr "Raider Tokens purchased"
+msgstr "レイダートークンの購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
-msgstr "White Gems purchased"
+msgstr "白い宝石の購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_8"
-msgstr "Scarlet Gems purchased"
+msgstr "紅い宝石の購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_9"
 msgstr "Ship Tokens purchased"
@@ -137655,10 +137657,10 @@ msgid "IDS_SYS_MSG_BOUGHT_WAFFENTRAGER_ACTIVATION_KEY"
 msgstr "Activation Keys purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_WAFFENTRAGER_PROGRESS_POINTS"
-msgstr "Reactor alloys purchased"
+msgstr "リアクトロイ購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_WAFFENTRAGER_RELAY"
-msgstr "Reactor Alloys purchased"
+msgstr "リアクトロイ購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_WOWS_PREMIUM_ACCOUNT"
 msgstr "MK プレミアムアカウント購入完了"
@@ -138102,13 +138104,13 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
 msgstr "レイダートークンを受け取りました"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
-msgstr "Received White Gems"
+msgstr "白い宝石を取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_8"
-msgstr "Received Scarlet Gems"
+msgstr "紅い宝石を取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_9"
-msgstr "Ship Tokens received"
+msgstr "艦艇トークン取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_CN"
 msgstr "補給券を取得"
@@ -138120,7 +138122,7 @@ msgid "IDS_SYS_MSG_RECEIVED_FLAGS"
 msgstr "信号旗を取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_FREEXP"
-msgstr "フリー EXP を取得"
+msgstr "フリー EXP 取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_GIFT"
 msgstr "アイテム追加"
@@ -138165,7 +138167,7 @@ msgid "IDS_SYS_MSG_RECEIVED_RECRUITMENT_POINTS"
 msgstr "ナビゲーター・トークン取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_SALTPETER"
-msgstr "Portal Chips received"
+msgstr "ポータルチップ取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_SANTIUM"
 msgstr " "
@@ -138210,10 +138212,10 @@ msgid "IDS_SYS_MSG_RECEIVED_WAFFENTRAGER_ACTIVATION_KEY"
 msgstr "Activation Keys received"
 
 msgid "IDS_SYS_MSG_RECEIVED_WAFFENTRAGER_PROGRESS_POINTS"
-msgstr "Reactor Alloys received"
+msgstr "リアクトロイ取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_WAFFENTRAGER_RELAY"
-msgstr "Reactor Alloys received"
+msgstr "リアクトロイ取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_WOWS_PREMIUM_ACCOUNT"
 msgstr "MK プレミアムアカウント取得"
@@ -138554,13 +138556,13 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
 msgstr "Colorful Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
-msgstr "Raider Tokens written off"
+msgstr "レイダートークンの削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
-msgstr "White Gems written off"
+msgstr "白い宝石の削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_8"
-msgstr "Scarlet Gems written off"
+msgstr "紅い宝石の削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_9"
 msgstr "Ship Tokens written off"
@@ -138653,10 +138655,10 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_ACTIVATION_KEY"
 msgstr "Activation Keys removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_PROGRESS_POINTS"
-msgstr "Reactor Alloys removed"
+msgstr "リアクトロイの削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_RELAY"
-msgstr "Reactor Alloys removed"
+msgstr "リアクトロイの削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_WOWS_PREMIUM_ACCOUNT"
 msgstr "MK プレミアムアカウントが削除されました"
@@ -142408,7 +142410,7 @@ msgid "IDS_TRIAL_DMG_PRIME_NOTE_VISIBLE_DISABLE_HINT"
 msgstr "各艦艇には可視距離というパラメータがあります。これは、常に視認できる距離の範囲を指します。もし艦艇が射撃を停止し、かつあなたからその距離以上離れている場合、視界から消えてしまいます。"
 
 msgid "IDS_TRIAL_DMG_PRIME_PHASE2_ANNONCEMENT"
-msgstr "軽装甲巡洋艦を砲撃せよ。注意：目標は機動中だ!"
+msgstr "軽装甲巡洋艦を砲撃せよ。注意: 目標は機動中だ!"
 
 msgid "IDS_TRIAL_DMG_PRIME_PHASE2_HINT"
 msgstr "徹甲弾を使用する際は、横腹を向けている標的を攻撃してください。ミニマップを活用しましょう!"
@@ -143927,7 +143929,7 @@ msgid "IDS_WAFFENTRAGER_NULL_FIELD_DESTROYER_FRAG_BOOST"
 msgstr "駆逐艦の撃沈"
 
 msgid "IDS_WAFFENTRAGER_SHIELD_MODULE"
-msgstr "Shield Module"
+msgstr "シールドモジュール"
 
 msgid "IDS_WAFFENTRAGER_TASK_DESCRIPTION_0"
 msgstr "Ermelinda の艦艇を撃沈せよ、避難システムが起動する前に"
@@ -144541,13 +144543,13 @@ msgid "IDS_WT_BUREAU_FREEEXPFACTOR_2"
 msgstr "Electromagnetic FCS"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_0"
-msgstr "<p>You can spend [PR] <span class=\"currency\">reactor alloys</span> on permanent economic bonuses to earn more resources in battle on Hound ships.</p><p class=\"p_spacing\"> </p><p>Bonuses do not work on Ermelinda Jung's ships.</p>"
+msgstr "<p>あなたは [PR] <span class=\"currency\">リアクトロイ</span>を永久エコノミーボーナスに費やし、猟犬の艦艇での戦闘でより多くの資源を獲得することができます。</p><p class=\"p_spacing\"> </p><p>このボーナスは Ermelinda Jung の艦艇には適用されません。</p>"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_1"
 msgstr "<p>Be careful! Some bonuses significantly increase the earnings of one resource but decrease the earnings of another.</p><p class=\"p_spacing\"> </p><p>Each bonus can be upgraded to increase resource earnings even more!</p>"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_2"
-msgstr "<p>Bonuses are divided into four categories: credits, Commander Free XP, Free XP, and reactor alloys.</p><p class=\"p_spacing\"> </p><p>Only one bonus can be active in each category.</p>"
+msgstr "<p>ボーナスは 4 つのカテゴリーに分かれています: 銀、エリート艦長 EXP、フリー EXP、リアクトロイです。</p><p class=\"p_spacing\"> </p><p>各カテゴリーで有効にできるボーナスは 1 つだけです。</p>"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_0"
 msgstr "技術局"
@@ -144594,7 +144596,7 @@ msgid "IDS_WT_BUREAU_TOOLTIP_TITLE"
 msgstr "Active Bureau Bonuses"
 
 msgid "IDS_WT_BUREAU_WAFFENTRAGERRELAYFACTOR_0"
-msgstr "Expanded Reactor Alloy Storage"
+msgstr "リアクトロイ拡張ストレージ"
 
 msgid "IDS_WT_BUREAU_WARNING"
 msgstr "Ermelinda の艦艇では、実験技術局のボーナスは適用されません"
@@ -144828,7 +144830,7 @@ msgid "IDS_WT_PROGRESS_CHOOSE_REWARD"
 msgstr "以下の褒賞の中から一つを選択してください:"
 
 msgid "IDS_WT_PROGRESS_CHOOSE_REWARD_INFO"
-msgstr "すべての進捗レベルをレゾナンスまでクリアすると、以前に選択されなかったすべての褒賞を獲得できます"
+msgstr "すべての進捗レベルを共鳴までクリアすると、これまでに選択されなかったすべての褒賞を獲得できます"
 
 msgid "IDS_WT_PROGRESS_DESCRIPTION"
 msgstr "Learn the history of the legendary confrontation"
@@ -144846,10 +144848,10 @@ msgid "IDS_WT_PROGRESS_LEVEL_COLON"
 msgstr "レベル:"
 
 msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_0"
-msgstr "<p>By fighting for each faction — on the side of Ermelinda Jung or the Hounds — you can complete different combat missions.</p><p class=\"p_spacing\"> </p><p>For completing combat missions, you can earn event resources: [AK] <span class=\"currency\">activation keys</span>, [PC] <span class=\"currency\">power cells</span>, and [PR] <span class=\"currency\">reactor alloys</span>.</p>"
+msgstr "<p>各派閥 (Ermelinda Jung 側または猟犬側) で戦うことで、様々な戦闘任務を遂行できます。</p><p class=\"p_spacing\"> </p><p>戦闘任務を遂行することで、イベントリソースを獲得できます: [AK] <span class=\"currency\">起動キー</span>、[PC] <span class=\"currency\">パワーコア</span>、[PR] <span class=\"currency\">リアクトロイ</span>。</p>"
 
 msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_1"
-msgstr "<p>[AK] <span class=\"currency\">Activation Keys</span> are needed to sortie on Ermelinda's ships.</p><p class=\"p_spacing\"> </p><p>[PR] <span class=\"currency\">Reactor alloys</span> can be used to buy bonuses on the 'Bureau of Experimental Technology' screen.</p><p class=\"p_spacing\"> </p><p>[PC] <span class=\"currency\">Power cells</span> and [PR] <span class=\"currency\">reactor alloys</span> can be spent in the Armory on various rewards.</p>"
+msgstr "<p>[AK]<span class=\"currency\">起動キー</span>は、Ermelinda の艦艇で戦闘に出撃するために必要です。</p><p class=\"p_spacing\"> </p><p>[PR]<span class=\"currency\">リアクトロイ</span>は、「実験技術局」画面でボーナスを購入するために使用できます。</p><p class=\"p_spacing\"> </p><p>[PC]<span class=\"currency\">パワーコア</span>と[PR]<span class=\"currency\">リアクトロイ</span>は、武器庫で様々な褒賞と交換できます。</p>"
 
 msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_2"
 msgstr "<p>On some progress levels, you will be offered a choice of one of two rewards.</p><p class=\"p_spacing\"> </p><p>If you pass all progress levels before Resonance, you can receive all rewards that were not chosen earlier.</p>"
@@ -144903,16 +144905,16 @@ msgid "IDS_WT_PROGRESS_TILL_NEXT_LEVEL"
 msgstr "次のレベルまで:"
 
 msgid "IDS_WT_PROGRESS_TIMER"
-msgstr "Until Resonance:"
+msgstr "共鳴前:"
 
 msgid "IDS_WT_PROGRESS_TIMER_TOOLTIP_TEXT"
-msgstr "<p>If you pass all progress levels before Resonance, you can receive all rewards that were not chosen earlier. You will also receive a commemorative achievement.</p><p class=\"p_spacing\"> </p><p>After Resonance, you will have some time to spend earned reactor alloys and power cells in the Armory.</p>"
+msgstr "<p>すべての進捗レベルを共鳴までクリアすると、これまでに選択されなかったすべての褒賞を獲得できます。また、記念実績も獲得できます。</p><p class=\"p_spacing\"> </p><p>共鳴後、武器庫で獲得したリアクトロイやパワーコアを使用するための少しの時間が与えられます。</p>"
 
 msgid "IDS_WT_PROGRESS_TIMER_TOOLTIP_TITLE"
-msgstr "Resonance"
+msgstr "共鳴"
 
 msgid "IDS_WT_PROGRESS_TIME_LEFT"
-msgstr "Until Resonance: %(_timeLeft)s"
+msgstr "共鳴まで: %(_timeLeft)s"
 
 msgid "IDS_WT_PROGRESS_TITLE"
 msgstr "戦闘任務と進捗"
@@ -147793,13 +147795,13 @@ msgstr[1] "敵艦艇を %(_targetScores)s 隻撃沈する"
 
 msgid "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT"
 msgid_plural "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT"
-msgstr[0] "%(_timeLeft)s left to spend remaining power cells and reactor alloys"
-msgstr[1] "%(_timeLeft)s left to spend remaining power cells and reactor alloys"
+msgstr[0] "残りのエネルギーキューブとリアクトロイを使い切るには、あと %(_timeLeft)s 残っています"
+msgstr[1] "残りのエネルギーキューブとリアクトロイを使い切るには、あと %(_timeLeft)s 残っています"
 
 msgid "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT_MINUTES"
 msgid_plural "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT_MINUTES"
-msgstr[0] "%(_timeLeft)s left to spend remaining power cells and reactor alloys"
-msgstr[1] "%(_timeLeft)s left to spend remaining power cells and reactor alloys"
+msgstr[0] "残りのエネルギーキューブとリアクトロイを使い切るまで、あと %(_timeLeft)s 残っています"
+msgstr[1] "残りのエネルギーキューブとリアクトロイを使い切るまで、あと %(_timeLeft)s 残っています"
 
 msgid "IDS_WT_PROGRESS_FINISH_STATUS_SEVERAL_STEPS_COMPLETED"
 msgid_plural "IDS_WT_PROGRESS_FINISH_STATUS_SEVERAL_STEPS_COMPLETED"

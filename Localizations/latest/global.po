@@ -23209,7 +23209,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY049_PLANESMOKEGENERATOR"
 msgstr "味方艦艇が敵によって発見されるリスクを低減する煙幕を展開します。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY051_VAMPIREDAMAGE"
-msgstr "主砲によるダメージの 30% に相当する HP を回復します。"
+msgstr "主砲によるダメージの 50% に相当する HP を回復します。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY052_SHIELD"
 msgstr "艦艇への全ダメージをブロックします。"
@@ -26479,7 +26479,7 @@ msgid "IDS_DOGTAG_PCNB289_DESCRIPTION"
 msgstr "私たちのゲームはスポーツのように、戦闘で何が起こるか予測不能である点が一つの大きな特徴です。そして何より、地上にいるプレイヤーと海上にいるプレイヤーは私達のゲームを通じて団結するのです!"
 
 msgid "IDS_DOGTAG_PCNB289_NAME"
-msgstr "The Beautiful Game"
+msgstr "The Beautiful Game"
 
 msgid "IDS_DOGTAG_PCNB290_DESCRIPTION"
 msgstr "スポーツは相容れない競争の精神であり、最も野心的で最後まで献身的に戦う人々の戦いです。 しかし同時に、スポーツは人々を団結させ、真の友情の絆を生み出します。"
@@ -27321,7 +27321,7 @@ msgid "IDS_DOGTAG_PCNB437_DESCRIPTION"
 msgstr "痛み!"
 
 msgid "IDS_DOGTAG_PCNB437_NAME"
-msgstr "Leha Sn1p3r90"
+msgstr "Леха Sn1p3r90"
 
 msgid "IDS_DOGTAG_PCNB438_DESCRIPTION"
 msgstr "現代ロシアでは、3 月 1 日を猫の日として祝う伝統が定着しています。通常、春の訪れを告げるこの日には、全国各地の都市で猫にまつわる展示会や競技会、慈善イベントなどが開催されています。"
@@ -32624,7 +32624,7 @@ msgid "IDS_GAMEMODE_KEY_BATTLE"
 msgstr "逢魔時ハント"
 
 msgid "IDS_GAMEMODE_MAP_COMBINED"
-msgstr "%(_gameMode)s / %(_map)s"
+msgstr "%(_gameMode)s / %(_map)s"
 
 msgid "IDS_GAMEMODE_PORTAL_2021_RULES_DESCRIPTION_TEXT_0"
 msgstr "ポータル閉鎖中。開通後に脱出可能。"
@@ -49238,7 +49238,7 @@ msgid "IDS_PAES541_SOMERS_CLAN"
 msgstr "羽ばたき"
 
 msgid "IDS_PAES550_BLACK_CAMPAIGN"
-msgstr "Sui Generis"
+msgstr "Sui generis"
 
 msgid "IDS_PAES600_MONTANA_OPTIMUS"
 msgstr "フリーダム・ファイター"
@@ -50594,10 +50594,10 @@ msgid "IDS_PAPD105_DEPTH_T5"
 msgstr "350 lb Depth Bomb"
 
 msgid "IDS_PAPD106_DEPTH_T8"
-msgstr "650 lb Depth Bomb"
+msgstr "650-pound Depth Bomb"
 
 msgid "IDS_PAPD107_DEPTH_T10"
-msgstr "650 lb Depth Bomb"
+msgstr "650-pound Depth Bomb"
 
 msgid "IDS_PAPD108_DEPTH_CV_6"
 msgstr "100 lb Depth Bomb Mk 52"
@@ -50702,10 +50702,10 @@ msgid "IDS_PAPT005_BLISS_LEAVITT_MK6"
 msgstr "Bliss Leavitt Mk6"
 
 msgid "IDS_PAPT006_BLISS_LEAVITT_MK7_MOD_5A"
-msgstr "Bliss Leavitt Mk7 mod. 5A"
+msgstr "Bliss Leavitt Mk7 mod. 5A"
 
 msgid "IDS_PAPT007_BLISS_LEAVITT_MK7_MOD_2A"
-msgstr "Bliss Leavitt Mk7 mod. 2A"
+msgstr "Bliss Leavitt Mk7 mod. 2A"
 
 msgid "IDS_PAPT008_MK_17"
 msgstr "Mk17"
@@ -50735,58 +50735,58 @@ msgid "IDS_PAPT017_MK8_MOD8"
 msgstr "Mk8 mod. 8"
 
 msgid "IDS_PAPT018_MK_15_MOD_3"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT019_WHITEHEAD_MK5"
 msgstr "Whitehead Mk5"
 
 msgid "IDS_PAPT020_BLISS_LEAVITT_MK7_MOD_0"
-msgstr "Bliss Leavitt Mk7 mod. 0"
+msgstr "Bliss Leavitt Mk7 mod. 0"
 
 msgid "IDS_PAPT021_BLISS_LEAVITT_MARK_9_MOD_1B"
-msgstr "Bliss Leavitt Mk9 mod. 1b"
+msgstr "Bliss Leavitt Mk9 mod. 1b"
 
 msgid "IDS_PAPT022_BLISS_LEAVITT_MARK_9_MOD_1"
-msgstr "Bliss Leavitt Mk9 mod. 1"
+msgstr "Bliss Leavitt Mk9 mod. 1"
 
 msgid "IDS_PAPT023_MK_12"
 msgstr "Mk12"
 
 msgid "IDS_PAPT024_MK_14_MOD_3"
-msgstr "Mk14 mod. 3"
+msgstr "Mk14 mod. 3"
 
 msgid "IDS_PAPT025_MK_14_MOD_0"
-msgstr "Mk14 mod. 0"
+msgstr "Mk14 mod. 0"
 
 msgid "IDS_PAPT026_MK_16_MOD_0"
-msgstr "Mk16 mod. 0"
+msgstr "Mk16 mod. 0"
 
 msgid "IDS_PAPT027_MK_16_MOD_1"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAPT028_TORPEDO_533MM_MK_15_SIMS"
 msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAPT029_MK_15_MOD_ATLANTA"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT030_BLACK"
 msgstr "Mk29"
 
 msgid "IDS_PAPT031_KIDD"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT032_MONAGHAN"
 msgstr "Mark 12"
 
 msgid "IDS_PAPT033_MONAGHAN_MK15"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT034_SMITH"
-msgstr "Bliss Leavitt Mk7 mod. 0"
+msgstr "Bliss Leavitt Mk7 mod. 0"
 
 msgid "IDS_PAPT035_TST_GEARING_1"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAPT036_TST_GEARING_2"
 msgstr "Mk17"
@@ -50819,7 +50819,7 @@ msgid "IDS_PAPT046_MK17_AUSTIN"
 msgstr "533 mm Mk16 mod. 1"
 
 msgid "IDS_PAPT047_MK_11_CONSTELLATION"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT048_MK28_SUB"
 msgstr "Mk28"
@@ -50828,7 +50828,7 @@ msgid "IDS_PAPT050_533_SHERMAN"
 msgstr "Mk17"
 
 msgid "IDS_PAPT051_533MM_MK15_S_DIEGO"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT052_GATO_SUB"
 msgstr "Mark 29 mod 1"
@@ -50852,25 +50852,25 @@ msgid "IDS_PAPT058_533MM_BLISS_L_MK3"
 msgstr "Bliss Leavitt Mk3"
 
 msgid "IDS_PAPT059_MK_17_J_HUMP"
-msgstr "Mk17 mod. 1"
+msgstr "Mk17 mod. 1"
 
 msgid "IDS_PAPT060_GATO_MZ"
 msgstr "Mark 29 Mag 2"
 
 msgid "IDS_PAPT061_MAYO"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT062_533_MK15"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT063_HOGG"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT064_MAFFITT"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT065_FARRAND"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT066_ARCHERFISH"
 msgstr "Mk29"
@@ -50960,7 +50960,7 @@ msgid "IDS_PAPT991_MK29_SUB_MAGNETIC_SUBTEST"
 msgstr "Mk29"
 
 msgid "IDS_PAPT992_CV_TEST"
-msgstr "Torpedo Mk.7 mod. 1"
+msgstr "Torpedo Mk.7 mod. 1"
 
 msgid "IDS_PAPT998_CONCORD_BRIDGE"
 msgstr "Torpedo Mk.13-2"
@@ -52797,10 +52797,10 @@ msgid "IDS_PARTNERS_LL_ARPEGGIO"
 msgstr "© Ark Performance /Shonengahosha, Arpeggio partners"
 
 msgid "IDS_PARTNERS_LL_AUTODESK"
-msgstr "This Software product includes Autodesk ® Scaleform ™ software, © 2013 Autodesk, Inc. All rights reserved."
+msgstr "This Software product includes Autodesk® Scaleform™ software, © 2013 Autodesk, Inc. All rights reserved."
 
 msgid "IDS_PARTNERS_LL_AZURLANE"
-msgstr "Azur Lane and its characters are trademarks of Yostar, Manjuu & Yongshi. ©2017 Manjuu Co.,Ltd. & Yongshi Co.,Ltd. All Rights Reserved. ©2017 Yostar, Inc. All Rights Reserved."
+msgstr "Azur Lane and its characters are trademarks of Yostar, Manjuu & Yongshi. © 2017 Manjuu Co.,Ltd. & Yongshi Co.,Ltd. All Rights Reserved. © 2017 Yostar, Inc. All Rights Reserved."
 
 msgid "IDS_PARTNERS_LL_GAMES_WORKSHOP"
 msgstr "Warhammer 40,000 © Copyright Games Workshop Limited 2021. GW, Games Workshop, Space Marine, 40K, Warhammer, Warhammer 40,000, 40,000, the ‘Aquila’ Double-headed Eagle logo, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likeness thereof, are either ® or TM, and/or © Games Workshop Limited, variably registered around the world, and used under license. All rights reserved to their respective owners."
@@ -52826,7 +52826,7 @@ msgid "IDS_PARTNERS_LL_QUIXEL"
 msgstr "Uses Megascans (R), Copyright © - 2021 Epic Games, Inc."
 
 msgid "IDS_PARTNERS_LL_SPEEDTREE"
-msgstr "Portions of this Software utilize SpeedTree ® technology (© 2013 Interactive Data Vizualization, Inc. All rights reserved)."
+msgstr "Portions of this Software utilize SpeedTree ® technology (© 2013 Interactive Data Vizualization, Inc. All rights reserved)."
 
 msgid "IDS_PARTNERS_LL_TRANSFORMERS"
 msgstr "© ＴＯＭＹ　　「トランスフォーマー」「ＴＲＡＮＳＦＯＲＭＥＲＳ」は株式会社タカラトミーの登録商標です。"
@@ -55023,13 +55023,13 @@ msgid "IDS_PASD519_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASD529"
-msgstr "Black B"
+msgstr "Black Black"
 
 msgid "IDS_PASD529_DESCR"
 msgstr "フレッチャー級駆逐艦ブラックは、第二次世界大戦中に太平洋中部における哨戒作戦に従事し、サイパンやグアムへの上陸作戦、レイテ沖海戦、沖縄襲撃にも参加しました。本艦は第二次世界大戦を通して 6 個の従軍星章を受章しました。"
 
 msgid "IDS_PASD529_FULL"
-msgstr "Black B"
+msgstr "Black Black"
 
 msgid "IDS_PASD529_NUMBER"
 msgstr "175"
@@ -56643,22 +56643,22 @@ msgid "IDS_PAUE990_ENG_CONNECTICUT"
 msgstr "推力: 65,000 馬力"
 
 msgid "IDS_PAUF301_FLIGHTCONTROL_1"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUF302_FLIGHTCONTROL_2"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PAUF303_FLIGHTCONTROL_3"
 msgstr "Mk4 mod. 3"
 
 msgid "IDS_PAUF311_FLIGHTCONTROL_1"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUF312_FLIGHTCONTROL_2_A"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PAUF391_FC1_LANGLEY"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUF401_FLIGHTCONTROL_1"
 msgstr "Mk5 mod. 1"
@@ -56679,10 +56679,10 @@ msgid "IDS_PAUF413_FLIGHTCONTROL_2_F"
 msgstr "Mk5 mod. 3"
 
 msgid "IDS_PAUF501_FLIGHTCONTROL_1"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUF502_FLIGHTCONTROL_2"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUF503_FLIGHTCONTROL_3"
 msgstr "Mk6 mod. 3"
@@ -56691,22 +56691,22 @@ msgid "IDS_PAUF504_CV6_FC_STOCK"
 msgstr "Mk8"
 
 msgid "IDS_PAUF511_FLIGHTCONTROL_1"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUF512_FLIGHTCONTROL_2_A"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUF513_FLIGHTCONTROL_2_F"
 msgstr "Mk6 mod. 3"
 
 msgid "IDS_PAUF591_FC1_RANGER"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUF601_FLIGHTCONTROL_1"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUF602_FLIGHTCONTROL_2"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUF603_FLIGHTCONTROL_3"
 msgstr "Mk7 mod. 3"
@@ -56715,25 +56715,25 @@ msgid "IDS_PAUF604_FLIGHTCONTROL_4"
 msgstr "Mk7 mod. 4"
 
 msgid "IDS_PAUF611_FLIGHTCONTROL_1"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUF612_FLIGHTCONTROL_2_A"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUF613_FLIGHTCONTROL_2_F"
 msgstr "Mk7 mod. 3"
 
 msgid "IDS_PAUF621_SAIPAN"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUF700_CV8_FC_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF701_FLIGHTCONTROL_1"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF702_FLIGHTCONTROL_2"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUF703_FLIGHTCONTROL_3"
 msgstr "Mk8 mod. 3"
@@ -56742,16 +56742,16 @@ msgid "IDS_PAUF704_FLIGHTCONTROL_4"
 msgstr "Mk8 mod. 4"
 
 msgid "IDS_PAUF705_FC1_ENTEPRISE"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF706_FC_HORNET"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF707_BH8_FC_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF708_FC_CONCORD_BRIDGE"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF709_CV8_FC_STOCK"
 msgstr "Mk8"
@@ -56760,28 +56760,28 @@ msgid "IDS_PAUF710_FC_BLACK_HORNET"
 msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF711_FLIGHTCONTROL_1"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF712_FLIGHTCONTROL_2_A"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUF713_FLIGHTCONTROL_2_F"
 msgstr "Mk8 mod. 3"
 
 msgid "IDS_PAUF714_FC_BLACK_SAIPAN"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF721_SAIPAN"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF791_FC1_LEXINGTON"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF792_FC1_ENTEPRISE"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF793_FC1_SAIPAN"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF800_FC_BLACK_KEARSARGE"
 msgstr "Mk9 mod. 1"
@@ -56790,7 +56790,7 @@ msgid "IDS_PAUF801_FLIGHTCONTROL_1"
 msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUF802_FLIGHTCONTROL_2"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUF803_FLIGHTCONTROL_3"
 msgstr "Mk9 mod. 3"
@@ -56811,49 +56811,49 @@ msgid "IDS_PAUF811_FLIGHTCONTROL_1"
 msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUF812_FLIGHTCONTROL_2_A"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUF813_FLIGHTCONTROL_2_F"
 msgstr "Mk9 mod. 3"
 
 msgid "IDS_PAUF901_FC_ROOSEVELT"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUF902_CV11_FC_STOCK"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod. 1"
 
 msgid "IDS_PAUF903_BH10_FC_STOCK"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUF904_FC_ESSEX"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUF905_FC_CV_TEST"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUF906_CV10_FC_STOCK"
 msgstr "Mk8"
 
 msgid "IDS_PAUF911_FLIGHTCONTROL_1"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUF912_FLIGHTCONTROL_2_A"
-msgstr "Mk10 mod. 2"
+msgstr "Mk10 mod. 2"
 
 msgid "IDS_PAUF913_FLIGHTCONTROL_2_F"
-msgstr "Mk10 mod. 3"
+msgstr "Mk10 mod. 3"
 
 msgid "IDS_PAUF974_FC_1_MIDWAY"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUF975_FC_2A_MIDWAY"
-msgstr "Mk10 mod. 2"
+msgstr "Mk10 mod. 2"
 
 msgid "IDS_PAUF976_FC_2B_MIDWAY"
-msgstr "Mk10 mod. 3"
+msgstr "Mk10 mod. 3"
 
 msgid "IDS_PAUF991_FC1_MIDWAY"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUH000_HULL_DEFAULT"
 msgstr "船体 (標準)"
@@ -57159,7 +57159,7 @@ msgid "IDS_PAUH651_FLINT"
 msgstr "Flint"
 
 msgid "IDS_PAUH680_HULL_BLACK_SIMS"
-msgstr "Sims B."
+msgstr "Sims B."
 
 msgid "IDS_PAUH691_JULIO"
 msgstr "Boise"
@@ -57374,7 +57374,7 @@ msgid "IDS_PAUH818_HALFORD"
 msgstr "Halford"
 
 msgid "IDS_PAUH819_HULL_BLACK_BLACK"
-msgstr "Black B"
+msgstr "Black Black"
 
 msgid "IDS_PAUH820_D9_HULL_STOCK"
 msgstr "Maffitt"
@@ -57743,7 +57743,7 @@ msgstr ""
 "Tiny Tim"
 
 msgid "IDS_PAUI911_CV10_F_STOCK"
-msgstr "Ryan FR Fireball"
+msgstr "Ryan FR Fireball"
 
 msgid "IDS_PAUI974_F1_MIDWAY"
 msgstr "F4U Corsair"
@@ -57801,10 +57801,10 @@ msgid "IDS_PAUQ502_S6_SONAR_TOP"
 msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUQ700_S8_SONAR_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUQ701_S8_SONAR_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUQ702_S8_SONAR_TOP"
 msgstr "Mk8 mod. 2"
@@ -57822,7 +57822,7 @@ msgid "IDS_PAUQ903_SONAR_GATO"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUQ904_SONAR_BALAO_TEST"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUQ905_SONAR_ARCHERFISH"
 msgstr "Mk10"
@@ -57831,295 +57831,295 @@ msgid "IDS_PAUS000_SUO_DEFAULT"
 msgstr " Mk (標準)"
 
 msgid "IDS_PAUS001_SUO"
-msgstr "Mk1 mod. 1"
+msgstr "Mk1 mod. 1"
 
 msgid "IDS_PAUS002_SUO"
-msgstr "Mk1 mod. 2"
+msgstr "Mk1 mod. 2"
 
 msgid "IDS_PAUS011_SUO"
-msgstr "Mk1 mod. 1"
+msgstr "Mk1 mod. 1"
 
 msgid "IDS_PAUS101_SUO"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod. 1"
 
 msgid "IDS_PAUS102_SUO"
-msgstr "Mk2 mod. 2"
+msgstr "Mk2 mod. 2"
 
 msgid "IDS_PAUS121_SUO"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod. 1"
 
 msgid "IDS_PAUS131_SUO_SMITH"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod. 1"
 
 msgid "IDS_PAUS201_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS202_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod. 2"
 
 msgid "IDS_PAUS203_SUO_CHARLSTON"
-msgstr "Mk3 mod. 1"
+msgstr "Mk3 mod. 1"
 
 msgid "IDS_PAUS211_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS212_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod. 2"
 
 msgid "IDS_PAUS213_SUO_CS"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS221_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS222_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod. 2"
 
 msgid "IDS_PAUS231_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS232_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod. 2"
 
 msgid "IDS_PAUS233_SUO_CS"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS301_SUO"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUS302_SUO"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PAUS311_SUO"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUS312_SUO"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PAUS321_SUO"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUS322_SUO"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PAUS331_SUO_ARK_PREM"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUS400_SUO_RATTLEHEAD"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS401_SUO"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS402_SUO"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod. 2"
 
 msgid "IDS_PAUS403_SUO_HILL"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS404_SUO_OKLAHOMA"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS411_SUO"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS412_SUO"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod. 2"
 
 msgid "IDS_PAUS419_SUO_MB"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS421_SUO"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS422_SUO"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod. 2"
 
 msgid "IDS_PAUS431_SUO_CINCINNATI"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS441_SUO_TEXAS"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS501_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS502_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUS503_CL6_STOCK_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS504_CL6_TOP_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUS506_MONAGHAN"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS507_CA6_STOCK_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS508_CA6_TOP_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUS509_SUO_WVIRGINIA"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS511_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS512_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUS521_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS531_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS532_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUS541_SUO_ARIZONA"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS601_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS602_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUS603_CL7_STOCK_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS604_CL7_TOP_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUS605_CA7_STOCK_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS606_CA7_TOP_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUS607_SUO_CALIFORNIA"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS608_SUO_FLORIDA"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS609_SUO_BLACK_ATLANTA"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS610_SUO_WVIRGINIA_44"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS611_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS612_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUS613_SUO_MAYO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS614_D7_SUO_STOCK"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS615_SUO_CHANCELLORSVILLE"
 msgstr "Mk7"
 
 msgid "IDS_PAUS621_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS631_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS632_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUS641_SUO_INDIANAPOLIS"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS651_SUO_FLINT"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS680_SUO_BLACK_SIMS"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS691_C7_SUO_JULIO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS700_SUO_COLORFUL_N_CAROLINA"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS701_SUO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS702_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS703_SUO_KIDD"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS704_CL8_STOCK_SUO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS705_CL8_TOP_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS706_CA8_STOCK_SUO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS707_CA8_TOP_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS708_SUO_WICHITA"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS709_SUO_MONTPELIER"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS710_SUO_ANCHORAGE"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS711_SUO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS712_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS713_BB8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS714_BB8_SUO_TOP"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS715_SUO_ALABAMA_VL"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS716_SUO_CONSTELLATION"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS717_SUO_CONGRESS"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS718_SUO_ROCHESTER"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS719_SUO_S_DIEGO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS720_BH8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS721_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS722_BH8_SUO_TOP"
 msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS723_D8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS724_SUO_CONSTITUTION"
 msgstr "Mk8 mod. 1"
@@ -58128,22 +58128,22 @@ msgid "IDS_PAUS725_SUO_OREGON"
 msgstr "Mk8"
 
 msgid "IDS_PAUS731_SUO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS732_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS733_SUO_ALABAMA"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS734_SUO_ALABAMA"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS735_SUO_MASS"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS736_SUO_BLACK_MASS"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS800_SUO_BLACK_KEARSARGE"
 msgstr "Mk9 mod. 1"
@@ -58152,19 +58152,19 @@ msgid "IDS_PAUS801_SUO"
 msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUS802_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS803_CL9_STOCK_SUO"
 msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUS804_CL9_TOP_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS805_CA9_STOCK_SUO"
 msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUS806_CA9_TOP_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS807_SUO_GEORGIA"
 msgstr "Mk9 mod. 1"
@@ -58176,13 +58176,13 @@ msgid "IDS_PAUS809_BB9_SUO_STOCK"
 msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUS810_BB9_SUO_TOP"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS811_SUO"
 msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUS812_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS813_SUO_TULSA"
 msgstr "Mk9 mod. 1"
@@ -58206,13 +58206,13 @@ msgid "IDS_PAUS819_SUO_BLACK_BLACK"
 msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUS820_D9_SUO_STOCK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUS821_SUO"
 msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUS822_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS831_SUO_BLACK"
 msgstr "Mk9 mod. 1"
@@ -58230,7 +58230,7 @@ msgid "IDS_PAUS901_SUO"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS902_SUO"
-msgstr "Mk10 mod. 2"
+msgstr "Mk10 mod. 2"
 
 msgid "IDS_PAUS903_SUO_SALEM"
 msgstr "Mk10 mod. 1"
@@ -58260,19 +58260,19 @@ msgid "IDS_PAUS912_SUO_AUSTIN"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS913_SUO_F_SHERMAN"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS914_BH10_SUO_STOCK"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS915_SUO_A_HUMP"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod. 1"
 
 msgid "IDS_PAUS916_SUO_N_HAMPSHIRE"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS917_SUO_CHESAPEAKE"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS918_D10_SUO_STOCK"
 msgstr "Mk10"
@@ -58281,7 +58281,7 @@ msgid "IDS_PAUS919_SUO_ARCHERFISH"
 msgstr "Mk10"
 
 msgid "IDS_PAUS920_SUO_W_R_RUSH"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS921_SUO"
 msgstr "Mk10 mod. 1"
@@ -58293,10 +58293,10 @@ msgid "IDS_PAUS931_SUO"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS932_SUO_ANNAPOLIS"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod. 1"
 
 msgid "IDS_PAUS933_B11_SUO_STOCK"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod. 1"
 
 msgid "IDS_PAUS941_SUO_BUFFALO"
 msgstr "Mk10 mod. 1"
@@ -58383,13 +58383,13 @@ msgid "IDS_PAUT501_D6_TORP_STOCK"
 msgstr "Mark 11"
 
 msgid "IDS_PAUT502_533_MARK_15_MOD_3"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT503_533_MARK_15_MOD_3_ATLANTA"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT504_FLINT"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT505_S6_TORP_STOCK"
 msgstr "Mk22 mod. 1"
@@ -58398,7 +58398,7 @@ msgid "IDS_PAUT506_MONAGHAN"
 msgstr "Mark 12 (Mk15 mod. 3)"
 
 msgid "IDS_PAUT507_MONAGHAN2"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT508_S6_TORP_TOP"
 msgstr "Mk22 mod. 1"
@@ -58410,7 +58410,7 @@ msgid "IDS_PAUT521_533_4_APT017"
 msgstr "533 mm (4x Mk14)"
 
 msgid "IDS_PAUT531_533_4_PAPT001"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT541_533_3_PAPT017_MB"
 msgstr "Mk9 mod. 1"
@@ -58422,16 +58422,16 @@ msgid "IDS_PAUT601_D7_TORP_STOCK"
 msgstr "Mk12"
 
 msgid "IDS_PAUT602_D7_TORP_TOP"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT603_TORP_BLACK_ATLANTA"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT604_TORP_MAYO"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT605_D7_TORP_STOCK"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT611_533_4_APT001"
 msgstr "533 mm (4x Mk14)"
@@ -58443,43 +58443,43 @@ msgid "IDS_PAUT621_533_4_PAPT001"
 msgstr "Mark 11"
 
 msgid "IDS_PAUT631_533_PAPT015_SIMS"
-msgstr "Bliss Leavitt Mk7 mod. 2B"
+msgstr "Bliss Leavitt Mk7 mod. 2B"
 
 msgid "IDS_PAUT680_TORP_STOCK_BLACK_SIMS"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT681_TORP_TOP_BLACK_SIMS"
-msgstr "Bliss Leavitt Mk7 mod. 2B"
+msgstr "Bliss Leavitt Mk7 mod. 2B"
 
 msgid "IDS_PAUT700_S8_TORP_STOCK"
 msgstr "Mk28 mod. 0 と Mk28 mod. 0 MIE"
 
 msgid "IDS_PAUT701_D8_TORP_STOCK"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT702_D8_TORP_TOP"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT703_533_MARK_14_MOD_3"
-msgstr "Mk14 mod. 3"
+msgstr "Mk14 mod. 3"
 
 msgid "IDS_PAUT704_TORP_KIDD"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT705_S8_TORP_STOCK"
 msgstr "Mk28 と Mk28 MIE"
 
 msgid "IDS_PAUT706_TORP_ANCHORAGE"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT707_TORP_S_DIEGO"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT708_S8_TORP_TOP"
 msgstr "Mk28 と Mk28 MIE"
 
 msgid "IDS_PAUT709_D8_TORP_STOCK"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT710_TORP_CONSTITUTION"
 msgstr "Mk15"
@@ -58491,7 +58491,7 @@ msgid "IDS_PAUT712_533_5_APT018"
 msgstr "533 mm (5x Mk15)"
 
 msgid "IDS_PAUT713_TORP_CONSTELLATION"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT731_533_4_PAPT001"
 msgstr "533 mm (4x Mk14)"
@@ -58500,7 +58500,7 @@ msgid "IDS_PAUT800_TORP_BLACK_BLACK"
 msgstr "Mk29"
 
 msgid "IDS_PAUT801_D9_TORP_STOCK"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT802_533_5_APT009"
 msgstr "533 mm (5x Mk11)"
@@ -58509,7 +58509,7 @@ msgid "IDS_PAUT803_533_5_APT018"
 msgstr "533 mm (5x Mk15)"
 
 msgid "IDS_PAUT804_D9_TORP_TOP"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT805_BLACK"
 msgstr "Mk29"
@@ -58521,7 +58521,7 @@ msgid "IDS_PAUT807_TORP_HALFORD"
 msgstr "533 mm (5x Mk29 mod. 1)"
 
 msgid "IDS_PAUT808_D9_TORP_STOCK"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT900_S10_TORP_STOCK"
 msgstr "Mk29 mod. 0 と Mk28 MIE"
@@ -58530,10 +58530,10 @@ msgid "IDS_PAUT901_D10_TORP_STOCK"
 msgstr "Mark 17"
 
 msgid "IDS_PAUT902_D10_NEW_STOCK"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT903_TORP_TST_GEARING"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT904_TORP_TST_GEARING_2"
 msgstr "Mark 17"
@@ -58548,7 +58548,7 @@ msgid "IDS_PAUT907_TORP_GATO"
 msgstr " "
 
 msgid "IDS_PAUT908_TORP_AUSTIN"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT909_TORP_F_SHERMAN"
 msgstr "Mk25 mod. 1"
@@ -58566,7 +58566,7 @@ msgid "IDS_PAUT913_TORP_BALAO_TEST"
 msgstr "Mk29 と Mk29 MIE"
 
 msgid "IDS_PAUT914_D10_TORP_STOCK"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT915_TORP_ARCHERFISH"
 msgstr "Mk29 mod. 0 と Mk28 MIE"
@@ -58581,7 +58581,7 @@ msgid "IDS_PAUT974_TORP_GEARING"
 msgstr "Mark 17"
 
 msgid "IDS_PAUT975_TORP_GEARING"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAYLOAD_HALF_HEALTH_TASK_END_F"
 msgstr "Transylvania がダメージを受けた!"
@@ -60168,22 +60168,22 @@ msgid "IDS_PBPD102_DEPTH_200KG"
 msgstr "450 lb. Bomb Mk VII"
 
 msgid "IDS_PBPD103_DEPTH_T5"
-msgstr "100 lb Bomb Mk VIII"
+msgstr "100-lb. Bomb Mk VIII"
 
 msgid "IDS_PBPD104_DEPTH_T8"
-msgstr "350 lb Bomb Mk VIII"
+msgstr "350-lb. Bomb Mk VIII"
 
 msgid "IDS_PBPD105_DEPTH_T10"
-msgstr "650 lb Bomb Mk VIII"
+msgstr "650-lb. Bomb Mk VIII"
 
 msgid "IDS_PBPD106_DEPTH_CV_6"
-msgstr "100 lb Bomb Mk VIII"
+msgstr "100-lb. Bomb Mk VIII"
 
 msgid "IDS_PBPD107_DEPTH_CV_8"
-msgstr "350 lb Bomb Mk VIII"
+msgstr "350-lb. Bomb Mk VIII"
 
 msgid "IDS_PBPD108_DEPTH_CV_10"
-msgstr "650 lb Bomb Mk VIII"
+msgstr "650-lb. Bomb Mk VIII"
 
 msgid "IDS_PBPM010_ASW_SEAMINE_T6"
 msgstr "Mk XVII"
@@ -60228,7 +60228,7 @@ msgid "IDS_PBPR112_MALTA_STOCK"
 msgstr "RP-3 60 lb No2 Mk.I"
 
 msgid "IDS_PBPR121_EAGLE_JET"
-msgstr "RP-3 60 lb No2 Mk.I"
+msgstr "RP-3 60 lb No2 Mk.I"
 
 msgid "IDS_PBPR206_FURIOUS_TOP"
 msgstr "RP-3 60 lb No1 Mk.I"
@@ -62866,25 +62866,25 @@ msgid "IDS_PBUF502_FC_ARKROYAL"
 msgstr "Mk6 mod. 1"
 
 msgid "IDS_PBUF701_CV8_FC"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PBUF702_FC_INDOMITABLE"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PBUF703_FC_COLOSSUS"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PBUF901_CV10_FC"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PBUF902_FC_AUD"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PBUF903_FC_EAGLE"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod. 1"
 
 msgid "IDS_PBUF904_FC_MALTA"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PBUF905_FC_THESEUS"
 msgstr "Mk10 mod. 1"
@@ -63558,7 +63558,7 @@ msgid "IDS_PBUS513_B6_SUO_TOP"
 msgstr "Mk VI mod. 2"
 
 msgid "IDS_PBUS514_SUO_R_SOVEREIGN"
-msgstr "Mk VI mod. 1"
+msgstr "Mk VI mod. 1"
 
 msgid "IDS_PBUS521_B6_SUO_STOCK"
 msgstr "Mk VI mod. 1"
@@ -63720,7 +63720,7 @@ msgid "IDS_PBUS812_B9_SUO_TOP"
 msgstr "Mk IX mod. 2"
 
 msgid "IDS_PBUS813_SUO_RESISTANCE"
-msgstr "Mk IX mod. 1"
+msgstr "Mk IX mod. 1"
 
 msgid "IDS_PBUS814_SUO_CLR_JUTLAND"
 msgstr "Mk IX"
@@ -63729,52 +63729,52 @@ msgid "IDS_PBUS816_SUO_MITA"
 msgstr "Mk IX mod. 1"
 
 msgid "IDS_PBUS900_B10_SUO_STOCK"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS901_C10_SUO_STOCK"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS902_SUO_CONQUEROR"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS903_D10_SUO_STOCK"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS904_SUO_CONQUEROR"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS904_SUO_PLYMOUTH"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS905_SUO_THUNDERER"
-msgstr "Mk X"
+msgstr "Mk X"
 
 msgid "IDS_PBUS906_CA10_SUO_STOCK"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS907_SUO_DRUID"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS908_SUO_INCOMPARABLE"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS909_SUO_GIBRALTAR"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS910_B10_SUO_STOCK"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS911_SUO_MONMOUTH"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS912_SUO_T10"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS913_B11_SUO_STOCK"
-msgstr "Mk XI mod. 1"
+msgstr "Mk XI mod. 1"
 
 msgid "IDS_PBUS914_SUO_DEFENCE"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS915_SUO_ZEUS"
 msgstr "Mk X"
@@ -63783,19 +63783,19 @@ msgid "IDS_PBUS916_SUO_JELLICOE"
 msgstr "Mk X"
 
 msgid "IDS_PBUS930_C11_SUO_STOCK"
-msgstr "Mk XI mod. 1"
+msgstr "Mk XI mod. 1"
 
 msgid "IDS_PBUS974_SUO_CONQ"
 msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUS990_SUO_CYCLOPS"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PBUT101_D2_TORP_STOCK"
 msgstr "533 mm Mk II"
 
 msgid "IDS_PBUT201_CAMPBELTOWN"
-msgstr "Bliss Leavitt Mk8 mod. 2"
+msgstr "Bliss Leavitt Mk8 mod. 2"
 
 msgid "IDS_PBUT201_D3_TORP_STOCK"
 msgstr "533 mm Mk II"
@@ -68452,7 +68452,7 @@ msgid "IDS_PCEE634_MEGADETH_FLAG_EXTRA_DESCRIPTION"
 msgstr " "
 
 msgid "IDS_PCEE635_BLACKBLACK_FLAG"
-msgstr "Black B"
+msgstr "Black Black"
 
 msgid "IDS_PCEE635_BLACKBLACK_FLAG_DESCRIPTION"
 msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
@@ -68820,7 +68820,7 @@ msgid "IDS_PCEE692_USA_DD_EA_FLAG"
 msgstr "アメリカ駆逐艦"
 
 msgid "IDS_PCEE692_USA_DD_EA_FLAG_DESCRIPTION"
-msgstr "Not for self but for country."
+msgstr "Non sibi sed patriae."
 
 msgid "IDS_PCEE692_USA_DD_EA_FLAG_EXTRA_DESCRIPTION"
 msgstr "アップデート 13.6 でアーリーアクセス艦艇として登場した新たなアメリカ駆逐艦を記念して。"
@@ -69127,7 +69127,7 @@ msgid "IDS_PCEE740_FALKENHAYN_FLAG_DESCRIPTION"
 msgstr "This flag was raised in the 19th–20th century on ships and vessels of Prussia’s War Ministry. From 1913–14, the position of Prussian War Minister was held by Erich Georg Sebastian Anton von Falkenhayn (1861–1922), a notable general of the Imperial German Army during World War I."
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG"
-msgstr "ARV Francisco de Miranda"
+msgstr "ARV Francisco de Miranda "
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG_DESCRIPTION"
 msgstr "Sebastián Francisco de Miranda y Rodríguez (1750–1816) was a revolutionary and one of the leaders of the fight for independence of the Spanish colonies in South America. In 1806, Miranda set out to liberate Venezuela aboard the corvette Leander, which sailed under his own naval ensign."
@@ -69289,31 +69289,31 @@ msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG_DESCRIPTION"
 msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
 msgid "IDS_PCEE766_BRISBANE_B_FLAG"
-msgstr "Brisbane B"
+msgstr "Brisbane B"
 
 msgid "IDS_PCEE766_BRISBANE_B_FLAG_DESCRIPTION"
 msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
 msgid "IDS_PCEE767_JAGER_B_FLAG"
-msgstr "Jäger B"
+msgstr "Jäger B"
 
 msgid "IDS_PCEE767_JAGER_B_FLAG_DESCRIPTION"
 msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
 msgid "IDS_PCEE768_GASCOGNE_B_FLAG"
-msgstr "Gascogne B"
+msgstr "Gascogne B"
 
 msgid "IDS_PCEE768_GASCOGNE_B_FLAG_DESCRIPTION"
 msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
 msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG"
-msgstr "Prinz Eugen B"
+msgstr "Prinz Eugen B"
 
 msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG_DESCRIPTION"
 msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
 
 msgid "IDS_PCEE770_HORNET_B_FLAG"
-msgstr "Hornet B"
+msgstr "Hornet B"
 
 msgid "IDS_PCEE770_HORNET_B_FLAG_DESCRIPTION"
 msgstr "「ブラックフライデー」は感謝祭 (11 月の第 4 木曜日) の翌日を指し、大特価セールが行われます。世界中の多くの国々で年末商戦の始まりを告げるイベントとして知られています。"
@@ -69331,7 +69331,7 @@ msgid "IDS_PCEE772_SABIE_FLAG_DESCRIPTION"
 msgstr "A warship embodying Nokmar's ideals: unyielding Will, discipline, and faith in the boundless power of the human spirit. Commanded by Keira—the top graduate of the Northern Naval Academy. Like its mistress, Sabie attacks swiftly and precisely, like a sharp saber, eliminating any opponents in its path."
 
 msgid "IDS_PCEE773_WILLIAM_R_RUSH_FLAG"
-msgstr "USS William R. Rush"
+msgstr "USS William R. Rush"
 
 msgid "IDS_PCEE773_WILLIAM_R_RUSH_FLAG_DESCRIPTION"
 msgstr "William Rees Rush was a US naval officer who participated in the Spanish-American War, the US intervention in Mexico, and World War I. During the 1914 occupation of Veracruz, Rush commanded a landing party, earning the Medal of Honor—the US military's highest decoration. The medal's ribbon features 13 stars representing the original US colonies."
@@ -73295,7 +73295,7 @@ msgstr ""
 "皇帝が死去したのと同年、彼に因んで命名された帆船型戦艦がサンクトペテルブルクで起工されました。1861 年の就役後に、本艦は蒸気機関を設置されました。30 年以上後の 1893 年、ロシア海軍の最新戦艦インペラトール・ニコライ 1 世がアメリカ大陸発見 400 周年を記念してニューヨーク市を訪問しました。一次大戦中には、同じ名前が 1 隻の水上機母艦に使用されました。この黒海艦隊の軍艦は、貨物貨客船から改装されたものでした。ニコライエフで建造された別のインペラトール・ニコライ 1 世は、黒海における最強の弩級戦艦となるはずでした。しかし、1917 年の革命により、この「皇帝」はロシア帝国そのものと同じく終焉を迎えました。"
 
 msgid "IDS_PCZC271_NY2019_ABRUZZIEMBLEM"
-msgstr "Luigi di Savoia Duca degli Abruzzi"
+msgstr "Luigi di Savoia Duca degli Abruzzi"
 
 msgid "IDS_PCZC271_NY2019_ABRUZZIEMBLEM_DESCRIPTION"
 msgstr ""
@@ -78540,19 +78540,19 @@ msgid "IDS_PFPD102_DEPTH_158KG"
 msgstr "350 lb Depth Bomb Mk 54"
 
 msgid "IDS_PFPD103_DEPTH_T5"
-msgstr "100 lb Bomb Mk VIII"
+msgstr "100-lb. Bomb Mk VIII"
 
 msgid "IDS_PFPD104_DEPTH_T8"
-msgstr "350 lb Bomb Mk 54"
+msgstr "350-lb. Bomb Mk 54"
 
 msgid "IDS_PFPD105_DEPTH_T10"
-msgstr "650 lb Bomb Mk 55"
+msgstr "650-lb. Bomb Mk 55"
 
 msgid "IDS_PFPD106_DEPTH_CV_6"
-msgstr "100 lb Bomb Mk VIII"
+msgstr "100-lb. Bomb Mk VIII"
 
 msgid "IDS_PFPR001_BEARN_STOCK"
-msgstr "RP3 25 lb"
+msgstr "RP3 25lb"
 
 msgid "IDS_PFPS001_BEARN_STOCK"
 msgstr "500-kg G.P. Mle 1930"
@@ -78909,13 +78909,13 @@ msgid "IDS_PFSB518_YEAR"
 msgstr "1949"
 
 msgid "IDS_PFSB519"
-msgstr "Jean Bart '43"
+msgstr "Jean Bart '43"
 
 msgid "IDS_PFSB519_DESCR"
 msgstr "<p>1943 年、「自由フランス」は、1942 年末にカサブランカで連合国軍に捕獲された戦艦ジャン・バールの建造完了について米国と交渉を行った。戦艦ロレーヌの 340 mm 砲を同艦に搭載することを想定した二つの案が考案された。</p><p class=\"p_spacing\"> </p><p>一つの案は、事実上、戦艦を対空艦艇へと変貌させることを意味していた。そのため、第二主砲塔の代わりに、アメリカ製の連装 127 mm 両用砲架、20 基の四連装ボフォース砲架、およびその他の砲を艦上に配置することが提案された。</p>"
 
 msgid "IDS_PFSB519_FULL"
-msgstr "Jean Bart '43"
+msgstr "Jean Bart '43"
 
 msgid "IDS_PFSB519_NUMBER"
 msgstr "2"
@@ -79395,7 +79395,7 @@ msgid "IDS_PFSC896_DESCR"
 msgstr "本艦は La Galissonnière のコピーであり、Co-op 戦専用。"
 
 msgid "IDS_PFSC896_FULL"
-msgstr "[La Galissonnière]"
+msgstr "[La Galissonnière]"
 
 msgid "IDS_PFSC896_NUMBER"
 msgstr "6"
@@ -80823,7 +80823,7 @@ msgid "IDS_PFUS808_C9_SUO_TOP"
 msgstr "PCA n° 9 Mle 2"
 
 msgid "IDS_PFUS809_SUO_BERNADOTTE"
-msgstr "PCA n° 9"
+msgstr "PCA n°9"
 
 msgid "IDS_PFUS810_SUO_DUPERRE"
 msgstr "PCA n°9"
@@ -80874,7 +80874,7 @@ msgid "IDS_PFUS909_SUO_CLR_CONDE"
 msgstr "PCA n°11"
 
 msgid "IDS_PFUS910_SUO_HALLAND_H_EVENT"
-msgstr "SUO Mk 10"
+msgstr "SUO Mk 10"
 
 msgid "IDS_PFUS911_B10_SUO_STOCK"
 msgstr "PCA n° 10 Mle 1"
@@ -82818,13 +82818,13 @@ msgid "IDS_PGPT019_G7A_DANZIG"
 msgstr "G7a T1"
 
 msgid "IDS_PGPT020_G7E_T3_SUB"
-msgstr "G7e T3"
+msgstr "G7e/T3"
 
 msgid "IDS_PGPT021_G7E_T4_SUB"
-msgstr "G7e T4"
+msgstr "G7e/T4"
 
 msgid "IDS_PGPT022_G7E_T3_SUB_MAGNETIC"
-msgstr "G7e T3 MZ"
+msgstr "G7e/T3 MZ"
 
 msgid "IDS_PGPT023_G7A_AEGIR"
 msgstr "G7 Steinbutt"
@@ -82875,7 +82875,7 @@ msgid "IDS_PGPT038_G7A_WEIMAR"
 msgstr "G7a T1"
 
 msgid "IDS_PGPT039_G7E_T1_SUB_CRITS"
-msgstr "G7e T1 pi1"
+msgstr "G7e/T1 pi1"
 
 msgid "IDS_PGPT039_G7_T1_ASF_A"
 msgstr "G7 T1 Ausf.A"
@@ -82890,7 +82890,7 @@ msgid "IDS_PGPT042_SCHONBERG"
 msgstr "G7a T1"
 
 msgid "IDS_PGPT043_G7E_T4_SUB_MAGNETIC"
-msgstr "G7e T4 MZ"
+msgstr "G7e/T4 MZ"
 
 msgid "IDS_PGPT044_G7A_WH_BLACKTEMPLAR"
 msgstr "G7a T1"
@@ -82911,7 +82911,7 @@ msgid "IDS_PGPT049_533MM_4501_SUB"
 msgstr "G7es T4"
 
 msgid "IDS_PGPT050_533MM_4501_SUB_MAGNETIC"
-msgstr "G7e T4 MZ"
+msgstr "G7e/T4 MZ"
 
 msgid "IDS_PGPT051_G7E_T1_MOD0_SUB"
 msgstr "G7e T1 mod. 0"
@@ -82950,10 +82950,10 @@ msgid "IDS_PGPT063_Z33"
 msgstr "G7 Schildbutt"
 
 msgid "IDS_PGPT064_Z32"
-msgstr "G7 T1 Ausf. B"
+msgstr "G7 T1 Ausf. B"
 
 msgid "IDS_PGPT065_Z38"
-msgstr "G7 T1 Ausf. D"
+msgstr "G7 T1 Ausf. D"
 
 msgid "IDS_PGPT066_533MM_T11"
 msgstr "G7 Steinwal"
@@ -83385,7 +83385,7 @@ msgid "IDS_PGSB109_YEAR"
 msgstr "1939"
 
 msgid "IDS_PGSB110"
-msgstr "G. Kurfürst"
+msgstr "G. Kurfürst"
 
 msgid "IDS_PGSB110_DESCR"
 msgstr "<p>After studying the loss of the battleship Bismarck and the damage to the battleship Scharnhorst in July 1941, the German naval leadership conducted a review of the under-construction H and J ships. One requirement was to strengthen horizontal armor while maintaining a draft of 11.5 m for operations in the shallow North Sea.</p><p class=\"p_spacing\"> </p><p>During development, the project acquired a triple bottom and an increased number of watertight compartments for protection against underwater explosions. Additionally, it was planned to increase the main battery caliber to give the new battleships a significant advantage over British and American battleships.</p><p class=\"p_spacing\"> </p><p>The changes introduced into the project were significant, and the construction of the two already laid-down ships was discontinued. It was assumed that ships according to the new project would be laid down in 1942. However, soon thereafter, construction for the German navy was reoriented towards submarines, and no new battleships were laid down.</p>"
@@ -85763,7 +85763,7 @@ msgid "IDS_PGUF791_FC1_GRAF_Z"
 msgstr "FID Typ 8 Mod. 1"
 
 msgid "IDS_PGUF801_FC_LOTHRINGEN"
-msgstr "FID Type 9 Mod. 1"
+msgstr "FID Typ 9 Mod. 1"
 
 msgid "IDS_PGUF900_CV10_FC_STOCK"
 msgstr "FID Typ 10 Mod. 1"
@@ -86251,7 +86251,7 @@ msgid "IDS_PGUH951_CV10_HULL_STOCK"
 msgstr "Max Immelmann"
 
 msgid "IDS_PGUH974_GROSS"
-msgstr "G. Kurfürst"
+msgstr "G. Kurfürst"
 
 msgid "IDS_PGUH975_HIND"
 msgstr "Hindenburg"
@@ -86572,10 +86572,10 @@ msgid "IDS_PGUS708_SUO_ODIN"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS709_SUO_ANHALT"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS710_SUO_SCHILL"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS711_SUO_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
@@ -86584,10 +86584,10 @@ msgid "IDS_PGUS712_SUO_BLACK_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS713_SUO_Z35"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS714_DD8_SUO_STOCK"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS715_DD8_SUO_TOP"
 msgstr "FKS Typ 8 Mod. 2"
@@ -86977,7 +86977,7 @@ msgid "IDS_PGUT806_TORP_POMMERN"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT807_TORP_Z44"
-msgstr "G7a T1 Ausf. C"
+msgstr "G7a T1 Ausf.C"
 
 msgid "IDS_PGUT808_DD9_TORP_STOCK"
 msgstr "G7 T1 Ausf.B"
@@ -87372,7 +87372,7 @@ msgid "IDS_PHPB025_CALLENBURGH_AS_HE"
 msgstr "P.u.W. 25 kg"
 
 msgid "IDS_PHPB026_KORTENAER_AS_HE"
-msgstr "P.u.W. 100 kg"
+msgstr "P.u.W. 100 kg"
 
 msgid "IDS_PHPB924_PUW_160KG_AS_HE"
 msgstr "P.u.W. 160 kg"
@@ -87381,7 +87381,7 @@ msgid "IDS_PHPT001_533MM_TROMP"
 msgstr "53.3-cm torpedo"
 
 msgid "IDS_PHPT002_KORTENAER"
-msgstr "Torpedo M1924 mod 3"
+msgstr "Torped M1924 mod 3"
 
 msgid "IDS_PHSC101"
 msgstr "Van Kinsbergen"
@@ -90115,7 +90115,7 @@ msgid "IDS_PIUE912_C11_ENG_STOCK"
 msgstr "推力: 240,000 馬力"
 
 msgid "IDS_PIUF700_FC_AQUILA"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PIUF801_FC_TRANCLUCATOR"
 msgstr "Mk9 mod. 1"
@@ -92818,13 +92818,13 @@ msgid "IDS_PJPB508_KAGA_STOCK"
 msgstr "Type 90 No. 50 Mk. 2"
 
 msgid "IDS_PJPB510_SHINANO_STOCK"
-msgstr "Type 99 No. 80 Mk. 5"
+msgstr "Type 99 No. 80 Mk. 5"
 
 msgid "IDS_PJPB528_I54_STOCK"
 msgstr "Type 99 No.3 Mod.2 32kg"
 
 msgid "IDS_PJPB530_KUZURYU_TOP"
-msgstr "No. 25 Mod. 2"
+msgstr "No. 25 Mod. 2"
 
 msgid "IDS_PJPB606_ISE_STOCK"
 msgstr "Type 99 No. 25"
@@ -92896,13 +92896,13 @@ msgid "IDS_PJPM210_TAIHO_TOP"
 msgstr "Type JJ"
 
 msgid "IDS_PJPM510_SHINANO_STOCK"
-msgstr "Type JJ"
+msgstr "Type JJ"
 
 msgid "IDS_PJPM520_I2_STOCK"
 msgstr "Type JI Mod. 2"
 
 msgid "IDS_PJPM530_KUZURYU_TOP"
-msgstr "Type JI Mod. 2"
+msgstr "Type JI Mod. 2"
 
 msgid "IDS_PJPR104_HOSHO_STOCK"
 msgstr "Type 3 No. 6 Mk. 27"
@@ -92944,7 +92944,7 @@ msgid "IDS_PJPR508_KAGA_STOCK"
 msgstr "Type 3 No. 6 Mk. 27"
 
 msgid "IDS_PJPR510_SHINANO_STOCK"
-msgstr "Type 3 No. 5 Mod. 27 Mk. 1"
+msgstr "Type 3 No. 5 Mod. 27 Mk. 1"
 
 msgid "IDS_PJPR606_ISE_STOCK"
 msgstr "Type 3 No. 6 Mk. 27"
@@ -93010,7 +93010,7 @@ msgid "IDS_PJPT015_533MM_TYPE_92"
 msgstr "Type 92"
 
 msgid "IDS_PJPT016_533MM_TYPE_89"
-msgstr "Type89"
+msgstr "Type 89"
 
 msgid "IDS_PJPT017_610MM_TYPE_8_MOD_2"
 msgstr "Type8 mod. 2"
@@ -93163,13 +93163,13 @@ msgid "IDS_PJPT067_MIKA"
 msgstr "mk15 mod. 4"
 
 msgid "IDS_PJPT068_I2_MZ"
-msgstr "Type95 mod. 5 MZ"
+msgstr "Type95 mod. 5 MZ"
 
 msgid "IDS_PJPT069_610MM_CHIKUGO"
 msgstr "Type93"
 
 msgid "IDS_PJPT070_I2_SUB"
-msgstr "Type95 mod. 5"
+msgstr "Type95 mod. 5"
 
 msgid "IDS_PJPT104_HOSHO_STOCK"
 msgstr "Type 91 mod. 0"
@@ -93220,7 +93220,7 @@ msgid "IDS_PJPT508_KAGA_STOCK"
 msgstr "Type 91 mod. 1"
 
 msgid "IDS_PJPT510_SHINANO_STOCK"
-msgstr "Type 91 mod. 7"
+msgstr "Type 91 mod. 7"
 
 msgid "IDS_PJPT606_ISE_STOCK"
 msgstr "Type 5"
@@ -97097,7 +97097,7 @@ msgid "IDS_PJUE980_ENG_SATSUMA"
 msgstr "推力: 166,000 馬力"
 
 msgid "IDS_PJUF018_TONE_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod. 1"
 
 msgid "IDS_PJUF301_FLIGHTCONTROL_1"
 msgstr "Type4 mod. 1"
@@ -97166,7 +97166,7 @@ msgid "IDS_PJUF703_FLIGHTCONTROL_2_U"
 msgstr "Type8 mod. 3"
 
 msgid "IDS_PJUF704_FLCONTROL_BLACK_KAGA"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod. 1"
 
 msgid "IDS_PJUF705_FC_I54"
 msgstr "Type8 mod. 1"
@@ -97175,10 +97175,10 @@ msgid "IDS_PJUF706_CV8_FC_STOCK"
 msgstr "Type8 mod. 1"
 
 msgid "IDS_PJUF772_TONE_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod. 1"
 
 msgid "IDS_PJUF773_TONE_STOCK"
-msgstr "Type8 mod. 1"
+msgstr "Type8 mod. 1"
 
 msgid "IDS_PJUF791_FC1_SHOKAKU"
 msgstr "Type8 mod. 1"
@@ -97214,10 +97214,10 @@ msgid "IDS_PJUF905_CV10_FC_STOCK"
 msgstr "Type10 mod. 1"
 
 msgid "IDS_PJUF906_FC_SHINANO"
-msgstr "Type 10"
+msgstr "Type10"
 
 msgid "IDS_PJUF907_FC_KUZURYU"
-msgstr "Type 8 mod. 1"
+msgstr "Type8 mod. 1"
 
 msgid "IDS_PJUF908_FC_I2"
 msgstr "Type10"
@@ -98159,13 +98159,13 @@ msgid "IDS_PJUS104_SUO_SAKURA"
 msgstr "Type2 mod. 1"
 
 msgid "IDS_PJUS105_SUO_MIKASA"
-msgstr "Type 2 mod. 1"
+msgstr "Type2 mod. 1"
 
 msgid "IDS_PJUS106_SUO_ASAMA"
-msgstr "Type 2"
+msgstr "Type2"
 
 msgid "IDS_PJUS107_SUO_SAZANAMI"
-msgstr "Type 2"
+msgstr "Type2"
 
 msgid "IDS_PJUS113_SUO_MIKASA"
 msgstr "Type2 mod. 1"
@@ -98579,7 +98579,7 @@ msgid "IDS_PJUS814_C9_SUO_TOP"
 msgstr "Type9 mod. 2"
 
 msgid "IDS_PJUS815_SUO_DAISEN"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod. 1"
 
 msgid "IDS_PJUS816_SUO_KITAKAZE_PR"
 msgstr "Type9 mod. 1"
@@ -98588,7 +98588,7 @@ msgid "IDS_PJUS817_SUO_TSURUGI"
 msgstr "Type9 mod. 1"
 
 msgid "IDS_PJUS818_B9_SUO_STOCK"
-msgstr "Type9 mod. 1"
+msgstr "Type9 mod. 1"
 
 msgid "IDS_PJUS819_B9_SUO_TOP"
 msgstr "Type9 mod.2"
@@ -98603,7 +98603,7 @@ msgid "IDS_PJUS822_SUO"
 msgstr "Type9 mod. 2"
 
 msgid "IDS_PJUS823_SUO_BLACK_AZUMA"
-msgstr "Type 9"
+msgstr "Type9"
 
 msgid "IDS_PJUS824_SUO_OWARI"
 msgstr "Type9"
@@ -98663,10 +98663,10 @@ msgid "IDS_PJUS915_SUO_NATSUKAZE"
 msgstr "Type10"
 
 msgid "IDS_PJUS916_SUO_KUZURYU"
-msgstr "Type 10"
+msgstr "Type10"
 
 msgid "IDS_PJUS917_SUO_CLR_YAMATO"
-msgstr "Type10 mod. 1"
+msgstr "Type10 mod. 1"
 
 msgid "IDS_PJUS918_SUO_CHIKUGO"
 msgstr "Type10"
@@ -98681,16 +98681,16 @@ msgid "IDS_PJUS921_SUO"
 msgstr "Type10 mod. 1"
 
 msgid "IDS_PJUS930_D11_SUO_STOCK"
-msgstr "Type11 mod. 1"
+msgstr "Type11 mod. 1"
 
 msgid "IDS_PJUS931_C11_SUO_STOCK"
 msgstr "Type11 mod. 1"
 
 msgid "IDS_PJUS933_SUO_SATSUMA"
-msgstr "Type11 mod. 1"
+msgstr "Type11 mod. 1"
 
 msgid "IDS_PJUS971_SUO_AZUMAYA"
-msgstr "Type 9"
+msgstr "Type9"
 
 msgid "IDS_PJUS974_SUO_ZAO"
 msgstr "Type10 mod. 1"
@@ -98705,10 +98705,10 @@ msgid "IDS_PJUS978_BB10_SUO_SHIKISHIMA"
 msgstr "Type10 mod. 1"
 
 msgid "IDS_PJUS980_SUO_SATSUMA"
-msgstr "Type11 mod. 1"
+msgstr "Type11 mod. 1"
 
 msgid "IDS_PJUT103_D2_TORP_STOCK"
-msgstr "Type42"
+msgstr "Type 42"
 
 msgid "IDS_PJUT104_D2_TORP_TOP"
 msgstr "Type44 mod. 2"
@@ -98789,7 +98789,7 @@ msgid "IDS_PJUT403_D5_TORP_STOCK"
 msgstr "Type 6"
 
 msgid "IDS_PJUT404_533_TYPE_89"
-msgstr "Type89"
+msgstr "Type 89"
 
 msgid "IDS_PJUT405_D5_TORP_STOCK_2"
 msgstr "Type8 mod. 3"
@@ -99023,7 +99023,7 @@ msgid "IDS_PJUT804_610_ATAGO"
 msgstr "Type90 mod. 1"
 
 msgid "IDS_PJUT805_TORP_DAISEN"
-msgstr "Type93 mod. 3"
+msgstr "Type93 mod. 3"
 
 msgid "IDS_PJUT806_D9_TORP_MED"
 msgstr "Type93"
@@ -109045,10 +109045,10 @@ msgid "IDS_PUUS801_SUO_HECTOR"
 msgstr "Mk IX mod. 1"
 
 msgid "IDS_PUUS901_SUO_VAMPIRE_2"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PUUS902_SUO_BRISBANE"
-msgstr "Mk X mod. 1"
+msgstr "Mk X mod. 1"
 
 msgid "IDS_PUUS903_SUO_BLACK_BRISBANE"
 msgstr "Mk X"
@@ -109887,13 +109887,13 @@ msgid "IDS_PVSC104_YEAR"
 msgstr "1918"
 
 msgid "IDS_PVSC105"
-msgstr "La Argentina"
+msgstr "La Argentina"
 
 msgid "IDS_PVSC105_DESCR"
 msgstr "巡洋艦ラ・アルヘンティーナは、イギリスの 1926 年計画に基づいて建造されました。本艦はイギリスのアレシューザ級軽巡洋艦を基本設計としつつ、兵装の強化や訓練機能の追加など、様々な変更が行われています。ラ・アルヘンティーナは 1939 年にアルゼンチン海軍に所属しました。"
 
 msgid "IDS_PVSC105_FULL"
-msgstr "La Argentina"
+msgstr "La Argentina"
 
 msgid "IDS_PVSC105_NUMBER"
 msgstr "1"
@@ -109962,13 +109962,13 @@ msgid "IDS_PVSC109_YEAR"
 msgstr "1948"
 
 msgid "IDS_PVSC110"
-msgstr "San Martín"
+msgstr "San Martín"
 
 msgid "IDS_PVSC110_DESCR"
 msgstr "第二次世界大戦後、アルゼンチンの指導者達は、イギリスまたはアメリカに新たな巡洋艦を発注することを計画していました。その際の新巡洋艦の主な条件は、主砲として両用砲を採用していることでした。アルゼンチンが実際に巡洋艦を発注していたとすると、当時この条件に最も適していた艦艇はウースター級であり、設計者たちが参考にしていたはずです。その結果、このサン・マルティンのような艦艇が完成することになったかも知れません。"
 
 msgid "IDS_PVSC110_FULL"
-msgstr "San Martín"
+msgstr "San Martín"
 
 msgid "IDS_PVSC110_NUMBER"
 msgstr "1"
@@ -110157,13 +110157,13 @@ msgid "IDS_PVSD110_YEAR"
 msgstr "1953"
 
 msgid "IDS_PVSD111"
-msgstr "20 de Julio"
+msgstr "20 de Julio"
 
 msgid "IDS_PVSD111_DESCR"
 msgstr "<p>第二次世界大戦終結後、南米諸国は海軍力の近代化を精力的に進めました。老朽化した艦艇の代替として、主にアメリカやイギリスに新造艦を発注していましたが、コロンビアは当時最新鋭のハッランド級駆逐艦を建造したばかりのスウェーデンに白羽の矢を立てました。</p><p class=\"p_spacing\"> </p><p>コロンビア仕様の駆逐艦では、艦首の 57 mm 砲に代わって 3 番目の主砲塔が設置されました。対空兵装を優先した結果、対潜ボムランチャーを 1 基犠牲にする必要がありましたが、代わりに対空射撃を統制するオランダ製の電子機器は、スウェーデン本国の艦艇よりも高性能なものが搭載されました。</p><p class=\"p_spacing\"> </p><p>駆逐艦「20・デ・フリオ」は、マルメのコッカムス造船所で建造されました。26 年間にわたる現役期間中、本艦はアメリカ海軍を交えた複数の演習に参加しました。</p>"
 
 msgid "IDS_PVSD111_FULL"
-msgstr "20 de Julio"
+msgstr "20 de Julio"
 
 msgid "IDS_PVSD111_NUMBER"
 msgstr "2"
@@ -110451,7 +110451,7 @@ msgid "IDS_PVUH904_HULL_CRUISER_TEST"
 msgstr "Asunción"
 
 msgid "IDS_PVUS001_C1_SUO_STOCK"
-msgstr "Mk1 mod. 1"
+msgstr "Mk1 mod. 1"
 
 msgid "IDS_PVUS101_SUO_ALMIRANTE_ABREU"
 msgstr "Mk2 mod. 1"
@@ -110460,19 +110460,19 @@ msgid "IDS_PVUS102_C2_SUO_STOCK"
 msgstr "Mk2 mod. 1"
 
 msgid "IDS_PVUS103_C2_SUO_TOP"
-msgstr "Mk2 mod. 2"
+msgstr "Mk2 mod. 2"
 
 msgid "IDS_PVUS201_C3_SUO_STOCK"
-msgstr "Mk3 mod. 1"
+msgstr "Mk3 mod. 1"
 
 msgid "IDS_PVUS202_C3_SUO_TOP"
-msgstr "Mk3 mod. 2"
+msgstr "Mk3 mod. 2"
 
 msgid "IDS_PVUS301_C4_SUO_STOCK"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PVUS302_C4_SUO_TOP"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PVUS401_SUO_RD_JANEIRO"
 msgstr "Mk V mod. 1"
@@ -110499,37 +110499,37 @@ msgid "IDS_PVUS504_D6_SUO_STOCK"
 msgstr "Mk VI"
 
 msgid "IDS_PVUS601_C7_SUO_JULIO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PVUS602_C7_SUO_STOCK"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PVUS603_C7_SUO_TOP"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PVUS604_D7_SUO_STOCK"
 msgstr "Mk7"
 
 msgid "IDS_PVUS701_SUO_ATLANTICO"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PVUS702_C8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PVUS703_C8_SUO_TOP"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PVUS704_SUO_ALMIRANTE_GRAU"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PVUS705_D8_SUO_STOCK"
 msgstr "Mk8"
 
 msgid "IDS_PVUS801_C9_SUO_STOCK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod. 1"
 
 msgid "IDS_PVUS802_C9_SUO_TOP"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PVUS803_SUO_PATAGONIA"
 msgstr "Mk9 mod. 1"
@@ -111183,7 +111183,7 @@ msgid "IDS_PWPT012_533MM_VELOS"
 msgstr "Mk16 mod. 1"
 
 msgid "IDS_PWPT013_533MM_51"
-msgstr "Torped M1947 mod 0"
+msgstr "Torped M1947 mod 0"
 
 msgid "IDS_PWPT015_533MM"
 msgstr "Torped M1943 mod 0"
@@ -112059,7 +112059,7 @@ msgid "IDS_PWUH606_PIORUN"
 msgstr "Piorun"
 
 msgid "IDS_PWUH607_HULL_BLACK_BLYSKAWICA"
-msgstr "Błyskawica B"
+msgstr "Błyskawica B."
 
 msgid "IDS_PWUH701_DD8_HULL_STOCK"
 msgstr "Öland (A)"
@@ -116381,7 +116381,7 @@ msgid "IDS_PXUS703_SUO_Z_23_H2018"
 msgstr "Mk8 Sixth Sense"
 
 msgid "IDS_PXUS704_SUO_N_CAROLINA_H2018"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PXUS705_SUO_MOGAMI_H2018"
 msgstr "Type8 mod. 1"
@@ -116509,13 +116509,13 @@ msgid "IDS_PXUS938_SUO_TEST"
 msgstr "Iamassist"
 
 msgid "IDS_PXUS939_GEARING_H19_SUO"
-msgstr "Eagle Eye"
+msgstr "Eagle eye"
 
 msgid "IDS_PXUT001_TORP_HELLSINK"
 msgstr "Type 6"
 
 msgid "IDS_PXUT003_TORP_SHCNELLBOT"
-msgstr "Type 6"
+msgstr "Type 6"
 
 msgid "IDS_PXUT101_TORP_GROMOBOY"
 msgstr " "
@@ -117214,7 +117214,7 @@ msgid "IDS_PZGT070_550MM_3TUBE_MLE_1924"
 msgstr "550 mm tube lance-torpilles"
 
 msgid "IDS_PZGT075_610MM4_TYPE_93"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod. 1"
 
 msgid "IDS_PZGT100_21IN_3TUBE_TR_MK_IV_R"
 msgstr "533 mm TR Mk IV"
@@ -117640,13 +117640,13 @@ msgid "IDS_PZPT027_550_23DT_MARTEL_CN"
 msgstr "550 mm 24V Mod D"
 
 msgid "IDS_PZPT028_610MM_FEN_YANG"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod. 1"
 
 msgid "IDS_PZPT029_SANZANG_STOCK"
 msgstr "Torpedo Mk.13-2"
 
 msgid "IDS_PZPT030_610MM_WH_ORK"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod. 1"
 
 msgid "IDS_PZPT031_53_39_DALIAN"
 msgstr "53-39 mod. 4"
@@ -118786,10 +118786,10 @@ msgid "IDS_PZUE908_ENG_HUANGDI"
 msgstr "推力: 158,200 馬力"
 
 msgid "IDS_PZUF701_FC_SANZANG"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PZUF702_FC_XIAN_DENG"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PZUH001_C1_HULL_A"
 msgstr "成安 (A)"
@@ -119062,13 +119062,13 @@ msgid "IDS_PZUS604_C7_SUO_TOP"
 msgstr "Mk VII mod. 2"
 
 msgid "IDS_PZUS605_B7_SUO_STOCK"
-msgstr "Mk VII"
+msgstr "Mk VII"
 
 msgid "IDS_PZUS701_SUO_LO_YANG"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PZUS702_D8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PZUS703_D8_SUO_TOP"
 msgstr "Mk8 mod. 2"
@@ -119083,19 +119083,19 @@ msgid "IDS_PZUS706_SUO_MARTEL_CN"
 msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PZUS707_SUO_FEN"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PZUS708_SUO_BLACK_LOYANG"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PZUS709_SUO_WH_ORK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PZUS710_C8_SUO_TOP"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PZUS711_C8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PZUS712_B8_SUO_STOCK"
 msgstr "GFCS VIII"
@@ -119254,7 +119254,7 @@ msgid "IDS_PZUT707_TORP_MARTEL_CN"
 msgstr "550 mm 23DT"
 
 msgid "IDS_PZUT708_TORP_FEN"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod. 1"
 
 msgid "IDS_PZUT709_TORP_BLACK_LOYANG"
 msgstr "533 mm Mk31"
@@ -119263,7 +119263,7 @@ msgid "IDS_PZUT710_TORP_BLACK_LOYANG"
 msgstr "533 mm Mk15 mod. 0"
 
 msgid "IDS_PZUT711_TORP_WH_ORK"
-msgstr "Type90 mod. 1"
+msgstr "Type90 mod. 1"
 
 msgid "IDS_PZUT712_C8_TORP_STOCK"
 msgstr "533 mm 53-38"
@@ -119854,7 +119854,7 @@ msgid "IDS_RANKED_QUALIFICATION_TOOLTIP_TITLE"
 msgstr "昇格ゾーン"
 
 msgid "IDS_RANKED_REWARDS_COUNT"
-msgstr "+ %(_value)s"
+msgstr "+ %(_value)s"
 
 msgid "IDS_RANKED_REWARDS_TITLE"
 msgstr "褒賞"
@@ -121944,7 +121944,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL021_STEAM_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL021_STEAM_TITLE"
-msgstr "Steam container"
+msgstr "Steam"
 
 msgid "IDS_REWARD_LOOTBOX_PCL021_STEAM_TITLE_QUOTES"
 msgstr "「Steam」"
@@ -122040,7 +122040,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL025_TWITCH1_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL025_TWITCH1_TITLE"
-msgstr "Twitch container"
+msgstr "Twitch"
 
 msgid "IDS_REWARD_LOOTBOX_PCL025_TWITCH1_TITLE_QUOTES"
 msgstr "「Twitch」"
@@ -122166,7 +122166,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL031_RVR_SHARKS_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL031_RVR_SHARKS_OLD_TITLE"
-msgstr "Sharks container"
+msgstr "Sharks"
 
 msgid "IDS_REWARD_LOOTBOX_PCL031_RVR_SHARKS_OLD_TITLE_QUOTES"
 msgstr "「Sharks」"
@@ -122190,7 +122190,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL032_RVR_EAGLES_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL032_RVR_EAGLES_OLD_TITLE"
-msgstr "Eagles container"
+msgstr "Eagles"
 
 msgid "IDS_REWARD_LOOTBOX_PCL032_RVR_EAGLES_OLD_TITLE_QUOTES"
 msgstr "「Eagles」"
@@ -122214,7 +122214,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL033_RVR_GONAVY_PREM_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL033_RVR_GONAVY_PREM_OLD_TITLE"
-msgstr "\"Go Navy!\" Premium container"
+msgstr "Go Navy!"
 
 msgid "IDS_REWARD_LOOTBOX_PCL033_RVR_GONAVY_PREM_OLD_TITLE_QUOTES"
 msgstr "「Go Navy!」"
@@ -122310,7 +122310,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL037_UKARC_FREE_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL037_UKARC_FREE_OLD_TITLE"
-msgstr "Royal Navy container"
+msgstr "Royal Navy"
 
 msgid "IDS_REWARD_LOOTBOX_PCL037_UKARC_FREE_OLD_TITLE_QUOTES"
 msgstr "「イギリス海軍」"
@@ -122340,7 +122340,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL038_UKARC_PREM_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL038_UKARC_PREM_OLD_TITLE"
-msgstr "Royal Navy Premium container"
+msgstr "Royal Navy"
 
 msgid "IDS_REWARD_LOOTBOX_PCL038_UKARC_PREM_OLD_TITLE_QUOTES"
 msgstr "「イギリス海軍」"
@@ -123345,7 +123345,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL083_MOGADOREA_PREM_OLD_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL083_MOGADOREA_PREM_OLD_TITLE"
-msgstr "MOGADOR Premium container"
+msgstr "MOGADOR"
 
 msgid "IDS_REWARD_LOOTBOX_PCL083_MOGADOREA_PREM_OLD_TITLE_QUOTES"
 msgstr "「MOGADOR」"
@@ -125559,7 +125559,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_TITLE"
-msgstr "Premium Container Picardie"
+msgstr "Picardie"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_TITLE_QUOTES"
 msgstr "「Picardie」"
@@ -126120,7 +126120,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_COMMON_GROUP_TITLE_FUL
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_TITLE_FULL"
-msgstr "Ship"
+msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "輝かしい Tier X 艦艇"
@@ -126243,7 +126243,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_SLOT_1_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE"
-msgstr "Utopia Show Container"
+msgstr "Utopia Show"
 
 msgid "IDS_REWARD_LOOTBOX_PCL215_UTOPIA_SHOW_TITLE_QUOTES"
 msgstr "「Utopia Show」"
@@ -126291,7 +126291,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "G. Nani"
 
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE"
-msgstr "Giacomo Nani Premium Container"
+msgstr "Giacomo Nani"
 
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE_QUOTES"
 msgstr "「Giacomo Nani」"
@@ -126471,7 +126471,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_TITLE"
-msgstr "MiSide Premium Container"
+msgstr "MiSide"
 
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_TITLE_QUOTES"
 msgstr "「MiSide」"
@@ -147810,5 +147810,5 @@ msgstr[1] "あなたは %(_count)s レベルをクリアしました!"
 
 msgid "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_PARTICIPATED"
 msgid_plural "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_PARTICIPATED"
-msgstr[0] "The event is coming to an end! You have passed %(_progress)s level."
-msgstr[1] "The event is coming to an end! You have passed %(_progress)s levels."
+msgstr[0] "イベント終了間近! あなたは %(_progress)s レベルをクリアしました。"
+msgstr[1] "イベント終了間近! あなたは %(_progress)s レベルをクリアしました。"

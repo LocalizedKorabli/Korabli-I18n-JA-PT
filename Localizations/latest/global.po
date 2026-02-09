@@ -22282,7 +22282,7 @@ msgid "IDS_DISABLE_INVITATIONS_TO_DIVISION"
 msgstr "分艦隊への招待受信を無効化"
 
 msgid "IDS_DISABLE_SPECTATORS_TOOLTIP"
-msgstr "[グループ「未割り当てプレイヤー」にはすべてのオブザーバーを収容する十分な空きがありません]"
+msgstr "グループ「未割り当てプレイヤー」にはすべてのオブザーバーを収容する十分な空きがありません"
 
 msgid "IDS_DISABLE_VIEW_SHIP_INFO"
 msgstr "敵のロードアウトを隠す"
@@ -53633,7 +53633,7 @@ msgid "IDS_PASB520"
 msgstr "President"
 
 msgid "IDS_PASB520_DESCR"
-msgstr "<p>The U.S. Navy leadership first considered the need for a battlecruiser as early as 1911, when information about the construction of Japanese Kongō-class ships emerged. The initial American design included ten 254 mm guns. Battlecruisers were officially included in the construction program in 1916, but their laying was repeatedly delayed because resources were occupied by anti-submarine ships and escort vessels.</p><p class=\"p_spacing\"> </p><p>In early 1918, the characteristics of the British Hood-class battlecruisers, described as \"fast battleships,\" became known. After studying this data, the U.S. Navy leadership demanded a redesign of the American battlecruisers, increasing armor and strengthening armament to 406 mm main battery guns. Accordingly, displacement also grew—to 55,000 tons. In May 1918, several draft design options were presented, one of which included a 254 mm armor belt. These options were not implemented, and further development of the project led to the creation of the Lexington-class battlecruisers.</p>"
+msgstr "<p>アメリカ海軍が巡洋戦艦の建造を検討し始めたのは、1911 年に日本の金剛型巡洋戦艦の建造情報が入った時点までさかのぼる。当初のアメリカの設計案では 10 門の 254 mm 砲が搭載される予定だった。巡洋戦艦は 1916 年に正式な建艦プログラムに組み込まれたが、対潜艦艇や護衛艦の建造にリソースが割かれたため、起工は繰り返し延期された。</p><p class=\"p_spacing\"> </p><p>1918 年初頭、イギリスのフッド型巡洋戦艦の性能が「高速戦艦」として伝えられると、アメリカ海軍当局はこれを受けて自国の巡洋戦艦の設計を見直し、装甲の強化と主砲の 406 mm 砲への換装を要求した。これに伴い排水量は 55,000 トンに増大。1918 年 5 月には複数の設計案が提出され、うち一案は厚さ 254 mm の装甲帯を備えていた。これらの案は採用されず、その後の設計作業はレキシントン型巡洋戦艦の誕生へとつながった。</p>"
 
 msgid "IDS_PASB520_FULL"
 msgstr "President"
@@ -53708,7 +53708,7 @@ msgid "IDS_PASB548"
 msgstr "Oregon"
 
 msgid "IDS_PASB548_DESCR"
-msgstr "<p>As part of the development of a battleship falling under the limitations of the London Treaty, several designs were presented to the US Navy General Board at the end of 1935. The variants differed in displacement, armor, and armament: from classic battleships with superfiring main battery turrets to hybrid battleships with a flight deck.</p><p class=\"p_spacing\"> </p><p>Variant K was selected for further development, after which five versions of this variant were presented. Scheme I, closest to variant K, was a sketch of a ship with three triple turrets superfiring forward. The project was not realized, and its further development led to the appearance of the North Carolina-class battleships.</p>"
+msgstr "<p>ロンドン海軍条約の制限枠内に収める戦艦の設計として、1935 年末にアメリカ海軍総委員会に複数の案が提出された。これらの設計案は排水量、装甲、兵装において差異があり、連装砲塔を前後に配置した従来型戦艦から、飛行甲板を備えたハイブリッド戦艦まで多岐にわたった。</p><p class=\"p_spacing\"> </p><p>詳細設計対象として案 K が採用された後、その派生型として 5 種類のバリエーションが提示された。案 I は原案 K に最も近い設計で、艦首に 3 基の三連装砲塔を前後に配置する構想であった。この案は実現されなかったが、その後の設計発展によりノースカロライナ級戦艦が誕生することとなった。</p>"
 
 msgid "IDS_PASB548_FULL"
 msgstr "Oregon"
@@ -53798,7 +53798,7 @@ msgid "IDS_PASB710"
 msgstr "New Hampshire"
 
 msgid "IDS_PASB710_DESCR"
-msgstr "New Hampshire was supposed to be the fourth Montana-class battleship. With the start of World War II, construction was suspended and later canceled. By mid-war, it became clear that battleships were yielding their role as the fleet's main forces to aircraft carriers, and the idea arose to convert battleships into carrier escort ships. One option was to mount turrets with fast-firing 203 mm guns on the barbettes of two Iowa-class battleships. If the Montana-class battleships had been completed according to a similar design, the total number of 203 mm guns would have reached 16."
+msgstr "ニューハンプシャーはモンタナ級戦艦の 4 番艦として計画されていた。第二次世界大戦の勃発に伴い建造は中断され、後に中止となった。戦争が中盤に差し掛かった頃には、戦艦が艦隊の主力としての地位を空母に譲りつつあることが明らかになり、戦艦を空母護衛艦へ改装する構想が浮上した。一案として、アイオワ級戦艦 2 隻の主砲バーベット上に速射式 203 mm 砲塔を搭載する案が検討された。もしモンタナ級戦艦が同様の計画に基づいて完工していた場合、合計 16 門の 203 mm 砲を搭載することとなったであろう。"
 
 msgid "IDS_PASB710_FULL"
 msgstr "New Hampshire"
@@ -54410,7 +54410,7 @@ msgid "IDS_PASC517"
 msgstr "Chancellorsville"
 
 msgid "IDS_PASC517_DESCR"
-msgstr "<p>Work on designing a scout cruiser began in the USA in 1913 and continued after the end of World War I. By 1919, the ship's general characteristics were determined: displacement was 10,000–12,000 tons, and armament included 8–12 guns of 203 mm caliber.</p><p class=\"p_spacing\"> </p><p>Between 1919 and 1925, over thirty preliminary designs of such a ship were created, including versions with a raised linear arrangement of three turrets in the bow. Further development led to the appearance of the Pensacola-class cruisers.</p>"
+msgstr "<p>アメリカにおける偵察巡洋艦の設計作業は 1913 年に始まり、第一次世界大戦終結後も継続された。1919 年までに艦の基本設計が固まり：排水量は 10,000～12,000 トン、兵装は 203 mm 砲 8～12 門で構成されることとなった。</p><p class=\"p_spacing\"> </p><p>1919 年から 1925 年にかけて、艦首に 3 基の砲塔を前後に配置する構想を含む、30 種類以上に及ぶ予備設計案が作成された。これらの設計作業を経て、ペンサコーラ級重巡洋艦が誕生することとなる。</p>"
 
 msgid "IDS_PASC517_FULL"
 msgstr "Chancellorsville"
@@ -54500,7 +54500,7 @@ msgid "IDS_PASC558"
 msgstr "Constitution"
 
 msgid "IDS_PASC558_DESCR"
-msgstr "<p>In the mid-1910s, the U.S. Navy leadership considered a fleet enhancement program that included the construction of so-called scout cruisers. It was assumed that such ships would be fast and lightly armored or completely unarmored.</p><p class=\"p_spacing\"> </p><p>One variant of such a ship was the battle scout—essentially a battlecruiser but with only cruiser armor. In the fall of 1915, at least five draft designs of such a \"battle scout\" with displacements ranging from 28,000 to 32,000 tons were proposed. The ship would have a 127 mm armor belt and eight main battery guns. A distinctive feature of these designs was an elongated flush-deck hull with pronounced sheer, causing the stern to drop by one deck height. The project was not realized, and further refinements led to the creation of the Lexington-class battlecruisers.</p>"
+msgstr "<p>1910 年代半ば、アメリカ海軍当局は「偵察巡洋艦」の整備計画を検討していた。この種の艦船は高速・軽装甲、あるいは無装甲を特徴とすることが想定されていた。</p><p class=\"p_spacing\"> </p><p>その一案として「バトルスカウト」が提案された。これは実質的には巡洋戦艦に相当するが、防御は巡洋艦並みの装甲しか持たないものだった。1915 年秋までに、排水量 28,000 トンから 32,000 トン規模の「戦艦級偵察艦」の設計案が少なくとも 5 種類提出された。これらは厚さ 127 mm の装甲帯と 8 門の主砲を備える計画であった。これらの設計案の特徴は、平甲板型で艦尾が一段沈み込む、いわゆる「サドルバック」構造の船体にあった。この案は実現されなかったが、後の設計作業はレキシントン級巡洋戦艦の誕生へとつながった。</p>"
 
 msgid "IDS_PASC558_FULL"
 msgstr "Constitution"
@@ -69127,7 +69127,7 @@ msgid "IDS_PCEE740_FALKENHAYN_FLAG_DESCRIPTION"
 msgstr "This flag was raised in the 19th–20th century on ships and vessels of Prussia’s War Ministry. From 1913–14, the position of Prussian War Minister was held by Erich Georg Sebastian Anton von Falkenhayn (1861–1922), a notable general of the Imperial German Army during World War I."
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG"
-msgstr "ARV Francisco de Miranda "
+msgstr "ARV Francisco de Miranda"
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG_DESCRIPTION"
 msgstr "Sebastián Francisco de Miranda y Rodríguez (1750–1816) was a revolutionary and one of the leaders of the fight for independence of the Spanish colonies in South America. In 1806, Miranda set out to liberate Venezuela aboard the corvette Leander, which sailed under his own naval ensign."

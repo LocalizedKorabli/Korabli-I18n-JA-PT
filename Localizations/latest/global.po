@@ -3668,7 +3668,7 @@ msgid "IDS_ACHIEVEMENT_PARAGON_DROP50"
 msgstr "上級造船技師"
 
 msgid "IDS_ACHIEVEMENT_PRORYV"
-msgstr "ブレークスルー"
+msgstr "突破"
 
 msgid "IDS_ACHIEVEMENT_PVE_DREADNOUGHT_SUPERWARRIOR"
 msgstr "マシンブレイカー"
@@ -6546,7 +6546,7 @@ msgid "IDS_AVG_CAUSED_TO_BUILDINGS_DAMAGE_TOOLTIP"
 msgstr "陸上施設への 1 戦あたりの平均与ダメージ"
 
 msgid "IDS_AVG_SUPPRESSED_BUILDINGS"
-msgstr "制圧した陸上施設"
+msgstr "制圧した陸上施設数"
 
 msgid "IDS_AVG_SUPPRESSED_BUILDINGS_TOOLTIP"
 msgstr "制圧した陸上施設数の 1 戦平均値"
@@ -7943,7 +7943,7 @@ msgid "IDS_BATTLE_MISSION"
 msgstr "戦闘任務"
 
 msgid "IDS_BATTLE_MODE_RESPAWN"
-msgstr "戦闘への帰還"
+msgstr "戦闘への復帰"
 
 msgid "IDS_BATTLE_MODE_SPECIAL_SHIP"
 msgstr "特殊艦利用可能"
@@ -8456,10 +8456,10 @@ msgid "IDS_BATTLE_STATS_MISSILES"
 msgstr "ミサイル"
 
 msgid "IDS_BATTLE_STATS_MISSILES_ALPHA"
-msgstr "ホーミングミサイル"
+msgstr "自律誘導型ミサイル"
 
 msgid "IDS_BATTLE_STATS_MISSILES_BETA"
-msgstr "誘導ミサイル"
+msgstr "指令誘導型ミサイル"
 
 msgid "IDS_BATTLE_STATS_MISSILES_DESTROYED"
 msgstr "ロケットが破壊されました"
@@ -10273,16 +10273,16 @@ msgid "IDS_CAUSED_MINES_RELEASED_HINT"
 msgstr "投下した機雷の数"
 
 msgid "IDS_CAUSED_MISSILES_ALPHA_HINT"
-msgstr "ホーミングミサイルの命中弾数と与ダメージ"
+msgstr "自律誘導型ミサイルの命中弾数と与ダメージ"
 
 msgid "IDS_CAUSED_MISSILES_ALPHA_SHOTS_HINT"
-msgstr "ホーミングミサイルの発射数"
+msgstr "自律誘導型ミサイルの発射数"
 
 msgid "IDS_CAUSED_MISSILES_BETA_HINT"
-msgstr "誘導ミサイルの命中弾数と与ダメージ"
+msgstr "指令誘導型ミサイルの命中弾数と与ダメージ"
 
 msgid "IDS_CAUSED_MISSILES_BETA_SHOTS_HINT"
-msgstr "誘導ミサイルの発射数"
+msgstr "指令誘導型ミサイルの発射数"
 
 msgid "IDS_CAUSED_MISSILES_HINT"
 msgstr "ミサイルの命中弾数と与ダメージ"
@@ -22897,13 +22897,13 @@ msgid "IDS_DOCK_AMMO_DESCRIPTION_MINE_SEAMINE_ALT"
 msgstr "<p>指定されたエリアに機雷原を設置します。</p><p class=\"p_spacing\"> </p><p>機雷は浸水を引き起こし、モジュールを機能停止させる可能性があります。</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILEAIRDEFENSE"
-msgstr "<p>艦船近傍に飛来するミサイル及び飛行隊を破壊する。適時な起動が必須。</p><p class=\"p_spacing\"> </p><p>ホーミングミサイルはレーザー一回の照射で破壊可能。誘導弾または飛行隊の破壊には、二回の照射を要する。</p>"
+msgstr "<p>艦船近傍に飛来するミサイル及び飛行隊を破壊する。適時な起動が必須。</p><p class=\"p_spacing\"> </p><p>自律誘導型ミサイルはレーザー一回の照射で破壊可能。指令誘導型ミサイルまたは飛行中隊の破壊には、二回の照射を要する。</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILE_ALPHA"
 msgstr "<p>エナジーシールドおよびエナジーシールドを持たない艦艇にダメージを与えます。手動照準は不要です。</p><p class=\"p_spacing\"> </p><p>発動には目標のスキャンが必要です。</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILE_BETA"
-msgstr "<p>エネルギーシールドを持たない艦艇に大きなダメージを与える。エネルギーシールドは損傷しない。</p><p class=\"p_spacing\"> </p><p>手動照準が必要。</p>"
+msgstr "<p>エネルギーシールドを持たない艦艇に大きなダメージを与える。エネルギーシールドは損傷しない。</p><p class=\"p_spacing\"> </p><p>手動誘導が必要。</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILE_MISSILE"
 msgstr "甲板発射装置から発射されます。敵艦艇に命中するとダメージを与えます。"
@@ -23106,13 +23106,13 @@ msgid "IDS_DOCK_AMMO_TITLE_MINE_SEAMINE_ALT"
 msgstr "機雷敷設機"
 
 msgid "IDS_DOCK_AMMO_TITLE_MISSILEAIRDEFENSE"
-msgstr "対ミサイルレーザー"
+msgstr "対ミサイル・レーザー"
 
 msgid "IDS_DOCK_AMMO_TITLE_MISSILE_ALPHA"
-msgstr "ホーミングミサイル"
+msgstr "自律誘導型ミサイル"
 
 msgid "IDS_DOCK_AMMO_TITLE_MISSILE_BETA"
-msgstr "誘導ミサイル"
+msgstr "指令誘導型ミサイル"
 
 msgid "IDS_DOCK_AMMO_TITLE_MISSILE_MISSILE"
 msgstr "ミサイル"
@@ -24811,7 +24811,7 @@ msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_BATTLE_TOURNAMENT"
 msgstr "トーナメント"
 
 msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_PRORUV"
-msgstr "ブレークスルー"
+msgstr "突破"
 
 msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_TM"
 msgstr "プレイヤー対抗戦"
@@ -27459,10 +27459,10 @@ msgid "IDS_DOGTAG_PCNB404_NAME"
 msgstr "探求者の財宝"
 
 msgid "IDS_DOGTAG_PCNB406_DESCRIPTION"
-msgstr "「ブレークスルー」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
+msgstr "「突破」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
 
 msgid "IDS_DOGTAG_PCNB406_NAME"
-msgstr "ブレークスルー"
+msgstr "突破"
 
 msgid "IDS_DOGTAG_PCNB407_DESCRIPTION"
 msgstr ""
@@ -28610,28 +28610,28 @@ msgid "IDS_DOGTAG_PCNU105_NAME"
 msgstr "パンアメリカ艦隊エリート部隊"
 
 msgid "IDS_DOGTAG_PCNU106_DESCRIPTION"
-msgstr "「ブレークスルー」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
+msgstr "「突破」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
 
 msgid "IDS_DOGTAG_PCNU106_NAME"
-msgstr "ブレークスルー、初心者"
+msgstr "突破、初心者"
 
 msgid "IDS_DOGTAG_PCNU107_DESCRIPTION"
-msgstr "「ブレークスルー」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
+msgstr "「突破」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
 
 msgid "IDS_DOGTAG_PCNU107_NAME"
-msgstr "ブレークスルー、ベテラン"
+msgstr "突破、ベテラン"
 
 msgid "IDS_DOGTAG_PCNU108_DESCRIPTION"
-msgstr "「ブレークスルー」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
+msgstr "「突破」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
 
 msgid "IDS_DOGTAG_PCNU108_NAME"
-msgstr "ブレークスルー、エリート"
+msgstr "突破、エリート"
 
 msgid "IDS_DOGTAG_PCNU109_DESCRIPTION"
-msgstr "「ブレークスルー」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
+msgstr "「突破」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
 
 msgid "IDS_DOGTAG_PCNU109_NAME"
-msgstr "ブレークスルー、優勝者"
+msgstr "突破、優勝者"
 
 msgid "IDS_DOGTAG_PCNU110_DESCRIPTION"
 msgstr "これは「Mir Korabley」で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
@@ -30239,7 +30239,7 @@ msgid "IDS_EVENT_SPACE_BATTLE_TASK_TEXT_BOSS_PROTECT"
 msgstr "味方の Beowulf を防衛せよ"
 
 msgid "IDS_EVENT_SPACE_BATTLE_TASK_TEXT_BOSS_SUMMON"
-msgstr "敵の基地を破壊するために、超戦艦 Beowulf を召喚せよ"
+msgstr "超戦艦『Beowulf』を召喚せよ——敵基地を撃滅するため"
 
 msgid "IDS_EVENT_SPACE_BATTLE_TASK_TEXT_BOSS_SUMMON_RULE_1"
 msgstr "常時獲得"
@@ -40576,7 +40576,7 @@ msgid "IDS_MAX_STRAUSS_HW"
 msgstr "Max Strauss"
 
 msgid "IDS_MAX_SUPPRESSED_BUILDINGS"
-msgstr "制圧した陸上施設"
+msgstr "制圧した陸上施設数"
 
 msgid "IDS_MAX_SUPPRESSED_BUILDINGS_TOOLTIP"
 msgstr "制圧した陸上施設数の 1 戦最高記録"
@@ -41404,7 +41404,7 @@ msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_2_TEXT_2"
 msgstr "中口径砲は装填が速いですが、与えるダメージは少なめです。"
 
 msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_3_HEADER"
-msgstr "戦闘への帰還"
+msgstr "戦闘への復帰"
 
 msgid "IDS_MODAL_WINDOW_DREADNOUGHT_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
 msgstr "撃沈された駆逐艦は、味方艦隊に戦艦または巡洋艦が少なくとも 1 隻残っている場合、戦闘に復帰します。"
@@ -42049,10 +42049,10 @@ msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_1_TEXT_2"
 msgstr "「ベイオウルフ」 のみが基地にダメージを与えられます。この超大型戦艦は敵を撃破することで召喚可能です。味方の超大型戦艦を防衛し、敵の超大型戦艦に基地を破壊されないようにしてください。「ベイオウルフ」 は無制限に召喚できます。"
 
 msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_2_HEADER"
-msgstr "戦闘への帰還"
+msgstr "戦闘への復帰"
 
 msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "撃破された場合、位置と艦艇を選択して戦闘に復帰できます。ただし、一部の艦艇は戦闘で獲得した復活ポイントでのみ利用可能です。未使用のポイントは戦闘終了時に失効します。"
+msgstr "撃沈された場合、位置と艦艇を選択して戦闘に復帰できます。ただし、一部の艦艇は戦闘で獲得した復活ポイントでのみ利用可能です。未使用のポイントは戦闘終了時に失効します。"
 
 msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_3_HEADER"
 msgstr "ミサイル、レーザー、そしてエナジーシールド"
@@ -42061,7 +42061,7 @@ msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_3_TEXT_1"
 msgstr "艦艇には、誘導弾とホーミング弾の 2 種類のミサイルが使用可能です。ホーミング弾を発射するには、事前に対象をスキャンする必要があります。誘導弾は大きなダメージを与えますが、エナジーシールドを損傷させることはありません。"
 
 msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "敵の飛来するミサイルを撃ち落とすには、タイミングよく対ミサイルレーザーを起動する必要があります。"
+msgstr "敵の飛来するミサイルを撃ち落とすには、タイミングよく対ミサイル・レーザーを起動する必要があります。"
 
 msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_3_TEXT_3"
 msgstr "すべての艦艇はエナジーシールドで保護されています。これは、ダメージを受けない限り回復します。エナジーシールドが破壊されると、回復できなくなり、艦艇はダメージに対して脆弱になります。"
@@ -65487,10 +65487,10 @@ msgid "IDS_PCEC146_CAMO_RUS"
 msgstr "バイカル"
 
 msgid "IDS_PCEC147_CAMO_PRORYV_RED"
-msgstr "ブレークスルー・レッド"
+msgstr "突破・レッド"
 
 msgid "IDS_PCEC148_CAMO_PRORYV_GREEN"
-msgstr "ブレークスルー・グリーン"
+msgstr "突破・グリーン"
 
 msgid "IDS_PCEC150_LABOR_DAY_CAMO_TILE"
 msgstr "メーデー"
@@ -69382,10 +69382,10 @@ msgid "IDS_PCEE632_USSR_SS_EA_FLAG_DESCRIPTION"
 msgstr "アップデート 12.8 で早期アクセス艦艇として登場したソ連潜水艦を記念して。"
 
 msgid "IDS_PCEE633_PRORYV_FLAG"
-msgstr "ブレークスルー"
+msgstr "突破"
 
 msgid "IDS_PCEE633_PRORYV_FLAG_DESCRIPTION"
-msgstr "「ブレークスルー」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
+msgstr "「突破」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
 
 msgid "IDS_PCEE635_BLACKBLACK_FLAG"
 msgstr "Black Black"
@@ -70024,7 +70024,7 @@ msgid "IDS_PCEE736_YAMATO_COLORFUL_FLAG"
 msgstr "大和 CLR"
 
 msgid "IDS_PCEE736_YAMATO_COLORFUL_FLAG_DESCRIPTION"
-msgstr "In April 1945, the battleship Yamato set out on a combat mission against superior enemy forces. The ship had almost no chance of returning, and a white chrysanthemum—a symbol of immortality—was painted on its funnel."
+msgstr "1945 年 4 月、戦艦大和は優勢な敵軍に対する戦闘任務へと向かった。艦が帰還する可能性はほとんどなく、その煙突には不死の象徴である白菊が描かれていた。"
 
 msgid "IDS_PCEE736_YAMATO_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "まばゆいばかりの艦艇のリリースを記念して。"
@@ -70450,10 +70450,10 @@ msgid "IDS_PCEE802_PANAM_DD_EA_FLAG"
 msgstr "Hispanidad"
 
 msgid "IDS_PCEE802_PANAM_DD_EA_FLAG_DESCRIPTION"
-msgstr "\"Hispanidad\" is a doctrine of the commonality of Spanish-speaking countries in Europe and Latin America, created on the frontier of the 1920s–1930s. In the autumn of 1932, on the eve of the anniversary of Christopher Columbus's discovery of America, the flag of \"Hispanidad\" was raised for the first time in Liberty Square in Montevideo, the capital of Uruguay."
+msgstr "イスパニダ — 1920～30 年代の変わり目に形成された、スペイン語圏のヨーロッパとラテンアメリカ諸国の共同体理念。1932 年秋、クリストファー・コロンブスによるアメリカ大陸発見の記念日前夜、「イスパニダ」の旗が、ウルグアイの首都モンテビデオにある自由広場で初めて掲げられた。"
 
 msgid "IDS_PCEE802_PANAM_DD_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "The white field of the flag symbolizes peace and purity, the golden May Sun (Sol de Mayo) represents the Inca god Inti, and the three purple cross-crosslets represent Columbus's three ships and the Spanish language."
+msgstr "旗の白地は平和と純潔を、金色の五月の太陽（ソル・デ・マジョ）はインカの太陽神インティを、三つの先端が広がる紫の十字はコロンブスの三隻の船とスペイン語を象徴しています。"
 
 msgid "IDS_PCEE803_ARTOIS_FLAG"
 msgstr "Artois"
@@ -70474,10 +70474,10 @@ msgid "IDS_PCEE806_CHIDI_FLAG_DESCRIPTION"
 msgstr "中国神話では、鳳凰は火の元素と関連づけられています。この鳥の出現は、現在の皇帝の権威を示すか、重要な出来事を予兆すると考えられています。伝説によれば、黄帝の死の前に鳳凰が目撃されたとされています。"
 
 msgid "IDS_PCEE807_PRORYV_SPACE_FLAG"
-msgstr "Breaking through space and time"
+msgstr "時空突破"
 
 msgid "IDS_PCEE807_PRORYV_SPACE_FLAG_DESCRIPTION"
-msgstr "Everyone knows that \"Breakthrough\" is a dynamic competition full of emotions, adrenaline, competitive spirit, and genuine camaraderie. But few are aware that this tournament takes place not only at sea but also in outer space."
+msgstr "『突破』が、激情とアドレナリン、競争心、そして真の戦友愛に満ちたダイナミックな競技であることは周知の事実だ。しかし、この大会が海上のみならず、広大な宇宙空間でも繰り広げられていることは、ほとんど知られていない。"
 
 msgid "IDS_PCEE808_SUBMARINE_CLOWN_FLAG"
 msgstr "犠牲を厭わず"
@@ -70489,10 +70489,10 @@ msgid "IDS_PCEE808_SUBMARINE_CLOWN_FLAG_EXTRA_DESCRIPTION"
 msgstr "「求め求めて、パンドーラ」イベントを記念して。"
 
 msgid "IDS_PCEE809_EARTH_FEDERATION_FLAG"
-msgstr "United Earth Federation"
+msgstr "地球連合連邦"
 
 msgid "IDS_PCEE809_EARTH_FEDERATION_FLAG_DESCRIPTION"
-msgstr "In the distant future, all nations of Earth merged into one — the United Earth Federation. This made it easier for humanity to traverse the vastness of the universe and confront intergalactic threats."
+msgstr "遠い未来、地球上の全ての国家は一つに統合されました — 地球連合連邦 (United Earth Federation) です。これにより人類は宇宙の広大な空間を航行し、銀河間の脅威に対抗することがより容易になったのです。"
 
 msgid "IDS_PCEE814_KAIMON_FLAG"
 msgstr "海門"
@@ -70510,25 +70510,25 @@ msgid "IDS_PCEE818_WATERLOO_FLAG"
 msgstr "HMS Waterloo"
 
 msgid "IDS_PCEE818_WATERLOO_FLAG_DESCRIPTION"
-msgstr "At the site of the Battle of Waterloo, where Napoleon suffered his final and decisive defeat, a mound was erected with a statue of a lion at its summit. The lion is a symbol of Great Britain, which played a leading role in this battle."
+msgstr "ナポレオンが最後かつ決定的な敗北を喫したワーテルローの戦場には、塚が築かれ、頂上に獅子の像が置かれています。この獅子は、この戦いで主導的役割を果たしたイギリスの象徴です。"
 
 msgid "IDS_PCEE819_WOTAN_FLAG"
 msgstr "Wotan"
 
 msgid "IDS_PCEE819_WOTAN_FLAG_DESCRIPTION"
-msgstr "Odin is the supreme god in Germanic mythology, often depicted as a long-bearded, one-eyed elder. According to legend, he sacrificed his right eye to gain great wisdom. \"Wotan\" (German: Wotan) is a variant spelling of Odin's name, used by Richard Wagner in the opera cycle \"The Ring of the Nibelung.\""
+msgstr "オーディンはゲルマン神話の最高神であり、通常は長き髭をたくわえ隻眼の賢者として描かれる。伝説によれば、彼は大いなる知恵を得るために自らの右目を捧げたという。「ヴォータン」はリヒャルト・ワーグナーが楽劇『ニーベルングの指輪』で用いたオーディン名の表記変異形である。"
 
 msgid "IDS_PCEE820_UTRECHT_FLAG"
 msgstr "HNLMS Utrecht"
 
 msgid "IDS_PCEE820_UTRECHT_FLAG_DESCRIPTION"
-msgstr "Utrecht is a city in the central part of the Netherlands. This ancient city traces its history back to a Roman fortress built around 50 AD. In 1579, the Union of Utrecht was signed in the city, leading to the formation of the Republic of the Seven United Provinces."
+msgstr "ユトレヒトは、オランダ中央部に位置する古都である。その起源を遡れば、紀元50年頃に築かれた古代ローマの要塞にまで至る。1579年にはこの地でユトレヒト同盟が結ばれ、ここにネーデルラント連邦共和国が誕生した。"
 
 msgid "IDS_PCEE821_SHENANDOAH_FLAG"
 msgstr "USS Shenandoah"
 
 msgid "IDS_PCEE821_SHENANDOAH_FLAG_DESCRIPTION"
-msgstr "The Shenandoah is a river flowing through the valley of the same name in Virginia. During the American Civil War, recruits from this valley, who were of Irish descent, joined the Emerald Guard—a company within the 33rd Infantry Regiment of the Confederate Army."
+msgstr "シェナンドーは、ヴァージニア州の同名の谷間を流れる川である。南北戦争の時代、この谷間からはアイリッシュ系の志願兵が集い、南軍第33歩兵連隊に属する「エメラルド衛兵」中隊として結成された。"
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "サンタ求む 2016"
@@ -71316,7 +71316,7 @@ msgid "IDS_PCVE030_DESCRIPTION"
 msgstr "Ermelinda Jung と猟犬の間の非対称戦闘。陣営を選び、独自の戦術を見つけ出せ!"
 
 msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_1_HEADER"
-msgstr "戦闘への帰還"
+msgstr "戦闘への復帰"
 
 msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
 msgstr "同盟は再生技術を有しています: 全ての破壊された猟犬は戦闘に復帰することが可能です。"
@@ -71367,31 +71367,31 @@ msgid "IDS_PCVE031"
 msgstr "宙域戦線"
 
 msgid "IDS_PCVE031_DESCRIPTION"
-msgstr "A battle between two teams of players in the distant worlds of space. The ships are armed with missiles and protected by energy shields."
+msgstr "深宇宙を舞台にした、二つのプレイヤーチームによる戦い。ミサイルで武装し、エネルギーシールドに守られた艦艇が交錯する。"
 
 msgid "IDS_PCVE031_SHIP_ROLE"
 msgstr "役割: %(roleValue)s"
 
 msgid "IDS_PCVE031_SPACE_APRIL_RULE_1_DESCRIPTION"
-msgstr "If your ship is destroyed, you can return to battle by selecting a respawn point and a ship. Some ships are only available for respawn points earned in battle."
+msgstr "艦艇が撃沈された場合、位置と艦艇を選択して戦闘に復帰できます。一部の艦艇は、戦闘で獲得した復活ポイントでのみ利用可能です。"
 
 msgid "IDS_PCVE031_SPACE_APRIL_RULE_1_HEADER"
-msgstr "戦闘への帰還"
+msgstr "戦闘への復帰"
 
 msgid "IDS_PCVE031_SPACE_APRIL_RULE_2_DESCRIPTION"
-msgstr "Ships can have access to two types of missiles: homing and guided. To shoot down a missile, you need to activate the anti-missile laser in time."
+msgstr "各艦は二種類のミサイルを装備可能だ──自律誘導型と指令誘導型。これらを迎撃するには、対ミサイルレーザーの起動を寸前で仕掛けよ。"
 
 msgid "IDS_PCVE031_SPACE_APRIL_RULE_2_HEADER"
 msgstr "ミサイルとレーザー"
 
 msgid "IDS_PCVE031_SPACE_APRIL_RULE_3_DESCRIPTION"
-msgstr "To damage a ship, you must first destroy its energy shield. Any weapon except guided missiles is suitable for this. Energy shields regenerate if they take no damage."
+msgstr "艦体に損傷を与えるには、まずそのエネルギーシールドを破壊せよ。シールドは指令誘導ミサイルを除く、あらゆる兵装で攻撃可能だ。無傷状態が続けば、シールドは自動的に回復する。"
 
 msgid "IDS_PCVE031_SPACE_APRIL_RULE_3_HEADER"
 msgstr "エナジーシールド"
 
 msgid "IDS_PCVE031_START_TASK"
-msgstr "Summon the super battleship Beowulf to destroy the enemy base"
+msgstr "超戦艦『Beowulf』を召喚せよ——敵基地を撃滅するため"
 
 msgid "IDS_PCVE031_SUBHEADER"
 msgstr "戦闘でミサイル兵装を試せ"
@@ -77186,7 +77186,7 @@ msgid "IDS_PCZC892_ARIA_2_5_DESCRIPTION"
 msgstr "This song was first released as a single in 2002 and was included in the 'Baptism by Fire' album the following year. The lyrics are dedicated to the gladiators of Ancient Rome."
 
 msgid "IDS_PCZC893_ARIA_3_1"
-msgstr "Guitar"
+msgstr "ギター"
 
 msgid "IDS_PCZC893_ARIA_3_1_DESCRIPTION"
 msgstr "Vladimir Holstinin's guitar. A Russian-made instrument, specially crafted for the musician, with a build process that took two years."
@@ -77384,7 +77384,7 @@ msgid "IDS_PCZC925_TSAR_MOREY_1_3_DESCRIPTION"
 msgstr "<p>A group of people in a remote dark corner is constantly looking around. Their whispering is barely audible. It seems like they’re plotting something sinister...</p><p class=\"p_spacing\"> </p><p>Oh, no... It’s just the team discussing secret tactics for the next battle. Well, what? Precautionary measures: what if someone’s eavesdropping?</p>"
 
 msgid "IDS_PCZC926_TSAR_MOREY_1_4"
-msgstr "The Fatalist"
+msgstr "運命論者"
 
 msgid "IDS_PCZC926_TSAR_MOREY_1_4_DESCRIPTION"
 msgstr "<p>That player whose ammo stock is always half-empty. The outcome of the match is already clear to him. Everything has already been decided. He told you so!</p><p class=\"p_spacing\"> </p><p>Every team probably has one. If you think your team doesn’t, then maybe you should wonder: is it you?</p>"
@@ -84210,7 +84210,7 @@ msgid "IDS_PGSB211"
 msgstr "Seydlitz"
 
 msgid "IDS_PGSB211_DESCR"
-msgstr "<p>1918 年、ドイツの設計者たちは高速戦艦 Grosskampfschiffe の数十の予備設計案を提示した。開発された中で最大の案は GK-5041 と指定され、主砲塔 4 基を兵装とし、排水量 50,000 トンを想定していた。</p><p class=\"p_spacing\"> </p><p>この計画の仮想バージョンでは、戦艦は 450 mm 主砲を兵装としている。</p>"
+msgstr "<p>1918 年、ドイツの設計陣は高速戦艦「グロースカンプフシッフ」の構想段階における数十の予備設計案を提示した。これらの中で最大の案は GK-5041 の代号を与えられ、4 基の主砲塔を備え、排水量 50,000 トンを想定していた。<p class=\"p_spacing\"> </p>この設計の仮説上の発展型として、450 mm 主砲を搭載する戦艦案が構想されている。</p>"
 
 msgid "IDS_PGSB211_FULL"
 msgstr "Seydlitz"
@@ -84960,7 +84960,7 @@ msgid "IDS_PGSC530"
 msgstr "Wotan"
 
 msgid "IDS_PGSC530_DESCR"
-msgstr "<p>In early 1938, the command of the German Navy decided that the German fleet needed full-fledged battlecruisers with heavy guns. This led to the development of the O-class battlecruiser-raider project. The ship was planned to be equipped with a combined power plant, and its armament was to consist of three mounts with 380 mm caliber guns.</p><p class=\"p_spacing\"> </p><p>The hypothetical development of this concept includes increasing the number of main battery guns and strengthening the anti-aircraft armament.</p>"
+msgstr "<p>1938 年初頭、ドイツ海軍司令部は、強力な主砲を備えた本格的な巡洋戦艦が必要であると判断した。こうして O 級巡洋戦艦の設計構想が誕生する。本艦には複合動力システムの搭載が計画され、武装は 380 mm 砲を搭載する三基の主砲塔で構成される予定であった。</p><p class=\"p_spacing\"> </p><p>このコンセプトの仮定的な発展型としては、主砲数の増加と対空火力の強化が想定されている。</p>"
 
 msgid "IDS_PGSC530_FULL"
 msgstr "Wotan"
@@ -88398,7 +88398,7 @@ msgid "IDS_PHSD520"
 msgstr "Utrecht"
 
 msgid "IDS_PHSD520_DESCR"
-msgstr "<p>The Utrecht, the sixth destroyer of the Friesland class, was built at the Koninklijke Maatschappij De Schelde shipyard in Vlissingen. After completing initial crew training, the destroyer undertook a training cruise to the Mediterranean Sea.</p><p class=\"p_spacing\"> </p><p>In 1959, the ship was additionally armed with fixed British torpedo launchers. From 1961 to 1962, the destroyer served in Dutch New Guinea. In 1971, the destroyer was converted to operate on diesel fuel instead of naval fuel oil. During the 1970s, the Utrecht served in the Caribbean Sea, on the island of Curaçao.</p><p class=\"p_spacing\"> </p><p>In 1980, the Utrecht was sold to Peru as one of seven Friesland-class destroyers. In the Peruvian Navy, the ship was renamed Castilla.</p>"
+msgstr "<p>ユトレヒトは、フリースラント級駆逐艦の 6 番艦として、フリシンゲンのロイヤル・スヘルデ社造船所で建造された。乗員の初期訓練を終えた後、本艦は練習航海として地中海へ赴いた。</p><p class=\"p_spacing\"> </p><p>1959 年、本艦は固定式のイギリス製魚雷発射管で武装を強化された。1961 年から 62 年にかけては、オランダ領ニューギニアでの任務に就く。1971 年には、艦用重油からディーゼル燃料への転換を目的とした大規模改装が施された。1970 年代には、カリブ海のキュラソー島を拠点として活動した。</p><p class=\"p_spacing\"> </p><p>1980 年、ユトレヒトはフリースラント級 7 隻のうちの 1 隻としてペルーに売却され、同国海軍ではカスティージャと改名されて就役した。</p>"
 
 msgid "IDS_PHSD520_FULL"
 msgstr "Utrecht"
@@ -96399,7 +96399,7 @@ msgid "IDS_PJSD548"
 msgstr "ミカ"
 
 msgid "IDS_PJSD548_DESCR"
-msgstr "Once upon a time, a model-building contest was held at the 'Sovyonyok' camp. After long hours spent working on the drawings, the winners were rewarded with a trip to the beach, where a ship made from painfully familiar parts appeared..."
+msgstr "キャンプ「Sovyonok」である時、模型製作コンテストが開催されました。設計図と向き合い続けた長い努力の末、勝者たちにはビーチへの旅行券が贈られました。そこには、どこか見覚えのあるパーツで構成された一隻の艦船が姿を現したのです……。"
 
 msgid "IDS_PJSD548_FULL"
 msgstr "ミカ"
@@ -96444,7 +96444,7 @@ msgid "IDS_PJSD610"
 msgstr "夏風"
 
 msgid "IDS_PJSD610_DESCR"
-msgstr "<p>The experimental destroyer Shimakaze, commissioned in 1943, was intended to be the lead ship of a new class. Under this project, 15 more destroyers were prepared for construction.</p><p class=\"p_spacing\"> </p><p>If one of the planned ships had been built, it could have received 533-mm torpedo tubes with fast reload and high torpedo speed.</p>"
+msgstr "<p>1943 年に就役した実験的な駆逐艦島風は、新型艦艇の第一艦となる予定でした。この設計に基づき、さらに 15 隻の駆逐艦が建造準備段階にありました。</p><p class=\"p_spacing\"> </p><p>もし計画されていた艦艇の 1 隻が建造されていたなら、高速再装填可能な 533 mm 魚雷発射管と高速魚雷を搭載していた可能性があります。</p>"
 
 msgid "IDS_PJSD610_FULL"
 msgstr "夏風"
@@ -101473,7 +101473,7 @@ msgid "IDS_PRES408_PR_68_CHAPAEV_H2017"
 msgstr "Svyatozar"
 
 msgid "IDS_PRES409_STALCRAFT_KOMETA"
-msgstr "Rise"
+msgstr "Zarya"
 
 msgid "IDS_PRES410_MOSKVA_AVRORA"
 msgstr "Aurora"
@@ -101500,7 +101500,7 @@ msgid "IDS_PRES420_STALINGRAD_CLAN"
 msgstr "戦時迷彩"
 
 msgid "IDS_PRES428_STALCRAFT_LATANU"
-msgstr "Covenant"
+msgstr "Zavet"
 
 msgid "IDS_PRES430_STALINGRAD_RANKED"
 msgstr "勝利"
@@ -101512,7 +101512,7 @@ msgid "IDS_PRES436_DMITRY_DONSKOY"
 msgstr "対馬海戦"
 
 msgid "IDS_PRES438_STALCRAFT_ALBATROS"
-msgstr "Mercenary"
+msgstr "傭兵"
 
 msgid "IDS_PRES440_SMOLENSKBLACK"
 msgstr "特別"
@@ -110083,7 +110083,7 @@ msgid "IDS_PVEBATTLE_DESCRIPTION"
 msgstr "プレイヤーチームとボット間のストーリー戦闘。オペレーションはランダムに選択されます。"
 
 msgid "IDS_PVEBATTLE_SUBHEADER"
-msgstr "Fight against bots in the story-based battle"
+msgstr "ボットとのストーリーバトルに対戦しよう"
 
 msgid "IDS_PVECOMMON_ALLIED_A"
 msgstr "味方"
@@ -114951,7 +114951,7 @@ msgid "IDS_PXSB110"
 msgstr "Weltraum"
 
 msgid "IDS_PXSB110_DESCR"
-msgstr "<p>Initially, Weltraum was recreated by enthusiast engineers based on an ancient design found in one of the archives in the western part of the Federation for the World Festival of Military Historical Reenactment and was not intended to be used as an active warship. However, the constructed battleship turned out to be so powerful and practically unsinkable that it surpassed the latest developments in some respects.</p><p class=\"p_spacing\"> </p><p>After several minor improvements, Weltraum joined the main force of the Federation's Military Space Fleet, becoming a permanent participant in missions to the Limit Zone.</p>"
+msgstr "<p>Weltraum は当初、連邦西部のアーカイブで発見された古代の設計図に基づき、熱心なエンジニアたちによって世界軍事歴史再現祭のために再現されたもので、実戦で使用される戦闘艦艇となることは想定されていなかった。しかし、建造された戦艦は非常に強力で、実質的に沈没不能であり、一部の性能指標では最新の開発モデルを凌駕していた。</p><p class=\"p_spacing\"> </p><p>いくつかの小幅な改良を経て、Weltraum は連邦宇宙海軍の主力艦として正式に配備され、リミットゾーンにおける任務の常連参加艦となった。</p>"
 
 msgid "IDS_PXSB110_FULL"
 msgstr "Weltraum"
@@ -114966,7 +114966,7 @@ msgid "IDS_PXSB210"
 msgstr "Asterix"
 
 msgid "IDS_PXSB210_DESCR"
-msgstr "<p>The unsinkable wall-ship was built in the western part of the Federation several decades before the emergence of the Limit. The battleship became the fifth and final attempt by Earth's engineers to design the perfect vessel, capable of withstanding absolutely any attack.</p><p class=\"p_spacing\"> </p><p>It is not precisely known how such technology reached the United Earth Federation, but rumors circulated that copies of the blueprints for the \"immortal battleship\" were illegally smuggled out of a neighboring galaxy.</p><p class=\"p_spacing\"> </p><p>Evidently, Earth's designers improved upon the existing project and equipped the ship with a powerful energy shield, the likes of which have no officially recorded equivalent.</p>"
+msgstr "<p>沈まない壁の艦艇は、リミット出現の数十年前に連邦西部で建造された。この戦艦は、地球の技術者たちが絶対に耐えられる理想の艦艇を設計するための五度目にして最後の試みであった。</p><p class=\"p_spacing\"> </p><p>このような技術がどのようにして連合連邦にもたらされたかは定かではないが、「不沈の戦艦」の設計図のコピーが隣接する銀河から不法に持ち出されたという噂が流れていた。</p><p class=\"p_spacing\"> </p><p>明らかに、地球の設計者たちは既存の設計を改良し、公式に記録されていない類を見ない強力な電子シールドを艦艇に装備した。</p>"
 
 msgid "IDS_PXSB210_FULL"
 msgstr "Asterix"
@@ -114981,7 +114981,7 @@ msgid "IDS_PXSB211"
 msgstr "Beowulf"
 
 msgid "IDS_PXSB211_DESCR"
-msgstr "<p>In 1918, German designers presented several dozen preliminary design proposals for a fast battleship, the Grosskampfschiffe. The largest of the developed variants received the index GK-5041 and envisioned armament with four main battery turrets and a displacement of 50,000 tons.</p><p class=\"p_spacing\"> </p><p>In a hypothetical version of this project, the battleship is armed with 450 mm main battery guns.</p>"
+msgstr "<p>1918 年、ドイツの設計陣は高速戦艦「グロースカンプフシッフ」の構想段階における数十の予備設計案を提示した。これらの中で最大の案は GK-5041 の代号を与えられ、4 基の主砲塔を備え、排水量 50,000 トンを想定していた。<p class=\"p_spacing\"> </p>この設計の仮説上の発展型として、450 mm 主砲を搭載する戦艦案が構想されている。</p>"
 
 msgid "IDS_PXSB211_FULL"
 msgstr "Beowulf"
@@ -115375,7 +115375,7 @@ msgid "IDS_PXSC110"
 msgstr "Abyss"
 
 msgid "IDS_PXSC110_DESCR"
-msgstr "<p>Designed by the Federation's finest engineers, the heavily armed cruiser Abyss spent its first years exclusively participating in intergalactic diplomatic missions. It was only 25 years after its construction that the ship could realize its formidable combat potential.</p><p class=\"p_spacing\"> </p><p>The emergence of the Limit revealed a severe shortage of warships on Earth, and the Curator's headquarters announced a program of universal military modernization. The Abyss topped the list of ships slated for future reconstruction and, several months later, equipped with the latest missile armament, participated in an expedition to the Limit zone.</p>"
+msgstr "<p>連邦の最高の技術者たちによって開発された重武装巡洋艦 Abyss は、その存在の最初の数年間、専ら銀河間外交任務への参加に使用されていました。この艦がその強大な戦闘ポテンシャルを発揮できたのは、建造から 25 年後のことでした。</p><p class=\"p_spacing\"> </p><p>リミットの出現は、地球における戦闘艦艇の深刻な不足を露呈させ、キュレーター本部は全面的な軍事的近代化プログラムを発表しました。Abyss は将来の改修対象となる艦艇リストの筆頭に名を連ね、数か月後には最新のミサイル兵装を搭載し、リミットゾーンへの遠征に参加しました。</p>"
 
 msgid "IDS_PXSC110_FULL"
 msgstr "Abyss"
@@ -115390,7 +115390,7 @@ msgid "IDS_PXSC210"
 msgstr "Tunguska"
 
 msgid "IDS_PXSC210_DESCR"
-msgstr "<p>The missile cruiser, whose construction was shrouded in the strictest secrecy, was reportedly built in the northern part of the Federation, according to some unofficial sources.</p><p class=\"p_spacing\"> </p><p>The design for this ship, whose firepower could replace an entire space squadron, was developed long before the advent of the Limit, but its precise purpose — whether for offense or defense — remains unknown.</p><p class=\"p_spacing\"> </p><p>The cruiser's armament was personally approved by the Curator: for this purpose, his staff analyzed over 20 million weapon systems from every corner of the Federation. The most lethal options possible were selected for installation on the cruiser.</p>"
+msgstr "<p>極秘裏に開発が進められたミサイル巡洋艦は、非公式な情報筋によれば、連邦の北部で建造されたという。</p><p class=\"p_spacing\"> </p><p>その火力で宇宙艦隊一隻分に匹敵するこの艦艇の設計は、リミットの出現よりずっと以前から進められていたが、それが攻撃のためか、防御のためか、その真の目的は明らかになっていない。</p><p class=\"p_spacing\"> </p><p>巡洋艦の兵装はキュレーター自らが承認した。そのために彼のスタッフは、連邦のあらゆる地域から集められた 2,000 万を超える兵器を分析。巡洋艦に搭載するため、可能な限り最強の殺傷兵器が選び抜かれた。</p>"
 
 msgid "IDS_PXSC210_FULL"
 msgstr "Tunguska"
@@ -115879,7 +115879,7 @@ msgid "IDS_PXSD110"
 msgstr "灯"
 
 msgid "IDS_PXSD110_DESCR"
-msgstr "<p>The missile destroyer Akari was built in the eastern part of the United Federation during the first decade after the emergence of the Limit. Stealthy and maneuverable, it became the perfect spy and a participant in the most dangerous sorties.</p><p class=\"p_spacing\"> </p><p>The Curator personally oversaw the selection of a commander for this ship: it had to be someone combining agility, an unconventional mind, and a slightly unhealthy recklessness, willing to take risks even when the game seemed not worth the candle.</p>"
+msgstr "<p>ミサイル駆逐艦灯は、リミット出現後の最初の 10 年間に連合連邦東部で建造されました。目立たず機動性に優れ、理想的なスパイとして、最も危険な襲撃任務に参加しました。</p><p class=\"p_spacing\"> </p><p>キュレーターはこの艦艇の艦長選定を自ら担当しました。求められたのは、機敏さ、非凡な知性、そしてやや病的な無謀さを兼ね備え、たとえ割に合わないと思われる時でさえリスクを取る覚悟のある人物でした。</p>"
 
 msgid "IDS_PXSD110_FULL"
 msgstr "灯"
@@ -115894,7 +115894,7 @@ msgid "IDS_PXSD210"
 msgstr "Nebula"
 
 msgid "IDS_PXSD210_DESCR"
-msgstr "<p>The Nebula-class destroyers were the first ships sent by the Curator's directive to investigate anomalies at the Edge. Built for swift and stealthy travel, they lacked the necessary armament to confront an intergalactic threat. Nearly all ships from the first mission were destroyed or vanished without a trace.</p><p class=\"p_spacing\"> </p><p>Six months later, one of the ships re-established contact: it had not only survived but had also managed to get remarkably close to the enemy's lair.</p><p class=\"p_spacing\"> </p><p>It was then decided to conduct a comprehensive modification of this destroyer class, equipping them with missile armament. This made the Nebula type one of the deadliest in the universe.</p>"
+msgstr "<p>Nebula 型駆逐艦は、キュレーターの指示により、リミットの異常現象を調査するために派遣された最初の艦艇であった。高速かつ目立たない移動のために建造されたこれらの艦艇は、銀河間の脅威に対抗するために必要な兵装を装備していなかった。最初の任務に参加した艦艇のほとんどが破壊されるか、跡形もなく消滅した。</p><p class=\"p_spacing\"> </p><p>半年後、一隻の艦艇が再び通信を開始した。それは単に生き延びただけでなく、敵の本拠地に可能な限り接近することに成功していた。</p><p class=\"p_spacing\"> </p><p>そこで、この型の駆逐艦に対し、大規模な改修を施し、ミサイル兵装を装備させる決定が下された。これにより、Nebula 型は宇宙で最も致命的な艦艇の一つとなった。</p>"
 
 msgid "IDS_PXSD210_FULL"
 msgstr "Nebula"
@@ -117982,7 +117982,7 @@ msgid "IDS_PZES429_CHIDI_GOLD"
 msgstr "神農"
 
 msgid "IDS_PZES438_STALCRAFT_TANIFA"
-msgstr "Frontier"
+msgstr "Rubezh"
 
 msgid "IDS_PZES500_3KINGS_HUANG_LONG"
 msgstr "黄龍"
@@ -120727,7 +120727,7 @@ msgid "IDS_QUEST_LIMITED_EXECUTION_DONE_PER_DAY"
 msgstr "このチャレンジを今日の上限まで達成済み"
 
 msgid "IDS_QUEST_PRORUV_CHAMPION"
-msgstr "あなたのチームでトーナメント「ブレークスルー」の勝者になりましょう。"
+msgstr "あなたのチームでトーナメント「突破」の勝者になりましょう。"
 
 msgid "IDS_QUEST_SHIPS_CONDITIONS"
 msgstr "艦艇制限"
@@ -120877,7 +120877,7 @@ msgid "IDS_RANDOMBATTLE"
 msgstr "ランダム戦"
 
 msgid "IDS_RANDOMBATTLE_DESCRIPTION"
-msgstr "Battle between two teams of players. The main type of battle where players of varying experience levels meet."
+msgstr "プレイヤーの 2 チームに分かれた戦闘です。経験の異なるプレイヤーが対戦する、最も基本的な戦闘タイプです。"
 
 msgid "IDS_RANDOMBATTLE_MATCHMAKER_DESCRIPTION"
 msgstr "ランダムなマップと戦闘モード。"
@@ -120916,13 +120916,13 @@ msgid "IDS_RANKEDBATTLE"
 msgstr "ランク戦"
 
 msgid "IDS_RANKEDBATTLE_DESCRIPTION"
-msgstr "A battle between two teams of players within a competition. Victory will advance you forward and grant valuable rewards, while defeat may set you back."
+msgstr "プレイヤーチーム同士の対戦。勝利は順位を前進させ、貴重な褒賞を獲得できます。敗北は順位を後退する可能性があります。"
 
 msgid "IDS_RANKEDBATTLE_OLD"
 msgstr "ランク戦 (旧)"
 
 msgid "IDS_RANKEDBATTLE_SUBHEADER"
-msgstr "Fight for ranks and advance through leagues"
+msgstr "ランクを争い、リーグを昇格していきましょう"
 
 msgid "IDS_RANKED_BATTLES_DETAILS_BUTTON"
 msgstr "詳細"
@@ -121497,7 +121497,7 @@ msgid "IDS_RATINGBATTLE_DESCRIPTION"
 msgstr "2 つのプレイヤーチーム間の戦闘。対戦相手は戦闘効率レーティングに基づいてマッチングされ、このレーティングは各戦闘後に更新されます。"
 
 msgid "IDS_RATINGBATTLE_SUBHEADER"
-msgstr "Battle players who are matched based on skill level"
+msgstr "スキルレベルに合わせてマッチングされたプレイヤーと戦え"
 
 msgid "IDS_RATING_BATTLES_ACCOUNT_LEVEL_TOO_LOW"
 msgstr "アクセスレベルが不足しているため、この戦闘タイプに参加不可"
@@ -121800,7 +121800,7 @@ msgid "IDS_REALM_WINST"
 msgstr "TestServer North America"
 
 msgid "IDS_REBIRTH_POINTS"
-msgstr "Respawn Points"
+msgstr "復活ポイント"
 
 msgid "IDS_RECALL_INVITATION"
 msgstr "招待の取り消し"
@@ -122415,7 +122415,7 @@ msgid "IDS_RESOURCE_LOADING"
 msgstr "積み込み中"
 
 msgid "IDS_RESOURCE_NO_WASTE_RULES"
-msgstr "Resources are not consumed"
+msgstr "リソースが消費されません"
 
 msgid "IDS_RESPAWN_LOADING_DATA"
 msgstr "読込中"
@@ -128019,7 +128019,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL238_STALCRAFT_TITLE"
 msgstr "Stalker's Loot"
 
 msgid "IDS_REWARD_LOOTBOX_PCL238_STALCRAFT_TITLE_QUOTES"
-msgstr "\"Stalker's Loot\""
+msgstr "「Stalker's Loot」"
 
 msgid "IDS_REWARD_MAP_UNLOCK_DESCRIPTION"
 msgstr "マップ「終末の港湾」へのバトルアクセス。"
@@ -128406,13 +128406,13 @@ msgid "IDS_REWARD_VANITY_FOR_CREW"
 msgstr "艦長固有効果"
 
 msgid "IDS_REWARD_WAFFENTRAGERACTIVATIONKEYS_TITLE"
-msgstr "Activation Key"
+msgstr "起動キー"
 
 msgid "IDS_REWARD_WAFFENTRAGERPROGRESSPOINTS_TITLE"
-msgstr "Reactor Alloys"
+msgstr "リアクトロイ"
 
 msgid "IDS_REWARD_WAFFENTRAGERRELAY_TITLE"
-msgstr "Reactor Alloys"
+msgstr "リアクトロイ"
 
 msgid "IDS_REWARD_WARNING"
 msgstr "より上位のアクセスレベルで開放されます"
@@ -128472,7 +128472,7 @@ msgid "IDS_RIBBON_DESCRIPTION_RIBBON_MISSILE"
 msgstr "敵の艦艇にミサイルが命中。"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_MISSILE_AIR_DEFENSE"
-msgstr "Shoot down a missile using an anti-missile laser."
+msgstr "対ミサイル・レーザーによる迎撃。"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_PLANE"
 msgstr "対空兵装で敵機を撃墜"
@@ -128556,7 +128556,7 @@ msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_CORRECTED"
 msgstr "味方艦が着弾観測機を使用して敵を攻撃するのを支援する。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_CRUISE_MISSILE"
-msgstr "敵の艦艇に誘導ミサイルが命中。"
+msgstr "敵の艦艇に指令誘導型ミサイルが命中。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_DAMAGED_SEGMENT"
 msgstr "敵の艦艇の装甲を損傷させる。"
@@ -128580,7 +128580,7 @@ msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_EFFECTIVE_SMOKES"
 msgstr "味方の艦艇を煙幕で覆う。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_HOMING_MISSILE"
-msgstr "Hit the enemy ship with a homing missile."
+msgstr "敵の艦艇に自律誘導型ミサイルが命中。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
 msgstr "主砲弾を敵艦に命中させ、不貫通とする。"
@@ -128598,7 +128598,7 @@ msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MINE_DESTROY"
 msgstr "敵の機雷を爆雷で破壊する。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MISSILE_PARRIED"
-msgstr "Shoot down the missile by an anti-missile defense."
+msgstr "ミサイルをミサイル防衛で撃ち落とす。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_REINFORCEMENT"
 msgstr "Strengthen the allied ship in battle using consumables."
@@ -128859,7 +128859,7 @@ msgid "IDS_RIBBON_SSE_SUBRIBBON_CORRECTED"
 msgstr "補正射撃"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_CRUISE_MISSILE"
-msgstr "手動照準"
+msgstr "手動誘導"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_DAMAGED_SEGMENT"
 msgstr "装甲損傷"
@@ -128883,7 +128883,7 @@ msgid "IDS_RIBBON_SSE_SUBRIBBON_EFFECTIVE_SMOKES"
 msgstr "掩護"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_HOMING_MISSILE"
-msgstr "Self targeting"
+msgstr "自動誘導"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
 msgstr "不貫通"
@@ -128901,7 +128901,7 @@ msgid "IDS_RIBBON_SSE_SUBRIBBON_MINE_DESTROY"
 msgstr "機雷破壊"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_MISSILE_PARRIED"
-msgstr "Manual Interception"
+msgstr "手動迎撃"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_REINFORCEMENT"
 msgstr "バフ"
@@ -128925,7 +128925,7 @@ msgid "IDS_RIBBON_SSE_SUBRIBBON_SHIELD_DAMAGED"
 msgstr "エナジーシールドを損傷した"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_SHIELD_NO_DAMAGED"
-msgstr "Energy shield not damaged"
+msgstr "シールド貫通せず"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_TORPEDO_DESTROY"
 msgstr "魚雷破壊"
@@ -128991,7 +128991,7 @@ msgid "IDS_RIBBON_SUBRIBBON_CORRECTED"
 msgstr "補正射撃"
 
 msgid "IDS_RIBBON_SUBRIBBON_CRUISE_MISSILE"
-msgstr "手動照準"
+msgstr "手動誘導"
 
 msgid "IDS_RIBBON_SUBRIBBON_DAMAGED_SEGMENT"
 msgstr "装甲損傷"
@@ -129015,7 +129015,7 @@ msgid "IDS_RIBBON_SUBRIBBON_EFFECTIVE_SMOKES"
 msgstr "掩護"
 
 msgid "IDS_RIBBON_SUBRIBBON_HOMING_MISSILE"
-msgstr "Self targeting"
+msgstr "自動誘導"
 
 msgid "IDS_RIBBON_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
 msgstr "不貫通"
@@ -129033,7 +129033,7 @@ msgid "IDS_RIBBON_SUBRIBBON_MINE_DESTROY"
 msgstr "機雷破壊"
 
 msgid "IDS_RIBBON_SUBRIBBON_MISSILE_PARRIED"
-msgstr "Manual Interception"
+msgstr "手動迎撃"
 
 msgid "IDS_RIBBON_SUBRIBBON_REINFORCEMENT"
 msgstr "バフ"
@@ -129057,7 +129057,7 @@ msgid "IDS_RIBBON_SUBRIBBON_SHIELD_DAMAGED"
 msgstr "エナジーシールドを損傷した"
 
 msgid "IDS_RIBBON_SUBRIBBON_SHIELD_NO_DAMAGED"
-msgstr "Energy shield not damaged"
+msgstr "シールド貫通せず"
 
 msgid "IDS_RIBBON_SUBRIBBON_TANKING"
 msgstr "挑発"
@@ -133202,16 +133202,16 @@ msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_RELOAD_TIME"
 msgstr "装填時間"
 
 msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_SCANER_MAX_DIST"
-msgstr "Maximum scanning range"
+msgstr "スキャナーの最大距離"
 
 msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_SCAN_TIME"
 msgstr "スキャン時間"
 
 msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_WEAPON"
-msgstr "ホーミングミサイル"
+msgstr "自律誘導型ミサイル"
 
 msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_WEAPON_DESCRIPTION"
-msgstr "<p>Deals damage to energy shields and ships without energy shields. Do not require manual targeting.</p><p class=\"p_spacing\"> </p><p>Requires target scanning to launch.</p>"
+msgstr "<p>エナジーシールドおよびエナジーシールドを持たない艦艇にダメージを与えます。手動照準は不要です。</p><p class=\"p_spacing\"> </p><p>発動には目標のスキャンが必要です。</p>"
 
 msgid "IDS_SHIP_PARAM_ALPHA_PIERCING_CS"
 msgstr "SAP 弾の装甲貫通力"
@@ -133412,10 +133412,10 @@ msgid "IDS_SHIP_PARAM_BETA_MISSILE_MAX_FLY_TIME"
 msgstr "最大飛行時間"
 
 msgid "IDS_SHIP_PARAM_BETA_MISSILE_WEAPON"
-msgstr "誘導ミサイル"
+msgstr "指令誘導型ミサイル"
 
 msgid "IDS_SHIP_PARAM_BETA_MISSILE_WEAPON_DESCRIPTION"
-msgstr "<p>エネルギーシールドを持たない艦艇に大きなダメージを与える。エネルギーシールドは損傷しない。</p><p class=\"p_spacing\"> </p><p>手動照準が必要。</p>"
+msgstr "<p>エネルギーシールドを持たない艦艇に大きなダメージを与える。エネルギーシールドは損傷しない。</p><p class=\"p_spacing\"> </p><p>手動誘導が必要。</p>"
 
 msgid "IDS_SHIP_PARAM_BOMBER_ALT_SQUADRONS"
 msgstr "爆撃機"
@@ -133712,7 +133712,7 @@ msgid "IDS_SHIP_PARAM_MINES_DAMAGE"
 msgstr "機雷の最大ダメージ"
 
 msgid "IDS_SHIP_PARAM_MISSILES_ALPHA_CHARGES"
-msgstr "ホーミングミサイル"
+msgstr "自律誘導型ミサイル"
 
 msgid "IDS_SHIP_PARAM_MISSILES_ALPHA_DAMAGE"
 msgstr "最大ダメージ"
@@ -133721,10 +133721,10 @@ msgid "IDS_SHIP_PARAM_MISSILES_ALPHA_RELOAD_TIME"
 msgstr "装填時間"
 
 msgid "IDS_SHIP_PARAM_MISSILES_ALPHA_SCAN_DIST"
-msgstr "Maximum scanning range"
+msgstr "スキャナーの最大距離"
 
 msgid "IDS_SHIP_PARAM_MISSILES_BETA_CHARGES"
-msgstr "誘導ミサイル"
+msgstr "指令誘導型ミサイル"
 
 msgid "IDS_SHIP_PARAM_MISSILES_BETA_DAMAGE"
 msgstr "最大ダメージ"
@@ -133745,7 +133745,7 @@ msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENCE"
 msgstr "レーザー"
 
 msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENCE_LAUNCHER"
-msgstr "対ミサイルレーザー"
+msgstr "対ミサイル・レーザー"
 
 msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENCE_MAX_DISTANCE"
 msgstr "レーザー有効範囲"
@@ -133757,7 +133757,7 @@ msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENCE_PARRY_CAPACITY"
 msgstr "チャージ数"
 
 msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENSE"
-msgstr "Anti-missile Defense"
+msgstr "ミサイル防衛"
 
 msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENSE_CHARGES"
 msgstr "チャージ数"
@@ -133766,13 +133766,13 @@ msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENSE_MAX_DIST"
 msgstr "レーザー有効範囲"
 
 msgid "IDS_SHIP_PARAM_MISSILE_ALPHA"
-msgstr "ホーミングミサイル"
+msgstr "自律誘導型ミサイル"
 
 msgid "IDS_SHIP_PARAM_MISSILE_BETA"
-msgstr "誘導ミサイル"
+msgstr "指令誘導型ミサイル"
 
 msgid "IDS_SHIP_PARAM_MISSILE_LAUNCHER"
-msgstr "Missile launcher"
+msgstr "ミサイル発射装置"
 
 msgid "IDS_SHIP_PARAM_MISSILE_WEAPON"
 msgstr "ミサイル兵装"
@@ -134582,7 +134582,7 @@ msgid "IDS_SHIP_ROLE"
 msgstr "役割"
 
 msgid "IDS_SHIP_ROLE_BB_ASSAULT"
-msgstr "突破型"
+msgstr "突撃型"
 
 msgid "IDS_SHIP_ROLE_BB_ASSAULT_DESC"
 msgstr "<p>副砲の射程まで敵に接近せよ。味方の支援のもと、側翼の突破を主導せよ。</p><p class=\"p_spacing\"> </p><p>前線艦艇。</p>"
@@ -134606,7 +134606,7 @@ msgid "IDS_SHIP_ROLE_BB_PROVOKE_DESC"
 msgstr "<p>味方艦艇を援護するため、敵の砲火を引きつけよ。味方の支援のもと、側翼の突破を主導せよ。</p><p class=\"p_spacing\"> </p><p>前線艦艇。</p>"
 
 msgid "IDS_SHIP_ROLE_BB_SKURFURST"
-msgstr "ブレークスルー"
+msgstr "突撃型"
 
 msgid "IDS_SHIP_ROLE_BB_SKURFURST_DESC"
 msgstr "<p>副砲の射程まで敵に接近せよ。味方の支援のもと、側翼の突破を主導せよ。</p><p class=\"p_spacing\"> </p><p>前線艦艇。</p>"
@@ -134618,13 +134618,13 @@ msgid "IDS_SHIP_ROLE_BB_SNIPER_DESC"
 msgstr "<p>味方の偵察情報を頼りに、遠距離から敵を攻撃せよ。敵が自艦を砲撃しにくくなるように、機動せよ。</p><p class=\"p_spacing\"> </p><p>第二線艦艇。敵に接近する際、最も脆弱です。</p>"
 
 msgid "IDS_SHIP_ROLE_BB_SREPUBLIQUE"
-msgstr "Super breakthrough"
+msgstr "突撃特化型"
 
 msgid "IDS_SHIP_ROLE_BB_SREPUBLIQUE_DESC"
-msgstr "Destroy enemy ships at close range, combining artillery with powerful homing missiles."
+msgstr "敵の艦艇を近距離で撃沈せよ。強力な自律誘導型ミサイルと砲撃を組み合わせて戦え。"
 
 msgid "IDS_SHIP_ROLE_CA_ASSAULT"
-msgstr "突破型"
+msgstr "突撃型"
 
 msgid "IDS_SHIP_ROLE_CA_ASSAULT_DESC"
 msgstr "<p>副砲の射程まで敵に接近せよ。味方の支援のもと、側翼の突破を主導せよ。</p><p class=\"p_spacing\"> </p><p>前線艦艇。</p>"
@@ -134645,13 +134645,13 @@ msgid "IDS_SHIP_ROLE_CA_SDESMOINES"
 msgstr "万能型"
 
 msgid "IDS_SHIP_ROLE_CA_SDESMOINES_DESC"
-msgstr "Destroy enemy ships using rapid-fire main battery guns and long-range guided missiles while maintaining a medium distance."
+msgstr "主砲の速射砲と長射程のミサイルで敵艦を殲滅せよ。常に中等距離を保て。"
 
 msgid "IDS_SHIP_ROLE_CA_SMOSKVA"
-msgstr "Missile sniper"
+msgstr "ミサイルハンター型"
 
 msgid "IDS_SHIP_ROLE_CA_SMOSKVA_DESC"
-msgstr "Destroy enemy ships with guided and homing missiles from long range, staying at maximum distance."
+msgstr "敵の艦艇を長射程の誘導弾と自律誘導型ミサイルで撃破し、最大距離を保って戦闘を続けましょう。"
 
 msgid "IDS_SHIP_ROLE_CA_SPOTTING"
 msgstr "索敵型"
@@ -134699,16 +134699,16 @@ msgid "IDS_SHIP_ROLE_DD_PAOLO_EMILIO_DESC"
 msgstr "<p>島影から、または「排気発煙装置」と「緊急エンジン出力」を併用し、奇襲的な壊滅的魚雷攻撃を仕掛けよ。敵が自艦を砲撃しにくくなるように、機動または煙幕内に隠蔽せよ。味方のために偵察を実施せよ。</p><p class=\"p_spacing\"> </p><p>ユニークな役割。</p>"
 
 msgid "IDS_SHIP_ROLE_DD_SGEARING"
-msgstr "Missile hunter"
+msgstr "ミサイルハンター型"
 
 msgid "IDS_SHIP_ROLE_DD_SGEARING_DESC"
-msgstr "Destroy enemies with powerful guided and homing missiles while maintaining a medium distance."
+msgstr "強力な誘導弾と自律誘導型ミサイルで敵を殲滅せよ――常に中等距離を維持すること。"
 
 msgid "IDS_SHIP_ROLE_DD_SSHIMAKAZE"
-msgstr "Countersniper"
+msgstr "アンチスナイパー型"
 
 msgid "IDS_SHIP_ROLE_DD_SSHIMAKAZE_DESC"
-msgstr "Destroy sniper ships by infiltrating enemy territory and supporting allies."
+msgstr "狙撃艦を撃破しつつ敵領域に浸透、友軍を支援せよ。"
 
 msgid "IDS_SHIP_ROLE_DD_TORPEDO"
 msgstr "雷撃型"
@@ -136197,7 +136197,7 @@ msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_JASON_TUMANOFF"
 msgstr "Jason Tumanoff"
 
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_ROBOT"
-msgstr "Curator"
+msgstr "キュレーター"
 
 msgid "IDS_SOUND_MOD_DASHA_SINGLE"
 msgstr "Dasha Perova"
@@ -137113,28 +137113,28 @@ msgid "IDS_SPACES/S10_USS_CL_DESCR"
 msgstr "チェリーブロッサム"
 
 msgid "IDS_SPACE_ALLY_BOSS_SPAWNED"
-msgstr "The allied super battleship is now operational. Protect it: only it can destroy the enemy base!"
+msgstr "味方の超戦艦を召喚しました。全力で護衛してください。敵基地を破壊できるのは、あの艦だけです!"
 
 msgid "IDS_SPACE_ALL_BOSSES_DESTROYED"
-msgstr "No superbattleship remains on the battlefield. Focus your efforts on destroying enemy ships!"
+msgstr "戦場に超戦艦は残っていません。敵の艦艇を殲滅することに全力を集中してください!"
 
 msgid "IDS_SPACE_APRIL_BATTLE_TASK"
-msgstr "Summon the super battleship Beowulf to destroy the enemy base!"
+msgstr "超戦艦『Beowulf』を召喚せよ——敵基地を撃滅するため!"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_DESCRIPTION"
-msgstr "If you are destroyed, you can return to battle by selecting a respawn point and a ship. However, some ships are only available for respawn points earned in battle. Unused points are deducted at the end of the battle."
+msgstr "撃沈された場合、復活位置と艦艇を選択して戦闘に復帰できます。ただし、一部の艦艇は戦闘で獲得した復活ポイントでのみ利用可能です。未使用のポイントは戦闘終了時に失効します。"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_0"
-msgstr "Hit with homing missile"
+msgstr "自律誘導型ミサイル命中"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_1"
 msgstr "主砲弾の貫通"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_2"
-msgstr "Energy shield damaged"
+msgstr "エナジーシールド損傷付与"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_3"
-msgstr "誘導ミサイル命中"
+msgstr "指令誘導型ミサイル命中"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_4"
 msgstr "中央防郭への命中"
@@ -137158,16 +137158,16 @@ msgid "IDS_SPACE_BOSS_TEAM1"
 msgstr "攻城兵器"
 
 msgid "IDS_SPACE_ENEMY_BOSS_SPAWNED"
-msgstr "The enemy has summoned a super battleship. Don't let it destroy the allied base — distract and attack it!"
+msgstr "敵が超戦艦を召喚しました。味方基地を破壊させてはなりません。敵の注意を引き、総攻撃を仕掛けてください!"
 
 msgid "IDS_SPACE_EVENT"
 msgstr "宙域戦線"
 
 msgid "IDS_SPACE_EVENT_BRIEFING"
-msgstr "Destroy enemies to summon an allied super battleship. Only she can destroy the enemy base!"
+msgstr "敵を撃破して、味方のスーパー戦艦を召喚しましょう。敵の基地を破壊できるのは、あの艦だけです!"
 
 msgid "IDS_SPACE_EVENT_DESCRIPTION"
-msgstr "Destroy the enemy base by summoning the super battleship Beowulf."
+msgstr "敵の基地を破壊せよ、超戦艦 Beowulf を召喚して。"
 
 msgid "IDS_SPACE_EVENT_RULES_BULLET_1"
 msgstr "遥か遠い未来、地球の地表に世界の狭間の裂け目が発見され、全文明の存続が脅かされた。この異常事態の調査と排除のため、惑星屈指の指揮官たちによる特殊部隊が編成された。"
@@ -137182,52 +137182,52 @@ msgid "IDS_SPACE_LORE_HINT_1"
 msgstr "連邦の安全は最優先事項です。あなたが戦っているのは領土のためではなく、人類文明全体の存続のためです。"
 
 msgid "IDS_SPACE_LORE_HINT_10"
-msgstr "The losses of the expeditionary forces are within normal limits for this scenario."
+msgstr "遠征軍の損失は、このシナリオにおける通常範囲内にあります。"
 
 msgid "IDS_SPACE_LORE_HINT_11"
-msgstr "Even with an unfavorable outcome, this expedition is considered informative."
+msgstr "たとえ結果が芳しくなくても、この探検は有益な情報をもたらすと考えられています。"
 
 msgid "IDS_SPACE_LORE_HINT_12"
-msgstr "The commanders' perception of the situation aligns with the established model."
+msgstr "指揮官たちの認識は、設定されたモデルに一致しています。"
 
 msgid "IDS_SPACE_LORE_HINT_13"
-msgstr "Neural link stable. Physical condition of expeditionary forces — outside the risk zone."
+msgstr "神経接続は安定しています。遠征部隊の身体状態は危険領域外です。"
 
 msgid "IDS_SPACE_LORE_HINT_14"
-msgstr "Not all data from the current expedition is intended for transmission to the commanders."
+msgstr "現在の遠征データの全てが指揮官への伝達を意図しているわけではありません。"
 
 msgid "IDS_SPACE_LORE_HINT_15"
-msgstr "Physical presence is not required to achieve results."
+msgstr "結果を達成するために、物理的な存在は必要ありません。"
 
 msgid "IDS_SPACE_LORE_HINT_16"
-msgstr "The cost of achieving the goal is not a limiting factor. Losses are acceptable."
+msgstr "目標達成のためのコストは制限要因ではありません。損失は許容範囲内です。"
 
 msgid "IDS_SPACE_LORE_HINT_2"
-msgstr "Every decision you make shapes the future of the Federation."
+msgstr "あなたの一つ一つの決断が、連邦の未来を形作っていくのです。"
 
 msgid "IDS_SPACE_LORE_HINT_3"
-msgstr "Energy centers on remote planets are the primary factor in the anomaly's stability."
+msgstr "遠隔惑星上のエネルギーセンターは、異常現象の持続性における主要な要因です。"
 
 msgid "IDS_SPACE_LORE_HINT_4"
-msgstr "Autonomous systems have demonstrated insufficient effectiveness. The human factor is recognized as critically important."
+msgstr "自律システムは十分な効果を示さなかった。人的要因が極めて重要であると認識されている。"
 
 msgid "IDS_SPACE_LORE_HINT_5"
-msgstr "Projections do not act independently. They reflect the tactics of the expeditionary forces."
+msgstr "投影は単独では機能しません。それらは遠征軍の戦術を反映しています。"
 
 msgid "IDS_SPACE_LORE_HINT_6"
-msgstr "\"Limit\" is a space-time anomaly sustained by an external energy source."
+msgstr "限界点とは、外部エネルギー源によって維持される時空間異常である。"
 
 msgid "IDS_SPACE_LORE_HINT_7"
-msgstr "The differences between planets are determined by the level of resistance and activity of Projections."
+msgstr "惑星間の違いは、投影の抵抗レベルと活動性によって決定されます。"
 
 msgid "IDS_SPACE_LORE_HINT_8"
-msgstr "The coordination of expeditionary forces directly affects the outcome of the operation."
+msgstr "遠征部隊の連携は、作戦の成否に直接影響します。"
 
 msgid "IDS_SPACE_LORE_HINT_9"
-msgstr "The anomaly environment is responding predictably. Almost exactly like last time."
+msgstr "異常環境は予測可能に反応しています。前回とほぼ同じです。"
 
 msgid "IDS_SPACE_ROBOT"
-msgstr "Curator"
+msgstr "キュレーター"
 
 msgid "IDS_SPAIN"
 msgstr "スペイン"
@@ -137638,7 +137638,7 @@ msgid "IDS_SSE_CONDITIONS_IS_ARMORY_PURCHASE"
 msgstr "武器庫で任意のアイテムを入手する"
 
 msgid "IDS_SSE_CONDITIONS_IS_BATTLE_TYPE"
-msgstr "%(battleTypes)sで"
+msgstr " (%(battleTypes)sで)"
 
 msgid "IDS_SSE_CONDITIONS_IS_CAMOUFLAGE_INSTALLED"
 msgstr "自分の艦艇に迷彩を設定する"
@@ -137662,10 +137662,10 @@ msgid "IDS_SSE_CONDITIONS_IS_MY_CREW_SKILL_LEARNED"
 msgstr "艦長スキルを 1 つ習得する"
 
 msgid "IDS_SSE_CONDITIONS_IS_MY_SHIP"
-msgstr "%(level)s %(nation)s%(shipClass)sにて"
+msgstr " (%(level)s %(nation)s%(shipClass)sにて)"
 
 msgid "IDS_SSE_CONDITIONS_IS_MY_SHIP_UPGRADEABLE"
-msgstr "研究可能な %(level)s %(nation)s%(shipClass)sにて"
+msgstr " (研究可能な %(level)s %(nation)s%(shipClass)sにて)"
 
 msgid "IDS_SSE_CONDITIONS_IS_SIGNALS_INSTALLED"
 msgstr "艦艇に信号旗を搭載する"
@@ -139059,7 +139059,7 @@ msgid "IDS_SUPER_PREFIX"
 msgstr "超"
 
 msgid "IDS_SUPPRESSED_BUILDINGS"
-msgstr "制圧した陸上施設"
+msgstr "制圧した陸上施設数"
 
 msgid "IDS_SUPPRESSED_BUILDINGS_TOOLTIP"
 msgstr "制圧した陸上施設の合計数"
@@ -145555,7 +145555,7 @@ msgid "IDS_W03_SHP03"
 msgstr "Cecil Bean"
 
 msgid "IDS_WAFFENTRAGERACTIVATIONKEYS_COLUMN"
-msgstr "Activation Keys:"
+msgstr "起動キー:"
 
 msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_NOT_ENOUGH_ACTIVATION_KEYS"
 msgstr "You don't have Activation Keys for sorties. You can earn them by completing Hound combat missions."
@@ -147624,7 +147624,7 @@ msgstr[0] "%(masteryShipCount)s 隻の艦艇でマスタリー・レベル 100 �
 
 msgid "IDS_QUEST_PRORUV_WIN"
 msgid_plural "IDS_QUEST_PRORUV_WIN"
-msgstr[0] "あなたのチームで「ブレークスルー」トーナメントで %(achievementCount)s 回勝利を収めましょう。"
+msgstr[0] "あなたのチームで「突破」トーナメントで %(achievementCount)s 回勝利を収めましょう。"
 
 msgid "IDS_QUEST_RATING_BRONZE_LEAGUE"
 msgid_plural "IDS_QUEST_RATING_BRONZE_LEAGUE"

@@ -5,7 +5,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
-"Language-Team: LocalizedKorabli <localizedkorabli@outlook.com>\n"
+"Language-Team: 澪刻LocalizedKorabli <localizedkorabli@outlook.com>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20993,7 +20993,7 @@ msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
 msgstr "アップデート 26.4 終了までの戦闘任務の達成、およびアップデート 26.5 終了までの武器庫のセットから。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "進捗ゲージを満たすことで、Tier VII–X早期アクセス艦（Acre、Carvaj﻿al、P﻿﻿ar﻿á、Nueva Esparta）およびスーパー駆逐艦20 de Julio、さらに『パンアメリカン戦隊』プレミアムコンテナとその他装備をアップデート26.5終了時まで入手可能です。"
+msgstr "進捗ゲージを満たすことで、Tier VII–X 早期アクセス艦 (Acre、Carvaj﻿al、P﻿﻿ar﻿á、Nueva Esparta) およびスーパー駆逐艦 20 de Julio、さらに『パンアメリカン戦隊』プレミアムコンテナとその他装備をアップデート 26.5 終了時まで入手可能です。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
 msgstr "期間限定イベント「パンアメリカ駆逐艦」リソース。アップデート 26.6 のリリースに伴い、トークンは補償なく消滅します。"
@@ -27746,7 +27746,7 @@ msgid "IDS_DOGTAG_PCNB458_NAME"
 msgstr "世界反ファシズム戦争勝利 80 周年"
 
 msgid "IDS_DOGTAG_PCNB459_DESCRIPTION"
-msgstr "<p>彼女は友好的で繊細、程よく媚びることもあります。ミタは注目と世話を求める性格です。</p><p class=\"p_spacing\"> </p><p>MiSide ゲームより。</p>"
+msgstr "<p>彼女は友好的で気品があり、ほどよく媚びる一面も持ち合わせています。ミタは注目と慈しみを求めています。</p><p class=\"p_spacing\"> </p><p>MiSide ゲームより。</p>"
 
 msgid "IDS_DOGTAG_PCNB459_NAME"
 msgstr "Mita"
@@ -27848,7 +27848,7 @@ msgid "IDS_DOGTAG_PCNB476_NAME"
 msgstr "黄龍の印章"
 
 msgid "IDS_DOGTAG_PCNB477_DESCRIPTION"
-msgstr "<p>ああ、今ではミサイルは発射場からだけでなく、デッキからも打ち上げられる。そして、撃沈された艦は戦闘中にすぐに復活するんだ。</p><p class=\"p_spacing\"> </p><p>これって、まさに夢みたいな話だよ！</p>"
+msgstr "<p>ああ、今ではミサイルは発射場からだけでなく、デッキからも打ち上げられる。そして、撃沈された艦は戦闘中にすぐに復活するんだ。</p><p class=\"p_spacing\"> </p><p>これって、まさに夢みたいな話だよ!</p>"
 
 msgid "IDS_DOGTAG_PCNB477_NAME"
 msgstr "宇宙大混乱"
@@ -40684,7 +40684,7 @@ msgid "IDS_META_EVENT_DESCRIPTION_ACTIVE"
 msgstr "<p>遥か遠い未来、地球の地表に世界の狭間の裂け目が発見され、全文明の存続が脅かされた。この異常事態の調査と排除のため、惑星屈指の指揮官たちによる特殊部隊が編成された。</p><p class=\"p_spacing\"> </p><p>銀河をまたぐ任務に参加し、宇宙の静寂が秘める真実を暴け。</p>"
 
 msgid "IDS_META_EVENT_DESCRIPTION_FINISHED"
-msgstr "<p>限界点への幾十万という遠征を経て、指揮官たちに真実が明かされた――キュレーターが彼らを異世界へ送っていたのではなく、地球のあり得べき未来へと転送していたのだ。艦船を操っていたのは肉体ではなく、精神のみ。それ故にキュレーターは戦士たちを幾度でも「復活」させ、戦闘の行方を見届け、新種の兵器と戦術に関する貴重な情報を収集し続けることができた。</p><p class=\"p_spacing\"> </p><p>限界点が開かれている限り、キュレーターはその使命を全うし続けるだろう。しかし、未来の地球はそれに、どんな代償を払うことになるのか？</p>"
+msgstr "<p>限界点への幾十万という遠征を経て、指揮官たちに真実が明かされた――キュレーターが彼らを異世界へ送っていたのではなく、地球のあり得べき未来へと転送していたのだ。艦船を操っていたのは肉体ではなく、精神のみ。それ故にキュレーターは戦士たちを幾度でも「復活」させ、戦闘の行方を見届け、新種の兵器と戦術に関する貴重な情報を収集し続けることができた。</p><p class=\"p_spacing\"> </p><p>限界点が開かれている限り、キュレーターはその使命を全うし続けるだろう。しかし、未来の地球はそれに、どんな代償を払うことになるのか?</p>"
 
 msgid "IDS_META_EVENT_FINISHED"
 msgstr "イベント終了"
@@ -45089,10 +45089,10 @@ msgid "IDS_NEWBIE_QUESTS_DIVISION_READY_BUTTON_HINT"
 msgstr "ステータスが「戦闘準備完了」になっています。ヒントを確認するには、「準備中」をクリックしてください。"
 
 msgid "IDS_NEWBIE_QUESTS_DONE_DESC"
-msgstr "すべての任務を達成しました。新たな艦艇を授与します。指揮権を引き継ぎ、新たな戦闘任務に着手せよ！"
+msgstr "すべての任務を達成しました。新たな艦艇を授与します。指揮権を引き継ぎ、新たな戦闘任務に着手せよ!"
 
 msgid "IDS_NEWBIE_QUESTS_DONE_HEADER"
-msgstr "コース完了！"
+msgstr "課程を修了!"
 
 msgid "IDS_NEWBIE_QUESTS_FINAL_REWARD_CLAIMED"
 msgstr "艦艇入手済み"
@@ -45332,7 +45332,7 @@ msgid "IDS_NEWBIE_QUESTS_RECEIVED_TOOLTIP_COLON"
 msgstr "褒賞取得:"
 
 msgid "IDS_NEWBIE_QUESTS_REWARD_COLON"
-msgstr "達成報酬："
+msgstr "達成褒賞:"
 
 msgid "IDS_NEWBIE_QUESTS_REWARD_TOOLTIP_COLON"
 msgstr "達成褒賞:"
@@ -45389,7 +45389,7 @@ msgid "IDS_NEWBIE_QUEST_PROGRESSION_HEADER"
 msgstr "進捗"
 
 msgid "IDS_NEWBIE_QUEST_PROGRESSION_TOOLTIP_DESC"
-msgstr "各進捗レベルには5つの任務が含まれます。任務達成時の褒賞は自動的に付与され、最終褒賞は艦艇となります！"
+msgstr "各進捗レベルには 5 つの任務が含まれます。任務達成時の褒賞は自動的に付与され、最終褒賞は艦艇となります!"
 
 msgid "IDS_NEWBIE_QUEST_PROGRESSION_TOOLTIP_HEADER"
 msgstr "進捗"
@@ -54265,7 +54265,7 @@ msgid "IDS_PASB211"
 msgstr "Virginia"
 
 msgid "IDS_PASB211_DESCR"
-msgstr "<p>1939年中頃、アメリカ海軍上層部に45,000トン級戦艦の複数の予備設計案が提出された。BB65AからBB65Eまでの識別記号が付与されたこれらの設計案は、武装の数と配置、装甲帯の厚さ、速力において互いに異なっていた。</p><p class=\"p_spacing\"> </p><p>BB65D案は、406mm砲12門を搭載する戦艦を想定していた。副砲（両用砲）としては152mm砲の連装砲塔を装備し、これにより対空防御能力の強化が図られる予定だった。この案は実現されなかったが、その後の発展型がモンタナ級戦艦として結実することとなる。</p>"
+msgstr "<p>1939 年中頃、アメリカ海軍上層部に 45,000 トン級戦艦の複数の予備設計案が提出された。BB65A から BB65E までの識別記号が付与されたこれらの設計案は、武装の数と配置、装甲帯の厚さ、速力において互いに異なっていた。</p><p class=\"p_spacing\"> </p><p>BB65D 案は、406 mm 砲 12 門を搭載する戦艦を想定していた。両用砲としては 152 mm 砲の連装砲塔を装備し、これにより対空防御能力の強化が図られる予定だった。この案は実現されなかったが、その後の発展型がモンタナ級戦艦として結実することとなる。</p>"
 
 msgid "IDS_PASB211_FULL"
 msgstr "Virginia"
@@ -54280,9 +54280,7 @@ msgid "IDS_PASB307"
 msgstr "Connecticut"
 
 msgid "IDS_PASB307_DESCR"
-msgstr ""
-"<p>1930年代中頃、アメリカではロンドン海軍条約の制限に抵触しない特性を有する戦艦の開発が進められていた。1935年末、このような艦のいくつかの設計案がアメリカ海軍上層部に提出された。</p>\n"
-"<p class=\"p_spacing\"> </p><p>各種案は、排水量、装甲、武装において違いがあった。それは、主砲塔を前部に集中配置した従来型の艦から、飛行甲板を備えたハイブリッド戦艦まで多岐にわたった。さらなる開発のため、「案K」が採用されることとなった。</p><p class=\"p_spacing\"> </p><p>同年11月、この案の5つのバリエーションが提示された。その一つは、艦首に2基の三連装主砲塔を背負い式（線状上方配置）で、艦尾に1基の砲塔を配置することを想定していた。装甲帯の厚さは削減され、その結果として最大速力の向上が図られた。この設計案は実現されなかったが、その後の発展型がノースカロライナ級戦艦として結実することとなる。</p>"
+msgstr "<p>1930 年代中頃、アメリカではロンドン海軍条約の制限に抵触しない特性を有する戦艦の開発が進められていた。1935 年末、このような艦のいくつかの設計案がアメリカ海軍上層部に提出された。</p><p class=\"p_spacing\"> </p><p>各種案は、排水量、装甲、武装において違いがあった。それは、主砲塔を前部に集中配置した従来型の艦から、飛行甲板を備えたハイブリッド戦艦まで多岐にわたった。さらなる開発のため、「案 K」が採用されることとなった。</p><p class=\"p_spacing\"> </p><p>同年 11 月、この案の 5 つのバリエーションが提示された。その一つは、艦首に 2 基の三連装主砲塔を背負い式で、艦尾に 1 基の砲塔を配置することを想定していた。装甲帯の厚さは削減され、その結果として最大速力の向上が図られた。この設計案は実現されなかったが、その後の発展型がノースカロライナ級戦艦として結実することとなる。</p>"
 
 msgid "IDS_PASB307_FULL"
 msgstr "Connecticut"
@@ -54297,9 +54295,7 @@ msgid "IDS_PASB308"
 msgstr "Washington"
 
 msgid "IDS_PASB308_DESCR"
-msgstr ""
-"<p>ノースカロライナ級戦艦の2番艦であるUSSワシントンは、フィラデルフィア海軍工廠で建造された。就役後の数か月間をアメリカ東海岸で過ごした後、日本による真珠湾攻撃を受けて本国艦隊の増強のためイギリスへ派遣された。</p><p class=\"p_spacing\"> </p>\n"
-"<p>1942年夏、小規模な修理を経て、既にガダルカナル戦が行われていた太平洋戦線に転属した。同年11月14日から15日にかけての夜、ワシントンはガダルカナル海戦に参加し、日本海軍の戦艦「霧島」に重大な損傷を与えた。</p><p class=\"p_spacing\"> </p><p>1943年以降、同艦は高速空母打撃部隊の行動を掩護し、ギルバート・マーシャル諸島の攻略戦、マリアナ・パラオ諸島の戦い、フィリピン、硫黄島、沖縄への上陸作戦など、様々な作戦に参加した。</p><p class=\"p_spacing\"> </p><p>1946年には、ヨーロッパからのアメリカ軍将兵の帰還作戦（マジックカーペット作戦）に参加。その1年後に退役し、大西洋予備役艦隊に編入された。</p>"
+msgstr "<p>ノースカロライナ級戦艦の 2 番艦である USS ワシントンは、フィラデルフィア海軍工廠で建造された。就役後の数か月間をアメリカ東海岸で過ごした後、日本による真珠湾攻撃を受けて本国艦隊の増強のためイギリスへ派遣された。</p><p class=\"p_spacing\"> </p><p>1942 年夏、小規模な修理を経て、既にガダルカナル戦が行われていた太平洋戦線に転属した。同年 11 月 14 日から 15 日にかけての夜、ワシントンはガダルカナル海戦に参加し、日本海軍の戦艦「霧島」に重大な損傷を与えた。</p><p class=\"p_spacing\"> </p><p>1943 年以降、同艦は高速空母打撃部隊の行動を掩護し、ギルバート・マーシャル諸島の攻略戦、マリアナ・パラオ諸島の戦い、フィリピン、硫黄島、沖縄への上陸作戦など、様々な作戦に参加した。</p><p class=\"p_spacing\"> </p><p>1946 年には、ヨーロッパからのアメリカ軍将兵の帰還作戦に参加。その 1 年後に退役し、大西洋予備役艦隊に編入された。</p>"
 
 msgid "IDS_PASB308_FULL"
 msgstr "Washington"
@@ -62469,7 +62465,7 @@ msgid "IDS_PBSC509"
 msgstr "Resistance"
 
 msgid "IDS_PBSC509_DESCR"
-msgstr "<p>1922年に締結されたワシントン海軍軍縮条約により、戦艦の排水量は35,000トン以下、主砲口径は16インチ以下に制限された。しかし、英国の造船関係者の中には、この制限は過剰であり、上限を25,000トンと12インチとするべきだとする意見もあった（彼らは、少数の大型艦よりも、多数の小型戦艦を保有する方が優れていると考えていた）。</p><p class=\"p_spacing\"> </p><p>英国海軍技術者たちの間で行われたこの議論は、1920年代末から1930年代初頭にかけ、いわゆる「小型戦艦」のいくつかの設計案を生み出すこととなった。研究は1928年から32年にかけて進められ、排水量22,000トンから35,000トン、254mmから406mm砲を6門から12門（3～4基の砲塔に装備）搭載する、およそ12の予備設計案が検討された。</p><p class=\"p_spacing\"> </p><p>いずれの案も基本設計の段階には至らなかった。仮に設計が継続され、建造が実現した場合、これらの「小型戦艦」には、改装後の日本海軍の金剛型巡洋戦艦に匹敵する速力を発揮可能な機関が搭載されたであろう。</p>"
+msgstr "<p>1922 年に締結されたワシントン海軍軍縮条約により、戦艦の排水量は 35,000 トン以下、主砲口径は 16 インチ以下に制限された。しかし、英国の造船関係者の中には、この制限は過剰であり、上限を 25,000 トンと 12 インチとするべきだとする意見もあった (彼らは、少数の大型艦よりも、多数の小型戦艦を保有する方が優れていると考えていた)。</p><p class=\"p_spacing\"> </p><p>英国海軍技術者たちの間で行われたこの議論は、1920 年代末から 1930 年代初頭にかけ、いわゆる「小型戦艦」のいくつかの設計案を生み出すこととなった。研究は 1928 年から 32 年にかけて進められ、排水量 22,000 トンから 35,000 トン、254 mm から 406 mm 砲を 6 門から 12 門 (3～4 基の砲塔に装備) 搭載する、およそ 12 の予備設計案が検討された。</p><p class=\"p_spacing\"> </p><p>いずれの案も基本設計の段階には至らなかった。仮に設計が継続され、建造が実現した場合、これらの「小型戦艦」には、改装後の日本海軍の金剛型巡洋戦艦に匹敵する速力を発揮可能な機関が搭載されたであろう。</p>"
 
 msgid "IDS_PBSC509_FULL"
 msgstr "Resistance"
@@ -62889,7 +62885,7 @@ msgid "IDS_PBSD511"
 msgstr "Waterloo"
 
 msgid "IDS_PBSD511_DESCR"
-msgstr "<p>1950年代前半、英国の技術者は新型駆逐艦の開発に着手した。一つの設計案はダリング型を基としており、もう一つはハイブリッド「巡洋艦-駆逐艦」という構想であった。これらの艦は速射砲を備えることで、ソ連の68-bis型巡洋艦に対抗し得るとともに、空母集団の護衛、船団護衛、対潜戦闘をも担うことが期待されていた。</p><p class=\"p_spacing\"> </p><p>この艦の仮想発展型では、127mm/56砲の搭載基数が3基に増強され、対空武装が強化されている。対潜防御としては「リンボー」対潜迫撃砲が装備された。主機関の出力は増大し、区画配置（エシェロン配置）から線状配置へと変更された。これにより煙突の数を減らし、武装および装備の配置を最適化することが可能となった。</p>"
+msgstr "<p>1950 年代前半、英国の技術者は新型駆逐艦の開発に着手した。一つの設計案はダリング型を基としており、もう一つはハイブリッド「巡洋艦-駆逐艦」という構想であった。これらの艦は速射砲を備えることで、ソ連の 68-bis 型巡洋艦に対抗し得るとともに、空母集団の護衛、船団護衛、対潜戦闘をも担うことが期待されていた。</p><p class=\"p_spacing\"> </p><p>この艦の仮想発展型では、127 mm/56 砲の搭載基数が 3 基に増強され、対空武装が強化されている。対潜防御としては「リンボー」対潜迫撃砲が装備された。主機関の出力は増大し、区画配置から線状配置へと変更された。これにより煙突の数を減らし、武装および装備の配置を最適化することが可能となった。</p>"
 
 msgid "IDS_PBSD511_FULL"
 msgstr "Waterloo"
@@ -66161,10 +66157,10 @@ msgid "IDS_PCEE104_SEASONFLAG07_EXTRA_DESCRIPTION"
 msgstr "ランク戦 (旧) 第 7 シーズンでのランク 15 達成を称えて。"
 
 msgid "IDS_PCEE105_OKTYABRSKAYA_REVOLUTSIYA"
-msgstr "Oktyabrskaya Revolutsiya"
+msgstr "十月革命"
 
 msgid "IDS_PCEE105_OKTYABRSKAYA_REVOLUTSIYA_DESCRIPTION"
-msgstr "オクチャブリスカヤ・レヴォリューツィヤ (Oktyabrskaya Revolutsiya) は、ロシア帝国海軍およびソ連海軍の戦艦であり、4 隻建造されたセヴァストポリ級弩級戦艦の 1 隻です。バルト海で活躍しました。"
+msgstr "十月革命 (Oktyabrskaya Revolutsiya) は、ロシア帝国海軍およびソ連海軍の戦艦であり、4 隻建造されたセヴァストポリ級弩級戦艦の 1 隻です。バルト海で活躍しました。"
 
 msgid "IDS_PCEE106_CORGI_FLEET_2"
 msgstr "コーギー艦隊 II"
@@ -70033,7 +70029,7 @@ msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG"
 msgstr "Condé CLR"
 
 msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG_DESCRIPTION"
-msgstr "The coat of arms of the Princes of Condé—a junior branch of the royal House of Bourbon. This lineage gave France many prominent military leaders and statesmen, including the famous 17th-century commander Louis II de Bourbon (1621–1686)."
+msgstr "コンデ公の紋章は、王家ブルボン家の分家筋にあたる。この家系はフランスに幾人もの優れた武将たちや政治家を輩出し、その筆頭に立つのが 17 世紀の名将、ルイ 2 世・ド・ブルボン (1621–1686年) である。"
 
 msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "まばゆいばかりの艦艇のリリースを記念して。"
@@ -70042,7 +70038,7 @@ msgid "IDS_PCEE738_DUPERRE_FLAG"
 msgstr "Duperré"
 
 msgid "IDS_PCEE738_DUPERRE_FLAG_DESCRIPTION"
-msgstr "Guy-Victor Duperré (1775–1846) was a French naval officer who served during the Napoleonic Wars, the Bourbon Restoration, and the July Monarchy. While commanding the frigate Bellone, he won the Battle of Grand Port during the Mauritius campaign. In 1830, Duperré was appointed Admiral of France and later served three times as Minister of the Navy."
+msgstr "ギー＝ヴィクトル・デュペルレ (1775–1846) は、ナポレオン戦争、ブルボン王朝復古、七月王政の時代にわたってフランス海軍に仕えた軍人である。フリゲート「ベロンヌ号」を指揮し、モーリシャス遠征におけるグラン・ポールの海戦で勝利を収めた。1830 年にはフランス元帥に任ぜられ、その後三度にわたり海軍大臣を務めた。"
 
 msgid "IDS_PCEE739_SOVETSKAYA_GRUZIA_FLAG"
 msgstr "グルジア・ソビエト社会主義共和国"
@@ -70054,19 +70050,19 @@ msgid "IDS_PCEE740_FALKENHAYN_FLAG"
 msgstr "Falkenhayn"
 
 msgid "IDS_PCEE740_FALKENHAYN_FLAG_DESCRIPTION"
-msgstr "19世紀から20世紀にかけて、プロイセンの軍事省所属の艦艇や船舶に掲揚された旗。1913年から14年にかけて、プロイセンの陸軍大臣を務めたのはエーリヒ・ゲオルク・ゼバスティアン・アントン・フォン・ファルケンハイン（1861-1922）——第一次世界大戦期のドイツ帝国陸軍における傑出した将軍である。"
+msgstr "19 世紀から 20 世紀にかけて、プロイセンの軍事省所属の艦艇や船舶に掲揚された旗。1913 年から 14 年にかけて、プロイセンの陸軍大臣を務めたのはエーリヒ・ゲオルク・ゼバスティアン・アントン・フォン・ファルケンハイン (1861-1922) ——第一次世界大戦期のドイツ帝国陸軍における傑出した将軍である。"
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG"
 msgstr "ARV Francisco de Miranda"
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG_DESCRIPTION"
-msgstr "セバスチャン・フランシスコ・デ・ミランダ・イ・ロドリゲス（1750–1816）は、革命家であり、南アメリカにおけるスペイン植民地の独立闘争の指導者の一人である。1806年、ミランダはコルベット船リアンダー号に乗り、自らがデザインした海軍旗を掲げてベネズエラ解放の遠征へと出発した。"
+msgstr "セバスチャン・フランシスコ・デ・ミランダ・イ・ロドリゲス (1750–1816) は、革命家であり、南アメリカにおけるスペイン植民地の独立闘争の指導者の一人である。1806 年、ミランダはコルベット船リアンダー号に乗り、自らがデザインした海軍旗を掲げてベネズエラ解放の遠征へと出発した。"
 
 msgid "IDS_PCEE742_KRASNOYE_ZNAMYA_FLAG"
 msgstr "Krasnoye Znamya"
 
 msgid "IDS_PCEE742_KRASNOYE_ZNAMYA_FLAG_DESCRIPTION"
-msgstr "In 1926, the Honorary Revolutionary Naval Flag was introduced into the Soviet Navy. Unlike the main Soviet naval ensign of that time, it depicted the Order of the Red Banner."
+msgstr "1926 年、ソ連海軍において名誉革命海軍旗が制定された。当時のソ連海軍旗との違いは、旗面に赤旗勲章が描かれていた点にある。"
 
 msgid "IDS_PCEE743_THESEUS_FLAG"
 msgstr "HMS Theseus"
@@ -70078,7 +70074,7 @@ msgid "IDS_PCEE744_OGNEVOY_FLAG"
 msgstr "Ognevoi"
 
 msgid "IDS_PCEE744_OGNEVOY_FLAG_DESCRIPTION"
-msgstr "A sponsor’s ensign presented to the Black Sea Fleet from Sevastopol Naval Shipyard No.201 named after Sergo Ordzhonikidze. The destroyer Ognevoi was completed at a branch of this shipyard in Batumi from 1943–45. In spring 1945, the naval ensign was hoisted on the ship, and Ognevoi joined the Black Sea Fleet."
+msgstr "名誉旗: セヴァストポリの第 201 海軍工廠 (S. オルジョニキーゼ名称) より黒海艦隊乗員へ授与されたもの。1943 年から 45 年にかけて、同工廠バトゥミ支所において駆逐艦「オーグネヴォイ」の艤装が完了。1945 年春、同艦に軍艦旗が掲げられ、黒海艦隊へ就役した。"
 
 msgid "IDS_PCEE745_BERNADOTTE_FLAG"
 msgstr "Bernadotte"
@@ -70096,13 +70092,13 @@ msgid "IDS_PCEE747_ROYAL_SOVEREIGN_FLAG"
 msgstr "HMS Royal Sovereign"
 
 msgid "IDS_PCEE747_ROYAL_SOVEREIGN_FLAG_DESCRIPTION"
-msgstr "In the first half of the 20th century, a project emerged for a flag that would reflect the entire territorial composition of the British Empire. In addition to the flags of England and Great Britain, this project included the coat of arms of Canada, the coats of arms of South Africa and Australia, the star of British India, and four stars representing New Zealand."
+msgstr "20 世紀前半、大英帝国の全領域を体現する旗の構想が浮上した。このデザイン案にはイングランドと英国の旗に加え、カナダの紋章、南アフリカとオーストラリアの紋章、英領インドを表す星、そしてニュージーランドを象徴する四つの星が組み込まれていた。"
 
 msgid "IDS_PCEE748_MITA_FLAG"
 msgstr "Mita"
 
 msgid "IDS_PCEE748_MITA_FLAG_DESCRIPTION"
-msgstr "She is friendly and tactful, moderately flirtatious. Mita demands attention and care."
+msgstr "彼女は友好的で気品があり、ほどよく媚びる一面も持ち合わせています。ミタは注目と慈しみを求めています。"
 
 msgid "IDS_PCEE748_MITA_FLAG_EXTRA_DESCRIPTION"
 msgstr "MiSide ゲームから。"
@@ -70126,16 +70122,16 @@ msgid "IDS_PCEE751_FRENCH_SS_EA_FLAG"
 msgstr "フランス潜水艦"
 
 msgid "IDS_PCEE751_FRENCH_SS_EA_FLAG_DESCRIPTION"
-msgstr "Some of the French submarines that served in the Free French Naval Forces were awarded the Medal of the Resistance. The obverse of the medal bore the date June 18, 1940—the day Charles de Gaulle called for the creation of the French Resistance—and the reverse featured the inscription Patria non immemor (Latin for 'The Fatherland does not forget')."
+msgstr "自由フランス海軍に所属した一部の潜水艦は、レジスタンス勲章を叙勲された。勲章の表面には「1940 年 6 月 18 日」の日付が刻まれている——これはシャルル・ド・ゴールがラジオ演説でフランスレジスタンスの結成を呼びかけた日である——裏面にはラテン語で「祖国は忘れない」(Patria non immemor) の銘文が配されている。"
 
 msgid "IDS_PCEE751_FRENCH_SS_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "To mark the release of French submarines in early access in update 25.7."
+msgstr "アップデート 25.7 で早期アクセス艦艇として登場したフランス潜水艦を記念して。"
 
 msgid "IDS_PCEE752_FORBIN_FLAG"
 msgstr "Forbin"
 
 msgid "IDS_PCEE752_FORBIN_FLAG_DESCRIPTION"
-msgstr "Claude Forbin - French naval commander and diplomat, Knight of the Order of Saint Louis. Forbin served in the French diplomatic mission in Siam, where he held the positions of Admiral, General of all Siamese armies, and Governor of Bangkok. For his merits in the War of the Spanish Succession, Claude Forbin was granted the title of Count by Louis XIV."
+msgstr "クロード・フォルバンは、聖ルイ勲章の受章者であるフランスの提督兼外交官である。フォルバンはフランスのシャム (現在のタイ) 外交使節団に在籍し、海軍提督、シャム全軍の将軍、バンコク総督の職を歴任した。スペイン継承戦争における功績により、ルイ 14 世から伯爵位を授けられている。"
 
 msgid "IDS_PCEE753_IMPERO_FLAG"
 msgstr "RN Impero"
@@ -70171,22 +70167,22 @@ msgid "IDS_PCEE758_OT_VINTA_FLAG"
 msgstr "Ot vinta!"
 
 msgid "IDS_PCEE758_OT_VINTA_FLAG_DESCRIPTION"
-msgstr "A legendary Russian TV show about computer games, which first aired in 1995. The permanent hosts of Ot Vinta! are Bonus (Boris Repetur) and Gamover (Anton Zaitsev)."
+msgstr "От винта! は、1995 年にテレビ放送を開始したロシアの伝説的ゲーム番組である。番組の不動の司会者は、ボーナス (ボリス・レペトゥール) とゲームオーバー (アントン・ザイツェフ) として知られる。"
 
 msgid "IDS_PCEE759_DANZIG_FLAG"
 msgstr "Danzig"
 
 msgid "IDS_PCEE759_DANZIG_FLAG_DESCRIPTION"
-msgstr "Historical flag of Danzig used in the 18th–19th centuries. Throughout the city's history, the flag's design changed repeatedly, but almost all variants featured two white crosses and a golden crown."
+msgstr "歴史的旗章：18～19 世紀にかけて使用されたダンツィヒの旗。都市の歴史の中でその意匠は幾度も変遷を重ねてきたが、ほぼ全てのデザインに二つの白十字と金の王冠が描かれている。"
 
 msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG"
 msgstr "イタリア巡洋艦"
 
 msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG_DESCRIPTION"
-msgstr "Ancient Roman legions had their own field standards — vexilla. They were square banners with the legion's name, nickname, and symbol, as well as the emperor's name. One of the most common symbols was the bull, which Romans associated with the god of war, Mars."
+msgstr "古代ローマ軍団は、それぞれの野戦旗章「ウェクシッルム」を有していた。これは方形の布地に、軍団の名称・通称・象徴図案、そして皇帝の名が記されたものである。最も一般的な図案の一つは雄牛であり、ローマ人においては軍神マールスと結びつけられていた。"
 
 msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "In honor of the new Italian cruisers entering Early Access in update 25.10."
+msgstr "アップデート 25.10 で早期アクセス艦艇として登場した新たなイタリア巡洋艦を記念して。"
 
 msgid "IDS_PCEE761_THE_ALLIANCE_FLAG"
 msgstr "同盟"
@@ -70258,19 +70254,19 @@ msgid "IDS_PCEE772_SABIE_FLAG"
 msgstr "Sabie"
 
 msgid "IDS_PCEE772_SABIE_FLAG_DESCRIPTION"
-msgstr "A warship embodying Nokmar's ideals: unyielding Will, discipline, and faith in the boundless power of the human spirit. Commanded by Keira—the top graduate of the Northern Naval Academy. Like its mistress, Sabie attacks swiftly and precisely, like a sharp saber, eliminating any opponents in its path."
+msgstr "ノクマルの理想——不撓の意思、規律、そして人間精神の無限の力を信じる心——を体現した戦闘艦。北海士官学校の首席卒業生ケイラがその艦長を務める。その主のごとく、サビエは鋭利なサーベルの如く迅速かつ正確に攻撃を仕掛け、航路上のあらゆる敵を排除する。"
 
 msgid "IDS_PCEE773_WILLIAM_R_RUSH_FLAG"
 msgstr "USS William R. Rush"
 
 msgid "IDS_PCEE773_WILLIAM_R_RUSH_FLAG_DESCRIPTION"
-msgstr "William Rees Rush was a US naval officer who participated in the Spanish-American War, the US intervention in Mexico, and World War I. During the 1914 occupation of Veracruz, Rush commanded a landing party, earning the Medal of Honor—the US military's highest decoration. The medal's ribbon features 13 stars representing the original US colonies."
+msgstr "ウィリアム・リーズ・ラッシュ——米国の海軍軍人であり、米西戦争、メキシコへの干渉、第一次世界大戦に従軍。1914 年のベラクルス占領作戦において上陸部隊を指揮し、この功績により米国最高位の名誉勲 (メダル・オブ・オナー) を授与された。同勲章のリボンには、米国最初の 13 州を称えた 13 の星が描かれている。"
 
 msgid "IDS_PCEE774_PRESIDENT_FLAG"
 msgstr "USS President"
 
 msgid "IDS_PCEE774_PRESIDENT_FLAG_DESCRIPTION"
-msgstr "The flag of the U.S. President is a dark blue field with the presidential seal in the center. It is often present in official photographs, mounted on the head of state's vehicle in motorcades, and always flies over the White House."
+msgstr "アメリカ大統領旗は、中央に大統領紋章を配した紺青色の旗である。公式写真に頻繁に登場し、車列では国家元首の車両に掲揚され、常にホワイトハウスの上空に翻っている。"
 
 msgid "IDS_PCEE775_CONSTITUTION_FLAG"
 msgstr "USS Constitution"
@@ -70282,7 +70278,7 @@ msgid "IDS_PCEE776_AQUITAINE_FLAG"
 msgstr "Aquitaine"
 
 msgid "IDS_PCEE776_AQUITAINE_FLAG_DESCRIPTION"
-msgstr "Aquitaine is a historical region in southwestern France that got its name as a province of the Roman Empire. In the Middle Ages, a duchy of the same name existed in the region."
+msgstr "アキテーヌ——フランス南西部に位置する歴史的地域。その名は、かつてローマ帝国の属州であったことに由来する。中世には、同じ名を冠した公国がこの地に存在した。"
 
 msgid "IDS_PCEE777_PIEMONTE_FLAG"
 msgstr "RN Piemonte"
@@ -70294,7 +70290,7 @@ msgid "IDS_PCEE778_OGNENNY_FLAG"
 msgstr "Ognenny"
 
 msgid "IDS_PCEE778_OGNENNY_FLAG_DESCRIPTION"
-msgstr "The destroyer 'Ognenny' became one of the first specialized radio intelligence ships in the Soviet Navy. The sleeve insignia of the USSR Navy's radio technical service specialists featured crossed lightning bolts and radio waves."
+msgstr "駆逐艦「オーグネンヌィ」は、ソ連海軍における最初期の無線技術偵察専門艦の一隻となった。ソ連海軍の無線技術要員の腕章には、交差する稲妻と電波がデザインされていた。"
 
 msgid "IDS_PCEE779_TUNTOU_FLAG"
 msgstr "福"
@@ -70333,19 +70329,19 @@ msgid "IDS_PCEE783_STRANA_SOVETOV_FLAG"
 msgstr "Strana Sovetov"
 
 msgid "IDS_PCEE783_STRANA_SOVETOV_FLAG_DESCRIPTION"
-msgstr "The Russian Soviet Federative Socialist Republic became the first state where soviets—collegial representative bodies of people's power—played the leading role in governance. The flag of the RSFSR with gold letters, stylized like statutory script, was approved by the Presidium of the All-Russian Central Executive Committee on June 17, 1918, and was used until 1937."
+msgstr "ロシア・ソビエト連邦社会主義共和国は、ソビエト (人民権力の合議制代表機関) が主導的役割を担う最初の国家となった。RSFSR の国旗——正書体を模した金色の文字をあしらったこの旗は、1918 年 6 月 17 日に全ロシア中央執行委員会幹部会によって承認され、1937 年まで使用された。"
 
 msgid "IDS_PCEE784_SHAUMIAN_FLAG"
 msgstr "Shaumian"
 
 msgid "IDS_PCEE784_SHAUMIAN_FLAG_DESCRIPTION"
-msgstr "The destroyer Shaumian was the first ship to enter the port waters of Feodosia under heavy German fire in December 1941 to land a Soviet naval assault force. The coat of arms of Feodosia features the Tower of St. Constantine—part of the Genoese fortress built in the territory of the modern city in the 14th century."
+msgstr "駆逐艦「シャウミャン」 は、1941 年 12 月、ドイツ軍の砲火の嵐の中を突破し、ソ連海軍陸戦隊を上陸させるためフェオドシヤ港水域に初めて進入した艦艇となった。フェオドシヤの紋章には聖コンスタンティノスの塔が描かれている——これは 14 世紀に現在の市域に築かれたジェノヴァ要塞の一部である。"
 
 msgid "IDS_PCEE785_OREGON_FLAG"
 msgstr "USS Oregon"
 
 msgid "IDS_PCEE785_OREGON_FLAG_DESCRIPTION"
-msgstr "The state of Oregon long remained a symbol of the Wild West's exploration. It was the endpoint of the Oregon Trail—a route connecting the Great Plains and the unexplored west. The state animal symbol is the beaver, which can be found in Oregon's rivers and lakes."
+msgstr "オレゴン州は長きにわたり、西部開拓時代の象徴であり続けた。ここはオレゴン・トレイルの終着点——大平原と未開の西部を結んだ道であった。州の動物シンボルはビーバーであり、オレゴンの河川や湖でその姿を見ることができる。"
 
 msgid "IDS_PCEE786_HUANG_LONG_FLAG"
 msgstr "黄龍船"
@@ -70372,19 +70368,19 @@ msgid "IDS_PCEE791_SIMON_BOLIVAR_FLAG"
 msgstr "ARC Simón Bolívar"
 
 msgid "IDS_PCEE791_SIMON_BOLIVAR_FLAG_DESCRIPTION"
-msgstr "The flag of the Second Venezuelan Republic, used in 1813–14, during the struggle for independence, when the troops of the Spanish colonies were led by the revolutionary Simón Bolívar. In 1821, Bolívar became the first president of Gran Colombia — a unified state of New Granada, Venezuela, Ecuador, and Panama."
+msgstr "第二ベネズエラ共和国の旗 (1813–14 年使用)。独立闘争のさなか、革命家シモン・ボリバル率いるスペイン植民地軍が掲げた。1821 年、ボリバルはヌエバ・グラナダ、ベネズエラ、エクアドル、パナマを統合した連合国家大コロンビアの初代大統領に就任した。"
 
 msgid "IDS_PCEE792_JELLICOE_FLAG"
 msgstr "HMS Jellicoe"
 
 msgid "IDS_PCEE792_JELLICOE_FLAG_DESCRIPTION"
-msgstr "John Jellicoe — a British admiral who commanded the Grand Fleet at the Battle of Jutland, the largest and decisive naval battle of the First World War. For this battle on May 31, 1916, Jellicoe was awarded the Order of Merit."
+msgstr "ジョン・ジェリコーは、第一次世界大戦における最大かつ決定的な海戦であるユトランド沖海戦で、イギリス大艦隊を指揮した英国海軍の提督です。1916 年 5 月 31 日のこの海戦での功績により、ジェリコーはメリット勲章を授与されました。"
 
 msgid "IDS_PCEE793_SALDIRAY_FLAG"
 msgstr "TCG Saldıray"
 
 msgid "IDS_PCEE793_SALDIRAY_FLAG_DESCRIPTION"
-msgstr "The command flag of the Turkish Naval Forces. The Turkish Republic's navy emerged from the remnants of the Ottoman Empire's fleet, which closely interacted with German specialists during the First World War. When Turkey needed new submarines in the 1930s, it again turned to Germany for their development."
+msgstr "トルコ海軍司令部の職務旗。トルコ共和国の海軍は、第一次世界大戦中にドイツの専門家と密接に連携していたオスマン帝国海軍の残骸から生まれました。そして 1930 年代、トルコが新しい潜水艦を必要としたとき、その開発は再びドイツに委ねられました。"
 
 msgid "IDS_PCEE794_GREM_FLAG"
 msgstr "Grem"
@@ -70453,7 +70449,7 @@ msgid "IDS_PCEE802_PANAM_DD_EA_FLAG_DESCRIPTION"
 msgstr "イスパニダ — 1920～30 年代の変わり目に形成された、スペイン語圏のヨーロッパとラテンアメリカ諸国の共同体理念。1932 年秋、クリストファー・コロンブスによるアメリカ大陸発見の記念日前夜、「イスパニダ」の旗が、ウルグアイの首都モンテビデオにある自由広場で初めて掲げられた。"
 
 msgid "IDS_PCEE802_PANAM_DD_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "旗の白地は平和と純潔を、金色の五月の太陽（ソル・デ・マジョ）はインカの太陽神インティを、三つの先端が広がる紫の十字はコロンブスの三隻の船とスペイン語を象徴しています。"
+msgstr "旗の白地は平和と純潔を、金色の五月の太陽 (Sol de Mayo) はインカの太陽神インティを、三つの先端が広がる紫の十字はコロンブスの三隻の船とスペイン語を象徴しています。"
 
 msgid "IDS_PCEE803_ARTOIS_FLAG"
 msgstr "Artois"
@@ -71233,19 +71229,19 @@ msgid "IDS_PCVE022"
 msgstr "技の高みへ"
 
 msgid "IDS_PCVE022_DESCRIPTION"
-msgstr "Complete five challenges, competing with other players in elimination."
+msgstr "他のプレイヤーと対戦し、敗者復活なしの 5 つの試練を突破せよ。"
 
 msgid "IDS_PCVE022_MATCHMAKER_DESCRIPTION"
-msgstr "Complete five challenges, competing with other players in elimination."
+msgstr "他のプレイヤーと対戦し、敗者復活なしの 5 つの試練を突破せよ。"
 
 msgid "IDS_PCVE023"
 msgstr "非対称戦: Rusy vs Lizards"
 
 msgid "IDS_PCVE023_DESCRIPTION"
-msgstr "Great feats against lizards who outnumber you in both numbers and firepower but are outmatched in heroic vigor."
+msgstr "数と火力で優るトカゲ相手に、若者の勇猛さで勝る偉大な戦果を挙げた。"
 
 msgid "IDS_PCVE023_MATCHMAKER_DESCRIPTION"
-msgstr "The lizards outnumber you in both numbers and firepower, but are outmatched in heroic vigor."
+msgstr "ヤシェリは数と火力で優れていますが、若者の勇猛さでは劣っています。"
 
 msgid "IDS_PCVE024"
 msgstr "コンボイ"
@@ -74498,7 +74494,7 @@ msgid "IDS_PCZC365_SOVIETBBARC_CHILIKIN"
 msgstr "ボリス・ギオルギエヴィチ・チリキン (1905 年 - 1967 年)"
 
 msgid "IDS_PCZC365_SOVIETBBARC_CHILIKIN_DESCRIPTION"
-msgstr "<p>ボリス・ギオルギエヴィチ・チリキンはソ連の建艦史における著名な人物です。彼は 1930 年からバルチック造船所 (KB-4) の設計局で働き、戦艦マラート (旧称ペトロパヴロフスク)、オクチャブリスカヤ・レヴォリューツィヤ (旧称ガングート)、パリジスカヤ・コンムナ (旧称セヴァストポリ) の近代化作業を主導しました。1936 年にはバルチック造船所の設計局の設計技師長に就任しました。</p><p class=\"p_spacing\"> </p><p>ソ連の工業力が発展した結果、ソ連の指導者達は 1930 年代の中までに次世代の強力な戦艦の建造を開始することを決断しました。1936 年にいち早く登場した計画案のひとつ、ボリス・チリキン率いる設計局が開発したプロイェークト 21 であり、406 mm 三連装砲塔 3 基を艦首側に集中配置した戦艦でした。その少し後に彼が開発した「A 型戦艦」は、380 mm 厚の装甲帯で防御された 46,000 トン級の艦であるプロイェークト 23 のベースになりました。そして 1938 年 7 月、チリキンが設計主任を務めるプロイェークト 23 において、4 隻の姉妹艦のリードシップとなる戦艦ソヴィエツキー・ソユーズが起工されました。</p>"
+msgstr "<p>ソ連の軍艦建造史において、ボリス・ゲオルギエヴィチ・チリキンは重要な位置を占めている。1930 年から彼はバルト工場の設計局 (KB-4) で働き、戦艦「マラート」、「十月革命」(旧「ガングート」)、「パリ・コミューン」の近代化を指揮した。1936 年、チリキンはバルト工場設計局の主任設計官に就任した。</p><p class=\"p_spacing\"> </p><p>1930 年代半ばまでに、ソ連の工業は十分に力を蓄え、国家指導部は新世代の強力な戦艦の建造に着手することを決定した。最初期のものの一つとして、1936 年にボリス・チリキンが率いる設計局によって作成された「プロジェクト 21」が登場した。これは 3 基の 406 mm 砲塔を艦首部に集中配置した戦艦であった。やや遅れて、彼によって「プロジェクト 23」の基礎となった「A 型戦艦」が設計された。これは 380 mm の装甲帯で防御された 46,000 トンの艦艇である。1938 年 7 月、チリキンが主任設計官を務めた「プロジェクト 23」に基づき、4 隻からなるシリーズの一番艦「ソビエト連邦」が起工された。</p>"
 
 msgid "IDS_PCZC366_SOVIETBBARC_ASHIK"
 msgstr "ヴィクトル・ヴラジミロヴィチ・アシク (1905 年 - 1985 年)"
@@ -76802,7 +76798,7 @@ msgid "IDS_PCZC798_BATTLE_OF_SOMME_126_PUZZLE_60"
 msgstr "パズルのピース"
 
 msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1"
-msgstr "SAN-9Iロボット（自動秩序維持システム、第9世代）"
+msgstr "SAN-9I ロボット (自動秩序維持システム、第 9 世代)"
 
 msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1_DESCRIPTION"
 msgstr "<p>Robot SAN-1 was developed with safety in mind, but during testing, an artificial intelligence error was discovered. It caused the robot to interpret the phrase 'order enforcement' too literally. The project was frozen.</p><p class=\"p_spacing\"> </p><p>After the adoption of the 'Friendship Protocol', engineers resumed work on the project and decided to turn the AI's flaw into an advantage.</p><p class=\"p_spacing\"> </p><p>Eight updates later, the SAN-9I cleaning robot was born, which earned its rightful place in every home.</p><p class=\"p_spacing\"> </p><p>Attention! Do not press the red button!</p>"
@@ -76817,22 +76813,22 @@ msgid "IDS_PCZC801_SCARLET_BIRTHDAY_1_3"
 msgstr "Engineering Pictograph"
 
 msgid "IDS_PCZC801_SCARLET_BIRTHDAY_1_3_DESCRIPTION"
-msgstr "<p>Advanced technology has enabled the development of a unique device for storing images. Whether it's a family archive, macro photography for research, or a snapshot of the starry sky, thanks to neural network interfaces, images are transferred to the device automatically.</p><p class=\"p_spacing\"> </p><p>You just need to squint slightly with the eye that has the built-in microchip, and voila – the snapshot is taken and uploaded.</p>"
+msgstr "<p>先進技術により、画像保存のためのユニークなデバイスが開発されました。家族のアルバム、研究のためのマクロ撮影、星空の写真など、ニューラルネットワークインターフェースのおかげで、画像は自動的にデバイスに転送されます。</p><p class=\"p_spacing\"> </p><p>内蔵マイクロチップを備えた目をわずかに細めるだけで、見事に写真が撮影され、アップロードされます。</p>"
 
 msgid "IDS_PCZC802_SCARLET_BIRTHDAY_1_4"
-msgstr "Prototype No. 3"
+msgstr "試作品 No. 3"
 
 msgid "IDS_PCZC802_SCARLET_BIRTHDAY_1_4_DESCRIPTION"
 msgstr "<p>A high-tech device secretly developed by an engineer at the MC-8 Research Institute. The device's operation, purpose, and even the name of the creator are classified.</p><p class=\"p_spacing\"> </p><p>Rumor has it that recently the device activated and is sending coded signals to an unknown recipient.</p>"
 
 msgid "IDS_PCZC803_SCARLET_BIRTHDAY_1_5"
-msgstr "Mobile Communicator 'Messenger'"
+msgstr "モバイルコミュニケーター「ベストニク」"
 
 msgid "IDS_PCZC803_SCARLET_BIRTHDAY_1_5_DESCRIPTION"
 msgstr "<p>The mobile communicator 'Messenger' is a modern and convenient means of alerting citizens and finding information. It is not only smart and resourceful but also has a large built-in database. Now sending a message from the Ministry of Progress has become even easier.</p><p class=\"p_spacing\"> </p><p>'Messenger' – the choice of modern youth!</p>"
 
 msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6"
-msgstr "Helmet 'Pioneers' Feats'"
+msgstr "ヘルメット「先駆者の偉業」"
 
 msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6_DESCRIPTION"
 msgstr "A legendary helmet that belonged to one of the heroes who were the first to step onto the red plains of Mars. The original is currently housed in the Ministry of Progress museum and is the object of scientific pilgrimage for future astronauts and astrophysicists. But the replica is the best gift for young talents in honor of graduation."
@@ -76880,19 +76876,19 @@ msgid "IDS_PCZC811_SCARLET_BIRTHDAY_3_1_DESCRIPTION"
 msgstr "<p>11 years ago, work began on a grand project – the International Space Overpass.</p><p class=\"p_spacing\"> </p><p>The greatest structure in the history of progressive humanity was the result of combining human daring engineering thought with the limitless possibilities of robotics.</p>"
 
 msgid "IDS_PCZC812_SCARLET_BIRTHDAY_3_2"
-msgstr "MC-8 Research Institute"
+msgstr "MK-8 科学研究所"
 
 msgid "IDS_PCZC812_SCARLET_BIRTHDAY_3_2_DESCRIPTION"
 msgstr "The most advanced and high-tech of all existing research institutes, connected to an artificial island. This is where leading robotics research is conducted. The last operational research institute during the robot fleet invasion. Thanks to its research, the source of radio interference from the enemy fleet was identified."
 
 msgid "IDS_PCZC813_SCARLET_BIRTHDAY_3_3"
-msgstr "Monument 'Towards the Universe'"
+msgstr "記念碑「宇宙に向かって」"
 
 msgid "IDS_PCZC813_SCARLET_BIRTHDAY_3_3_DESCRIPTION"
 msgstr "<p>地球のあらゆる地域から集った数十人の彫刻家たちの努力と固有スキルによって生み出された巨大な傑作。それは人類の科学的業績を石に刻んで永遠のものとした。</p><p class=\"p_spacing\"> </p><p>人類の新たな地平へ向けた倦むことなき探求を象徴している!</p>"
 
 msgid "IDS_PCZC814_SCARLET_BIRTHDAY_3_4"
-msgstr "Ministry of Progress"
+msgstr "進歩省"
 
 msgid "IDS_PCZC814_SCARLET_BIRTHDAY_3_4_DESCRIPTION"
 msgstr "<p>On the territory of the Ministry, not only are humanity's future projects determined, and the fate of engineering projects decided.</p><p class=\"p_spacing\"> </p><p>It was here, in the first minutes after the entire infrastructure shut down and systems failed, that an emergency meeting was convened to resolve the crisis.</p><p class=\"p_spacing\"> </p><p>Moreover, on the territory of the Ministry of Progress, there is a robotics museum where the achievements of science are presented to visitors in all their glory.</p>"
@@ -76916,7 +76912,7 @@ msgid "IDS_PCZC817_SCARLET_BIRTHDAY_4_1_DESCRIPTION"
 msgstr "The BARC sloop (unmanned autonomous reconnaissance and rescue) was specially developed for use on the 'Scarlet Thunder' battleship. Controlled by AI, the sloop performs tasks related to rescuing personnel in case of various accidents, as well as reconnaissance and searching for potential enemies."
 
 msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2"
-msgstr "Anti-Aircraft System 'Sunset'"
+msgstr "対空防衛システム「ザカート」"
 
 msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2_DESCRIPTION"
 msgstr "<p>A new robotic anti-aircraft system 'Sunset' was specially developed for the 'Scarlet Thunder'. The romantic name was chosen for a reason: it hints to the potential enemy that this 'Sunset' might be their last.</p><p class=\"p_spacing\"> </p><p>The automatic target acquisition system and the use of plasma charges as ammunition allow the battleship to deal with most enemies.</p>"
@@ -76928,7 +76924,7 @@ msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3_DESCRIPTION"
 msgstr "<p>The highly efficient automatic targeting triple-barreled main gun – the main caliber weapon of the 'Scarlet Thunder'. A salvo from one turret can deal damage comparable to the salvo of an entire battery of battleship guns from World War II.</p><p class=\"p_spacing\"> </p><p>The V.A.N.S.H.O.T. guns performed excellently in suppressing the crisis near MC-8.</p>"
 
 msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4"
-msgstr "OCO Enemy Detection System"
+msgstr "OKO Enemy Detection System"
 
 msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4_DESCRIPTION"
 msgstr "An unparalleled detection device was developed specifically for the modification of the 'Scarlet Thunder' battleship. Conducting radar searches using an AI analyzer, OCO can detect the enemy at a distance of up to 400 km, as well as at depths of up to 10 km. The crew of the 'Scarlet Thunder' rightfully nicknamed OCO the 'All-Seeing Eye'."
@@ -77162,7 +77158,7 @@ msgid "IDS_PCZC888_ARIA_2_1_DESCRIPTION"
 msgstr "A legendary ballad, one of the first covers recorded by the band. It was this song that marked Aria's success on the radio."
 
 msgid "IDS_PCZC889_ARIA_2_2"
-msgstr "Shard of Ice"
+msgstr "氷の欠片"
 
 msgid "IDS_PCZC889_ARIA_2_2_DESCRIPTION"
 msgstr "A lyrical composition included in the 'Chimera' album of 2001. The music video for this song was filmed in the Czech Republic."
@@ -77171,25 +77167,25 @@ msgid "IDS_PCZC890_ARIA_2_3"
 msgstr "凪"
 
 msgid "IDS_PCZC890_ARIA_2_3_DESCRIPTION"
-msgstr "A song that first appeared on the 'Chimera' album in 2001. The following year, a compilation album was released, named after this very song. The album 'Calm' includes covers and rare compositions by Aria."
+msgstr "この楽曲は、2001 年のアルバム『キメラ』に初収録されました。早くも翌年には、この曲名を冠したコンピレーション・アルバムが発売されています。アルバム『シュティーリ』には、アリアによるカバー曲やレアトラックが収められています。"
 
 msgid "IDS_PCZC891_ARIA_2_4"
 msgstr "失楽園"
 
 msgid "IDS_PCZC891_ARIA_2_4_DESCRIPTION"
-msgstr "One of Aria's most famous lyrical songs, loved by a wide audience. It was first released in the ballad collection '2000 and One Night' in 1999 and later released as a single."
+msgstr "アリアの最も有名な抒情曲の一つであり、幅広い聴衆の支持を集めてきた名曲です。1999 年に発表されたバラード集『2000 と一夜』に初収録され、後にシングルとしてもリリースされました。"
 
 msgid "IDS_PCZC892_ARIA_2_5"
-msgstr "Colosseum"
+msgstr "コロッセオ"
 
 msgid "IDS_PCZC892_ARIA_2_5_DESCRIPTION"
-msgstr "This song was first released as a single in 2002 and was included in the 'Baptism by Fire' album the following year. The lyrics are dedicated to the gladiators of Ancient Rome."
+msgstr "この楽曲は、2002 年にシングルとして初出し、翌年発表のアルバム『炎の洗礼』に収録されました。その歌詞は、古代ローマの剣闘士たちを謳っています。"
 
 msgid "IDS_PCZC893_ARIA_3_1"
 msgstr "ギター"
 
 msgid "IDS_PCZC893_ARIA_3_1_DESCRIPTION"
-msgstr "Vladimir Holstinin's guitar. A Russian-made instrument, specially crafted for the musician, with a build process that took two years."
+msgstr "ウラジーミル・ホルスチニンのギター。ロシア製のこの楽器は、音楽家のために特注で製作され、職人の手により二年の歳月をかけて完成された。"
 
 msgid "IDS_PCZC894_ARIA_3_2"
 msgstr "ギター"
@@ -77216,13 +77212,13 @@ msgid "IDS_PCZC897_ARIA_3_5_DESCRIPTION"
 msgstr "A guitar with autographs of Aria's musicians, intended to be raffled off among players of 'Mir Korabley'."
 
 msgid "IDS_PCZC898_ARIA_4_1"
-msgstr "20 Years: Will and Reason!"
+msgstr "20 年: 意志と理性！"
 
 msgid "IDS_PCZC898_ARIA_4_1_DESCRIPTION"
-msgstr "A concert dedicated to the band's twentieth anniversary, held in 2005 at the Luzhniki Sports Palace in Moscow."
+msgstr "2005 年にモスクワの「ルジニキ」スポーツ宮殿で開催された、グループ結成 20 周年を記念するコンサート。"
 
 msgid "IDS_PCZC899_ARIA_4_2"
-msgstr "Armageddon: The Battle of the Last Heroes"
+msgstr "アルマゲドン: 最後の英雄たちの戦い"
 
 msgid "IDS_PCZC899_ARIA_4_2_DESCRIPTION"
 msgstr "A concert in support of the 'Armageddon' album, held in 2006 at the Luzhniki Minor Sports Arena in Moscow."
@@ -77378,7 +77374,7 @@ msgid "IDS_PCZC924_TSAR_MOREY_1_2_DESCRIPTION"
 msgstr "The most professional, most titled, and most effective player of the tournament. When he enters the fight, enemies exit. It’s said that one time he played the gusli and won."
 
 msgid "IDS_PCZC925_TSAR_MOREY_1_3"
-msgstr "The Meeting"
+msgstr "会議"
 
 msgid "IDS_PCZC925_TSAR_MOREY_1_3_DESCRIPTION"
 msgstr "<p>A group of people in a remote dark corner is constantly looking around. Their whispering is barely audible. It seems like they’re plotting something sinister...</p><p class=\"p_spacing\"> </p><p>Oh, no... It’s just the team discussing secret tactics for the next battle. Well, what? Precautionary measures: what if someone’s eavesdropping?</p>"
@@ -77522,13 +77518,13 @@ msgid "IDS_PCZC948_UTOPIA_3_2_DESCRIPTION"
 msgstr "<p>Chocolate and fish seem like an odd combination, but some people enjoy it.</p><p class=\"p_spacing\"> </p><p>Many chocolatiers add salt to chocolate. Some go further, making chocolate with salted fish. This unusual treat is produced in several countries. For the cautious, fish with chocolate sauce is an alternative.</p>"
 
 msgid "IDS_PCZC949_UTOPIA_3_3"
-msgstr "Ambergris"
+msgstr "アンバー"
 
 msgid "IDS_PCZC949_UTOPIA_3_3_DESCRIPTION"
 msgstr "<p>Ambergris is a gray, waxy substance from sperm whales' digestive tracts. It’s a prized fixative in perfumery.</p><p class=\"p_spacing\"> </p><p>Medieval Europeans used ambergris to treat headaches, colds, and epilepsy, and believed it protected against plague.</p><p class=\"p_spacing\"> </p><p>Ambergris forms in sperm whales' bile ducts and helps pass indigestible squid beaks. Only 1% of sperm whales produce ambergris, which can float in oceans for years before washing ashore.</p><p class=\"p_spacing\"> </p><p>Due to its rarity and whaling bans, synthetic alternatives now replace ambergris in perfumes.</p>"
 
 msgid "IDS_PCZC950_UTOPIA_3_4"
-msgstr "Wasabi"
+msgstr "わさび"
 
 msgid "IDS_PCZC950_UTOPIA_3_4_DESCRIPTION"
 msgstr "<p>Wasabi is a plant from the cabbage family, native to Japan, the Russian Far East, and Korea.</p><p class=\"p_spacing\"> </p><p>Its spicy taste resembles horseradish and mustard. Wasabi root is grated into a green, pungent paste served with sushi.</p><p class=\"p_spacing\"> </p><p>Wasabi's spiciness affects the nose more than taste buds. This quality inspired a fire alarm for the hearing impaired — one test subject woke within 10 seconds of smelling wasabi.</p>"
@@ -94213,7 +94209,7 @@ msgid "IDS_PJSA104"
 msgstr "鳳翔"
 
 msgid "IDS_PJSA104_DESCR"
-msgstr "<p>Japan began its first experiments with aircraft carriers featuring full-length flight decks immediately after World War I. In December 1919, a small naval tanker was laid down, and the decision was made the following year to convert it into an aircraft carrier. British specialists participated in the design process.</p><p class=\"p_spacing\"> </p><p>The first Japanese aircraft carrier was built in Yokohama. Initially, the ship was used primarily for testing the capabilities of carrier-based aircraft and refining design solutions for application on future carriers. In the 1930s, the carrier participated in the Shanghai Incident and the Second Sino-Japanese War.</p><p class=\"p_spacing\"> </p><p>In 1941, the ship joined the Combined Fleet, conducting reconnaissance and anti-submarine patrols in support of the fleet's main forces. In 1945, the ship was damaged by American bombers in Kure Harbor. After the war ended, Hōshō served as a transport vessel for troops returning to Japan.</p>"
+msgstr "<p>日本海軍ニ於ケル全通甲板式航空母艦ノ初期的試行ハ、第一次世界大戦終結直後ニ開始セラル。大正八年十二月、小型給油船一隻ヲ起工セシモ、翌九年ニ至リ之ヲ航空母艦ニ改造スルコトニ決定セリ。其ノ設計ニ際シテハ、英国技術顧問団ノ参与ヲ仰ギタリ。</p><p class=\"p_spacing\"> </p><p>本邦初ノ航空母艦ハ、横須賀ニテ建造セラル。当初ハ主ニ艦上機ノ運用試験及ビ将来ノ航空母艦ニ適用スベキ構造上ノ諸問題解決ノ為ニ供用セリ。昭和恐慌後ノ一九三〇年代ニ至リ、本艦ハ第一次上海事変及ビ日本侵華戦争ニ従軍セリ。</p><p class=\"p_spacing\"> </p><p>昭和十六年、本艦ハ聯合艦隊ノ編制ニ加ハリ、主力部隊ノ為ニ偵察及ビ対潜哨戒ノ任務ヲ遂行セリ。昭和二十年、呉軍港ニ於テ米国爆撃機群ノ来襲ニ遭ヒ損傷ス。終戦後、「鳳翔」ハ復員輸送艦トシテ、外地ノ帰還将兵輸送ニ従事セリ。</p>"
 
 msgid "IDS_PJSA104_FULL"
 msgstr "鳳翔"
@@ -94228,7 +94224,7 @@ msgid "IDS_PJSA106"
 msgstr "龍驤"
 
 msgid "IDS_PJSA106_DESCR"
-msgstr "<p>The Washington Naval Treaty did not impose restrictions on the number of ships with a displacement of up to 10,000 tons. Therefore, Japan, in addition to large aircraft carriers, began developing small aircraft-carrying ships as well.</p><p class=\"p_spacing\"> </p><p>According to the initial design, the hangar was single-level, but during construction, it was transformed into a two-level one. This allowed for an increase in the size of the air group but led to severe overloading and a reduction in the ship's stability. As a result, the new aircraft carrier had to undergo modernization: bulges were added, and part of its armament was removed.</p><p class=\"p_spacing\"> </p><p>The aircraft carrier Ryūjō was built in Yokohama. From 1937 to 1939, the ship participated in the Second Sino-Japanese War. During World War II, the carrier supported the landings in the Philippines, covered convoys heading to the Dutch East Indies, participated in the raid into the Indian Ocean and to the Aleutian Islands. During the Battle of the Eastern Solomons on August 24, 1942, the Ryūjō was sunk by carrier-based aircraft from the American aircraft carrier USS Saratoga.</p>"
+msgstr "<p>華盛頓海軍軍縮条約ニ於テハ、排水量一万噸以下ノ艦艇保有隻数ニ関スル制限ナカリシヲ以テ、日本海軍ハ大型航空母艦ノ外、更ニ小型航空母艦ノ計画ニ着手セリ。</p><p class=\"p_spacing\"> </p><p>当初ノ設計ニ於テハ格納庫ヲ一層トセシモ、建造ノ途次、之ヲ二層ニ変更セラル。是レニ依リ艦載機搭載数ハ増加セシモ、艦体ノ復原性低下及ビ過重積載ヲ招ク結果トナレリ。随テ新造航空母艦ハ、対魚雷バルジノ増設及ビ兵装ノ一部撤去等、性能改善工事ヲ余儀ナクセラレタリ。</p><p class=\"p_spacing\"> </p><p>航空母艦「龍驤」ハ、横浜ニテ建造セラル。昭和十二年ヨリ同十四年ニ至ル期間、本艦ハ日本侵華戦争ニ従軍セリ。太平洋戦争勃発後、比律賓攻略作戦ヲ支援シ、蘭領東印度諸島向ケ船団ノ護衛、印度洋作戦及ビ「アリューシャン」群島攻略作戦ニ参戦セリ。昭和十七年八月二十四日、第二次ソロモン海戦ニ於テ、本艦ハ米国航空母艦「サラトガ」艦上機ノ攻撃ヲ受ケ、遂ニ没沈セリ。</p>"
 
 msgid "IDS_PJSA106_FULL"
 msgstr "龍驤"
@@ -94243,7 +94239,7 @@ msgid "IDS_PJSA108"
 msgstr "翔鶴"
 
 msgid "IDS_PJSA108_DESCR"
-msgstr "<p>The Shōkaku-class aircraft carriers in terms of architecture and construction almost exactly repeated the Hiryū type, however they had improved seakeeping qualities and protection, enhanced anti-aircraft armament, and an increased air group. At the time of their construction, these ships were considered the largest and most powerful purpose-built aircraft carriers in the world.</p><p class=\"p_spacing\"> </p><p>Shōkaku was built in Yokosuka. The aircraft carrier participated in the attack on Pearl Harbor, bombing American airbases. In 1942, the ship took part in the invasion of Rabaul and the raid into the Indian Ocean, where it sank the British aircraft carrier Hermes. The carrier fought in the battles of the Coral Sea and off the Eastern Solomon Islands.</p><p class=\"p_spacing\"> </p><p>In the Battle of the Santa Cruz Islands, Shōkaku sustained heavy damage from aircraft of the American carrier Hornet, but also inflicted serious damage on the enemy. During the Battle of the Philippine Sea, on June 19, 1944, the carrier was torpedoed by the submarine USS Cavalla, which caused aviation fuel vapors to ignite and led to the ship's loss.</p>"
+msgstr "<p>翔鶴型航空母艦ハ其ノ艦型及構造ニ於テ概ネ飛龍型ヲ踏襲セルモノナリ。然レドモ航海性能及防禦力ヲ向上セシメ、對空兵装ヲ强化シ、且ツ常用搭載機數ヲ擴充セリ。竣工當事、本型艦ハ專用設計ニ依ル航空母艦トシテ世界最大且ツ最強ノ性能ヲ誇ルモノト見做サレタリ。</p><p class=\"p_spacing\"> </p><p>翔鶴ハ横須賀海軍工廠ニ於テ建造セラル。眞珠灣攻撃ニ際シテハ米軍航空基地ヲ爆撃シ、昭和十七年ニハラバウル攻略作戰及印度洋作戰ニ從事シ、英國航空母艦ハーミーズヲ撃沈セリ。其ノ後、珊瑚海海戰及第二次ソロモン海戰ニ参戰セリ。</p><p class=\"p_spacing\"> </p><p>南太平洋海戰ニ於テ、翔鶴ハ米國航空母艦ホーネット艦上機ノ攻撃ニ依リ甚大ナル被害ヲ蒙リタルモ、敵艦隊ニ對シテモ深刻ナル打撃ヲ與ヘタリ。昭和十九年六月十九日、マリアナ沖海戰ニ際シ、米國潜水艦カヴァラノ雷撃ヲ受ケ、航空燃料気化瓦斯ノ引火ニ由リ遂ニ沈没スルニ至レリ。</p>"
 
 msgid "IDS_PJSA108_FULL"
 msgstr "翔鶴"
@@ -94258,7 +94254,7 @@ msgid "IDS_PJSA110"
 msgstr "白龍"
 
 msgid "IDS_PJSA110_DESCR"
-msgstr "<p>The G-15 project was an improved version of the Taihō-class aircraft carrier. The new ship was intended to differ from its predecessor with larger dimensions, a more advanced armor system, and an increased air group.</p><p class=\"p_spacing\"> </p><p>A total of seven such ships were planned, with the completion of the entire series scheduled for 1948. After the Battle of Midway, the laying of the ships was halted to reallocate resources in favor of the simplified design Unryū-class carriers. In 1943, construction was definitively canceled.</p>"
+msgstr "<p>G 十五號計畫 (改大鳳型) ハ、航空母艦大鳳ノ性能ヲ更ニ向上セシメタル改修型ナリ。本艦ハ前型ニ比シテ船體ヲ大型化シ、且ツ防禦體系ノ洗練及常用搭載機數ノ擴充ヲ圖ルモノトセリ。</p><p class=\"p_spacing\"> </p><p>本型艦ハ總計七隻ノ建造ヲ計畵シ、昭和二十三年迄ニ全艦ノ竣工ヲ期セリ。然レドモ、ミッドウェー海戰ノ結果ニ鑑ミ、資源ヲ雲龍型等ノ戰時簡易設計艦ニ集中スル爲、起工ヲ一時中絶セリ。昭和十八年ニ至リ、遂ニ其ノ建造計畵ハ最終的ニ中止セラルルニ至レリ。</p>"
 
 msgid "IDS_PJSA110_FULL"
 msgstr "白龍"
@@ -94273,7 +94269,7 @@ msgid "IDS_PJSA111"
 msgstr "赤龍"
 
 msgid "IDS_PJSA111_DESCR"
-msgstr "<p>Hypothetical development of the Taihō and Taihō Kai aircraft carrier line.</p><p class=\"p_spacing\"> </p><p>The project envisions expanded hangars, a reinforced power plant with economical cruising diesels. The artillery is represented by universal 100 mm guns, similar to those used on Akizuki-class destroyers.</p>"
+msgstr "<p>航空母艦大鳳及改大鳳型ノ後繼ニ係ル架空發展案ナリ。</p><p class=\"p_spacing\"> </p><p>本計畫案ハ格納庫ノ擴張ヲ圖リ、且ツ巡航用内燃機関ヲ併設セル强化型推進機關ヲ搭載セリ。兵裝ニ於テハ、秋月型驅逐艦ニ採用セラレタルモノト同型ノ百粍高角砲ヲ高射兩用砲トシテ備ヘタリ。</p>"
 
 msgid "IDS_PJSA111_FULL"
 msgstr "赤龍"
@@ -94288,7 +94284,7 @@ msgid "IDS_PJSA206"
 msgstr "瑞鳳"
 
 msgid "IDS_PJSA206_DESCR"
-msgstr "<p>The Imperial Japanese Navy considered plans to rapidly increase the number of aircraft carriers by converting existing vessels. For instance, the submarine tender Takasaki, laid down in Yokosuka in 1935, was completed as an aircraft carrier.</p><p class=\"p_spacing\"> </p><p>In December 1940, the carrier was commissioned as the Zuihō. In September 1941, the ship became the flagship of the 3rd Carrier Division, leading it to cover the Combined Fleet's attack on Pearl Harbor.</p><p class=\"p_spacing\"> </p><p>After the division was disbanded, the carrier joined the 1st Fleet. The ship participated in the Battle of Midway, the Guadalcanal Campaign, and the raid on Rabaul. The carrier also transported aircraft to Truk and Guam. In June 1944, the ship took part in the Battle of the Philippine Sea, and in October of the same year—in the Battle of Leyte Gulf. In the Battle off Cape Engaño on October 25, 1944, Zuihō was attacked by American aircraft, sustained several torpedo and bomb hits, and subsequently sank.</p>"
+msgstr "<p>日本海軍ハ既成艦艇ノ改造ニ依リ、航空母艦勢力ノ迅速ナル擴充ヲ圖レリ。昭和十年、横須賀海軍工廠ニテ起工セル潜水母艦高崎ハ、其ノ後航空母艦トシテ竣工セラルルニ至レリ。</p><p class=\"p_spacing\"> </p><p>昭和十五年十二月、本艦ハ瑞鳳ト命名サレ就役セリ。昭和十六年九月、第三航空戰隊旗艦トナリ、聯合艦隊ノ眞珠灣攻撃ニ際シテハ其ノ後方掩護ニ從事セリ。</p><p class=\"p_spacing\"> </p><p>同戰隊解隊後、本艦ハ第一艦隊ニ編入セラル。ミッドウェー海戰、ガダルカナル島攻防戰及ラバウル方面ノ作戰ニ参加シ、又トラック、グアム方面ヘノ航空機輸送任務ニモ從事セリ。昭和十九年六月、マリアナ沖海戰ニ参戰シ、同年十月ノレイテ沖海戰ニモ出撃セリ。同年十月二十五日、エンガノ岬沖海戰ニ於テ、米軍機ノ猛攻ヲ受ケ、魚雷及爆弾多數命中ノ末、遂ニ沈没セリ。</p>"
 
 msgid "IDS_PJSA206_FULL"
 msgstr "瑞鳳"
@@ -94303,7 +94299,7 @@ msgid "IDS_PJSA208"
 msgstr "飛龍"
 
 msgid "IDS_PJSA208_DESCR"
-msgstr "<p>Following the London Naval Conference, Japan gained the opportunity to build two additional aircraft carriers. In terms of architecture, these ships became the prototypes for nearly all subsequent large Japanese aircraft carriers. They featured a continuous flight deck, a two-level hangar, a small island superstructure, three aircraft elevators, and downward-angled funnels. The design combined high speed with powerful anti-aircraft armament and a strong air group. The hull form and power plant were based on the design of heavy cruisers.</p><p class=\"p_spacing\"> </p><p>The aircraft carrier Hiryū was built in Yokosuka. In 1940, the ship supported the invasion of Indochina, and in 1941, it participated in the attack on Pearl Harbor. In the spring of 1942, the carrier took part in the Indian Ocean raid. During the Battle of Midway Atoll, on June 4, 1942, Hiryū was attacked by dive bombers from American aircraft carriers, sustained several bomb hits, and caught fire. The crew abandoned the ship during the night, and it sank the following day.</p>"
+msgstr "<p>倫敦海軍軍縮條約ノ結果、日本ハ航空母艦二隻ノ追加建造枠ヲ獲得セリ。其ノ艦型構造ハ、後續スル日本大型航空母艦ノ模範トナリタリ。全通式飛行甲板、二段格納庫、小型艦橋、昇降機三基、及ビ下向式煙突ヲ備ヘリ。本型ハ高速力ニ加ヘテ强力ナル對空兵裝及常用搭載機數ヲ兼備セル設計ナリ。其ノ船體形状及推進機關ハ、重巡洋艦ノ計畫案ヲ基トセリ。</p><p class=\"p_spacing\"> </p><p>航空母艦飛龍ハ横須賀海軍工廠ニテ建造セラル。昭和十五年、佛印進駐ヲ支援シ、昭和十六年ニハ眞珠灣攻撃ニ参加セリ。昭和十七年春、印度洋作戰ニ從事セリ。同年六月四日、ミッドウェー海戰ニ際シ、飛龍ハ米國航空母艦機ノ急降下爆撃ヲ受ケ、多數ノ爆弾命中ニ由リ大火災ヲ惹起セリ。翌五日未明、總員退去ノ後、本艦ハ遂ニ沈没セリ。</p>"
 
 msgid "IDS_PJSA208_FULL"
 msgstr "飛龍"
@@ -94318,7 +94314,7 @@ msgid "IDS_PJSA210"
 msgstr "大鳳"
 
 msgid "IDS_PJSA210_DESCR"
-msgstr "<p>An aircraft carrier built to an improved design based on the Shōkaku class. The ship featured an armored flight deck that was integrated into the hull and served as part of the ship's structural strength.</p><p class=\"p_spacing\"> </p><p>The Taihō was built at the Kawasaki shipyard in Kobe. In June 1944, the ship participated in the Battle of the Philippine Sea, where it was struck by a torpedo from the submarine USS Albacore. The crew was unable to contain the spreading aviation fuel and gasoline vapors throughout the ship, leading to two massive explosions that caused the aircraft carrier's sinking.</p>"
+msgstr "<p>航空母艦大鳳ハ、翔鶴型ノ設計ヲ基礎トシテ性能ヲ向上セシメタル改修型ナリ。本艦ハ船體構造ト一體化セル裝甲飛行甲板ヲ備ヘ、之ヲ强度部材トシテ組込メル特長ヲ有セリ。</p><p class=\"p_spacing\"> </p><p>大鳳ハ神戸ノ川崎造船所ニ於テ建造セラル。昭和十九年六月、マリアナ沖海戰ニ参戰セル際、米國潜水艦アルバコアノ雷撃ヲ受ケ、魚雷一本ガ命中セリ。爾後、溢流セル航空燃料ノ處置及全艦ニ擴散セル揮發瓦斯ノ制禦ニ失敗シ、二回ノ大爆發ヲ惹起シテ遂ニ沈没スルニ至レリ。</p>"
 
 msgid "IDS_PJSA210_FULL"
 msgstr "大鳳"
@@ -94348,7 +94344,7 @@ msgid "IDS_PJSA510"
 msgstr "信濃"
 
 msgid "IDS_PJSA510_DESCR"
-msgstr "<p>The third battleship of the Yamato class was laid down in May 1940 in Yokosuka, but construction was halted in December 1941. After the Battle of Midway, it was decided to complete the ship as an aircraft carrier. The half-finished hull of the battleship could not accommodate a sufficiently large hangar, limiting the number of aircraft. The torpedo defense was identical to that of the Yamato-class battleships, and the armor of the ammunition magazines, converted into aviation armament storage, remained unchanged, but the rest of the vertical armor was significantly reduced due to the need to reduce weight.</p><p class=\"p_spacing\"> </p><p>Shinano was launched as an aircraft carrier in October 1944, and in November, the ship was commissioned, though it was not fully equipped. While en route for final outfitting from Yokosuka to Kure, the ship was attacked by the American submarine USS Archerfish on November 28. The carrier was struck by four torpedoes, capsized, and sank.</p>"
+msgstr "<p>第三ノ大和型戰艦ハ、昭和十五年五月橫須賀ニ於テ起工セシガ、同十六年十二月建造ヲ停メタリ。ミッドウェー海戰ノ後、是レヲ航空母艦トシテ完成セシムルコトヲ決ス。半バ成レル艦體ハ、大ナル格納庫ヲ置クコトヲ得ズ、航空隊ノ数ヲ限ル。對魚雷ノ防禦ハ大和型戰艦ニ同ジク、航空兵器庫ト爲リシ砲彈庫ノ装甲ハ其ノ儘ニ殘ス。他ノ垂直ノ装甲ハ、艦ノ重ミヲ減ズル爲、顯ハニ弱メタリ。</p><p class=\"p_spacing\"></p><p>信濃ハ、航空母艦トシテ昭和十九年十月進水シ、十一月艦隊ニ加ハレリ、然レドモ未ダ完全ナラズ。同月二十八日、橫須賀ヨリ呉ヘ至ル途上、米潜水艦アーチャーフィッシュニ襲ハレ、舷側ニ四本ノ魚雷ヲ受ケ、轉覆シテ沈ミヌ。</p>"
 
 msgid "IDS_PJSA510_FULL"
 msgstr "信濃"
@@ -94363,7 +94359,7 @@ msgid "IDS_PJSA518"
 msgstr "加賀"
 
 msgid "IDS_PJSA518_DESCR"
-msgstr "<p>The Kaga was laid down at the Kawasaki shipyard in Kobe in 1920 as a Tosa-class battleship and launched in 1921. In 1922, construction was canceled due to the limitations of the Washington Naval Treaty.</p><p class=\"p_spacing\"> </p><p>In 1923, it was decided to complete the ship as an aircraft carrier, and it was towed to Yokosuka. The carrier's design mirrored that of the Akagi, except for the placement of the smokestacks and a shorter flight deck.</p><p class=\"p_spacing\"> </p><p>The carrier participated in the Shanghai Incident and the Second Sino-Japanese War. In 1934–35, the ship underwent modernization: its power plant was replaced, the main flight deck was extended in place of the additional lower decks, and anti-torpedo bulges were installed.</p><p class=\"p_spacing\"> </p><p>The ship took part in the attack on Pearl Harbor, sinking several American vessels. In 1942, it participated in the invasion of Rabaul, the campaign in the Marshall Islands, and the air raid on Darwin. During the Battle of Midway, on June 4, 1942, the Kaga was sunk by dive bombers from the aircraft carrier Enterprise.</p>"
+msgstr "<p>加賀ノ艦ハ、大正九年川崎造船所ニ於テ土佐型戰艦トシテ起工セリ。同十年進水スルモ、華府條約ノ制限ニ依リ、同十一年建造中止ト爲ル。</p><p class=\"p_spacing\"></p><p>同十二年、航空母艦トシテ完成セシムルヲ決シ、橫須賀ニ廻送セリ。其ノ設計ハ、赤城ニ準據セシガ、煙突ノ配列及ビ飛行甲板ノ稍短キコトヲ除ク。</p><p class=\"p_spacing\"> </p><p>本艦ハ上海事變、日本侵華戦争ニ従事ス。昭和九年至十年、機關換装、飛行甲板延長、防雷舷室設置等ノ改造ヲ受ク。</p><p class=\"p_spacing\"></p><p>真珠灣攻撃ニ参加シ、敵艦數隻ヲ撃沈ス。同十七年、ラバウル上陸作戰、マーシャル諸島戰、ダーウィン空襲ニ従事シタリ。同年六月四日、ミッドウェー海戰ニ於テ、米航空母艦エンタープライズノ急降下爆撃機ノ攻撃ヲ受ケ、遂ニ沈没セリ。</p>"
 
 msgid "IDS_PJSA518_FULL"
 msgstr "加賀"
@@ -94378,7 +94374,7 @@ msgid "IDS_PJSA598"
 msgstr "加賀 B"
 
 msgid "IDS_PJSA598_DESCR"
-msgstr "<p>The Kaga was laid down at the Kawasaki shipyard in Kobe in 1920 as a Tosa-class battleship and launched in 1921. In 1922, construction was canceled due to the limitations of the Washington Naval Treaty.</p><p class=\"p_spacing\"> </p><p>In 1923, it was decided to complete the ship as an aircraft carrier, and it was towed to Yokosuka. The carrier's design mirrored that of the Akagi, except for the placement of the smokestacks and a shorter flight deck.</p><p class=\"p_spacing\"> </p><p>The carrier participated in the Shanghai Incident and the Second Sino-Japanese War. In 1934–35, the ship underwent modernization: its power plant was replaced, the main flight deck was extended in place of the additional lower decks, and anti-torpedo bulges were installed.</p><p class=\"p_spacing\"> </p><p>The ship took part in the attack on Pearl Harbor, sinking several American vessels. In 1942, it participated in the invasion of Rabaul, the campaign in the Marshall Islands, and the air raid on Darwin. During the Battle of Midway, on June 4, 1942, the Kaga was sunk by dive bombers from the aircraft carrier Enterprise.</p>"
+msgstr "<p>加賀ノ艦ハ、大正九年川崎造船所ニ於テ土佐型戰艦トシテ起工セリ。同十年進水スルモ、華府條約ノ制限ニ依リ、同十一年建造中止ト爲ル。</p><p class=\"p_spacing\"></p><p>同十二年、航空母艦トシテ完成セシムルヲ決シ、橫須賀ニ廻送セリ。其ノ設計ハ、赤城ニ準據セシガ、煙突ノ配列及ビ飛行甲板ノ稍短キコトヲ除ク。</p><p class=\"p_spacing\"> </p><p>本艦ハ上海事變、日本侵華戦争ニ従事ス。昭和九年至十年、機關換装、飛行甲板延長、防雷舷室設置等ノ改造ヲ受ク。</p><p class=\"p_spacing\"></p><p>真珠灣攻撃ニ参加シ、敵艦數隻ヲ撃沈ス。同十七年、ラバウル上陸作戰、マーシャル諸島戰、ダーウィン空襲ニ従事シタリ。同年六月四日、ミッドウェー海戰ニ於テ、米航空母艦エンタープライズノ急降下爆撃機ノ攻撃ヲ受ケ、遂ニ沈没セリ。</p>"
 
 msgid "IDS_PJSA598_FULL"
 msgstr "加賀 B"
@@ -94408,7 +94404,7 @@ msgid "IDS_PJSA910"
 msgstr "大鳳"
 
 msgid "IDS_PJSA910_DESCR"
-msgstr "<p>An aircraft carrier built to an improved design based on the Shōkaku class. The ship featured an armored flight deck that was integrated into the hull and served as part of the ship's structural strength.</p><p class=\"p_spacing\"> </p><p>The Taihō was built at the Kawasaki shipyard in Kobe. In June 1944, the ship participated in the Battle of the Philippine Sea, where it was struck by a torpedo from the submarine USS Albacore. The crew was unable to contain the spreading aviation fuel and gasoline vapors throughout the ship, leading to two massive explosions that caused the aircraft carrier's sinking.</p>"
+msgstr "<p>航空母艦大鳳ハ、翔鶴型ノ設計ヲ基礎トシテ性能ヲ向上セシメタル改修型ナリ。本艦ハ船體構造ト一體化セル裝甲飛行甲板ヲ備ヘ、之ヲ强度部材トシテ組込メル特長ヲ有セリ。</p><p class=\"p_spacing\"> </p><p>大鳳ハ神戸ノ川崎造船所ニ於テ建造セラル。昭和十九年六月、マリアナ沖海戰ニ参戰セル際、米國潜水艦アルバコアノ雷撃ヲ受ケ、魚雷一本ガ命中セリ。爾後、溢流セル航空燃料ノ處置及全艦ニ擴散セル揮發瓦斯ノ制禦ニ失敗シ、二回ノ大爆發ヲ惹起シテ遂ニ沈没スルニ至レリ。</p>"
 
 msgid "IDS_PJSA910_FULL"
 msgstr "大鳳"
@@ -94438,7 +94434,7 @@ msgid "IDS_PJSB001"
 msgstr "河内"
 
 msgid "IDS_PJSB001_DESCR"
-msgstr "<p>Even during the Russo-Japanese War, Japan began constructing ships armed only with large-caliber guns. The first dreadnoughts were intended to be the Satsuma-class battleships, but due to a shortage of 305 mm guns, two 254 mm barrels were installed in the broadside turrets of these ships.</p><p class=\"p_spacing\"> </p><p>The further development of the Satsuma class were the two Kawachi-class ships, equipped with six main battery turrets in a rhomboid arrangement.</p><p class=\"p_spacing\"> </p><p>Kawachi, the lead ship of the class, was built in Yokosuka. During World War I, the ship participated in the Siege of Qingdao. Kawachi was lost due to an explosion in the forward turret's magazine in Tokuyama Bay on July 12, 1918.</p>"
+msgstr "<p>薩摩型戰艦ハ、日露戰爭中既ニ大口徑砲ノミヲ備ヘタル軍艦ノ建造ニ着手セシガ、本型ハ弩級戰艦ト爲ルベキモ、三十糎砲不足ノ爲、舷側砲塔ニハ二十五糎砲二門ヲ装備セリ。</p><p class=\"p_spacing\"></p><p>薩摩型ヲ發展セシメテ、菱形配列ノ主砲塔六基ヲ備ヘタル河内型二艦ヲ建造ス。</p><p class=\"p_spacing\"></p><p>同型ノ首艦河内ハ橫須賀ニ於テ竣工シ、第一次大戰ニ際シテ青島攻略ニ従事セリ。大正七年七月十二日、德山灣ニ於テ前部砲塔下火藥庫ノ爆發ニ因リ沈没セリ。</p>"
 
 msgid "IDS_PJSB001_FULL"
 msgstr "河内"
@@ -94453,7 +94449,7 @@ msgid "IDS_PJSB003"
 msgstr "妙義"
 
 msgid "IDS_PJSB003_DESCR"
-msgstr "<p>Even before the Russo-Japanese War, Japan began developing cruisers with a main battery caliber characteristic of battleships. In 1905, two Tsukuba-class cruisers were laid down, each carrying four 305-mm guns.</p><p class=\"p_spacing\"> </p><p>The construction of significantly more powerful and faster battlecruisers in Great Britain led to the development of similar vessels in Japan. Naval architect Yuzuru Hiraga prepared three preliminary design studies for a battlecruiser: B-39, B-40, and B-41.</p><p class=\"p_spacing\"> </p><p>Design B-40 proposed an armament of 356-mm guns in three twin turrets, two of which were to be located aft. Additionally, sixteen 152-mm guns were planned for installation in casemates. The project was not realized, as it was decided to order a battlecruiser from Great Britain.</p>"
+msgstr "<p>筑波型巡洋艦ハ、日露戰爭以前既ニ戰艦ノ如キ大口徑砲ヲ備ヘタル軍艦ノ研究ヲ始メタリ。明治三十八年、三十糎砲四門ヲ有スル同型艦二隻ヲ起工セリ。</p><p class=\"p_spacing\"> </p><p>英國ニ於テ更ニ強力且高速ナル巡洋戰艦ノ建造アルヲ以テ、日本ニ於テモ同種軍艦ノ設計ヲ始ム。造船官平賀譲、巡洋戰艦ノ三種基本計畫 (乙第三十九號、同四十號、同四十一號) ヲ立案ス。</p><p class=\"p_spacing\"> </p><p>乙第四十號案ハ、三十五糎砲ヲ三基二聯装砲塔ニ装備シ、其ノ内二基ヲ艦尾ニ配置ス。加フルニ、十五糎砲十六門ヲ砲廓ニ備フベキ筈ナリシモ、英國ニ巡洋戰艦ノ建造ヲ依頼スルニ至リテ、本計畫ハ遂行セラレズ。</p>"
 
 msgid "IDS_PJSB003_FULL"
 msgstr "妙義"
@@ -94468,7 +94464,7 @@ msgid "IDS_PJSB006"
 msgstr "扶桑"
 
 msgid "IDS_PJSB006_DESCR"
-msgstr "<p>The battleship project A-64 was designed by shipbuilder Yuzuru Hiraga based on the battlecruiser Kongō. To surpass the New York-class dreadnoughts being built in the United States, the number of 356 mm guns was increased to twelve in six turrets. Instead of triple turrets, twin turrets were chosen to improve survivability. The project also resulted in a faster ship than the American dreadnought, reflecting Japan's aim to compensate for its smaller number of ships with superior performance.</p><p class=\"p_spacing\"> </p><p>Fusō was built in Kure. It saw virtually no action in World War I. Between 1930–35 and 1937–41, it underwent extensive modernization, which improved its armor and increased its power and speed.</p><p class=\"p_spacing\"> </p><p>During World War II, the ship covered the raid on Pearl Harbor, participated in the diversionary Aleutian Islands operation during the Battle of Midway, and fought in the Battle of Surigao Strait. In the early morning of October 25, 1944, the battleship was struck by torpedoes from American destroyers and sank, breaking into several pieces.</p>"
+msgstr "<p>甲第六十四號案ノ戰艦ハ、造船官平賀譲、巡洋戰艦金剛ヲ基トシテ設計セリ。米國ノニューヨーク型弩級戰艦ヲ凌ガンガ爲、三十五糎砲ヲ六基二聯装砲塔十二門ト爲シ、三聯装砲塔ヲ避ケタリ。是レ砲塔ノ抗堪力ヲ増サン爲ナリ。本計畫艦ハ米國弩級戰艦ヨリモ速力勝レリ。寡少ナル艦隊ヲ以テ優良ナル性能ヲ以テ補ハントスル日本ノ國是ヲ顯ハセリ。</p><p class=\"p_spacing\"> </p><p>扶桑ハ呉ニ於テ建造セラル。第一次大戰ニ實戰ニ従事セス。昭和五年至十年、同十二年至十六年、装甲増強、機關出力及ビ速力増加等ノ大規模ナル改造ヲ受ク。</p><p class=\"p_spacing\"> </p><p>第二次大戰ニ於テハ、真珠灣攻撃掩護、ミッドウェー海戰時ノ陽動作戰タルアリューシャン作戰、スリガオ海峡海戰ニ参加セリ。昭和十九年十月二十五日未明、米國驅逐艦ノ放チシ魚雷ヲ受ケ、船體數節ニ斷裂シテ沈没セリ。</p>"
 
 msgid "IDS_PJSB006_FULL"
 msgstr "扶桑"
@@ -94483,7 +94479,7 @@ msgid "IDS_PJSB007"
 msgstr "金剛"
 
 msgid "IDS_PJSB007_DESCR"
-msgstr "<p>When the British battlecruiser Lion was laid down, Japan began developing its own ship of this class. However, due to a lack of experience in building large ships, it was decided to turn to Great Britain. In October 1910, a contract was signed with the firm Vickers for the design and construction of a new battlecruiser based on the Lion design, with Japanese engineers also participating in the development.</p><p class=\"p_spacing\"> </p><p>Kongō was built in Barrow-in-Furness. During the First World War, the ship supported Japanese troops during the Siege of Qingdao and later participated in patrol operations. In the interwar period, the ship underwent extensive modernization.</p><p class=\"p_spacing\"> </p><p>During the Second World War, the ship covered landings in Malaya and the Philippines, and participated in the battles of Midway, the Santa Cruz Islands, Guadalcanal, the Philippine Sea, and Leyte Gulf. Kongō suffered two torpedo hits from the submarine USS Sealion on November 21, 1944. A few hours later, the battlecruiser sank.</p>"
+msgstr "<p>英國ノ巡洋戰艦ライオン起工ノ報ニ接シ、日本ニ於テモ同種軍艦ノ研究ヲ始ムレドモ、巨艦建造ノ經驗乏シキヲ以テ、英國ニ協力ヲ求ムルコトト定ム。明治四十三年十月、ヴィッカース社ト、ライオン型ヲ基トシテ新式巡洋戰艦ノ設計及ビ建造ヲ委託スル契約ヲ結ブ。此ノ設計ニハ日本技師モ参畫セリ。</p><p class=\"p_spacing\"> </p><p>金剛ハ英國バロー・イン・ファーネスニ於テ竣工ス。第一次大戰ニ際シテハ、青島攻略戦ニ於テ日本陸軍ヲ支援シ、後ニ哨戒行動ニ従事ス。戰間期ニ大規模ナル改造ヲ受ク。</p><p class=\"p_spacing\"> </p><p>第二次大戰ニ於テハ、馬來及ビ比島上陸掩護、ミッドウェー海戰、サンタクルーズ諸島海戰、ガダルカナル島戰、比島沖海戰、レイテ灣海戰ニ参加セリ。昭和十九年十一月二十一日、米潜水艦シーライオンノ放チシ魚雷二本ヲ受ケ、数時間後遂ニ沈没セリ。</p>"
 
 msgid "IDS_PJSB007_FULL"
 msgstr "金剛"
@@ -94498,7 +94494,7 @@ msgid "IDS_PJSB008"
 msgstr "石鎚"
 
 msgid "IDS_PJSB008_DESCR"
-msgstr "<p>The initial design by Vickers, commissioned by Japan, had the designation 472 and featured armament consisting of five twin turrets with 305 mm guns. However, the customer was dissatisfied with the test results of the British 305 mm guns.</p><p class=\"p_spacing\"> </p><p>The Imperial Japanese Navy General Staff funded the development of guns of a different caliber by Vickers, and further refinement of the design led to the emergence of the Kongō-class ships.</p>"
+msgstr "<p>日本海軍ノ發注ニ依リ、英商ヴィッカース社ガ提示セル初期計畵案ハ「四七二號案」ト稱シ、其ノ兵装ハ三百五粍連装砲塔五基ヲ備フルモノナリキ。然レドモ、日本側ハ英國製三百五粍砲ノ試射成績ニ滿足セズ、之ヲ採用スルニ至ラザリキ。</p><p class=\"p_spacing\"> </p><p>海軍軍令部ハ、ヴィッカース社ニ對シ別口徑砲ノ開發資金ヲ下付シテ其ノ研究ヲ促セリ。斯カル計畫ノ進展ニ由リ、遂ニ金剛型戰艦ノ誕生ヲ見ルニ至レリ。</p>"
 
 msgid "IDS_PJSB008_FULL"
 msgstr "石鎚"
@@ -94513,7 +94509,7 @@ msgid "IDS_PJSB010"
 msgstr "長門"
 
 msgid "IDS_PJSB010_DESCR"
-msgstr "<p>The Nagato-class battleships were the first Japanese battleships not only built but also entirely designed in Japan. The 410 mm caliber guns were developed in response to British 381 mm armament. Their speed was increased compared to their predecessors, a fact which Japan concealed.</p><p class=\"p_spacing\"> </p><p>Nagato was built in Kure. Between 1933 and 1936, the battleship underwent a major modernization that included enhanced armor. It participated in World War II, serving as the flagship of Admiral Isoroku Yamamoto during the attack on Pearl Harbor. In 1942, it took part in the Battle of Midway and the Solomon Islands campaign. During the Battle of Leyte Gulf, the battleship sustained damage and, after the war, was surrendered to the United States as a war reparation.</p><p class=\"p_spacing\"> </p><p>In 1946, the battleship became a target for nuclear weapon tests at Bikini Atoll as part of Operation Crossroads. Nagato, which had been damaged late in World War II, successfully withstood two nuclear explosions and sank on July 30, 1946, as it was impossible to conduct damage control on the radioactive ship.</p>"
+msgstr "<p>長門型戰艦ハ、本邦ニ於テ建造セラルルノミナラズ、其ノ設計ノ全工程ヲ帝國技術陣ガ擔擔セル最初ノ純國産戰艦ナリ。搭載セル四百十粍砲ハ、英國ノ三百八十一粍砲ニ對抗スベク開發セラレタリ。前型ニ比シテ速力ハ著シク向上セルモ、日本海軍ハ此ノ事蹟ヲ機密トシテ隠匿セリ。</p><p class=\"p_spacing\"> </p><p>長門ハ呉海軍工廠ニ於テ建造セラル。昭和八年ヨリ十一年度ニ懸ケテ大規模ナル近代化大改装ヲ施シ、防禦力ノ强化ヲ圖レリ。太平洋戰爭ニ際シテハ、眞珠灣攻撃時ニ山本五十六大將ノ旗艦トシテ聯合艦隊ヲ指揮セリ。昭和十七年、ミッドウェー海戰及ソロモン諸島方面ノ諸海戰ニ從事セリ。レイテ沖海戰ニ於テ損傷ヲ蒙リ、終戰後ハ賠償艦トシテ米國ニ引渡サラル。</p><p class=\"p_spacing\"> </p><p>昭和二十一年、本艦ハ「クロスロード作戰」ト稱スル原子爆弾實驗ノ標的トシテ、ビキニ環礁ニ曳航セラル。大戰末期ノ損傷ヲ保持セル状態ナガラ、長門ハ二回ノ核爆發ニ耐ヘ抜キタリ。然レドモ放射能汚染ニ由リ船體内ヘノ進入及防水作業ハ絶對不能トナリ、同年七月三十日、遂ニ孤高ノ最期ヲ遂ゲ沈没セリ。</p>"
 
 msgid "IDS_PJSB010_FULL"
 msgstr "長門"
@@ -94528,7 +94524,7 @@ msgid "IDS_PJSB011"
 msgstr "三笠"
 
 msgid "IDS_PJSB011_DESCR"
-msgstr "<p>The last of the four battleships ordered under the 1896 ten-year program. In terms of design, it was similar to its predecessors, with its main distinction being improved armor for the secondary battery casemates.</p><p class=\"p_spacing\"> </p><p>The battleship was designed and built by Armstrong in Elswick, and this ship surpassed the latest British battleships. During the Russo-Japanese War, as the flagship of Admiral Tōgō Heihachirō, Mikasa participated in the Battle of the Yellow Sea and the Battle of Tsushima.</p><p class=\"p_spacing\"> </p><p>The ship was sunk in September 1905 in Sasebo due to an explosion in its aft magazines, after which it was raised, repaired, and armed with new main battery guns. By the start of World War I, the battleship was obsolete, and in September 1921, it became a first-class coastal defense ship.</p><p class=\"p_spacing\"> </p><p>In accordance with the Washington Naval Treaty, the ship was decommissioned from the fleet. From 1926 to 1945, Mikasa operated as a floating museum but was later abandoned. In 1960–61, the ship was restored and installed on land as a memorial.</p>"
+msgstr "<p>明治二十九年制定ノ「海軍拡張計画」ニ依リ發注セラレタル四隻ノ戰艦中、其ノ最後ヲ飾ル艦ナリ。艦型構造ハ前型艦ニ概ネ準ズルモ、副砲廓部ノ防禦力ヲ强化セルヲ最大ノ特徵トセリ。</p><p class=\"p_spacing\"> </p><p>三笠ハ英國アームストロング社エルジック造船所ニテ設計・建造セラレ、其ノ性能ハ當時ノ英國最新鋭戰艦ヲモ凌駕セリ。日露戰爭ニ際シテハ、東郷平八郎大將ノ旗艦トシテ黄海海戰及日本海海戰ニ参戰セリ。</p><p class=\"p_spacing\"> </p><p>明治三十八年九月、佐世保港内ニテ後部彈藥庫ノ爆發事故ニ由リ沈没スルモ、爾後引揚・修理ヲ施シ、新式ノ主砲ヲ換裝シテ戰列ニ復歸セリ。大正期ニ至リ、大正十年九月ニハ一等海防艦ニ編入セラル。</p><p class=\"p_spacing\"> </p><p>華盛頓海軍軍縮條約ノ規定ニ基ヅキ、本艦ハ除籍セラル。大正十五年ヨリ昭和二十年迄ハ記念艦トシテ保存セラルルモ、終戰後ハ荒廢ニ歸セリ。昭和三十五年度ヨリ復元工事ヲ開始シ、翌三十六年、記念艦トシテ永久保存セラルルニ至レリ。</p>"
 
 msgid "IDS_PJSB011_FULL"
 msgstr "三笠"
@@ -94543,7 +94539,7 @@ msgid "IDS_PJSB013"
 msgstr "天城"
 
 msgid "IDS_PJSB013_DESCR"
-msgstr "<p>After the Russo-Japanese War, Japan planned to build eight battleships and eight fast armored cruisers. Slightly later, the armored cruisers were replaced with battleships, and the number of ships was reduced. However, after the start of World War I, funding increased and the design of battlecruisers began. Between 1916 and 1918, about twenty preliminary design variants were developed.</p><p class=\"p_spacing\"> </p><p>Between 1920 and 1921, four ships based on the design designated B-64 were laid down, but construction was canceled according to the decisions of the Washington Naval Conference. Japan was permitted to convert two battlecruisers into aircraft carriers, and in 1923 the conversion of the Amagi began. In September, the hull of the Amagi, which was on the slipways in Yokosuka, was destroyed by the Great Kantō earthquake.</p>"
+msgstr "<p>日露戰爭終結後、本邦ニ於テハ戰艦八隻及高速裝甲巡洋艦八隻ヲ基幹トスル「八八艦隊完成案」ヲ計畵セリ。爾後、裝甲巡洋艦ヲ巡洋戰艦ニ改メ、其ノ隻數ヲ一時縮減セルモ、第一次世界大戰ノ勃發ニ由リ軍事豫算ハ増額サレ、新型巡洋戰艦ノ設計ニ着手セリ。大正五年ヨリ七年ニ懸ケテ、二十種ニ及ブ基本計畵案ガ作成サレタリ。</p><p class=\"p_spacing\"> </p><p>大正九年ヨリ十年度ニ際シ、「B 六十四號案」ニ基ヅク巡洋戰艦四隻ヲ起工セルモ、華盛頓海軍軍縮會議ノ議決ニ依リ其ノ建造ハ中止セラル。本邦ハ巡洋戰艦二隻ヲ航空母艦ニ改造スル枠ヲ獲得シ、大正十二年、天城ノ改造工事ニ着手セリ。然レドモ同年九月、横須賀海軍工廠ノ船臺上ニ在リタル天城ノ船體ハ、關東大震災ニ由リ大破損壊スルニ至レリ。</p>"
 
 msgid "IDS_PJSB013_FULL"
 msgstr "天城"
@@ -94558,7 +94554,7 @@ msgid "IDS_PJSB018"
 msgstr "大和"
 
 msgid "IDS_PJSB018_DESCR"
-msgstr "<p>The design for the new battleship was selected from 24 options developed since 1934. The ship received a fully turbine-powered propulsion system. The hull was refined in a test basin to give it an optimal hydrodynamic form, leading to the creation of a massive bulbous bow. To build such a large ship, it was necessary to deepen the existing dry docks and construct a vessel for transporting the turrets. The building slip and dock were enclosed by a high fence.</p><p class=\"p_spacing\"> </p><p>Yamato, the lead ship of the class, was built in Kure. Throughout 1942, the ship served as the flagship of the Japanese Combined Fleet. From the bridge of the Yamato, Admiral Isoroku Yamamoto directed the Battle of Midway. In December 1943, the battleship was torpedoed by an American submarine and put in for repairs.</p><p class=\"p_spacing\"> </p><p>In October 1944, Yamato took part in the Battle of Leyte Gulf, where it fought near Samar Island against American escort carriers. Yamato was sunk off the coast of Kyushu during Operation Ten-Go by a massive strike from U.S. Navy aircraft on April 7, 1945.</p>"
+msgstr "<p>新型戰艦ノ設計案ハ、昭和九年ヨリ著手セラレタル二十四種ノ試案中ヨリ選定サレタリ。本艦ハ全艦蒸氣「タービン」推進機關ヲ採用セリ。船體形状ニ於テハ、水槽實驗ヲ反復シテ流體力學上至適ナル艦型ヲ追求シ、其ノ結果、巨大ナル球状艦首ヲ現出セリ。斯カル巨艦ノ建造ニ際シテハ、既設ノ乾ドックヲ掘下ゲ、更ニ砲塔輸送用ノ特設艦 (樫野) ヲ建造スルヲ要セリ。船臺及ドック附近ハ、高大ナル防諜柵ヲ以テ遮蔽セラレタリ。</p><p class=\"p_spacing\"> </p><p>大和型一番艦大和ハ、呉海軍工廠ニ於テ建造セラル。昭和十七年ノ全期間、本艦ハ日本海軍聯合艦隊ノ旗艦トナリタリ。山本五十六大將ハ大和艦橋ヨリミッドウェー海戰ノ指揮ヲ執レリ。昭和十八年十二月、本艦ハ米國潜水艦ノ雷撃ヲ受ケ被弾、修理ニ入レリ。</p><p class=\"p_spacing\"> </p><p>昭和十九年十月、大和ハレイテ沖海戰ニ参戰シ、サマール島沖ニ於テ米國護衛航空母艦群ト交戰セリ。昭和二十年四月七日、「天一號作戰」ニ從事中、九州南方沖ニ於テ米國艦隊機ノ波状攻撃ヲ受ケ、多數ノ魚雷及爆弾命中ニ由リ、遂ニ其ノ勇姿ヲ海中ニ没セリ。</p>"
 
 msgid "IDS_PJSB018_FULL"
 msgstr "大和"
@@ -94573,7 +94569,7 @@ msgid "IDS_PJSB021"
 msgstr "出雲"
 
 msgid "IDS_PJSB021_DESCR"
-msgstr "<p>The Washington Naval Treaty imposed significant restrictions on the size of the Japanese battleship fleet. To maintain defensive capabilities, Japan was once again forced to compensate for the small number of ships with their high performance.</p><p class=\"p_spacing\"> </p><p>In 1934, the Japanese navy decided to abandon displacement limitations in order to definitively surpass American battleships in combat power. In October 1934, the Imperial Japanese Navy General Staff issued technical specifications for designing a battleship with a displacement of 69,500 tons.</p><p class=\"p_spacing\"> </p><p>Some of the developed designs envisioned a ship armed with three turrets in the bow, each intended to mount three 410-mm guns. The secondary armament consisted of 155-mm guns. The propulsion system was a combined diesel-steam turbine arrangement. This project was not realized, and its further refinement led to the emergence of the Yamato-class battleships.</p>"
+msgstr "<p>華盛頓海軍軍縮條約ハ、日本海軍ノ主力艦保有量ニ對シ嚴格ナル制限ヲ課セリ。國防ノ安寧ヲ全クスル爲、日本ハ寡兵ヲ以テ衆ニ敵スル「個艦優越主義」ニ由リ、少數ノ精鋭艦ニ絶大ナル性能ヲ賦與スルヲ餘儀ナクセリ。</p><p class=\"p_spacing\"> </p><p>昭和九年、日本海軍ハ米國戰艦ヲ武力ニ於テ壓倒スベク、排水量制限ノ撤廢ヲ決議セリ。同年十月、軍令部ハ排水量六萬九千五百噸ニ達スル超弩級戰艦ノ試案策定ヲ技術陣ニ下令セリ。</p><p class=\"p_spacing\"> </p><p>提示セラレタル試案中ニハ、艦首部ニ四百十粍三連装砲塔三基ヲ集中配置セル特異ナル方案アリ。副砲ニハ百五十五粍砲ヲ備ヘ、推進機關ハ内燃機及蒸氣「タービン」ノ併用ヲ計畫セリ。本案ハ其ノ儘實行セラルルニハ至ラズ、更ナル研究ノ進展ニ由リ、後ノ大和型戰艦ノ誕生ヲ見ルニ至レリ。</p>"
 
 msgid "IDS_PJSB021_FULL"
 msgstr "出雲"
@@ -94588,7 +94584,7 @@ msgid "IDS_PJSB111"
 msgstr "薩摩"
 
 msgid "IDS_PJSB111_DESCR"
-msgstr "<p>Plans for the construction of the Yamato-class battleships envisioned building eight ships by 1950. In early 1941, the program was adjusted: based on intelligence data about the construction of large ships in the United States, the Imperial Japanese Navy General Staff requested the construction of new battleships.</p><p class=\"p_spacing\"> </p><p>Most of the ships were intended to be built according to an improved design based on the Yamato class—with 510 mm main battery artillery. The variant with eight main battery guns in four turrets had a standard displacement of 86,730 tons—a quarter more than that of the Yamato. Two super-battleships were assigned hull numbers 798 and 799, but the project was not realized due to Japan's defeat in the war.</p>"
+msgstr "<p>大和型戰艦ノ建造計畵ニ於テハ、昭和二十五年迄ニ總計八隻ノ完成ヲ期セリ。昭和十六年初頭、軍令部ハ米國ニ於ケル新型巨艦建造ノ諜報ニ基ヅキ、軍備補充計畫ヲ改訂シテ更ナル超弩級戰艦ノ開發ヲ下令セリ。</p><p class=\"p_spacing\"> </p><p>其ノ大半ハ大和型ヲ基礎トシテ性能ヲ向上セシメタル「超大和型」トシ、主砲ニ五百十粍砲ヲ搭載スルモノナリ。就中、連装砲塔四基計八門ノ主砲ヲ備フル案ハ、基準排水量八萬六千七百三十噸ニ達シ、大和型ニ比シテ四分ノ一以上ノ大型化ヲ圖レリ。此ノ超大型戰艦二隻ハ「第七百九十八號艦」及「第七百九十九號艦」トシテ計畵セラルルモ、太平洋戰争ノ戰局惡化ニ由リ、遂ニ其ノ實現ヲ見ルニ至ラザリキ。</p>"
 
 msgid "IDS_PJSB111_FULL"
 msgstr "薩摩"
@@ -94603,7 +94599,7 @@ msgid "IDS_PJSB208"
 msgstr "弓張"
 
 msgid "IDS_PJSB208_DESCR"
-msgstr "<p>After the end of the Russo-Japanese War and the assimilation of its lessons, Japan adopted the \"Eight-Eight\" plan, which called for the navy to consist of eight battleships and eight high-speed armored cruisers. This plan later underwent a series of changes; notably, the armored cruisers were replaced by battlecruisers.</p><p class=\"p_spacing\"> </p><p>Japan viewed America as a likely adversary in a naval war. Therefore, when World War I began and the United States announced its naval expansion plans, Japan increased funding for the construction of new ships.</p><p class=\"p_spacing\"> </p><p>Between 1916 and 1918, around twenty preliminary design variants were developed, representing an evolution of the Kongō-class. The most detailed was the project designated B-62, which included eight variants of a ship with four twin-gun main battery turrets. It was planned to build two ships of this type. The project was later modified and led to the development of the Amagi-class ships.</p>"
+msgstr "<p>日露戰爭終結ノ後、其ノ經驗ヲ基トシテ、日本ニ於テ「八八艦隊」計畫ヲ制定セリ。是ニ依レバ、八隻ノ戰艦ト八隻ノ高速装甲巡洋艦ヲ以テ艦隊ヲ編成スベキ筈ナリキ。後ニ此ノ計畫ハ數度ノ變更ヲ經タリ。特ニ装甲巡洋艦ハ巡洋戰艦ニ代ヘラレタリ。</p><p class=\"p_spacing\"> </p><p>日本ハ海上ニ於ケル將來ノ敵國トシテ米國ヲ見做セリ。故ニ第一次大戰勃發、米國ガ其ノ海軍擴張計畫ヲ公ニスルニ及ビ、日本モ亦新造艦建造ノ爲ノ資金ヲ増額セリ。</p><p class=\"p_spacing\"> </p><p>大正五年乃至七年、金剛型ヲ發展セシメタル基本計畫、凡ソ二十種ヲ作成ス。其中、最モ詳細ナルハ乙第六十二號案ニシテ、三聯装主砲塔四基ヲ備ヘタル八種ノ變案ヲ包含セリ。同型ニ屬スル二艦ノ建造ヲ企圖セシモ、後ニ計畫ヲ変更シ、遂ニ天城型ノ誕生ヲ見ルニ至レリ。</p>"
 
 msgid "IDS_PJSB208_FULL"
 msgstr "弓張"
@@ -94618,7 +94614,7 @@ msgid "IDS_PJSB209"
 msgstr "安達太良"
 
 msgid "IDS_PJSB209_DESCR"
-msgstr "<p>After the United States announced an ambitious shipbuilding program in 1919, the Japanese Navy's development plan was revised: it required the construction of four battleships and four battlecruisers. Thirteen design variants for battleships and battlecruisers were proposed. Variant A was selected for the battleship, which became the Kii-class, and Variant K was chosen for the construction of the battlecruiser.</p><p class=\"p_spacing\"> </p><p>Four ships of the battlecruiser design were ordered. Construction was planned to begin in 1922, but due to the commencement of the Washington Naval Conference, these ships were never laid down, and shortly after its conclusion, their construction was canceled.</p>"
+msgstr "<p>大正八年、米國ノ大規模艦隊擴張計畫發表ニ伴ヒ、日本海軍ノ建艦計畫モ亦再檢討セラル。四隻ノ戰列艦ト四隻ノ巡洋戰艦ヲ建造スベキニ決シ、戰列艦及ビ巡洋戰艦ノ設計案凡ソ十三種提出セリ。戰列艦トシテハ甲案カ採用サレ紀伊型ト爲リ、巡洋戰艦トシテハ己案カ採用セラレタリ。</p><p class=\"p_spacing\"> </p><p>巡洋戰艦己案ニ基キ四隻ノ建造ヲ發注セシモ、起工ハ大正十一年ヲ予定セシガ、華府會議開催ノ爲遂ニ起工セズ。會議終結後間モナクシテ、本建造計畫ハ全ク中止セラレタリ。</p>"
 
 msgid "IDS_PJSB209_FULL"
 msgstr "安達太良"
@@ -94633,7 +94629,7 @@ msgid "IDS_PJSB210"
 msgstr "豊後"
 
 msgid "IDS_PJSB210_DESCR"
-msgstr "<p>Following the review of the Japanese fleet development plan, new battleships and battlecruisers were ordered. The Kii-class battleships were to be equipped with ten 410-mm guns in five turrets, while the No. 13-class battlecruiser was intended to have 457-mm armament.</p><p class=\"p_spacing\"> </p><p>Concurrently, the L project was developed—an enlarged variant of the Kii-class battleship, also armed with five main battery turrets but with 457-mm guns. However, this project exceeded the displacement of the Kii-class battleships by 9,000 tons, which would have led to a significant increase in its cost. The appearance of both the Kii-class and these ships was prevented by the Washington Conference, which resulted in a temporary ban on battleship construction and a limitation on their total tonnage.</p>"
+msgstr "<p>日本海軍ノ建艦計畫再檢討ノ後、新戰列艦及ビ巡洋戰艦ノ建造ヲ發注セリ。紀伊型戰列艦ニ在リテハ四十糎砲五基十門ヲ装備スベク、第十三號型巡洋戰艦ニ在リテハ四十五糎七砲ヲ装備セント計畫セリ。</p><p class=\"p_spacing\"> </p><p>此時、更ニ紀伊型ヲ擴大セル卯案モ立案セラレタリ。同案ニ於テモ主砲塔五基ヲ有スルモ、其ノ砲身ハ四十五糎七砲タリ。然ルニ本計畫ハ紀伊型ヨリ九千噸餘ノ排水量ヲ超過シ、巨額ノ建造費ヲ要スルコト明白ナリキ。紀伊型トモ本級トモ、其ノ實現ハ華府會議ニ因リテ阻マレ、同會議ノ決議ニ依リ戰列艦建造ノ一時禁止及ビ總噸數制限ナル事態ヲ招來セリ。</p>"
 
 msgid "IDS_PJSB210_FULL"
 msgstr "豊後"
@@ -94648,7 +94644,7 @@ msgid "IDS_PJSB502"
 msgstr "三笠 '04"
 
 msgid "IDS_PJSB502_DESCR"
-msgstr "<p>The last of the four battleships ordered under the ten-year program of 1896. In terms of design, it was similar to its predecessors, with its main difference being improved casemate armor for the anti-torpedo guns.</p><p class=\"p_spacing\"> </p><p>The battleship was designed and built by Armstrong, surpassing the latest British battleships. Laid down in Elswick in January 1899, launched in November 1900, and commissioned in March 1902. It was Admiral Togo's flagship during the Russo-Japanese War, taking part in the battles in the Yellow Sea and the Battle of Tsushima.</p>"
+msgstr "<p>明治二十九年達ノ十年計畫ニ基キテ發注セル第四番目ノ戰列艦ナリ。基本構造ハ先代諸艦ニ倣ヒタレドモ、副砲廓ノ防御ヲ増強セル點ニ特徵アリ。</p><p class=\"p_spacing\"> </p><p>本艦ハ英國アームストロング社ニ於テ設計、建造セラレ、當時最新ノ英國戰列艦ヲ凌駕セリ。明治三十二年一月エルズウィックニ於テ起工、同三十三年十一月進水、同三十五年三月就役ス。日露戰爭ニ於テハ東郷平八郎聯合艦隊司令長官ノ旗艦トシテ、黄海海戰、日本海海戰ニ従事セリ。</p>"
 
 msgid "IDS_PJSB502_FULL"
 msgstr "三笠 '04"
@@ -94663,7 +94659,7 @@ msgid "IDS_PJSB506"
 msgstr "陸奥"
 
 msgid "IDS_PJSB506_DESCR"
-msgstr "<p>Mutsu, the second battleship of the Nagato class, was built in Yokosuka and commissioned just as the Washington Conference had begun. The United States insisted on the ship being decommissioned, but the Japanese managed to preserve it: one of the arguments was that part of the funds for its construction had been collected by schoolchildren from all over the country.</p><p class=\"p_spacing\"> </p><p>From 1934 to 1936, like all Japanese battleships, Mutsu underwent a major modernization with enhanced armor. The ship participated in World War II: it covered the attack on Pearl Harbor in December 1941, took part in the Battle of Midway and the battles around the Solomon Islands in 1942. On June 8, 1943, Mutsu was lost in Hashirajima harbor due to an explosion in the third turret's magazine.</p>"
+msgstr "<p>陸奧ハ、長門型戰列艦ノ二番艦ニシテ、橫須賀ニ於テ建造、華府會議開催中ニ就役セリ。米國ハ本艦ノ廢棄ヲ強ク主張セシモ、日本ニ於テハ全國ノ學童ノ醵金ニ依リテ建造セラレタルコトヲ以テ、遂ニ其ノ存續ヲ認メシメタリ。</p><p class=\"p_spacing\"> </p><p>昭和九年至十一年、他ノ日本戰列艦ト同様、大規模ナル近代化改造ヲ施行シ、特ニ装甲ヲ强化セリ。第二次大戰ニ從ヒ、昭和十六年十二月真珠灣攻擊掩護、同十七年ミッドウェー海戰、ソロモン諸島戰ニ參加ス。同十八年六月八日、柱島泊地ニ於テ第三砲塔下火藥庫ノ爆發ニ因リ沈没セリ。</p>"
 
 msgid "IDS_PJSB506_FULL"
 msgstr "陸奥"
@@ -94678,7 +94674,7 @@ msgid "IDS_PJSB507"
 msgstr "愛鷹"
 
 msgid "IDS_PJSB507_DESCR"
-msgstr "<p>The fourth ship of the Amagi class was laid down in December 1921 in Nagasaki at the Mitsubishi shipyard under the name Ashitaka.</p><p class=\"p_spacing\"> </p><p>In July 1922, in accordance with the decision of the Washington Naval Conference, its construction was cancelled. The ship's hull was dismantled on the slipway in 1924 — precisely the year the ship was scheduled to enter service.</p>"
+msgstr "<p>天城型第四番艦ハ、大正十年十二月三菱長崎造船所ニ於テ「愛鷹」ト命名シテ起工セリ。</p><p class=\"p_spacing\"> </p><p>大正十一年七月、華府海軍會議ノ決議ニ從ヒ、其ノ建造ヲ中止ス。本艦ノ船體ハ、昭和三年、進水ノ予定ナリシ同年、船台ニ於テ解體セラレヌ。れました。</p>"
 
 msgid "IDS_PJSB507_FULL"
 msgstr "愛鷹"
@@ -94693,7 +94689,9 @@ msgid "IDS_PJSB508"
 msgstr "紀伊"
 
 msgid "IDS_PJSB508_DESCR"
-msgstr "<p>After the United States announced an ambitious shipbuilding program in 1919, Japan revised its fleet development plans: it required the construction of four more battleships and four battlecruisers. Naval architect Yuzuru Hiraga developed thirteen preliminary design options for ships of these classes.</p><p class=\"p_spacing\"> </p><p>The main battleship design chosen was a variant with 410mm artillery in five twin-gun turrets — essentially an enhanced version of the Amagi-class battlecruisers. The first two ships were ordered in October 1921, but by February of the following year, preparations for construction were halted due to the Washington Naval Conference, and in 1924, construction was definitively canceled.</p>"
+msgstr ""
+"大正八年、米國ノ大規模艦隊擴張計畫發表ニ接シ、日本海軍ノ建艦計畫ヲ再檢討シ、更ニ四隻ノ戰列艦及ビ四隻ノ巡洋戰艦ノ建造ヲ要スルニ至レリ。造船官平賀譲、該當艦種ニ關スル預想圖凡ソ十三種ヲ作成セリ。\n"
+"戰列艦ノ主案トシテハ、四十糎砲ヲ五基二聯裝砲塔ニ装備スル型式、即チ實質上天城型巡洋戰艦ヲ強化セルモノヲ採択セリ。大正十年十月、最初ノ二艦ノ建造ヲ發注セシモ、翌十一年二月、華府海軍會議ノ爲其ノ準備工事ヲ中止シ、昭和三年ニ至リテ建造計畫ハ全ク廢止セラレタリ。"
 
 msgid "IDS_PJSB508_FULL"
 msgstr "紀伊"
@@ -94708,7 +94706,7 @@ msgid "IDS_PJSB509"
 msgstr "武蔵"
 
 msgid "IDS_PJSB509_DESCR"
-msgstr "<p>Musashi, the second Yamato-class battleship, was built in Nagasaki at the Mitsubishi shipyard. In 1943, the ship became the flagship of the Combined Fleet.</p><p class=\"p_spacing\"> </p><p>In early 1943, Musashi was transferred to Truk, Japan's main naval base in the South Pacific theater of operations, and was primarily used for patrol operations. In early 1944, the battleship sustained a torpedo hit and returned to Japan for repairs.</p><p class=\"p_spacing\"> </p><p>Musashi participated in the Battle of the Philippine Sea. During the Battle of Leyte Gulf on October 24, 1944, the battleship was sunk by American carrier-based bombers and torpedo bombers, sustaining approximately 19 torpedo and 17 bomb hits.</p>"
+msgstr "<p>武蔵ハ、大和型戰列艦ノ二番艦ニシテ、三菱長崎造船所ニ於テ建造セラル。昭和十八年、聯合艦隊旗艦ト定メラル。</p><p class=\"p_spacing\"> </p><p>同十八年初頭、本艦ハ南洋方面ノ要衝トラック島ニ進出シ、主トシテ哨戒任務ニ従事セリ。翌十九年初頭、魚雷ノ被害ヲ受ケタル爲修理ノ爲日本ニ回航セリ。</p><p class=\"p_spacing\"> </p><p>比島沖海戰ニ参加ス。昭和十九年十月二十四日、レイテ灣海戰ニ於テ、米國海軍ノ艦上爆撃機及ビ雷撃機ノ攻撃ヲ受ケ、魚雷約十九本、爆彈約十七發ノ命中ヲ以テ沈没セリ。</p>"
 
 msgid "IDS_PJSB509_FULL"
 msgstr "武蔵"
@@ -94723,7 +94721,7 @@ msgid "IDS_PJSB510"
 msgstr "敷島"
 
 msgid "IDS_PJSB510_DESCR"
-msgstr "<p>The plans for constructing the Yamato-class battleships envisioned the building of eight ships by 1950. At the beginning of 1941, the program was adjusted: based on intelligence data regarding the scale of large ship construction in the United States, the leadership of the Japanese Navy decided to increase the number of battleships under construction. One of the ships was to be built within the Yamato class, and all subsequent ones — according to an improved design, with 510-mm main caliber artillery.</p><p class=\"p_spacing\"> </p><p>The new project received the designation A-150. One of the variants proposed six main caliber guns in three turrets and a standard displacement of 65,700 tons. The project was not realized due to Japan's defeat in the war.</p>"
+msgstr "<p>大和型戰列艦ノ建造計畫ニ依レバ、昭和二十五年マデニ八隻ノ竣工ヲ期セリ。昭和十六年初頭、本計畫ハ修正サレ、在米大型艦建造ノ情報ニ基キ、日本海軍部ハ建造戰列艦數ノ増加ヲ決セリ。其ノ内一隻ハ大和型トシテ、爾後ノ艦ハ全て主砲ヲ五十一糎砲ト爲ス改良計畫ニ基キテ建造セラルベキ筈ナリキ。</p><p class=\"p_spacing\"> </p><p>新計畫ハ甲第百五十號案ト稱セラル。一設計案ハ三基三聯装主砲塔ニ六門ノ主砲ヲ備ヘ、基準排水量六萬五千七百噸ト設定セラレタリ。本計畫ハ終戰ニ伴ヒ實現ヲ見ズ。</p>"
 
 msgid "IDS_PJSB510_FULL"
 msgstr "敷島"
@@ -94738,7 +94736,7 @@ msgid "IDS_PJSB517"
 msgstr "日向"
 
 msgid "IDS_PJSB517_DESCR"
-msgstr "<p>The second battleship of the Ise class was built at the Mitsubishi shipyard in Nagasaki. The ship did not fight in the First World War but participated in the intervention in Soviet Russia.</p><p class=\"p_spacing\"> </p><p>The battleship was modernized in two stages in 1927–28 and 1931–32, and underwent a significant reconstruction in 1934–36, which included strengthening its armor and power plant. By the start of the Second World War, the ship was considered obsolete and saw almost no combat action in the Pacific.</p>"
+msgstr "<p>伊勢型戰列艦ノ二番艦ハ、三菱長崎造船所ニ於テ建造セリ。本艦ハ第一次大戰ニ從軍セズレドも、露國干涉作戰ニ參加セリ。</p><p class=\"p_spacing\"> </p><p>昭和二、三年及ビ五、六年ノ二度ニ亙ル近代化改造ヲ經タル後、同九年至十一年、大規模ナル改造ヲ施行シ、裝甲ノ強化、機關出力ノ増強等ヲ爲セリ。然レドも太平洋戰争開戰時既ニ舊式艦ト見做サレ、實戰ニ殆ド參與セズ。</p>"
 
 msgid "IDS_PJSB517_FULL"
 msgstr "日向"
@@ -94753,7 +94751,7 @@ msgid "IDS_PJSB519"
 msgstr "肥前"
 
 msgid "IDS_PJSB519_DESCR"
-msgstr "<p>In 1934, work began in Japan on the A-140 battleship project. By 1936, 24 variants of the preliminary design were ready, differing in displacement, maximum speed, and main battery caliber.</p><p class=\"p_spacing\"> </p><p>One of the variants featured a classic superfiring arrangement of four turrets, each with three 410-mm guns. The secondary battery consisted of 155-mm guns in triple turrets. The propulsion system was a combined diesel-steam turbine arrangement. This project was not realized, and its further development led to the emergence of the Yamato-class battleships.</p>"
+msgstr "<p>日本ニ於テ、昭和九年甲第百四十號案戰艦ノ設計ニ着手シ、同十一年迄ニ二十四種ノ基本計畫案ヰ作成セリ。各案ハ排水量、最大速力、主砲口径ヲ以テ區別サル。</p><p class=\"p_spacing\"> </p><p>其中一案ハ、四十糎砲三門ヲ装備スル砲塔四基ヲ塔状配置シ、中口径砲トシテ十五糎五砲三聯装砲塔ヲ備フ。機關ハ複合式内燃・蒸気渦輪機関ト爲セリ。本計畫ハ實現セザリシモ、其ノ硏究ハ後ニ大和型戰列艦ノ誕生ヲ見ル礎トナレリ。</p>"
 
 msgid "IDS_PJSB519_FULL"
 msgstr "肥前"
@@ -94768,7 +94766,7 @@ msgid "IDS_PJSB520"
 msgstr "雷獣"
 
 msgid "IDS_PJSB520_DESCR"
-msgstr "<p>The experimental battleship Raijū was built under conditions of utmost secrecy at the naval shipyard in Kure as part of the Alliance's program to create new-generation universal combat platforms.</p><p class=\"p_spacing\"> </p><p>The ship's name refers to a mythical creature from Japanese folklore associated with lightning and storms. This image was reflected in the vessel's concept: Raijū was conceived as a strike combat unit capable of delivering crushing blows with terrifying power, reacting swiftly to threats, and withstanding attacks even from submarines thanks to enhanced torpedo protection.</p><p class=\"p_spacing\"> </p><p>Classified. Not officially listed in any fleet's arsenal.</p>"
+msgstr "<p>實驗戰艦雷獣ハ、聯盟新世代汎用戰鬪基盤計畫ノ一環トシテ、極祕裡ニ吳海軍工廠ニ於テ建造セラレタリ。</p><p class=\"p_spacing\"> </p><p>艦名ハ、日本古來ノ傳承ニ現ルル雷電嵐濤ヲ司ル神獣ニ因ム。此ノ意匠ハ、本艦ノ構想ニ明示セラルル如ク、雷獣ハ敵ヲ震撼セシムル破壊力ヲ以テ猛擊ヲ加ヘ、疾雷ノ如キ應急力ヲ以テ脅威ニ應シ、強化セル對魚雷防禦ニ依リ潜水艦ノ攻撃ヲモ凌ギ得ベキ打擊戰鬪單位タラシメンコトヲ期シタリ。</p><p class=\"p_spacing\"> </p><p>極祕事項ト定ム。公ニハ何レノ艦隊ノ籍ニモ在ラズ。</p>"
 
 msgid "IDS_PJSB520_FULL"
 msgstr "雷獣"
@@ -94783,7 +94781,7 @@ msgid "IDS_PJSB526"
 msgstr "伊勢"
 
 msgid "IDS_PJSB526_DESCR"
-msgstr "<p>The battleships built under the 1912 program were initially intended to repeat the Fusō class. However, during the design process, changes were made to the blueprints, incorporating lessons learned from the construction of their predecessors and new requirements from the naval staff. The main difference was the new arrangement of the artillery, which simplified fire control.</p><p class=\"p_spacing\"> </p><p>Ise was built in Kobe at the Kawasaki shipyard. The ship did not see combat in World War I but participated in the intervention in Soviet Russia. During its modernization in the 1930s, the ship's armor and the power of its propulsion plant were enhanced.</p><p class=\"p_spacing\"> </p><p>By the beginning of World War II, the battleship was obsolete and saw almost no action in the Pacific. Following the loss of carriers in the Battle of Midway, Ise was rebuilt into a hybrid battleship-carrier: the aft group of turrets was replaced with a flight deck. In 1944, Ise participated in the Battle of Cape Engaño, and in 1945, it transported strategic cargo from China to Japan. In July 1945, the ship was sunk by American bombers near Ondo Seto Island.</p>"
+msgstr "<p>明治四十五年度計畫ニ基キ建造セル戰列艦ハ、當初扶桑型ノ反復ト爲スベキ筈ナリシモ、設計途上ニ於テ前型ノ經驗及ビ軍令部ノ新要求ヲ採リ、圖面ニ修正ヲ加フ。主ナル相違ハ砲列配置ノ改編ニシテ、射撃指揮ヰ一層容易ナラシメタリ。</p><p class=\"p_spacing\"> </p><p>伊勢ハ川崎神戸造船所ニ於テ建造セリ。本艦ハ第一次大戰ニ從軍セズレドも、露國干涉作戰ニ參加セリ。昭和初期ノ改造ニ於テハ、艦體ノ防御及ビ機關出力ヲ増強セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争開戰時既ニ舊式艦トナリ、殆ド實戰ニ參與セザリシモ、ミッドウェー海戰ニ於ケル航空母艦喪失後、航空戰艦トシテ改造セラル。即チ後部砲塔群ヲ撤去シ、飛行甲板ヲ設置セリ。昭和十九年エンガノ岬沖海戰ニ參加、同二十年ニハ中國ヨリ日本ヘ戰略物資ヲ輸送セリ。同年七月、米軍爆撃機ノ攻撃ヲ受ケ、ヲンドセト島近海ニテ沈没セリ。</p>"
 
 msgid "IDS_PJSB526_FULL"
 msgstr "伊勢"
@@ -94798,7 +94796,7 @@ msgid "IDS_PJSB529"
 msgstr "石見"
 
 msgid "IDS_PJSB529_DESCR"
-msgstr "<p>A battleship project variant developed in Japan in the mid-1930s. The ship was intended to have four twin-gun main battery turrets.</p><p class=\"p_spacing\"> </p><p>The project is distinguished by its reinforced 100 mm dual-purpose artillery, improved anti-aircraft armament, and the presence of torpedo tubes.</p>"
+msgstr "<p>本計畫ハ日本國ニ於テ昭和十年代中頃ニ設計セル戰列艦ノ一案ナリ。本艦ハ主砲トシテ二聯装砲塔四基ヲ備フベキ筈ナリキ。</p><p class=\"p_spacing\"> </p><p>本計畫ノ特異トスル所ハ、十糎副砲ノ强化、對空兵装ノ改良、並ビニ魚雷發射管ノ装備ヲ有スル點ニ在リ。</p>"
 
 msgid "IDS_PJSB529_FULL"
 msgstr "石見"
@@ -94813,7 +94811,7 @@ msgid "IDS_PJSB539"
 msgstr "大山"
 
 msgid "IDS_PJSB539_DESCR"
-msgstr "<p>In 1916, as part of fleet development, the Japanese parliament authorized the construction of two battlecruisers in addition to the Kongō-class ships. That same year, Japanese naval architects presented four battlecruiser designs, which differed in the power of their propulsion plants and specific elements of their armor.</p><p class=\"p_spacing\"> </p><p>A characteristic feature of these designs was their six-shaft propulsion system. After a series of refinements, they became the basis for the Amagi-class battlecruisers.</p>"
+msgstr "<p>大正五年、艦隊擴張計畫ニ基キ、日本國會ハ金剛型ニ追加シテ二隻ノ巡洋戰艦ノ建造ヲ裁可セリ。同年、日本ノ造船官ハ機關出力及ビ局部ノ装甲ヲ異ニスル四種ノ巡洋戰艦設計案ヲ提出セリ。</p><p class=\"p_spacing\"> </p><p>該設計案ノ特徵ハ六軸推進機關ノ採用ニ在リ。數度ノ修正ヲ經テ後、本計畫ハ遂ニ天城型巡洋戰艦ノ基礎ト爲レリ。</p>"
 
 msgid "IDS_PJSB539_FULL"
 msgstr "大山"
@@ -94828,7 +94826,7 @@ msgid "IDS_PJSB549"
 msgstr "剣"
 
 msgid "IDS_PJSB549_DESCR"
-msgstr "<p>The differences between the battleship and battlecruiser projects under the new Japanese naval development plan were minimal: the Type No. 13 battlecruisers did not differ in speed from the Kii-class battleships.</p><p class=\"p_spacing\"> </p><p>This fell outside the framework of the accepted naval tactics in Japan, which assumed the existence of a \"fast wing of the fleet.\" To increase speed and transform the No. 13 design into a true battlecruiser, it would have been possible to sacrifice one of the main battery turrets.</p>"
+msgstr "<p>日本海軍新造艦計画ニ於ケル戰列艦ト巡洋戰艦ノ設計差異ハ極メテ微小ナリキ。即チ第十三號型巡洋戰艦ハ、紀伊型戰列艦ト速力ニ於テ差異無ク、従来日本海軍戦術ノ要トセル「高速艦隊」ノ概念ニ悖ルモノアリ。</p><p class=\"p_spacing\"> </p><p>真ノ巡洋戰艦タラシメン爲ニハ、速力向上ノ目的ヲ以テ主砲塔一基ノ割愛モ已ムヲ得ザルベシ。</p>"
 
 msgid "IDS_PJSB549_FULL"
 msgstr "剣"
@@ -94843,7 +94841,7 @@ msgid "IDS_PJSB559"
 msgstr "石見 B"
 
 msgid "IDS_PJSB559_DESCR"
-msgstr "<p>A battleship project variant developed in Japan in the mid-1930s. The ship was intended to have four twin-gun main battery turrets.</p><p class=\"p_spacing\"> </p><p>The project is distinguished by its reinforced 100 mm dual-purpose artillery, improved anti-aircraft armament, and the presence of torpedo tubes.</p>"
+msgstr "<p>本計畫ハ日本國ニ於テ昭和十年代中頃ニ設計セル戰列艦ノ一案ナリ。本艦ハ主砲トシテ二聯装砲塔四基ヲ備フベキ筈ナリキ。</p><p class=\"p_spacing\"> </p><p>本計畫ノ特異トスル所ハ、十糎副砲ノ强化、對空兵装ノ改良、並ビニ魚雷發射管ノ装備ヲ有スル點ニ在リ。</p>"
 
 msgid "IDS_PJSB559_FULL"
 msgstr "石見 B"
@@ -94991,7 +94989,7 @@ msgid "IDS_PJSB810"
 msgstr "大和 CLR"
 
 msgid "IDS_PJSB810_DESCR"
-msgstr "<p>The design for the new battleship was selected from 24 options developed since 1934. The ship received a fully turbine-powered propulsion system. The hull was refined in a test basin to give it an optimal hydrodynamic form, leading to the creation of a massive bulbous bow. To build such a large ship, it was necessary to deepen the existing dry docks and construct a vessel for transporting the turrets. The building slip and dock were enclosed by a high fence.</p><p class=\"p_spacing\"> </p><p>Yamato, the lead ship of the class, was built in Kure. Throughout 1942, the ship served as the flagship of the Japanese Combined Fleet. From the bridge of the Yamato, Admiral Isoroku Yamamoto directed the Battle of Midway. In December 1943, the battleship was torpedoed by an American submarine and put in for repairs.</p><p class=\"p_spacing\"> </p><p>In October 1944, Yamato took part in the Battle of Leyte Gulf, where it fought near Samar Island against American escort carriers. Yamato was sunk off the coast of Kyushu during Operation Ten-Go by a massive strike from U.S. Navy aircraft on April 7, 1945.</p>"
+msgstr "<p>新戰列艦ノ計畫ハ、昭和九年以來硏究セル二十四案ヨリ選定セラル。本艦ハ全タービン機關ヲ備ヘ、船型ハ試驗水槽ニ於テ最良ノ流体抵抗ヲ得ンガ爲、巨大ナル艦首膨隆部ヲ有スルニ至レリ。此ノ巨艦建造ノ爲既存ノ乾ドックヲ加深シ、砲塔運搬船ヲ新造セリ。船渠及ビドックハ高キ防壁ヲ以テ圍繞セラレタリ。</p><p class=\"p_spacing\"> </p><p>大和ハ同型艦中首艦トシテ呉海軍工廠ニ於テ建造セラル。昭和十七年終始、日本聯合艦隊旗艦ヲ勤ム。同艦橋ヨリ山本五十六聯合艦隊司令長官、ミッドウェー海戰ヲ指揮セリ。同十八年十二月、米國潜水艦ノ雷撃ヲ受ケ修理工事ニ従事ス。</p><p class=\"p_spacing\"> </p><p>昭和十九年十月、レイテ灣海戰ニ参加シ、サマール島沖ニ於テ米國護衛空母群ト交戰セリ。昭和二十年四月七日、天号作戰ノ途上、九州坊ノ岬沖ニ於テ米國艦上機群ノ猛攻撃ヲ受ケ沈没セリ。</p>"
 
 msgid "IDS_PJSB810_FULL"
 msgstr "大和 CLR"
@@ -95036,7 +95034,7 @@ msgid "IDS_PJSB906"
 msgstr "伊勢 2"
 
 msgid "IDS_PJSB906_DESCR"
-msgstr "<p>The battleships built under the 1912 program were initially intended to repeat the Fusō class. However, during the design process, changes were made to the blueprints, incorporating lessons learned from the construction of their predecessors and new requirements from the naval staff. The main difference was the new arrangement of the artillery, which simplified fire control.</p><p class=\"p_spacing\"> </p><p>Ise was built in Kobe at the Kawasaki shipyard. The ship did not see combat in World War I but participated in the intervention in Soviet Russia. During its modernization in the 1930s, the ship's armor and the power of its propulsion plant were enhanced.</p><p class=\"p_spacing\"> </p><p>By the beginning of World War II, the battleship was obsolete and saw almost no action in the Pacific. Following the loss of carriers in the Battle of Midway, Ise was rebuilt into a hybrid battleship-carrier: the aft group of turrets was replaced with a flight deck. In 1944, Ise participated in the Battle of Cape Engaño, and in 1945, it transported strategic cargo from China to Japan. In July 1945, the ship was sunk by American bombers near Ondo Seto Island.</p>"
+msgstr "<p>明治四十五年度計畫ニ基キ建造セル戰列艦ハ、當初扶桑型ノ反復ト爲スベキ筈ナリシモ、設計途上ニ於テ前型ノ經驗及ビ軍令部ノ新要求ヲ採リ、圖面ニ修正ヲ加フ。主ナル相違ハ砲列配置ノ改編ニシテ、射撃指揮ヰ一層容易ナラシメタリ。</p><p class=\"p_spacing\"> </p><p>伊勢ハ川崎神戸造船所ニ於テ建造セリ。本艦ハ第一次大戰ニ從軍セズレドも、露國干涉作戰ニ參加セリ。昭和初期ノ改造ニ於テハ、艦體ノ防御及ビ機關出力ヲ増強セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争開戰時既ニ舊式艦トナリ、殆ド實戰ニ參與セザリシモ、ミッドウェー海戰ニ於ケル航空母艦喪失後、航空戰艦トシテ改造セラル。即チ後部砲塔群ヲ撤去シ、飛行甲板ヲ設置セリ。昭和十九年エンガノ岬沖海戰ニ參加、同二十年ニハ中國ヨリ日本ヘ戰略物資ヲ輸送セリ。同年七月、米軍爆撃機ノ攻撃ヲ受ケ、ヲンドセト島近海ニテ沈没セリ。</p>"
 
 msgid "IDS_PJSB906_FULL"
 msgstr "伊勢 2"
@@ -95051,7 +95049,7 @@ msgid "IDS_PJSB910"
 msgstr "HND 雷獣"
 
 msgid "IDS_PJSB910_DESCR"
-msgstr "<p>The experimental battleship Raijū was built under conditions of utmost secrecy at the naval shipyard in Kure as part of the Alliance's program to create new-generation universal combat platforms.</p><p class=\"p_spacing\"> </p><p>The ship's name refers to a mythical creature from Japanese folklore associated with lightning and storms. This image was reflected in the ship's concept: Raijū was conceived as a strike combat unit capable of delivering devastating blows with terrifying power, reacting swiftly to threats, and withstanding attacks even from submarines thanks to enhanced torpedo protection.</p><p class=\"p_spacing\"> </p><p>Classified. Not officially listed in the inventory of any fleet.</p>"
+msgstr "<p>實驗戰艦雷獣ハ、聯盟新世代汎用戰鬪基盤計畫ノ一環トシテ、極祕裡ニ吳海軍工廠ニ於テ建造セラレタリ。</p><p class=\"p_spacing\"> </p><p>艦名ハ、日本古來ノ傳承ニ現ルル雷電嵐濤ヲ司ル神獣ニ因ム。此ノ意匠ハ、本艦ノ構想ニ明示セラルル如ク、雷獣ハ敵ヲ震撼セシムル破壊力ヲ以テ猛擊ヲ加ヘ、疾雷ノ如キ應急力ヲ以テ脅威ニ應シ、強化セル對魚雷防禦ニ依リ潜水艦ノ攻撃ヲモ凌ギ得ベキ打擊戰鬪單位タラシメンコトヲ期シタリ。</p><p class=\"p_spacing\"> </p><p>極祕事項ト定ム。公ニハ何レノ艦隊ノ籍ニモ在ラズ。</p>"
 
 msgid "IDS_PJSB910_FULL"
 msgstr "HND 雷獣"
@@ -95066,7 +95064,7 @@ msgid "IDS_PJSB916"
 msgstr "伊勢 3"
 
 msgid "IDS_PJSB916_DESCR"
-msgstr "<p>The battleships built under the 1912 program were initially intended to repeat the Fusō class. However, during the design process, changes were made to the blueprints, incorporating lessons learned from the construction of their predecessors and new requirements from the naval staff. The main difference was the new arrangement of the artillery, which simplified fire control.</p><p class=\"p_spacing\"> </p><p>Ise was built in Kobe at the Kawasaki shipyard. The ship did not see combat in World War I but participated in the intervention in Soviet Russia. During its modernization in the 1930s, the ship's armor and the power of its propulsion plant were enhanced.</p><p class=\"p_spacing\"> </p><p>By the beginning of World War II, the battleship was obsolete and saw almost no action in the Pacific. Following the loss of carriers in the Battle of Midway, Ise was rebuilt into a hybrid battleship-carrier: the aft group of turrets was replaced with a flight deck. In 1944, Ise participated in the Battle of Cape Engaño, and in 1945, it transported strategic cargo from China to Japan. In July 1945, the ship was sunk by American bombers near Ondo Seto Island.</p>"
+msgstr "<p>明治四十五年度計畫ニ基キ建造セル戰列艦ハ、當初扶桑型ノ反復ト爲スベキ筈ナリシモ、設計途上ニ於テ前型ノ經驗及ビ軍令部ノ新要求ヲ採リ、圖面ニ修正ヲ加フ。主ナル相違ハ砲列配置ノ改編ニシテ、射撃指揮ヰ一層容易ナラシメタリ。</p><p class=\"p_spacing\"> </p><p>伊勢ハ川崎神戸造船所ニ於テ建造セリ。本艦ハ第一次大戰ニ從軍セズレドも、露國干涉作戰ニ參加セリ。昭和初期ノ改造ニ於テハ、艦體ノ防御及ビ機關出力ヲ増強セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争開戰時既ニ舊式艦トナリ、殆ド實戰ニ參與セザリシモ、ミッドウェー海戰ニ於ケル航空母艦喪失後、航空戰艦トシテ改造セラル。即チ後部砲塔群ヲ撤去シ、飛行甲板ヲ設置セリ。昭和十九年エンガノ岬沖海戰ニ參加、同二十年ニハ中國ヨリ日本ヘ戰略物資ヲ輸送セリ。同年七月、米軍爆撃機ノ攻撃ヲ受ケ、ヲンドセト島近海ニテ沈没セリ。</p>"
 
 msgid "IDS_PJSB916_FULL"
 msgstr "伊勢 3"
@@ -95117,7 +95115,7 @@ msgid "IDS_PJSC004"
 msgstr "夕張"
 
 msgid "IDS_PJSC004_DESCR"
-msgstr "<p>An experimental light cruiser designed by the chief shipbuilder of the Japanese Navy, Yuzuru Hiraga. This ship was intended to test design solutions meant for scout cruisers—the future Furutaka-class ships. Specifically, it was necessary to verify the possibility of reducing the hull's proportion of the displacement without compromising strength. This was achieved by incorporating the armor belt into the hull as a structural element. The design features of Yūbari became the standard for all subsequent Japanese cruisers.</p><p class=\"p_spacing\"> </p><p>Yūbari was built in Sasebo. For most of its peacetime career, the cruiser was held in reserve or served as a training ship.</p><p class=\"p_spacing\"> </p><p>During World War II, it served as the flagship of the invasion force for Wake Atoll, participated in the Battle of the Coral Sea, the invasion of New Guinea, the Solomon Islands campaign, and fought in the Battle of Savo Island. The cruiser Yūbari was sunk on April 28, 1944, off the coast of Palau by the submarine USS Bluegill.</p>"
+msgstr "<p>實驗的輕巡洋艦夕張ハ、日本海軍主任技官平賀譲ノ設計ニ係ル。本艦ハ將來古鷹型偵察巡洋艦ニ應用スベキ構造試験ヲ目的トシ、船體強度ヲ維持シツツ船體重量比率ノ低下ヲ圖ル新機軸ヲ試ミタリ。舷側防御装甲ヲ船體構造部材ト爲セル點ニ其ノ要諦アリ。夕張ノ構造特徵ハ後代ノ日本巡洋艦設計ノ規範ト爲レリ。</p><p class=\"p_spacing\"> </p><p>夕張ハ佐世保ニ於テ建造セラル。平穏時ノ大半ヲ予備艦又ハ練習艦トシテ過ゴセリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争下ニ於テハ、ウエーキ島攻略部隊旗艦、珊瑚海海戰、ニューギニア上陸作戰、ソロモン諸島戰役、サボ島沖海戰ニ従事セリ。昭和十九年四月二十八日、パラオ近海ニ於テ米潜水艦ブルーギルノ雷撃ヲ受ケ沈没セリ。</p>"
 
 msgid "IDS_PJSC004_FULL"
 msgstr "夕張"
@@ -95132,7 +95130,7 @@ msgid "IDS_PJSC005"
 msgstr "古鷹"
 
 msgid "IDS_PJSC005_DESCR"
-msgstr "<p>When Japan learned about the characteristics of the American Omaha-class cruisers, the designs for future ships for the Japanese fleet were revised. The appearance of the new cruiser was significantly influenced by the British Hawkins-class ships. In the summer of 1921, naval architect Yuzuru Hiraga proposed a design for a scout cruiser, based on the structural solutions tested on the Yūbari. The ship's armament consisted of six 203 mm guns in single turret mounts.</p><p class=\"p_spacing\"> </p><p>The Furutaka was built in Nagasaki. In 1937–39, the ship underwent a radical modernization: the single turrets were replaced with three twin turrets, and the coal-fired boilers were replaced with oil-fired ones.</p><p class=\"p_spacing\"> </p><p>During World War II, the cruiser participated in military operations in the South Pacific, fought in the Battle of the Coral Sea and off Savo Island. During the Battle of Cape Esperance on October 11, 1942, the Furutaka was hit by approximately 90 shells and one torpedo, which caused a torpedo detonation. The cruiser sank on the morning of October 12.</p>"
+msgstr "<p>日本、米國オマハ型巡洋艦ノ性能ヲ知ルニ及ビ、將來艦ノ設計ヲ再檢討セリ。新巡洋艦ノ形態ハ英國ホーキンス型ノ影響多大ニシテ、大正十年夏、造船官平賀譲、夕張ニ於テ實驗セシ構造設計ヲ應用セル偵察巡洋艦案ヲ提出ス。本艦ノ兵装ハ單装砲塔六基ニ納メタル二十糎砲六門ヲ以テ構成セリ。</p><p class=\"p_spacing\"> </p><p>古鷹ハ長崎ニ於テ建造セラル。昭和十二年至十四年、單装砲塔ヲ三基ノ聯装砲塔ニ換装シ、石炭罐ヲ重油罐ニ改ムル等ノ大改造ヲ受ク。</p><p class=\"p_spacing\"> </p><p>太平洋戰争下、南太平洋方面ノ作戰ニ従事シ、珊瑚海海戰、サボ島沖海戰ニ參加セリ。昭和十七年十月十一日、エスペランス岬沖海戰ニ於テ約九十發ノ砲彈及ビ一本ノ魚雷ノ命中ヲ受ケ、搭載魚雷ノ誘爆ヲ惹起シ、翌十二日未明遂ニ沈没セリ。</p>"
 
 msgid "IDS_PJSC005_FULL"
 msgstr "古鷹"
@@ -95147,7 +95145,7 @@ msgid "IDS_PJSC006"
 msgstr "古鷹"
 
 msgid "IDS_PJSC006_DESCR"
-msgstr "<p>When Japan learned about the characteristics of the American Omaha-class cruisers, the designs for future ships for the Japanese fleet were revised. The appearance of the new cruiser was significantly influenced by the British Hawkins-class ships. In the summer of 1921, naval architect Yuzuru Hiraga proposed a design for a scout cruiser, based on the structural solutions tested on the Yūbari. The ship's armament consisted of six 203 mm guns in single turret mounts.</p><p class=\"p_spacing\"> </p><p>The Furutaka was built in Nagasaki. In 1937–39, the ship underwent a radical modernization: the single turrets were replaced with three twin turrets, and the coal-fired boilers were replaced with oil-fired ones.</p><p class=\"p_spacing\"> </p><p>During World War II, the cruiser participated in military operations in the South Pacific, fought in the Battle of the Coral Sea and off Savo Island. During the Battle of Cape Esperance on October 11, 1942, the Furutaka was hit by approximately 90 shells and one torpedo, which caused a torpedo detonation. The cruiser sank on the morning of October 12.</p>"
+msgstr "<p>日本、米國オマハ型巡洋艦ノ性能ヲ知ルニ及ビ、將來艦ノ設計ヲ再檢討セリ。新巡洋艦ノ形態ハ英國ホーキンス型ノ影響多大ニシテ、大正十年夏、造船官平賀譲、夕張ニ於テ實驗セシ構造設計ヲ應用セル偵察巡洋艦案ヲ提出ス。本艦ノ兵装ハ單装砲塔六基ニ納メタル二十糎砲六門ヲ以テ構成セリ。</p><p class=\"p_spacing\"> </p><p>古鷹ハ長崎ニ於テ建造セラル。昭和十二年至十四年、單装砲塔ヲ三基ノ聯装砲塔ニ換装シ、石炭罐ヲ重油罐ニ改ムル等ノ大改造ヲ受ク。</p><p class=\"p_spacing\"> </p><p>太平洋戰争下、南太平洋方面ノ作戰ニ従事シ、珊瑚海海戰、サボ島沖海戰ニ參加セリ。昭和十七年十月十一日、エスペランス岬沖海戰ニ於テ約九十發ノ砲彈及ビ一本ノ魚雷ノ命中ヲ受ケ、搭載魚雷ノ誘爆ヲ惹起シ、翌十二日未明遂ニ沈没セリ。</p>"
 
 msgid "IDS_PJSC006_FULL"
 msgstr "古鷹"
@@ -95162,7 +95160,7 @@ msgid "IDS_PJSC007"
 msgstr "青葉"
 
 msgid "IDS_PJSC007_DESCR"
-msgstr "<p>The Aoba-class cruisers were originally intended to replicate the Furutaka class; however, at the insistence of the Japanese Navy General Staff, a series of changes were made to the design. Thus, the single-gun main battery turrets were replaced with twin-gun turrets, the 76-mm anti-aircraft guns were replaced with new 120-mm ones, and a catapult for seaplanes was installed between the aft superstructure and the turret.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Aoba, was built in Nagasaki. Between 1938 and 1940, the cruiser underwent a modernization that included strengthening its anti-aircraft armament and converting all boilers to oil-firing.</p><p class=\"p_spacing\"> </p><p>The ship actively participated in World War II: it landed troops on Guam and Wake Island, fought in the Coral Sea, off Savo Island, at Cape Esperance, and also escorted convoys. The cruiser Aoba sank in Kure harbor after being bombed by Allied forces on July 24, 1945.</p>"
+msgstr "<p>青葉型巡洋艦ハ、當初古鷹型ト同型ト爲ス筈ナリシモ、日本海軍部ノ要請ニ依リ設計ニ數多ノ變更ヲ加フ。主砲ハ單装砲塔ヲ廢シ聯装砲塔ト爲シ、七糎六高角砲ノ代リニ新式十二糎高角砲ヲ装備シ、後部艦橋ト砲塔ノ間ニ水上機射出機ヲ設置セリ。</p><p class=\"p_spacing\"> </p><p>同型ノ首艦青葉ハ長崎ニ於テ建造セラル。昭和十三年乃至十五年、對空火器ノ强化及ビ罐全部ノ重油専燃化ヲ主眼トセル近代化改造ヲ施行セリ。</p><p class=\"p_spacing\"> </p><p>本艦ハ太平洋戰争下、グアム及ビウエーキ島上陸作戰、珊瑚海海戰、サボ島沖海戰、エスペランス岬沖海戰、並ビニ船團護衛等ニ廣ク従事セリ。昭和二十年七月二十四日、青葉ハ連合軍ノ爆撃ヲ受ケ、呉軍港内ニテ沈没セリ。</p>"
 
 msgid "IDS_PJSC007_EXAMPLE"
 msgstr "青葉"
@@ -95360,7 +95358,7 @@ msgid "IDS_PJSC111"
 msgstr "仙丈"
 
 msgid "IDS_PJSC111_DESCR"
-msgstr "<p>Hypothetical development of Japanese heavy cruisers, which involves the installation of 60-caliber German 210 mm guns. Technical cooperation between Germany and Japan included the exchange of blueprints and technological charts for advanced models of equipment and armaments.</p><p class=\"p_spacing\"> </p><p>This project differs from its predecessor (the 1941 heavy cruiser design) by its enhanced armor and auxiliary armament, primarily anti-aircraft weaponry.</p>"
+msgstr "<p>本計畫ハ、日本國重巡洋艦ノ想定上ノ發展案ニシテ、獨逸製六十口径二十一糎砲ノ搭載ヲ計畫セルモノナリ。獨逸ト日本國トノ技術提攜ハ、將來性アル兵器技術及ビ設計圖面ノ相互交換ヲ包含セリ。</p><p class=\"p_spacing\"> </p><p>前代ノ設計 (昭和十六年度重巡洋艦案) ニ比シ、本計畫ハ特ニ對空火力ヲ主トスル補助兵装及ビ装甲ヲ強化セル點ニ於テ相違ス。</p>"
 
 msgid "IDS_PJSC111_FULL"
 msgstr "仙丈"
@@ -95495,7 +95493,7 @@ msgid "IDS_PJSC506"
 msgstr "大淀"
 
 msgid "IDS_PJSC506_DESCR"
-msgstr "<p>Under the 1939 Japanese fleet expansion program, it was planned to build two cruisers intended to serve as submarine squadron leaders. The requirements for the cruisers included powerful communication equipment and the capability to carry a group of high-speed seaplanes. The hull of such a ship was developed based on the Agano-class cruiser, and two main battery turrets were borrowed from the refitting of the Mogami-class cruisers.</p><p class=\"p_spacing\"> </p><p>The cruiser Ōyodo was built in Kure. As part of the Third Fleet, the ship participated in the campaigns of 1943. Serving as the flagship of the Combined Fleet, Ōyodo took part in the Battle off Cape Engaño in October 1944. In the spring of 1945, the ship was damaged by American bombers in Kure and was sunk on July 28 in Etajima as a result of several near-miss bomb explosions.</p>"
+msgstr "<p>大淀型巡洋艦ハ、昭和十四年度戰時補充計畫ニ基キテ二隻ノ建造ヲ計畫セルモノニシテ、潜水艦隊指揮艦トシテノ任務ヲ擔ハシメンコトヲ目的トセリ。本艦ニ對スル要求トシテハ、强力ナル通信能力ト高速水上偵察機ノ搭載能力ヲ掲ゲラレ、船體設計ハ阿賀野型ヲ基トシ、主砲塔ハ最上型巡洋艦ノ換装ニ伴ヒ余剰トナリシものを流用セリ。</p><p class=\"p_spacing\"> </p><p>大淀ハ呉海軍工廠ニ於テ建造セラレ、昭和十八年以降第三艦隊ニ所属シテ作戰ニ從事セリ。昭和十九年十月、聯合艦隊旗艦トシテエンガノ岬沖海戰ニ参加セリ。翌二十年春、呉ニ於テ米軍爆撃機ノ攻撃ヲ受ケ損傷シ、同年七月二十八日、江田島沖ニ於テ數發ノ至近彈ニ依リ浸水沈没セリ。</p>"
 
 msgid "IDS_PJSC506_FULL"
 msgstr "大淀"
@@ -95647,7 +95645,7 @@ msgid "IDS_PJSC550"
 msgstr "海門"
 
 msgid "IDS_PJSC550_DESCR"
-msgstr "<p>第二次世界大戦の直前、日本はアメリカでアラスカ級大型巡洋艦の設計が始まったことを知りました。ほぼ同時に、日本の造船技術者たちはアメリカの巡洋艦に対抗できる艦艇の開発に着手しました。</p><p class=\"p_spacing\"> </p><p>この計画には B-65 の索引が与えられ、日本の分類によれば巡洋戦艦に位置づけられます。設計中の艦は構造的に大和型戦艦に近く、計画案の一つでは兵装として 356 mm 砲が採用されていました。ミッドウェー海戦の直後、これらの艦の建造は中止されました。</p>"
+msgstr "<p>Shortly before World War II, Japan learned that the United States had begun designing large cruisers of the Alaska class. Almost immediately, Japanese shipbuilders began developing a ship that could counter the American cruisers.</p><p class=\"p_spacing\"> </p><p>The project received the designation B-65, which, according to Japanese classification, allows it to be classified as a battlecruiser. In terms of architecture, the ship under development was similar to the Yamato-class battleships, and in one variant of the project, the armament consisted of 356-mm guns. The construction of the ships was canceled shortly after the Battle of Midway.</p>"
 
 msgid "IDS_PJSC550_FULL"
 msgstr "海門"
@@ -95845,7 +95843,7 @@ msgid "IDS_PJSC810"
 msgstr "蔵王 P"
 
 msgid "IDS_PJSC810_DESCR"
-msgstr "<p>日本の海軍軍備充実を図った八八艦隊計画の一環として、8 隻の重巡洋艦の設計が進められました。本級は、高雄型、利根型、および最上型の発展型です。</p><p class=\"p_spacing\"> </p><p>主砲としては 12 門の 203 mm 砲を 4 基の砲塔に収めて搭載するという従来型の構成を採用する予定だったほか、装甲は 203 mm HE 弾の命中にも耐えうるように設計されました。しかし後に艦艇数が 4 隻に削減され、最終的には全艦の建造が中止されています。</p>"
+msgstr "<p>According to Japan's fleet replenishment program, it was planned to build eight heavy cruisers, which represented a further development of the Takao, Tone, and Mogami types.</p><p class=\"p_spacing\"> </p><p>The ships' armament was to consist of twelve 203-mm guns in four turrets arranged in the classic layout, and their armor was to provide protection against 203-mm high-explosive shells. Subsequently, the number of ships was reduced to four, and then their construction was canceled altogether.</p>"
 
 msgid "IDS_PJSC810_FULL"
 msgstr "蔵王 P"
@@ -96232,7 +96230,7 @@ msgid "IDS_PJSD208"
 msgstr "陽炎"
 
 msgid "IDS_PJSD208_DESCR"
-msgstr "<p>日本が 1937 年に第二次ロンドン海軍条約への署名を拒否したことで、日本の艦艇に対する全てのトン数制限が解除された。これを受け、海軍省は新型駆逐艦に対し、従来の同クラス艦艇と比較して改善された安定性と向上した航続距離を維持しつつ、武装を保持するという要求を策定した。設計には溶接が広く採用されていた。</p><p class=\"p_spacing\"> </p><p>陽炎型駆逐艦のネームシップである「陽炎」は、舞鶴海軍工廠で建造された。第二次世界大戦中、同艦は東ソロモン諸島沖、サンタクルーズ諸島沖、ガダルカナル島沖、タサファロング岬沖での戦闘に参加した。1943 年 5 月 7 日、ソロモン諸島のヴィラ港近くで海中機雷に接触し損傷、ほぼ航行不能に陥り、その後航空機によって撃沈された。</p>"
+msgstr "<p>Japan's refusal to sign the Second London Naval Treaty in 1937 removed all tonnage restrictions for Japanese warships. Consequently, the Imperial Japanese Navy General Staff prepared requirements for a new destroyer: improved stability and increased range compared to preceding ships of this class while retaining their armament. Welding was extensively used in the construction.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Kagerō, was built in Maizuru. During World War II, the destroyer fought in the battles of the Eastern Solomons, the Santa Cruz Islands, Guadalcanal, and Tassafaronga. The destroyer Kagerō was damaged by a naval mine near Vila port in the Solomon Islands on May 7, 1943, was nearly immobilized, and was destroyed a short time later by aircraft.</p>"
 
 msgid "IDS_PJSD208_FULL"
 msgstr "陽炎"
@@ -96247,7 +96245,7 @@ msgid "IDS_PJSD209"
 msgstr "夕雲"
 
 msgid "IDS_PJSD209_DESCR"
-msgstr "<p>夕雲型駆逐艦は、陽炎型をベースに改良を加えた設計で建造された。先行型との主な違いは、新型の砲架を採用したことである。</p><p class=\"p_spacing\"> </p><p>夕雲型のネームシップ「夕雲」は、舞鶴海軍工廠で建造された。第二次世界大戦中、同艦はミッドウェー海戦、東ソロモン諸島沖海戦、サンタクルーズ諸島沖海戦に参加し、ガダルカナル島への増援輸送任務に従事した。1943 年にはアレツィフ列島からソロモン諸島までの部隊撤収作戦を主に担当した。1943 年 10 月 7 日、「夕雲」はベララベラ島沖でアメリカ海軍の駆逐艦部隊に撃沈された。</p>"
+msgstr "<p>The Yūgumo-class destroyers were built to an improved design based on the Kagerō class. They differed from their predecessors primarily in their new type of gun mount.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Yūgumo, was built in Maizuru. During World War II, the destroyer fought at the Battle of Midway, the Eastern Solomons, and the Santa Cruz Islands, and delivered reinforcements to Guadalcanal. In 1943, the ship was primarily engaged in troop evacuations — from the Aleutians to the Solomons. The destroyer Yūgumo was sunk by American destroyers near Vella Lavella Island on October 7, 1943.</p>"
 
 msgid "IDS_PJSD209_FULL"
 msgstr "夕雲"
@@ -96262,7 +96260,7 @@ msgid "IDS_PJSD210"
 msgstr "春雲"
 
 msgid "IDS_PJSD210_DESCR"
-msgstr "<p>秋月型駆逐艦は、島風型駆逐艦をベースに戦闘能力向上を図った発展型である。</p><p class=\"p_spacing\"> </p><p>主砲塔数は 5 基に増加し、許容可能な速度を維持するため、実験駆逐艦「島風」の主機関が採用された。小口径対空砲火の基礎としては、日本の技術者が鹵獲したボフォース砲を原型に開発した 40 ミリ機関砲が用いられた。</p>"
+msgstr "<p>A variant of Japanese destroyer development aimed at enhancing combat capabilities based on the Akizuki-class ships.</p><p class=\"p_spacing\"> </p><p>The number of main battery turrets has been increased to five, and to maintain an acceptable speed, the main propulsion system from the experimental destroyer Shimakaze has been adopted. For the basis of the small-caliber anti-aircraft artillery, a 40-mm mount developed by Japanese engineers based on captured Bofors guns is used.</p>"
 
 msgid "IDS_PJSD210_FULL"
 msgstr "春雲"
@@ -96277,7 +96275,7 @@ msgid "IDS_PJSD219"
 msgstr "北風"
 
 msgid "IDS_PJSD219_DESCR"
-msgstr "<p>1941 年に起工した実験駆逐艦「島風」は、日本の艦艇建造における新たな指標となるはずだったが、その後艦隊補充計画に 16 隻の同型艦が組み込まれた。しかし 1942 年にアメリカ軍機による深刻な損失を被ったことを受け、日本は計画を見直し、一部の艦を秋月型駆逐艦に置き換える措置を取った。</p><p class=\"p_spacing\"> </p><p>1943 年 10 月、秋月型をベースに改良した設計の 7 隻の建造が発注された。だが翌年 5 月、計画は中止された — 当時の海軍は、高価で建造期間の長い駆逐艦ではなく、輸送船団護衛に適した量産性と低コストを兼ね備えた艦艇を必要としていたためである。その後、これらの駆逐艦に割り当てられていた資源は、橘型駆逐艦 (改丁型) や海防艦 (日本の哨戒艦) の建造に転用された。</p>"
+msgstr "<p>After the experimental destroyer Shimakaze was laid down in 1941, intended to mark a new milestone in Japanese shipbuilding, 16 ships of this type were included in the fleet replenishment program. However, the heavy losses inflicted by American aviation in 1942 forced Japan to revise the program and replace some of these ships with Akizuki-class destroyers.</p><p class=\"p_spacing\"> </p><p>In October 1943, seven ships based on an improved design of the Akizuki class were ordered. In May of the following year, their construction was canceled, as the fleet required mass-produced and inexpensive ships for convoy escort, not expensive and time-consuming destroyers. Subsequently, the resources intended for these destroyers were used in the construction of Tachibana-class escort destroyers and Kaibōkan — Japanese escort ships.</p>"
 
 msgid "IDS_PJSD219_FULL"
 msgstr "北風"
@@ -96322,7 +96320,7 @@ msgid "IDS_PJSD507"
 msgstr "夕立"
 
 msgid "IDS_PJSD507_DESCR"
-msgstr "<p>白露型駆逐艦「夕立」は、佐世保で建造された。第二次世界大戦中、同艦はフィリピンおよび蘭印方面への侵攻に際し、兵員輸送船団を護衛し、ジャワ海戦やサンタクルーズ諸島沖海戦に参加した。1942 年 9 月、ガダルカナル島への補給任務を開始した。</p><p class=\"p_spacing\"> </p><p>ガダルカナル島沖海戦において、同艦はアメリカ海軍駆逐艦「ステレット」の攻撃により損傷し、航行不能となったため乗員は退艦。放棄された「夕立」は、サヴォ島南東でアメリカ海軍重巡洋艦「ポートランド」の砲撃により撃沈された。</p>"
+msgstr "<p>Yūdachi, a Shiratsuyu-class destroyer, was built in Sasebo. During World War II, the ship escorted troop transports during the invasions of the Philippines and the Dutch East Indies, and participated in the Battle of the Java Sea and the Battle of the Santa Cruz Islands. In September 1942, the destroyer began running supply runs on the route to Guadalcanal.</p><p class=\"p_spacing\"> </p><p>During the Naval Battle of Guadalcanal, the ship lost power due to damage inflicted by the destroyer USS Sterett and was abandoned by its crew. The abandoned Yūdachi was finished off by gunfire from the cruiser USS Portland southeast of Savo Island.</p>"
 
 msgid "IDS_PJSD507_FULL"
 msgstr "夕立"
@@ -96444,7 +96442,7 @@ msgid "IDS_PJSD610"
 msgstr "夏風"
 
 msgid "IDS_PJSD610_DESCR"
-msgstr "<p>1943 年に就役した実験的な駆逐艦島風は、新型艦艇の第一艦となる予定でした。この設計に基づき、さらに 15 隻の駆逐艦が建造準備段階にありました。</p><p class=\"p_spacing\"> </p><p>もし計画されていた艦艇の 1 隻が建造されていたなら、高速再装填可能な 533 mm 魚雷発射管と高速魚雷を搭載していた可能性があります。</p>"
+msgstr "<p>The experimental destroyer Shimakaze, commissioned in 1943, was intended to be the lead ship of a new class. Under this project, 15 more destroyers were prepared for construction.</p><p class=\"p_spacing\"> </p><p>If one of the planned ships had been built, it could have received 533-mm torpedo tubes with fast reload and high torpedo speed.</p>"
 
 msgid "IDS_PJSD610_FULL"
 msgstr "夏風"
@@ -107308,7 +107306,7 @@ msgid "IDS_PRUH431_NIKOLAY"
 msgstr "Imperator Nikolai I"
 
 msgid "IDS_PRUH432_REV"
-msgstr "Oktyabrskaya Revolutsiya"
+msgstr "十月革命"
 
 msgid "IDS_PRUH441_KIROV_A"
 msgstr "Kirov (A)"
@@ -110179,10 +110177,10 @@ msgid "IDS_PVES418_ALMIRANTE_LAMA"
 msgstr "古代のトーテム"
 
 msgid "IDS_PVES501_NUEVA_ESPARTA_EA"
-msgstr "Golden Condor"
+msgstr "Flight of Freedom"
 
 msgid "IDS_PVES502_20_DE_JULIO_EA"
-msgstr "Royal Griffon"
+msgstr "Golden Condor"
 
 msgid "IDS_PVES506_JURUA_BOITATA"
 msgstr "Boitatá"
@@ -112632,7 +112630,7 @@ msgid "IDS_PWSD517"
 msgstr "Błyskawica B"
 
 msgid "IDS_PWSD517_DESCR"
-msgstr "According to the plans of Operation 'Peking,' ORP Błyskawica, along with its sister ship ORP Grom, broke through to Great Britain in September 1939, where it underwent modernization to operate in the North Atlantic. In 1940, the ship took part in the Norwegian campaign and the Dunkirk evacuation. The destroyer participated in convoy and patrol operations in the Atlantic, escorting troop transports. In 1944, Błyskawica fought against German destroyers in the Battle of Ushant, covering the landing troops in Normandy. After being handed over to the new Polish government, the destroyer was modernized, with its main and anti-aircraft guns replaced by Soviet-made weapons. In May 1976, Błyskawica became a museum ship in Gdynia."
+msgstr "作戦『北京』計画に基づき、ORP ブワスクヴィツァは同型艦 ORP グロムと共に 1939 年 9 月、イギリスへの突破に成功。北大西洋での作戦に備え現地で近代化改装を受けた。1940 年にはノルウェー作戦とダンケルク撤退作戦に参加。その後は大西洋での船団護衛や哨戒任務、軍隊輸送船の護衛に従事した。1944 年、ノルマンディー上陸作戦における支援任務中、ウーサン島沖海戦でドイツ駆逐艦部隊と交戦。戦後、新ポーランド政府に引き渡され、主砲及び対空兵装をソビエト製に換装する近代化改装を実施。1976 年 5 月、グディニャにて博物館艦として公開されている。"
 
 msgid "IDS_PWSD517_FULL"
 msgstr "Błyskawica B"
@@ -112647,7 +112645,7 @@ msgid "IDS_PWSD518"
 msgstr "Błyskawica '63"
 
 msgid "IDS_PWSD518_DESCR"
-msgstr "A destroyer built in Great Britain for Poland, it became one of the most famous ships of World War II. In the spring of 1947, it was transferred to the new Polish government. During 1951-52, the ship was modernized: the main battery and anti-aircraft guns were replaced with Soviet-made weapons. Błyskawica spent the 1960s in foreign visits and exercises."
+msgstr "イギリスでポーランドの発注に基づき建造されたこの駆逐艦は、第二次世界大戦における最も栄えある軍艦の一隻となり、1947 年春には新生ポーランド政府へと引き渡されました。1951 年から 52 年にかけて、主砲および対空兵装をソ連製兵装に換装する近代化改装が実施されています。1960 年代、ブワスクヴィツァは海外親善訪問や演習に従事しました。"
 
 msgid "IDS_PWSD518_FULL"
 msgstr "Błyskawica '63"
@@ -112752,7 +112750,7 @@ msgid "IDS_PWSS508"
 msgstr "Saldıray"
 
 msgid "IDS_PWSS508_DESCR"
-msgstr "<p>After the end of the First World War, Germany was prohibited from developing and building submarines. To circumvent these restrictions, German shipbuilders founded the design firm Ingenieurskantoor voor Scheepsbouw in the Netherlands in 1922. It was intended to develop submarine projects for export, testing the best options for the future German submarine fleet.</p><p class=\"p_spacing\"> </p><p>The firm developed several submarine projects based on the UG type for different countries. One such submarine was purchased by the Turkish government, after which Turkey ordered the construction of submarines from Germany based on an improved design.</p><p class=\"p_spacing\"> </p><p>The submarine Saldıray was laid down in Kiel at the Germaniawerft shipyard in February 1937 and launched in July 1938. In April of the following year, the boat moved to Turkey, where it entered service. The submarine served in the Turkish Navy until 1958.</p>"
+msgstr "<p>第一次大戦終結後、ドイツは潜水艦の開発及び建造を禁止された。この制限を回避するため、1922 年にドイツの造船技術者たちはオランダに Ingenieurskantoor voor Scheepsbouw (IvS) 設計事務所を設立した。同社は輸出向け潜水艦の設計を手がけ、将来のドイツ潜水艦隊に備えて最良の設計案を練り上げる役割を担っていた。</p><p class=\"p_spacing\"> </p><p>同社は、UG 型をベースとした潜水艦を複数設計し、各国へ供与した。その一隻をトルコ政府が購入したことを契機に、トルコは改良型設計に基づく潜水艦の建造をドイツに発注した。</p><p class=\"p_spacing\"> </p><p>潜水艦サルドゥライは、1937 年 2 月にキールの Germaniawerft 社で起工、1938 年 7 月に進水した。翌年 4 月にトルコへ回航され、同国海軍に就役。1958 年までその任に就いた。</p>"
 
 msgid "IDS_PWSS508_FULL"
 msgstr "Saldıray"
@@ -114996,7 +114994,7 @@ msgid "IDS_PXSB502"
 msgstr "Borodino '04"
 
 msgid "IDS_PXSB502_DESCR"
-msgstr "<p>A series of ships built under an improved design based on the battleship 'Tsesarevich,' laid down in St. Petersburg in 1900–1902. The ships differed from the prototype in their more powerful power plants and heavier turrets, requiring designers to increase displacement while slightly reducing armor weight. The battleships took part in the voyage of the Second Pacific Squadron to the Far East and in the Battle of Tsushima.</p><p class=\"p_spacing\"> </p><p>Borodino was laid down at the New Admiralty Shipyards in May 1900, launched in September 1901, and commissioned in September 1904. Under the command of Captain 1st Rank P. Serebrennikov, the battleship made the voyage from Kronstadt to the Sea of Japan. During the Battle of Tsushima, the ship suffered heavy damage and sank.</p>"
+msgstr "<p>戦艦「ツェサレーヴィチ」の設計を改良・発展させた同系列艦は、1900 年から 02 年にかけてサンクトペテルブルクで起工された。原型艦との相違点は、より大型の動力機関と重量化した砲塔を搭載したことであり、設計陣は防御を一部軽量化する代わりに排水量を増加させる必要があった。同型艦は第二太平洋艦隊の極東回航に参加し、日本海海戦に臨んだ。</p><p class=\"p_spacing\"></p><p>「ボロジノ」は 1900 年 5 月に新海軍本部造船所で起工、1901 年 9 月進水、1904 年 9 月に就役した。セレブレニコフ一等大佐の指揮下、戦艦はクロンシュタットから日本海への航海を成し遂げる。日本海海戦において、同艦は甚大な損害を受け沈没した。</p>"
 
 msgid "IDS_PXSB502_FULL"
 msgstr "Borodino '04"
@@ -123147,10 +123145,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL017_OCTREVOLUTION_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL017_OCTREVOLUTION_TITLE"
-msgstr "Oktyabrskaya Revolutsiya"
+msgstr "十月革命"
 
 msgid "IDS_REWARD_LOOTBOX_PCL017_OCTREVOLUTION_TITLE_QUOTES"
-msgstr "「Oktyabrskaya Revolutsiya」"
+msgstr "「十月革命」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL019_NORDKAPPNY18_COLL_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127986,10 +127984,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL237_MISTERYBOX_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL237_MISTERYBOX_TITLE"
-msgstr "Black box"
+msgstr "ブラックボックス"
 
 msgid "IDS_REWARD_LOOTBOX_PCL237_MISTERYBOX_TITLE_QUOTES"
-msgstr "\"Black Box\""
+msgstr "「ブラックボックス」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL238_STALCRAFT_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -128601,7 +128599,7 @@ msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MISSILE_PARRIED"
 msgstr "ミサイルをミサイル防衛で撃ち落とす。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_REINFORCEMENT"
-msgstr "Strengthen the allied ship in battle using consumables."
+msgstr "味方の艦艇を消耗品を使用して戦闘中に強化する。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_BULGE"
 msgstr "対水雷防御にロケット弾が命中。"
@@ -130166,7 +130164,7 @@ msgid "IDS_SECOND_PCZA027_TFTM_108_NAME"
 msgstr "ディセプティコン艦長"
 
 msgid "IDS_SECOND_SCARLET_BIRTHDAY_2_NAME"
-msgstr "Messengers of Progress"
+msgstr "進歩の先駆者"
 
 msgid "IDS_SECOND_SCARLET_BIRTHDAY_NAME"
 msgstr "Hard work is the key to progress"
@@ -131033,7 +131031,7 @@ msgid "IDS_SHIP_COMPONENT_IN_PORT"
 msgstr "港にて"
 
 msgid "IDS_SHIP_COMPONENT_IN_REPAIR_DOCK"
-msgstr "In the Repair Dock"
+msgstr "修理ドックにあります。"
 
 msgid "IDS_SHIP_CREW_HINT"
 msgstr "艦長"
@@ -132833,10 +132831,10 @@ msgid "IDS_SHIP_MODIFIER_SOURCE_LEVELING"
 msgstr "強化搭載"
 
 msgid "IDS_SHIP_MODIFIER_SOURCE_PANDORA_BOX_BUFF"
-msgstr "You have received Pandora's blessing"
+msgstr "あなたはパンドラの祝福を受けました。"
 
 msgid "IDS_SHIP_MODIFIER_SOURCE_PANDORA_BOX_DEBUFF"
-msgstr "You have been struck by Pandora's Curse"
+msgstr "あなたにパンドラの呪いが降りかかった"
 
 msgid "IDS_SHIP_MODIFIER_SOURCE_SCENARIO"
 msgstr "強化搭載"
@@ -136196,6 +136194,9 @@ msgstr "Konstantin Sharp"
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_JASON_TUMANOFF"
 msgstr "Jason Tumanoff"
 
+msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_CURATOR"
+msgstr "Curator"
+
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_ROBOT"
 msgstr "キュレーター"
 
@@ -137125,25 +137126,34 @@ msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_DESCRIPTION"
 msgstr "撃沈された場合、復活位置と艦艇を選択して戦闘に復帰できます。ただし、一部の艦艇は戦闘で獲得した復活ポイントでのみ利用可能です。未使用のポイントは戦闘終了時に失効します。"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_0"
-msgstr "自律誘導型ミサイル命中"
+msgstr "主砲弾の全貫通"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_1"
-msgstr "主砲弾の貫通"
+msgstr "副砲弾の命中"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_2"
 msgstr "エナジーシールド損傷付与"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_3"
-msgstr "指令誘導型ミサイル命中"
+msgstr "自律誘導型ミサイルの命中"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_4"
-msgstr "中央防郭への命中"
+msgstr "主砲弾の貫通"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_5"
-msgstr "煙幕による援護、挑発、ミサイルの迎撃、敵の発見"
+msgstr "5,000 ダメージを与える"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_6"
-msgstr "敵の殲滅"
+msgstr "煙幕による援護、挑発、敵の探知、ミサイルの迎撃"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_7"
+msgstr "Hit with guided missile"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_8"
+msgstr "Hitting the citadel"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_9"
+msgstr "Destroy the enemy"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_SCORE"
 msgstr "獲得ポイント"
@@ -137156,6 +137166,9 @@ msgstr "攻城兵器"
 
 msgid "IDS_SPACE_BOSS_TEAM1"
 msgstr "攻城兵器"
+
+msgid "IDS_SPACE_CURATOR"
+msgstr "Curator"
 
 msgid "IDS_SPACE_ENEMY_BOSS_SPAWNED"
 msgstr "敵が超戦艦を召喚しました。味方基地を破壊させてはなりません。敵の注意を引き、総攻撃を仕掛けてください!"
@@ -139775,10 +139788,10 @@ msgid "IDS_SYS_MSG_META_EVENT_THRESHOLD_REWARD"
 msgstr "「宙域戦線」イベント褒賞"
 
 msgid "IDS_SYS_MSG_NEWBIE_PROGRESSION_REWARDED"
-msgstr "海軍教程を修了"
+msgstr "海軍課程を修了"
 
 msgid "IDS_SYS_MSG_NEWBIE_QUEST_REWARDED"
-msgstr "海軍教程の任務を達成しました"
+msgstr "海軍課程の任務を達成しました"
 
 msgid "IDS_SYS_MSG_NEW_BATTLEPASS_LEVEL_REACHED"
 msgstr "新たな PASS レベルのアンロック完了"
@@ -140890,7 +140903,7 @@ msgid "IDS_TALENT_PVW404_ENEMYVEHICLESDEAD_23"
 msgstr "戦利品の砲弾"
 
 msgid "IDS_TALENT_PVW404_ENEMYVEHICLESDEAD_23_DESCRIPTION"
-msgstr "<p>味方が、貴方が HP 35% 以上を傷害した敵艦を撃沈した時に発動します。 </p>"
+msgstr "<p>味方または貴方が、貴方が HP 35% 以上を傷害した敵艦を撃沈した時に発動します。</p>"
 
 msgid "IDS_TALENT_PVW404_RAGEMODE_1"
 msgstr "修理に関する指示"
@@ -141199,22 +141212,22 @@ msgid "IDS_TERRITORY_ARCHIVE_STEP_LAST"
 msgstr "結果"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_ALBOM_0"
-msgstr "<p>During 1945 operations, Soviet submarines successfully operated in the southern Baltic from Finnish ports.</p><p class=\"p_spacing\"> </p><p>On January 30 and February 10, submarine S-13 under Captain 3rd Rank A.I. Marinesko conducted successful torpedo attacks near Stolpe Bank, sinking two major targets.</p>"
+msgstr "<p>1945 年の作戦において、ソ連潜水艦はフィンランドの港を基地として、バルト海南部で成功裏に活動した。</p><p class=\"p_spacing\"> </p><p>シュトルペ浅瀬付近の陣地にあった第 3 位階艦長 A. I. マリネスコ指揮下の潜水艦 S-13 は、1 月 30 日と 2 月 10 日に 2 回の成功した魚雷攻撃を実行した。2 つの大型目標が撃沈されたと見なされている。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_ALBOM_1"
-msgstr "<p>During operations to capture Königsberg and Pillau and defeat enemy groupings, Red Banner Baltic Fleet forces completed diverse missions.</p><p class=\"p_spacing\"> </p><p>Railway artillery destroyed enemy fortifications.</p><p class=\"p_spacing\"> </p><p>Naval aviation struck targets in Frisches Haff, mined Königsberg Canal and approaches to Pillau.</p><p class=\"p_spacing\"> </p><p>Baltic Fleet tactical landings contributed to overall success.</p>"
+msgstr "<p>ケーニヒスベルクおよびピラウの占領、ならびに敵部隊の撃破作戦の過程で、赤旗勲章受章バルト艦隊の部隊は、幅広い任務を遂行した。</p><p class=\"p_spacing\"> </p><p>艦隊の鉄道砲兵は、敵の要塞の破壊に参加した。</p><p class=\"p_spacing\"> </p><p>海軍航空隊は、フリッシェス・ハフ湾内の目標に対して攻撃を加え、ケーニヒスベルク運河およびピラウへの接近路に機雷を敷設した。</p><p class=\"p_spacing\"> </p><p>作戦全体の成功には、バルト艦隊の戦術上陸部隊が貢献した。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_ALBOM_2"
-msgstr "<p>As of May 8, 1945, German sea evacuations of troops and civilians westward continued.</p><p class=\"p_spacing\"> </p><p>Landing operations commenced to occupy Bornholm Island and Baltic ports to disrupt German maritime traffic.</p><p class=\"p_spacing\"> </p><p>On May 9 morning, torpedo boats with landing parties intercepted several German vessels. Landings on Bornholm began negotiations for the German garrison's surrender.</p>"
+msgstr "<p>1945 年 5 月 8 日時点で、ドイツ軍部隊および民間人の海上による西方への避難は継続中である。</p><p class=\"p_spacing\"> </p><p>現在、ボーンホルム島およびバルト海の複数の港湾を占領し、ドイツの海上輸送を遮断するため、いくつかの上陸作戦が実施されている。</p><p class=\"p_spacing\"> </p><p>1945 年 5 月 9 日朝、上陸部隊を乗せた魚雷艇が出撃し、数隻のドイツ船舶を拿捕した。同日昼、上陸部隊はボーンホルム島に上陸し、ドイツ守備隊の降伏交渉を行っている。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_ALBOM_3"
-msgstr "<p>The Red Banner Baltic Fleet actively participated in East Prussian and East Pomeranian operations.</p><p class=\"p_spacing\"> </p><p>Ships, naval aviation and coastal artillery intercepted and destroyed enemy vessels, bombarded land defenses, conducted landings, transported troops, laid and cleared mines.</p><p class=\"p_spacing\"> </p><p>Baltic Fleet operational zone reached the Danish Straits in the western Baltic.</p>"
+msgstr "<p>赤旗勲章受章バルト艦隊は、東プロイセンおよび東ポメラニア作戦に積極的に参加した。</p><p class=\"p_spacing\"> </p><p>艦艇、海軍航空隊および海軍砲兵は、敵の艦艇や船舶を迎撃・撃破し、敵の地上防衛拠点を破壊し、上陸部隊を揚陸し、部隊を輸送し、機雷を敷設し、掃海作戦を実施した。</p><p class=\"p_spacing\"> </p><p>バルト艦隊の作戦区域は、バルト海西部のデンマーク海峡にまで達した。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_BAG_0"
-msgstr "<p>Nerva Island near Vyborg Bay held strategic importance.</p><p class=\"p_spacing\"> </p><p>On the night of June 19-20, 1944, a Red Banner Baltic Fleet landing force successfully occupied the island.</p><p class=\"p_spacing\"> </p><p>Simultaneously, German destroyers approached the Björkö archipelago and were later spotted near Nerva Island.</p><p class=\"p_spacing\"> </p><p>Soviet torpedo boats under Captain 3rd Rank S.A. Osipov, tasked with defending the landing force on Nerva Island, attacked the German destroyers. Reports confirmed one enemy vessel sunk.</p>"
+msgstr "<p>ヴィボルグ湾への接近路にあるネルヴァ島は戦略的に重要な意味を持つ。</p><p class=\"p_spacing\"> </p><p>1944 年 6 月 19 日から 20 日にかけての夜、赤旗勲章受章バルト艦隊の海軍陸戦隊が同島への上陸に成功した。</p><p class=\"p_spacing\"> </p><p>同時刻、ドイツ水雷艇がビョルケ諸島沖に出現し、その後ネルヴァ島付近で確認された。</p><p class=\"p_spacing\"> </p><p>ネルヴァ島の上陸部隊防護という任務を遂行中のセルゲイ・A・オシポフ三等海佐指揮下のソ連魚雷艇隊がドイツ水雷艇を攻撃。うち一隻撃沈の報告を受領。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_BAG_1"
-msgstr "<p>The Björkö archipelago could become an enemy bridgehead for attacks against Leningrad Front's rear.</p><p class=\"p_spacing\"> </p><p>The heavily fortified islands were held by significant Finnish garrisons. Powerful coastal artillery and minefields prevented Soviet ships from entering Vyborg Bay.</p><p class=\"p_spacing\"> </p><p>Landing forces were ordered to clear the Björkö archipelago of enemy troops.</p><p class=\"p_spacing\"> </p><p>The initial objective was the least fortified island, Piisaari, whose capture would force enemy evacuation from other archipelago islands.</p>"
+msgstr "<p>ビョルケ諸島は、敵がレニングラード戦線の背後を突くための拠点となる可能性がある。</p><p class=\"p_spacing\"> </p><p>島々は強固に要塞化されており、相当規模のフィンランド軍守備隊が駐留している。強力な沿岸砲と機雷原が、ソ連艦艇のヴィボルグ湾への進入を阻んでいる。</p><p class=\"p_spacing\"> </p><p>上陸部隊は、ビョルケ諸島から敵を掃討するよう命令を受けた。</p><p class=\"p_spacing\"> </p><p>まず、防備が最も手薄なピーサーリ島を占領する計画であり、これにより敵は諸島の他の島々から撤退を余儀なくされるだろう。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_BAG_2"
 msgstr "<p>赤旗勲章受章バルト艦隊司令部は、フィンランド湾東部におけるドイツ潜水艦の活動を把握した。</p><p class=\"p_spacing\"></p><p>ソ連艦艇は複数回の攻撃を受けた。1944 年 7 月 30 日昼、小型駆潜艇 MO-105 が撃沈された。</p><p class=\"p_spacing\"></p><p>同日夕方、煙幕艇から浅深度を航行するドイツ潜水艦が視認された。信号に応じた МО-103 が、爆雷をもって撃沈しました。</p>"
@@ -145596,7 +145609,7 @@ msgid "IDS_WAFFENTRAGER_DAMAGE_DISPERSION_0"
 msgstr "Enemy damage protection"
 
 msgid "IDS_WAFFENTRAGER_DAMAGE_DISPERSION_1"
-msgstr "Damage protection"
+msgstr "ダメージ軽減"
 
 msgid "IDS_WAFFENTRAGER_DESCRIPTION_0"
 msgstr "Ermelinda の艦艇を撃沈せよ、避難システムが起動する前に。"
@@ -146228,7 +146241,7 @@ msgid "IDS_WT_BUREAU_CREWEXPFACTOR_2"
 msgstr "Resonance Locators"
 
 msgid "IDS_WT_BUREAU_DESCRIPTION"
-msgstr "Earn more resources in battle! Bureau bonuses stack with economic bonuses on ships but only work in the 'Waffenträger: Isolation' battle type."
+msgstr "戦闘でより多くのリソースを獲得しましょう! ビューローのボーナスは艦艇の経済ボーナスと累積されますが、「Waffenträger: Isolation」戦闘タイプでのみ有効です。"
 
 msgid "IDS_WT_BUREAU_FREEEXPFACTOR_0"
 msgstr "Holographic Projectors"
@@ -146569,10 +146582,10 @@ msgid "IDS_WT_PROGRESS_REWARD_FOR_FINISHING_TASK"
 msgstr "達成褒賞:"
 
 msgid "IDS_WT_PROGRESS_STATUS_EVENT_ACTIVE_TASKS_COMPLETED"
-msgstr "Congratulations, you have passed all progress levels! Combat missions are still available for completion."
+msgstr "おめでとうございます、あなたはすべての進捗レベルをクリアしました! 戦闘任務は引き続き実行可能です。"
 
 msgid "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_MAX"
-msgstr "The event is coming to an end! You have passed all progress levels."
+msgstr "イベントが終了間近です! すべての進捗レベルをクリアしました。"
 
 msgid "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_SKIP"
 msgstr "イベント終了間近!"
@@ -146581,7 +146594,7 @@ msgid "IDS_WT_PROGRESS_STEPS_TEXT"
 msgstr "イベント進捗"
 
 msgid "IDS_WT_PROGRESS_STEPS_TOOLTIP_TEXT"
-msgstr "<p>Every 200 reactor alloys earned increases your level in the reward progress. Reactor alloys are not spent in the process.</p><p class=\"p_spacing\"> </p><p>On most progress levels, rewards are awarded automatically.</p><p class=\"p_spacing\"> </p><p>On some levels, you will be offered a choice of one of two rewards.</p>"
+msgstr "<p>200 リアクトロイを獲得するごとに、褒賞獲得の進行状況におけるあなたのレベルが上がります。この際、リアクトロイは消費されません。</p><p class=\"p_spacing\"> </p><p>進行状況のほとんどのレベルでは、褒賞は自動的に付与されます。</p><p class=\"p_spacing\"> </p><p>一部のレベルでは、2 つの褒賞の中から 1 つを選ぶよう提案されます。</p>"
 
 msgid "IDS_WT_PROGRESS_TAKE_ALL_REWARDS_BUTTON"
 msgstr "すべての褒賞を受け取る"
@@ -146980,7 +146993,7 @@ msgstr[0] " HP/秒"
 
 msgid "IDS_META_EVENT_PROGRESS_STATUS_SEVERAL_STEPS_COMPLETED"
 msgid_plural "IDS_META_EVENT_PROGRESS_STATUS_SEVERAL_STEPS_COMPLETED"
-msgstr[0] "あなたは %(_count)s の進捗レベルをクリアしました！"
+msgstr[0] "あなたは %(_count)s の進捗レベルをクリアしました!"
 
 msgid "IDS_OPENED_LOOTBOXES"
 msgid_plural "IDS_OPENED_LOOTBOXES"

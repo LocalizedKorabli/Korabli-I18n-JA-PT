@@ -71058,7 +71058,13 @@ msgid "IDS_PCQM074_DESC"
 msgstr "<p>ガダルカナル島をめぐる戦いにおいては、ハルゼーはまさにアメリカがその時その場所に必要としていた人物であった、ということが明らかになりました。彼はその溢れるエネルギーと好戦性により、あらゆる下士官および水兵を含む部下全員に自信を与えたのです。彼は、その価値があると判断した際にはソロモン諸島の狭い海峡群に最新鋭の戦艦や航空母艦を送り込み、日本軍に打撃を与え続けました。</p><p class=\"p_spacing\"> </p><p>1943 年 2 月、アメリカ軍がガダルカナル島を完全に掌握した後、ハルゼーはこの諸島の他の島々をめぐる戦いを継続しました。彼は太平洋戦線において、最も強固に守られた日本軍の拠点を素通りする \"island-hopping\" (飛び石) 戦略を用いた初めての司令官であり、「1 機の航空機と 1 名のパイロットさえあれば、私は攻撃を続ける。」というのが彼の信条だったのです。ハルゼー提督はリスクを冒しながら徐々に前進しましたが、その判断は必ずしも合理的だったとは言えず、時には間違いも犯し、損失も被りました。そしてこの提督のキャリアの頂点が訪れたのが、1945 年 9 月 2 日のことでした。当時ハルゼーはアメリカ海軍最強を誇る第 3 艦隊の司令長官を務めていましたが、この日、その旗艦であった戦艦ミズーリ (USS Missouri, BB-63) の艦上において、日本の降伏調印式が執り行われたのです。</p>"
 
 msgid "IDS_PCQM091_SHIPS_DESC"
-msgstr "<p>いつの時代も、艦船の姿には他の人工物とは比較にならない美しさがあります。巨大さと神秘的な魅力とが調和した雄大な帆船は、何世紀にも渡り人々を魅了してきました。そして、産業革命として知られる自動化の時代である19 世紀が到来しました。産業革命は技術発展をこれまでにないスピードで加速させ、自然の恵みの木材と風力に代わり、艦船に金属と蒸気機関が使われるようになりました。</p><p class=\"p_spacing\"> </p><p>産業革命から宇宙時代が始まるその直前まで、艦船には私達の文明を発展させてきた科学の全てが詰まっていました。また前例のない冷酷な世界大戦が起こった 20 世紀では、当然ながら軍艦は造船業の中心を占めていました。軍艦の均整美、そしてその複雑で破壊的な兵装は、人々に畏敬の念を抱かせました。</p><p class=\"p_spacing\"> </p><p>20 世紀は、艦砲の轟音で大きく揺れた時代でした。日中戦争、米西戦争、日露戦争など多くの戦争は事実上、海戦により決着しました。これらの戦争で得られた戦訓に基づき、列強の海軍は各種の主力艦用に新しい技術的諸元を開発しました。</p><p class=\"p_spacing\"> </p><p>装甲艦の建造では、口径 305 mm の主砲を 8 – 12 門備えた戦艦への移行、新しい装甲防御システム、タービンの採用による速力の向上、浸水への耐久性の向上などが見られました。このような艦艇の建造案は、多くの国で議論されました。他の国よりリードを取ったのは、高度に発達した経済と先進的な造船技術を有するイギリスでした。イギリス海軍のドレッドノートは、それ以前の戦艦を圧倒的に凌駕する革命的な戦艦であったため、本艦の艦名は、それ以後に建造された同等の戦艦の総称として用いられるようになりました。所謂「弩級戦艦」の「弩」は、本艦の艦名に由来しています。ドレッドノート以前の全ての戦艦は突如として時代遅れとなり、列強は経済大国のみが勝利できる新たな建艦競争へと巻き込まれていきました。</p><p class=\"p_spacing\"> </p><p>巡洋艦の建造では、軍艦の専門化が一層進み、艦隊に所属して戦闘作戦を行うために特別に設計された高速巡洋艦が多数建造されました。軍艦が作戦を行う上で、速力が主要な性能のひとつとなりました。要求された性能を実現すると同時に排水量を許容範囲内に保つために、巡洋艦の機関は石炭を燃料とするレシプロエンジンから、蒸気タービンおよび重油燃焼式へと切り替わっていきました。</p><p class=\"p_spacing\"> </p><p>駆逐艦の建艦の進化はさらに急なものでした。駆逐艦には、攻撃時に最も有利となる位置にタイミングよく到達できるように、十分な機動力と速力を備えることが求められました。過去の様々な戦争の海戦で得られた戦訓に従い、駆逐艦の役割は劇的に増加しました。戦闘への積極的な参加に加えて、駆逐艦は偵察、哨戒、機雷敷設などの駆逐艦として「普通」ではあるものの重要な任務を遂行しました。そしてそのために、駆逐艦は 102 – 120 mm 砲を装備するようになりました。固定型の水中魚雷発射管は使用されなくなり、代わって甲板上の旋回台に設置された多連装型の魚雷発射管が一般的になりました。駆逐艦は、上部甲板に大量の機雷を搭載し、それらを敷設するための機器も装備しました。これら全ての特徴により、駆逐艦はあらゆる種類の水上艦にとって恐るべき脅威となりました。</p><p class=\"p_spacing\"> </p><p>進化を遂げたこれらの艦艇が試される機会は非常に早く訪れました。1914 年、第一次世界大戦が勃発したためです。</p>"
+msgstr ""
+"産業革命から宇宙時代が始まるその直前まで、艦船には私達の文明を発展させてきた科学の全てが詰まっていました。また前例のない冷酷な世界大戦が起こった 20 世紀では、当然ながら軍艦は造船業の中心を占めていました。軍艦の均整美、そしてその複雑で破壊的な兵装は、人々に畏敬の念を抱かせました。\n"
+"20 世紀は、艦砲の轟音で大きく揺れた時代でした。日本侵華戦争、米西戦争、日露戦争など多くの戦争は事実上、海戦により決着しました。これらの戦争で得られた戦訓に基づき、列強の海軍は各種の主力艦用に新しい技術的諸元を開発しました。\n"
+"装甲艦の建造では、口径 305 mm の主砲を 8 – 12 門備えた戦艦への移行、新しい装甲防御システム、タービンの採用による速力の向上、浸水への耐久性の向上などが見られました。このような艦艇の建造案は、多くの国で議論されました。他の国よりリードを取ったのは、高度に発達した経済と先進的な造船技術を有するイギリスでした。イギリス海軍のドレッドノートは、それ以前の戦艦を圧倒的に凌駕する革命的な戦艦であったため、本艦の艦名は、それ以後に建造された同等の戦艦の総称として用いられるようになりました。所謂「弩級戦艦」の「弩」は、本艦の艦名に由来しています。ドレッドノート以前の全ての戦艦は突如として時代遅れとなり、列強は経済大国のみが勝利できる新たな建艦競争へと巻き込まれていきました。\n"
+"巡洋艦の建造では、軍艦の専門化が一層進み、艦隊に所属して戦闘作戦を行うために特別に設計された高速巡洋艦が多数建造されました。軍艦が作戦を行う上で、速力が主要な性能のひとつとなりました。要求された性能を実現すると同時に排水量を許容範囲内に保つために、巡洋艦の機関は石炭を燃料とするレシプロエンジンから、蒸気タービンおよび重油燃焼式へと切り替わっていきました。\n"
+"駆逐艦の建艦の進化はさらに急なものでした。駆逐艦には、攻撃時に最も有利となる位置にタイミングよく到達できるように、十分な機動力と速力を備えることが求められました。過去の様々な戦争の海戦で得られた戦訓に従い、駆逐艦の役割は劇的に増加しました。戦闘への積極的な参加に加えて、駆逐艦は偵察、哨戒、機雷敷設などの駆逐艦として「普通」ではあるものの重要な任務を遂行しました。そしてそのために、駆逐艦は 102 – 120 mm 砲を装備するようになりました。固定型の水中魚雷発射管は使用されなくなり、代わって甲板上の旋回台に設置された多連装型の魚雷発射管が一般的になりました。駆逐艦は、上部甲板に大量の機雷を搭載し、それらを敷設するための機器も装備しました。これら全ての特徴により、駆逐艦はあらゆる種類の水上艦にとって恐るべき脅威となりました。\n"
+"進化を遂げたこれらの艦艇が試される機会は非常に早く訪れました。1914 年、第一次世界大戦が勃発したためです。"
 
 msgid "IDS_PCQM092_SHIPS_DESC"
 msgstr "<p>第一次世界大戦中、主要艦種の軍艦は「より大きく、より強く」というシンプルな思想を基に発展しました。主砲は大口径に、そして装甲防護はより堅固になり、結果排水量は大幅に増加しサイズも大型化しました。戦艦の競争を開始したのは、主砲口径を 381 mm へと著しく巨大化させたクイーン・エリザベス級戦艦を設計したイギリスでした。これに対抗したドイツは、同じく大口径砲を搭載した超弩級戦艦であるバイエルン級を直ちに建造しました。このドイツ艦は、装甲および戦闘での耐久性においてクイーン・エリザベス級戦艦を上回りました。イギリス艦隊と同数の艦艇を揃えることがほぼ不可能であるドイツは、質でイギリスに勝とうとしたのです。しかし、この世界の建艦競争において最も重要であった出来事は、アメリカがネヴァダ級戦艦において、前弩級時代の軍艦では一般的ではなかった「集中防御方式」の装甲を採用したことでしょう。この新しい構造は、艦艇の最重要区画を重装甲で防護する一方、防御力を長距離交戦に最適化するために、艦艇のその他の区画の装甲を大幅に薄くするというものでした。しかし結局、この時期における最強の戦艦は、しばらく大々的な軍事活動からは遠ざかっていた日本により建造されました。速力、装甲、兵装の総合力において、日本が建造した長門型戦艦に対抗できる軍艦は、ほぼ存在しませんでした。</p><p class=\"p_spacing\"> </p><p>戦争中に、新型巡洋艦を建造できたヨーロッパの国はイギリスとドイツの 2 ヶ国のみでした。両国の巡洋艦の方向性は似たもので、ドイツ巡洋艦の主砲は 150 mm に達し、イギリスが設計し重巡洋艦のプロトタイプとなったホーキンス級巡洋艦は 190 mm 砲を搭載しました。一方アメリカと日本は、それぞれの目的を果たすため、それまでの戦訓から試行錯誤していました。アメリカ戦艦部隊の偵察艦として建造されたオマハ級軽巡洋艦は、味方駆逐艦と連携するための高い速力と、敵駆逐艦を撃退するための 152 mm 砲を持っていました。一方、日本は球磨型や長良型といった 5,500 トン型軽巡洋艦で艦隊を強化しました。これらの巡洋艦はいずれも、偵察艦としても、大規模な雷撃時に駆逐艦隊を指揮する旗艦としても運用できました。</p><p class=\"p_spacing\"> </p><p>駆逐艦は第一次世界大戦中に最も活発に戦った艦種です。このため、駆逐艦は一般的に海軍における消耗戦力と見なされました。通商破壊作戦、哨戒、機雷敷設に加えて、駆逐艦には別の軍事任務である対潜水艦戦も想定されたため、それに対応し設計や兵装に変更が加えられました。それでも全体的な方向性は変わらず、駆逐艦はより多くの兵装を搭載し、艦砲の口径は大きくなり、排水量と速力は増加しました。戦争中にイギリス海軍で初めて、駆逐艦の派生型として嚮導駆逐艦が登場しました。その性能諸元と任務は軽巡洋艦に類似していました。</p><p class=\"p_spacing\"> </p><p>第一次世界大戦を通し、世界規模の紛争では直接戦闘に関与しない一部の経済大国のみが、主力艦の大量建造をできるということが明確になりました。しかし世界の建艦競争は、そういった経済大国の能力を持ってしても制御不能なほどに加速していました。</p>"
@@ -76801,16 +76807,16 @@ msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1"
 msgstr "SAN-9I ロボット (自動秩序維持システム、第 9 世代)"
 
 msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1_DESCRIPTION"
-msgstr "<p>Robot SAN-1 was developed with safety in mind, but during testing, an artificial intelligence error was discovered. It caused the robot to interpret the phrase 'order enforcement' too literally. The project was frozen.</p><p class=\"p_spacing\"> </p><p>After the adoption of the 'Friendship Protocol', engineers resumed work on the project and decided to turn the AI's flaw into an advantage.</p><p class=\"p_spacing\"> </p><p>Eight updates later, the SAN-9I cleaning robot was born, which earned its rightful place in every home.</p><p class=\"p_spacing\"> </p><p>Attention! Do not press the red button!</p>"
+msgstr "<p>ロボット SAN-1 は安全確保のために開発されましたが、試験中に人工知能の誤りが判明しました。この誤りにより、ロボットは「秩序の維持」という表現をあまりにも文字通りに解釈するようになりました。プロジェクトは凍結されました。</p><p class=\"p_spacing\"> </p><p>「友好議定書」採択後、エンジニアたちはプロジェクトの作業を再開し、AI の欠点を長所に変えることを決めました。</p><p class=\"p_spacing\"> </p><p>8 回のアップデートを経て、掃除ロボット SAN-9I が誕生し、各家庭で名誉ある地位を占めることになりました。</p><p class=\"p_spacing\"> </p><p>注意! 赤いボタンを押さないでください!</p>"
 
 msgid "IDS_PCZC800_SCARLET_BIRTHDAY_1_2"
 msgstr "PAL-4"
 
 msgid "IDS_PCZC800_SCARLET_BIRTHDAY_1_2_DESCRIPTION"
-msgstr "<p>PAL-4 is a courier robot that can deliver loads weighing up to 400 tons. By the way, over almost unlimited distances.</p><p class=\"p_spacing\"> </p><p>Thanks to its widespread and mass use, all currently existing maritime complexes were built in the shortest possible time: from MC-1 to MC-8.</p><p class=\"p_spacing\"> </p><p>Each of us has used the services of a courier robot at least once: whether it's delivering flowers to a loved one or a load of enriched uranium for a doctoral dissertation.</p>"
+msgstr "<p>PAL-4 は、最大 400 トンの貨物を配送できるロボット宅配便です。ちなみに、ほぼ無制限の距離まで届けられます。</p><p class=\"p_spacing\"> </p><p>その大規模かつ普遍的な活用により、現存するすべての海上施設 (MK-1 から MK-8 まで) が最短時間で建設されました。</p><p class=\"p_spacing\"> </p><p>私たちは誰もが、少なくとも一度はこのロボット宅配便を利用したことがあるでしょう。恋人への花束の配達であれ、博士論文のための濃縮ウランの輸送であれ。</p>"
 
 msgid "IDS_PCZC801_SCARLET_BIRTHDAY_1_3"
-msgstr "Engineering Pictograph"
+msgstr "エンジニアリング・ピクトグラフ"
 
 msgid "IDS_PCZC801_SCARLET_BIRTHDAY_1_3_DESCRIPTION"
 msgstr "<p>先進技術により、画像保存のためのユニークなデバイスが開発されました。家族のアルバム、研究のためのマクロ撮影、星空の写真など、ニューラルネットワークインターフェースのおかげで、画像は自動的にデバイスに転送されます。</p><p class=\"p_spacing\"> </p><p>内蔵マイクロチップを備えた目をわずかに細めるだけで、見事に写真が撮影され、アップロードされます。</p>"
@@ -76819,19 +76825,19 @@ msgid "IDS_PCZC802_SCARLET_BIRTHDAY_1_4"
 msgstr "試作品 No. 3"
 
 msgid "IDS_PCZC802_SCARLET_BIRTHDAY_1_4_DESCRIPTION"
-msgstr "<p>A high-tech device secretly developed by an engineer at the MC-8 Research Institute. The device's operation, purpose, and even the name of the creator are classified.</p><p class=\"p_spacing\"> </p><p>Rumor has it that recently the device activated and is sending coded signals to an unknown recipient.</p>"
+msgstr "<p>ある MK-8 研究所の技術者が密かに開発したハイテク機器。その稼働状況、目的、そして開発者の名はすべて機密扱いとなっている。</p><p class=\"p_spacing\"> </p><p>最近、この機器が起動し、暗号化された信号を未知の宛先へ送信しているという噂がある。</p>"
 
 msgid "IDS_PCZC803_SCARLET_BIRTHDAY_1_5"
 msgstr "モバイルコミュニケーター「ベストニク」"
 
 msgid "IDS_PCZC803_SCARLET_BIRTHDAY_1_5_DESCRIPTION"
-msgstr "<p>The mobile communicator 'Messenger' is a modern and convenient means of alerting citizens and finding information. It is not only smart and resourceful but also has a large built-in database. Now sending a message from the Ministry of Progress has become even easier.</p><p class=\"p_spacing\"> </p><p>'Messenger' – the choice of modern youth!</p>"
+msgstr "<p>モバイルコミュニケーター「ベストニク」は、市民への情報提供や情報検索のための現代的な便利な手段です。賢さと機転だけでなく、大規模な内蔵データベースも特徴です。進歩省からのメッセージを送ることが、今まで以上に簡単になりました。</p><p class=\"p_spacing\"> </p><p>「ベストニク」は現代の若者の選択です!</p>"
 
 msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6"
 msgstr "ヘルメット「先駆者の偉業」"
 
 msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6_DESCRIPTION"
-msgstr "A legendary helmet that belonged to one of the heroes who were the first to step onto the red plains of Mars. The original is currently housed in the Ministry of Progress museum and is the object of scientific pilgrimage for future astronauts and astrophysicists. But the replica is the best gift for young talents in honor of graduation."
+msgstr "伝説のヘルメット、火星の赤い平原に最初に足を踏み入れた英雄の一人が所有していたもの。オリジナルは現在、進歩省の博物館に収蔵されており、未来の宇宙飛行士や天体物理学者たちの科学巡礼の対象となっている。一方、そのレプリカは、学業を終えた若き才能たちへの最高の贈り物である。"
 
 msgid "IDS_PCZC805_SCARLET_BIRTHDAY_2_1"
 msgstr "Mikhail Orlov"
@@ -77134,7 +77140,7 @@ msgid "IDS_PCZC884_ARIA_1_2_DESCRIPTION"
 msgstr "The third album of the band, recorded in 1987. 'Hero of Asphalt' became the first Aria album officially released on vinyl and achieved record sales."
 
 msgid "IDS_PCZC885_ARIA_1_3"
-msgstr "Chimera"
+msgstr "キメラ"
 
 msgid "IDS_PCZC885_ARIA_1_3_DESCRIPTION"
 msgstr "Aria's eighth album, released in 2001. The group's mascot, Zhorik, appeared on the album cover for the first time."
@@ -77212,7 +77218,7 @@ msgid "IDS_PCZC897_ARIA_3_5_DESCRIPTION"
 msgstr "A guitar with autographs of Aria's musicians, intended to be raffled off among players of 'Mir Korabley'."
 
 msgid "IDS_PCZC898_ARIA_4_1"
-msgstr "20 年: 意志と理性！"
+msgstr "20 年: 意志と理性!"
 
 msgid "IDS_PCZC898_ARIA_4_1_DESCRIPTION"
 msgstr "2005 年にモスクワの「ルジニキ」スポーツ宮殿で開催された、グループ結成 20 周年を記念するコンサート。"
@@ -95178,7 +95184,7 @@ msgid "IDS_PJSC008"
 msgstr "妙高"
 
 msgid "IDS_PJSC008_DESCR"
-msgstr "<p>The Japanese naval development program called for the construction of cruisers with a displacement of 10,000 tons. The final design differed from the original specifications in several ways: by eliminating half of the torpedo tubes, the number of main battery turrets was increased to five, and anti-torpedo protection was enhanced with longitudinal bulkheads. The thickness of the armor belt was increased, and anti-aircraft defense was strengthened.</p><p class=\"p_spacing\"> </p><p>Myōkō was built in Yokosuka. From 1933 to 1935, the cruiser underwent modernization. During the Second Sino-Japanese War, the ship participated in the landing on Hainan Island.</p><p class=\"p_spacing\"> </p><p>During World War II, the cruiser fought in the Java Sea and Coral Sea, at Midway and the Solomon Islands, in the Philippine Sea and Leyte Gulf, where it sustained a torpedo hit. From February 1945, the ship served as a floating anti-aircraft battery in Singapore.</p><p class=\"p_spacing\"> </p><p>The cruiser Myōkō surrendered to the British Royal Navy in September 1945 and was scuttled in the Strait of Malacca in July of the following year.</p>"
+msgstr "<p>日本海軍ノ建艦計畫ニ依リ、一萬噸型巡洋艦ノ建造ヲ計畫セリ。最終案ハ原設計要領ト異ナリ、魚雷發射管半減ノ代償トシテ主砲塔ヲ五基ニ増加シ、防雷裝置ハ縦通隔壁ヲ以テ強化セリ。舷側装甲ノ厚サヲ増シ、對空防御モ亦強化セリ。</p><p class=\"p_spacing\"> </p><p>妙高ハ横須賀ニ於テ建造セラレタリ。昭和八至十年、近代化改造ヲ實施セリ。侵華戦争中ハ海南島上陸作戰ニ參加セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰爭下、爪哇海及ビ珊瑚海海戰、ミッドウェー、ソロモン諸島、比島沖、レイテ灣諸海戰ニ從事シ、魚雷ノ命中ヲ受ク。昭和二十年二月以降、昭南ニ於テ浮游對空砲臺トシテ使用セラル。</p><p class=\"p_spacing\"> </p><p>妙高ハ昭和二十年九月英國海軍ニ引渡サレ、翌二十一年七月マラツカ海峡ニ於テ海沒處分トナレリ。</p>"
 
 msgid "IDS_PJSC008_FULL"
 msgstr "妙高"
@@ -95193,7 +95199,7 @@ msgid "IDS_PJSC009"
 msgstr "最上"
 
 msgid "IDS_PJSC009_DESCR"
-msgstr "<p>After the construction of the four Takao-class ships, under the terms of the London Naval Treaty, Japan could no longer build cruisers with 203 mm guns. However, the country still had the right to build cruisers with guns up to 155 mm in caliber.</p><p class=\"p_spacing\"> </p><p>The next fleet replenishment program included four cruisers with 155 mm guns in five triple turrets. The design was intended to allow the replacement of these turrets with twin turrets mounting 203 mm guns.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Mogami, was built in Kure. During the Fourth Fleet Incident, the ship sustained damage from a typhoon, leading to an unscheduled repair.</p><p class=\"p_spacing\"> </p><p>During World War II, the cruiser participated in the occupation of Indochina, the invasions of Malaya, Sarawak, and Indonesia, and the battles in the Sunda Strait, at Midway, and in the Philippine Sea. During the Battle of Leyte Gulf on October 25, 1944, Mogami was heavily damaged by American torpedo bombers and finished off by the Japanese destroyer Akebono.</p>"
+msgstr "<p>高雄型四隻ノ竣工後、倫敦海軍條約ノ制約ニ依リ、日本ハ二十糎砲搭載巡洋艦ノ新造ヲ得ズ。然レドモ十五糎五砲迄ノ巡洋艦建造ノ權利ハ尚保有セリ。</p><p class=\"p_spacing\"> </p><p>次期艦隊補充計畫ニハ、十五糎五砲ヲ五基三聯装砲塔ニ裝備セル巡洋艦四隻ヲ包含セリ。該設計ハ、必要ニ應ジ該砲塔ヲ二十糎砲二聯装砲塔ニ換装シ得ル構造トセリ。</p><p class=\"p_spacing\"> </p><p>同型首艦最上ハ呉ニ於テ建造セラル。第四艦隊事件ニ際シ臺風ノ爲損傷ヲ受ケ、假修理工事ヲ施行セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争下、佛印進駐、馬來、サラワク、蘭印作戰、スンダ海峡海戰、ミッドウェー海戰、比島沖海戰等ニ従事ス。昭和十九年十月二十五日、レイテ灣海戰ニ於テ、米軍雷撃機ノ猛攻撃ヲ受ケ大破シ、遂ニ日本驅逐艦曙ノ手ニ依リ處分セラレタリ。</p>"
 
 msgid "IDS_PJSC009_FULL"
 msgstr "最上"
@@ -95208,7 +95214,7 @@ msgid "IDS_PJSC012"
 msgstr "伊吹"
 
 msgid "IDS_PJSC012_DESCR"
-msgstr "<p>Under the 1941 Emergency Fleet Replenishment Program, heavy cruisers of an improved design based on the Mogami class were built. In 1942, two ships were laid down in Kure and Nagasaki, but a month later, the construction of the second cruiser was canceled.</p><p class=\"p_spacing\"> </p><p>Ibuki was laid down in April 1942 and launched in May 1943. After the launch, construction was suspended, and then the cruiser began to be converted into a light aircraft carrier. The work was finally halted when the ship was approximately 80% complete.</p>"
+msgstr "<p>昭和十六年度急遽補充計畫ニ基キ、最上型ヲ改良セル重巡洋艦ノ建造ニ着手セリ。昭和十七年、呉及ビ長崎ニ於テ二艦ノ起工ヲ見タルモ、一箇月後第二艦ノ建造ハ中止セラレタリ。</p><p class=\"p_spacing\"> </p><p>伊吹ハ昭和十七年四月起工、同十八年五月進水ス。進水後工事ハ一旦停止セシガ、後ニ軽空母トシテノ改造ニ着手セリ。本工事ハ船體工程八割程度完成シタル時點ニ於テ全面中止ト爲レリ。</p>"
 
 msgid "IDS_PJSC012_FULL"
 msgstr "伊吹"
@@ -95223,7 +95229,7 @@ msgid "IDS_PJSC013"
 msgstr "球磨"
 
 msgid "IDS_PJSC013_DESCR"
-msgstr "<p>Upon learning the characteristics of the American Omaha-class ships, the leadership of the Japanese Navy ordered cruisers of increased size and combat power. Based on the Tenryū, a cruiser design was created that combined the functions of a destroyer leader and a scout. Thanks to the increase in displacement, the machinery was strengthened, allowing for high speed, and the number of main battery guns grew to seven.</p><p class=\"p_spacing\"> </p><p>The Kuma was built in Sasebo. The cruiser participated in the intervention in Soviet Russia. In the 1920s–30s, the ship patrolled the Chinese coast. During World War II, the Kuma participated in the landings in the Philippines. In 1942–44, the cruiser took part in combat operations in New Guinea and then patrolled the waters of the Dutch East Indies. On January 11, 1944, the Kuma was torpedoed by the British submarine HMS Tally-Ho in the Strait of Malacca, after which it caught fire and sank.</p>"
+msgstr "<p>米國オマハ型艦ノ性能ヲ知ルニ及ビ、日本海軍首腦部ハ更ニ大型強力ナル巡洋艦ヲ發注セリ。天龍型ヲ基トシ、驅逐隊指揮官兼偵察任務ヲ擔フ巡洋艦ノ設計ヲ爲セリ。排水量増大ニ伴ヒ機關ヲ強化シテ高速ヲ得、主砲門數ヲ七門ニ増加セリ。</p><p class=\"p_spacing\"> </p><p>球磨ハ佐世保ニ於テ建造セラル。本艦ハ露國干涉作戰ニ參加セリ。大正末年乃至昭和十年代、中国沿岸ノ哨戒ニ従事ス。太平洋戰争下、比島上陸作戰ニ従事シ、同十七年至十九年、ニューギニア戰域ニ從事セシ後、蘭印方面ノ警備ニ任ゼリ。昭和十九年一月十一日、マラツカ海峡ニ於テ英國潜水艦タリーホーノ雷撃ヲ受ケ、火災ヲ生ジテ沈没セリ。</p>"
 
 msgid "IDS_PJSC013_FULL"
 msgstr "球磨"
@@ -95238,7 +95244,7 @@ msgid "IDS_PJSC014"
 msgstr "北上"
 
 msgid "IDS_PJSC014_DESCR"
-msgstr "<p>The cruiser Kitakami, a Kuma-class vessel, was built in Sasebo. From 1922 to 1924, the ship served as the flagship of the 2nd Destroyer Flotilla, and later served with the 1st Submarine Flotilla, the Taiwan Defense Force, and the Sasebo Naval Base Defense Force.</p><p class=\"p_spacing\"> </p><p>With the outbreak of the Second Sino-Japanese War, the cruiser covered Japanese troop landing operations. In 1941, Kitakami was converted into a torpedo cruiser, receiving an armament of ten quadruple 610-mm torpedo tubes.</p><p class=\"p_spacing\"> </p><p>In 1941–42, Kitakami primarily performed convoy and training missions, after which it was converted into a high-speed transport. In this role, it escorted convoys to New Guinea, the Solomon Islands, and Truk.</p><p class=\"p_spacing\"> </p><p>In 1944, Kitakami sustained two torpedo hits from the British submarine HMS Templar. During repairs, the ship was converted into a carrier for Kaiten manned torpedoes.</p><p class=\"p_spacing\"> </p><p>In July 1945, the cruiser was damaged by bombers from Task Force 38 and subsequently used as a tender. Kitakami was decommissioned from the fleet in November 1945.</p>"
+msgstr "<p>北上ハ、球磨型輕巡洋艦ニシテ佐世保ニ於テ建造セラル。大正十一乃至十三年、第二水雷戰隊旗艦トナリ、後第一潜水戰隊、臺灣防備隊、佐世保防備隊ニ轉屬セリ。</p><p class=\"p_spacing\"> </p><p>侵華戦争勃發ト共ニ、日本陸軍部隊ノ上陸掩護ニ従事ス。昭和十六年、本艦ハ水雷母艦トシテ改造セラレ、六十糎四聯裝魚雷發射管十基ノ装備ヲ有スルニ至レリ。</p><p class=\"p_spacing\"> </p><p>同十六年至十七年、主トシテ船團護衛及ビ訓練任務ニ従事シタル後、高速輸送艦トシテ再改装セラル。此ノ状態ニ於テ、ニューギニア、ソロモン諸島、トラック島等ヘノ船團護衛ヲ擔ヘリ。</p><p class=\"p_spacing\"> </p><p>昭和十九年、英國潜水艦テンプラーノ雷撃ヲ受ケ二本ノ魚雷命中ヲ見タリ。修理中ニ特殊兵器搭載艦トシテ改造ヲ施行セリ。</p><p class=\"p_spacing\"> </p><p>同二十年七月、米軍第三十八任務部隊ノ艦載機ノ爆撃ヲ受ケ損傷シ、爾後工作艦トシテ使用セラル。北上ハ同年十一月、艦籍簿ヨリ抹消セラレタリ。</p>"
 
 msgid "IDS_PJSC014_FULL"
 msgstr "北上"
@@ -95253,7 +95259,7 @@ msgid "IDS_PJSC015"
 msgstr "天龍"
 
 msgid "IDS_PJSC015_DESCR"
-msgstr "<p>The design of the Tenryū-class cruisers was heavily influenced by the British Arethusa and C-class cruisers. The cruisers were intended to serve as destroyer leaders and operate alongside the Furutaka-class fleet scouts. Powerful steam turbines allowed them to achieve respectable speed despite their outdated mixed-firing boilers. The ships were equipped with new 140 mm main battery guns.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class was built in Yokosuka. During the 1920s and 1930s, Tenryū participated in interventions in Soviet Russia and Shanghai, and in the Second Sino-Japanese War.</p><p class=\"p_spacing\"> </p><p>Tenryū took part in World War II. In 1941–42, it was used as an escort vessel during the invasions of New Guinea and the Solomon Islands. The cruiser participated in the Battle of Savo Island and the Guadalcanal Campaign. Near the port of Madang, Tenryū was torpedoed by the American submarine USS Albacore and sank on December 19, 1942.</p>"
+msgstr "<p>天龍型巡洋艦ノ設計ハ、英國アリシューザ型及ビＣ型巡洋艦ノ影響多大ニシテ、驅逐艦水雷戰隊ノ旗艦トシテ行動シ、將來ノ古鷹型艦隊偵察艦ト協同スベキモノトセリ。強力ナル蒸氣タービン機関ハ、舊式ノ石炭・重油混燃罐ニモ拘ラズ相當ノ高速ヲ得シム。本型ハ新式十四糎砲ヲ主砲トシテ装備セリ。</p><p class=\"p_spacing\"> </p><p>同型首艦天龍ハ横須賀ニ於テ建造セラル。大正末年至昭和十年代、露國干涉及上海事變、侵華戦争等ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>本艦ハ太平洋戰争ニモ参加セリ。昭和十六年至十七年、ニューギニア及ビソロモン諸島方面作戰ニ於テ護衛任務ニ従事シ、サボ島沖海戰、ガダルカナル島戰役ニ参加セリ。マダン港近海ニ於テ、米國潜水艦アルバコアノ發射セル魚雷ヲ受ケ、昭和十七年十二月十九日遂ニ沈没セリ。</p>"
 
 msgid "IDS_PJSC015_FULL"
 msgstr "天龍"
@@ -95268,7 +95274,7 @@ msgid "IDS_PJSC018"
 msgstr "利根"
 
 msgid "IDS_PJSC018_DESCR"
-msgstr "<p>To augment the Japanese fleet, the construction of two cruisers based on the Mogami-class design was planned. To improve protection and stability, the design omitted the fifth turret, and the remaining four were relocated to the bow. This allowed for a reduction in the length of the armored belt, lightening the hull and ends of the ship, which in turn improved seakeeping qualities. The freed-up stern section allowed for the placement of seaplanes.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, the Tone, was built in Nagasaki. In 1941, the cruiser participated in the attack on Pearl Harbor and the invasion of Wake Island. In 1942, the Tone covered landings at Rabaul, participated in the Battle of the Java Sea, the Indian Ocean raid, the Battle of Midway, as well as the battles of the Eastern Solomons and the Santa Cruz Islands. In 1944, the ship fought in the Philippine Sea and in Leyte Gulf. The cruiser Tone was sunk in Kure Harbor during an American bomber raid on July 24, 1945.</p>"
+msgstr "<p>最上型ヲ基トセル二隻ノ巡洋艦ガ日本海軍ノ補充計畫ニ於テ建造予定トナレリ。防御力及ビ復原性向上ノ爲、第五砲塔ヲ廃シ、残餘ノ四砲塔ヲ全て艦首部ニ集約配置セリ。此ノ設計変更ニ依リテ装甲帯ノ長サヲ短縮シ、船體重量ヲ軽減シ、艦首艦尾ノ構造モ簡素化サレ、耐航性ノ向上ヲ得タリ。解放サレタル艦尾部ニハ水上偵察機ノ搭載設備ヲ設ケタリ。</p><p class=\"p_spacing\"> </p><p>同型首艦利根ハ長崎ニ於テ建造セラル。昭和十六年、真珠湾攻击及ビウエーキ島攻略作戦ニ従事セリ。同十七年、ラバウル上陸掩護、ジャワ海海戰、印度洋作戰、ミッドウェー海戰、第二次ソロモン海戰、南太平洋海戰等ニ参加セリ。同十九年、比島沖海戰及ビレイテ湾海戰ニ於テ交戰シ、同二十年七月二十四日、呉軍港ニ於テ米軍爆撃機ノ攻撃ヲ受ケ沈没セリ。</p>"
 
 msgid "IDS_PJSC018_FULL"
 msgstr "利根"
@@ -95283,7 +95289,7 @@ msgid "IDS_PJSC026"
 msgstr "磐城 A"
 
 msgid "IDS_PJSC026_DESCR"
-msgstr "<p>According to the plans for the development of the Japanese fleet, in the late 1910s, it was intended to build six cruisers based on an improved design of the Tenryū-class.</p><p class=\"p_spacing\"> </p><p>These ships were to carry an additional fifth main-caliber gun and achieve a lighter hull through a series of new design solutions. The project was not realized, and its further development led to the emergence of the Kuma-class cruisers.</p>"
+msgstr "<p>大正末期ノ日本海軍發展計畫ニ従ヒ、天龍型ヲ基トセル改善案ニ基キ六隻ノ巡洋艦建造ヲ企圖セリ。</p><p class=\"p_spacing\"> </p><p>該計畫艦ハ主砲ヲ第五門増備シ、船體ハ數多ノ新規構造設計ニ依リ軽量化セシメタリ。然レドモ本計畫ハ未ダ實現セズ、本計畫ハ更ニ發達シテ球磨型巡洋艦ノ誕生ヲ見ルニ至レリ。</p>"
 
 msgid "IDS_PJSC026_FULL"
 msgstr "磐城 Alpha"
@@ -95298,7 +95304,7 @@ msgid "IDS_PJSC034"
 msgstr "蔵王"
 
 msgid "IDS_PJSC034_DESCR"
-msgstr "<p>According to Japan's fleet replenishment program, it was planned to build eight heavy cruisers, which represented a further development of the Takao, Tone, and Mogami types.</p><p class=\"p_spacing\"> </p><p>The ships' armament was to consist of twelve 203-mm guns in four turrets arranged in the classic layout, and their armor was to provide protection against 203-mm high-explosive shells. Subsequently, the number of ships was reduced to four, and then their construction was canceled altogether.</p>"
+msgstr "<p>日本海軍ノ艦隊補充計畫ニ従ヒ、高雄型、利根型及ビ最上型ヲ更ニ發展セル八隻ノ重巡洋艦建造ヲ計畫セリ。</p><p class=\"p_spacing\"> </p><p>本計畫艦ノ兵装ハ、従来ノ配置ニ則リ四基三聯装砲塔ニ収ムル二十糎砲十二門ヲ以テ構成シ、其ノ装甲ハ同口径榴弹ニ抗シ得ル程度ト定メラレタリ。後ニ建造隻數ハ四隻ニ減ジ、更ニ其ノ建造計畫全般ハ中止セラレタリ。</p>"
 
 msgid "IDS_PJSC034_FULL"
 msgstr "蔵王"
@@ -95313,7 +95319,7 @@ msgid "IDS_PJSC035"
 msgstr "筑摩"
 
 msgid "IDS_PJSC035_DESCR"
-msgstr "<p>After the war against Russia, Japan began developing light cruisers. The foundation was the ship Tone, laid down in 1905, which adopted the \"clipper\" hull design from Russian auxiliary cruisers. The project was also influenced by British Town-class ships. For the first time on a Japanese cruiser, turbines were used.</p><p class=\"p_spacing\"> </p><p>Chikuma was built in Sasebo. During World War I, the ship pursued the squadron of Admiral Maximilian von Spee and the cruiser Emden. After the war, Chikuma patrolled the coast of China, and from 1924 served as a training ship for the Yokosuka Naval District.</p>"
+msgstr "<p>日露戰争終結後、日本ニ於テ輕巡洋艦ノ研究ニ着手セリ。基本トシテ明治三十八年起工セル利根ヲ以テシ、該艦ハ露國補助巡洋艦ノ「クリッパー」式船体構造ヲ採用セリ。本設計ハ英國タウン型ノ影響モ受ク。日本巡洋艦ニ初メタルタービン機関ヲ装備セリ。</p><p class=\"p_spacing\"> </p><p>筑摩ハ佐世保ニ於テ建造セラレ、第一次大戰中、シュペー提督ノ艦隊及ビエムデン号ノ追撃ニ従事セリ。戰後、中国沿岸ノ哨戒任務ニ就キ、大正十三年以降ハ横須賀鎮守府ノ練習艦トナレリ。</p>"
 
 msgid "IDS_PJSC035_FULL"
 msgstr "筑摩"
@@ -95328,7 +95334,7 @@ msgid "IDS_PJSC037"
 msgstr "橋立"
 
 msgid "IDS_PJSC037_DESCR"
-msgstr "<p>A small gunboat built in Osaka and designed for operations in coastal areas. For its size, it was well-armed, including with anti-aircraft artillery. It had no armor and developed low speed.</p><p class=\"p_spacing\"> </p><p>In 1940–41, Hashidate was part of the China Expeditionary Fleet and participated in the invasion of Hong Kong. The ship was sunk by the American submarine USS Picuda near Pratas Island on May 22, 1944.</p>"
+msgstr "<p>小型砲艦橋立ハ、大阪ニ於テ建造セラレ、沿岸作戰ニ従事スルヲ以テ本務トセリ。其ノ船體規模ニ比シテ、對空砲ヲ含ム兵装ハ比較的充實セリ。装甲ヲ有セズ、速力モ亦高カラザリキ。</p><p class=\"p_spacing\"> </p><p>昭和十五乃至十六年、本艦ハ遣支艦隊ニ編入サレ、香港侵略作戰ニ参加セリ。昭和十九年五月二十二日、プラタス島近海ニ於テ米國潜水艦ピクーダノ攻撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSC037_FULL"
 msgstr "橋立"
@@ -95343,7 +95349,7 @@ msgid "IDS_PJSC038"
 msgstr "愛宕"
 
 msgid "IDS_PJSC038_DESCR"
-msgstr "<p>Atago, a Takao-class cruiser, was built in Kure. Upon commissioning, the ship was assigned to the 4th Cruiser Division.</p><p class=\"p_spacing\"> </p><p>During World War II, it supported landings during the invasions of Malaya and the Philippines, participated in the Battle of the Java Sea, the Battle of the Eastern Solomons, the Battle of the Santa Cruz Islands, the Naval Battle of Guadalcanal, and the Battle of the Philippine Sea.</p><p class=\"p_spacing\"> </p><p>From July 1944, the cruiser served as the flagship of Admiral Takeo Kurita's 1st Mobile Strike Force. Atago was sunk by the submarine USS Darter during the Battle of Leyte Gulf on October 23, 1944.</p>"
+msgstr "<p>愛宕ハ高雄型重巡洋艦ニシテ、呉海軍工廠ニ於テ建造セラル。就役後、第四戰隊ニ編入サレタリ。</p><p class=\"p_spacing\"> </p><p>太平洋戦争下、馬來及ビ比島上陸作戰ノ支援、ジャワ海海戰、第二次ソロモン海戰、南太平洋海戰、ガダルカナル島戰役、比島沖海戰等ニ広ク従事セリ。</p><p class=\"p_spacing\"> </p><p>昭和十九年七月以降、栗田健男提督ノ第一機動部隊旗艦トナレリ。同年十月二十三日、レイテ湾海戰ニ於テ米國潜水艦ダーターノ雷撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSC038_FULL"
 msgstr "愛宕"
@@ -95373,7 +95379,7 @@ msgid "IDS_PJSC205"
 msgstr "阿賀野"
 
 msgid "IDS_PJSC205_DESCR"
-msgstr "<p>The design of the Agano-class cruisers began in the second half of the 1930s. Their primary intended role was reconnaissance, which demanded high speed above all else, necessitating a reduction in armor protection. The ships were armed with six 152-mm guns in three turrets.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Agano, was built in Sasebo. Upon entering service, the ship became the flagship of the 10th Destroyer Squadron. During World War II, the cruiser Agano participated in escort and patrol operations, including the Battle of Empress Augusta Bay near Bougainville Island. The cruiser was sunk by the submarine USS Skate while en route for repairs on February 17, 1944.</p>"
+msgstr "<p>阿賀野型巡洋艦ノ設計ハ昭和十年代後半ニ着手セリ。本型ノ主目的ハ偵察任務ニ在リタル爲、高速性ヲ最優先シ、装甲防御ハ之ガ爲犠牲トセリ。兵装ハ三基二聯装砲塔ニ収ムル十五糎砲六門ヲ以テセリ。</p><p class=\"p_spacing\"> </p><p>同型首艦阿賀野ハ佐世保ニ於テ建造セラル。就役後第十驅逐隊ノ旗艦トナレリ。太平洋戰争下、護衛及ビ哨戒任務ニ従事シ、ブーゲンビル島沖オーガスタ皇后湾海戰ニ参加セリ。修理ノ爲回航中ノ昭和十九年二月十七日、米國潜水艦スケートノ雷撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSC205_FULL"
 msgstr "阿賀野"
@@ -95388,7 +95394,7 @@ msgid "IDS_PJSC206"
 msgstr "五ヶ瀬"
 
 msgid "IDS_PJSC206_DESCR"
-msgstr "<p>According to the fleet replenishment program, it was planned to build cruisers to lead flotillas of Shimakaze-class destroyers.</p><p class=\"p_spacing\"> </p><p>Based on the Agano-class cruisers, a project was developed that differed from its predecessor by an increased number of main battery turrets, enhanced power plant, and anti-aircraft armament. After the Battle of Midway, the program was adjusted, and two ships were planned for construction. In June 1943, the construction of the ships was canceled.</p>"
+msgstr "<p>艦隊補充計畫ニ従ヒ、島風型驅逐艦水雷戰隊ノ旗艦タル巡洋艦ノ建造ヲ計畫セリ。</p><p class=\"p_spacing\"> </p><p>阿賀野型巡洋艦ヲ基トシ、主砲塔門数増加、機關出力増強、對空防御強化等ノ改良ヲ加ヘタル設計案ヲ作成セリ。ミッドウェー海戰後、計畫ヲ再檢討シ二隻ノ建造ヲ企圖セシガ、昭和十八年六月、該建造計畫ハ中止ト爲レリ。</p>"
 
 msgid "IDS_PJSC206_FULL"
 msgstr "五ヶ瀬"
@@ -95403,7 +95409,7 @@ msgid "IDS_PJSC207"
 msgstr "雄物"
 
 msgid "IDS_PJSC207_DESCR"
-msgstr "<p>The development of the Ōyodo-class cruisers, flagships of submarine squadrons, into full-fledged light cruisers with four triple 155mm gun turrets.</p><p class=\"p_spacing\"> </p><p>Unlike its predecessors, the ship lacks a stern hangar, the catapult has been moved amidships, two torpedo launchers have been added, and anti-aircraft armament has been strengthened.</p>"
+msgstr "<p>大淀型潜水艦隊旗艦巡洋艦ノ發展型トシテ、四基三聯装十五糎五砲塔ヲ備フル完全ナる輕巡洋艦ト爲レリ。</p><p class=\"p_spacing\"> </p><p>前型トノ相違點トシテ、艦尾格納庫ヲ廢シ、射出機ヲ中央部ニ移設シ、魚雷發射管二基ヲ追加シ、對空兵装ヲ強化セリ。</p>"
 
 msgid "IDS_PJSC207_FULL"
 msgstr "雄物"
@@ -95418,7 +95424,7 @@ msgid "IDS_PJSC208"
 msgstr "四万十"
 
 msgid "IDS_PJSC208_DESCR"
-msgstr "<p>A hypothetical modernization of Mogami-class ships into anti-aircraft cruisers, featuring the installation of universal 150mm/60 guns developed in 1944 as the main battery.</p><p class=\"p_spacing\"> </p><p>The installation of 150mm universal and 100mm anti-aircraft guns would have transformed the Mogami-class cruisers into an effective weapon against American carrier-based and land-based aircraft.</p>"
+msgstr "<p>最上型巡洋艦ノ假想近代化案トシテ、昭和十九年開発ノ十五糎六十口径高角兩用砲ヲ主砲ト爲シ、對空巡洋艦トナス計畫ナリ。</p><p class=\"p_spacing\"> </p><p>十五糎兩用砲及ビ十糎高角砲ノ装備ハ、最上型ヲ以テ米國艦上並ニ基地航空兵力ニ対スル有效ナル防空艦ト成シ得ベキモノト思考セラレタリ。</p>"
 
 msgid "IDS_PJSC208_FULL"
 msgstr "四万十"
@@ -95433,7 +95439,7 @@ msgid "IDS_PJSC209"
 msgstr "高梁"
 
 msgid "IDS_PJSC209_DESCR"
-msgstr "<p>The Japanese fleet expansion program included the construction of two cruisers armed with fifteen 155-mm guns in triple turrets and with a displacement of 8,450 tons.</p><p class=\"p_spacing\"> </p><p>The project was not implemented, and its further development led to the emergence of the Tone-class heavy cruisers. An alternative development option involves arming the cruisers with dual-purpose 150-mm guns with the aim of creating an anti-aircraft cruiser to counter American carrier-based and land-based aircraft.</p>"
+msgstr "<p>日本海軍補充計畫ニハ、三聯装十五糎五砲塔五基十五門ヲ装備シ、排水量八千四百五十噸トセル巡洋艦二隻ノ建造ヲ包含セリ。</p><p class=\"p_spacing\"> </p><p>本計畫ハ遂ニ實現セズ、其ノ後ノ硏究ハ利根型重巡洋艦ノ端緒トナレリ。別案トシテハ、米國艦上並ニ基地航空隊ニ対抗スル對空巡洋艦トナス爲、十五糎高角兩用砲ノ装備ヲ以テ本型ヲ發展セシムル案モ存セリ。</p>"
 
 msgid "IDS_PJSC209_FULL"
 msgstr "高梁"
@@ -95448,7 +95454,7 @@ msgid "IDS_PJSC210"
 msgstr "淀"
 
 msgid "IDS_PJSC210_DESCR"
-msgstr "<p>In the archive of Japanese shipbuilder Yuzuru Hiraga, there is a design for a cruiser with a displacement of 10,000 tons, armed with six triple turrets mounting 150-mm dual-purpose guns.</p><p class=\"p_spacing\"> </p><p>The ship was intended to carry aviation on board and was likely a design for a cruiser intended to serve as a flotilla leader for submarine squadrons.</p>"
+msgstr "<p>日本造船官平賀譲ノ遺稿中ニ、一萬噸排水量ヲ有シ、三聯装十五糎高角兩用砲塔六基十八門ヲ装備セル巡洋艦ノ設計案存ス。</p><p class=\"p_spacing\"> </p><p>本艦ハ航空机ヲ搭载シ、蓋シ潜水艦水雷戰隊旗艦タル巡洋艦ノ設計案ナリト思考セラル。</p>"
 
 msgid "IDS_PJSC210_FULL"
 msgstr "淀"
@@ -95463,7 +95469,7 @@ msgid "IDS_PJSC503"
 msgstr "香取"
 
 msgid "IDS_PJSC503_DESCR"
-msgstr "<p>Under the 1937 and 1939 fleet replenishment programs, training cruisers were built, designed to replace old armored cruisers from the Russo-Japanese War era. These ships had a mixed propulsion system, as well as a diverse set of armaments: 140 mm main guns, dual-purpose 127 mm guns, 25 mm anti-aircraft autocannons, 533 mm torpedoes, and a catapult with a seaplane. This variety was necessary for training cadets.</p><p class=\"p_spacing\"> </p><p>Katori was built in Yokohama. During World War II, the ship was primarily used as the flagship of the Sixth Fleet. Katori was sunk by the battleship Iowa's gunfire during the Japanese evacuation from Truk Atoll on February 18, 1944.</p>"
+msgstr "<p>昭和十二及十四年度艦隊補充計畫ニ基キ、日露戰争時代ノ装甲巡洋艦ヲ更新スル爲ニ設計セル練習巡洋艦ガ建造セラレタリ。本型ハ複合機關ヲ備ヘ、十四糎主砲、十二糎七高角兩用砲、二糎五機銃、五十三糎三魚雷發射管、並ニ水上機射出機等、多様ナル兵装ヲ有セリ。此ノ種々相異ナル裝備ハ、生徒教育ニ必要ナリシガ故ナリ。</p><p class=\"p_spacing\"> </p><p>香取ハ横濱ニ於テ建造セラレ、太平洋戰争中、主トシテ第六艦隊ノ旗艦任務ニ従事セリ。昭和十九年二月十八日、トラック島ヨリノ撤収作戰中、米國戰艦アイオワノ砲撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSC503_FULL"
 msgstr "香取"
@@ -95478,7 +95484,7 @@ msgid "IDS_PJSC505"
 msgstr "矢矧"
 
 msgid "IDS_PJSC505_DESCR"
-msgstr "<p>Yahagi, an Agano-class cruiser, was built in Sasebo. As the flagship of a combined destroyer division, the ship participated in the Battle of the Philippine Sea in June 1944, providing cover for the 1st Carrier Striking Force.</p><p class=\"p_spacing\"> </p><p>The cruiser took part in the Battle of Leyte Gulf, again leading a combined destroyer division. During an attack by American forces near Okinawa on April 7, 1945, Yahagi sustained numerous torpedo and bomb hits, lost propulsion, and sank.</p>"
+msgstr "<p>矢矧ハ阿賀野型輕巡洋艦ニシテ、佐世保ニ於テ建造セラル。驅逐戰隊旗艦トシテ、昭和十九年六月比島沖海戰ニ参加シ、第一機動部隊ノ掩護任務ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>本艦ハ更ニレイテ湾海戰ニ於テモ驅逐戰隊旗艦トナリテ行動セリ。昭和二十年四月七日、沖縄近海ニ於ケル米軍部隊攻撃ニ際シ、多数ノ魚雷及ビ爆弹命中ヲ受ケ、航行能力ヲ喪失シテ沈没セリ。</p>"
 
 msgid "IDS_PJSC505_FULL"
 msgstr "矢矧"
@@ -95508,7 +95514,7 @@ msgid "IDS_PJSC507"
 msgstr "十勝"
 
 msgid "IDS_PJSC507_DESCR"
-msgstr "<p>The initial armament of the scout cruisers was planned to consist of six twin 140-mm gun turrets, but the project was later revised.</p><p class=\"p_spacing\"> </p><p>In the 1930s, the Furutaka-class cruisers were rebuilt following the pattern of the Aoba-class cruisers, receiving three twin turrets instead of six single ones. Had this not occurred, during World War II, such cruisers would most likely have been converted into anti-aircraft ships, receiving twin 127-mm dual-purpose gun mounts instead of single 200-mm ones.</p>"
+msgstr "<p>初メ、偵察巡洋艦ノ兵装ハ六基二聯装十四糎砲塔タリシモ、後ニ計畫ハ再檢討セラレタリ。</p><p class=\"p_spacing\"> </p><p>昭和十年代、古鷹型巡洋艦ハ青葉型ニ準ジテ改造セラレ、六基單装砲塔ヲ三基二聯装砲塔ニ換ヘタリ。若シ此ノ改造ナカリシナラバ、大戰中、該巡洋艦ハ對空巡洋艦トナシ、單装二十糎砲ヲ二聯装十二糎七高角兩用砲ニ換ヘラレシモノト思考セラル。</p>"
 
 msgid "IDS_PJSC507_FULL"
 msgstr "十勝"
@@ -95523,7 +95529,7 @@ msgid "IDS_PJSC509"
 msgstr "吾妻 B"
 
 msgid "IDS_PJSC509_DESCR"
-msgstr "<p>Shortly before the start of World War II, Japan learned that the United States had begun designing large cruisers of the Alaska class. Almost immediately, Japanese designers began work on a ship of this class to counter the American cruisers.</p><p class=\"p_spacing\"> </p><p>The ships of the project were architecturally similar to the Yamato-class battleships and carried nine of the latest 310-mm guns in three turrets. Development was halted in November 1941 and finally canceled after the Battle of Midway.</p>"
+msgstr "<p>太平洋戰争勃發直前、日本ニ於テ米國ガアラスカ型大型巡洋艦ノ設計ニ着手セル情報ヲ得タリ。直チニ日本技術者ハ該米國巡洋艦ニ對抗スル爲ノ同種艦艇ノ設計ニ着手セリ。</p><p class=\"p_spacing\"> </p><p>本計畫艦ノ構造様式ニアリテハ大和型戰艦ニ近似シ、三基三聯装砲塔ニ最新式三十一糎砲九門ヲ装備セシメタリ。本硏究ハ昭和十六年十一月ニ於テ中止サレ、ミッドウェー海戰後全ク廢棄セラレタリ。</p>"
 
 msgid "IDS_PJSC509_FULL"
 msgstr "吾妻 B"
@@ -95538,7 +95544,7 @@ msgid "IDS_PJSC510"
 msgstr "吾妻"
 
 msgid "IDS_PJSC510_DESCR"
-msgstr "<p>Shortly before the start of World War II, Japan learned that the United States had begun designing large cruisers of the Alaska class. Almost immediately, Japanese designers began work on a ship of this class to counter the American cruisers.</p><p class=\"p_spacing\"> </p><p>The ships of the project were architecturally similar to the Yamato-class battleships and carried nine of the latest 310-mm guns in three turrets. Development was halted in November 1941 and finally canceled after the Battle of Midway.</p>"
+msgstr "<p>太平洋戰争勃發直前、日本ニ於テ米國ガアラスカ型大型巡洋艦ノ設計ニ着手セル情報ヲ得タリ。直チニ日本技術者ハ該米國巡洋艦ニ對抗スル爲ノ同種艦艇ノ設計ニ着手セリ。</p><p class=\"p_spacing\"> </p><p>本計畫艦ノ構造様式ニアリテハ大和型戰艦ニ近似シ、三基三聯装砲塔ニ最新式三十一糎砲九門ヲ装備セシメタリ。本硏究ハ昭和十六年十一月ニ於テ中止サレ、ミッドウェー海戰後全ク廢棄セラレタリ。</p>"
 
 msgid "IDS_PJSC510_FULL"
 msgstr "吾妻"
@@ -95553,7 +95559,7 @@ msgid "IDS_PJSC512"
 msgstr "浅間"
 
 msgid "IDS_PJSC512_DESCR"
-msgstr "<p>In 1896, a fleet expansion program was adopted, which included the construction of four armored cruisers. A year later, the number of planned ships was increased to six. The first two cruisers—Asama and Tokiwa—were ordered from Britain. These ships were an improved version of the cruiser O'Higgins, built for Chile. During trials, the cruisers exceeded their design speed by one and a half knots. Both ships participated in the Russo-Japanese War and World War I.</p><p class=\"p_spacing\"> </p><p>Asama was laid down in Elswick in November 1896, launched in March 1898, and commissioned in March 1899. During the Russo-Japanese War, the cruiser was part of Admiral Kamimura's squadron, taking part in the battles of Chemulpo, the Yellow Sea, and Tsushima. In World War I, Asama was heavily damaged after running aground off the coast of Mexico in 1915.</p><p class=\"p_spacing\"> </p><p>During World War II, Asama served as a training ship for naval gunners in Shimonoseki.</p>"
+msgstr "<p>明治二十九年、艦隊補充計畫定メラレ、四隻ノ装甲巡洋艦建造ヲ包含ス。翌三十年、計畫艦數ヲ六隻ニ増加セリ。最初ノ二艦、淺間ト常盤ハ英國ニ發注セラル。本型ハ、智利國ノ爲ニ建造セルオヒギンス型巡洋艦ヲ改良セルモノニシテ、公試運轉ニ於テ計畫速力ヨリ一節半超越セリ。兩艦共ニ日露戰争及ビ第一次大戰ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>淺間ハ明治二十九年十一月、英國エルズウィックニ於テ起工、同三十一年三月進水、同三十二年三月就役ス。日露戰争中ハ上村彦之丞將軍ノ艦隊ニ属シ、仁川沖海戰、黄海海戰、日本海海戰ニ參加セリ。第一次大戰中、同四年、墨西哥沿岸ニ於テ坐礁シ大破セリ。</p><p class=\"p_spacing\"> </p><p>第二次大戰下、本艦ハ下關ニ於ケル海軍砲術學校練習艦トシテ使用セラレタリ。</p>"
 
 msgid "IDS_PJSC512_FULL"
 msgstr "浅間"
@@ -95568,7 +95574,7 @@ msgid "IDS_PJSC517"
 msgstr "摩耶"
 
 msgid "IDS_PJSC517_DESCR"
-msgstr "<p>Maya, a Takao-class cruiser, was built at the Kawasaki shipyard in Kobe. Upon commissioning, the ship was assigned to the 4th Cruiser Division. During the Second Sino-Japanese War, the cruiser escorted transport vessels.</p><p class=\"p_spacing\"> </p><p>During World War II, the Maya supported landings in the Philippines and the Aleutian Islands, and participated in the battles of the Eastern Solomons, the Santa Cruz Islands, and the Komandorski Islands in 1942–43.</p><p class=\"p_spacing\"> </p><p>In 1943, the ship underwent a refit during which it lost one of its main battery turrets and its aircraft hangar—these were replaced with anti-aircraft guns. In 1944, the cruiser fought in the Philippine Sea and in Leyte Gulf. The cruiser Maya was torpedoed by the submarine USS Dace on October 23, 1944, and subsequently sank rapidly.</p>"
+msgstr "<p>摩耶ハ高雄型重巡洋艦ニシテ、川崎神戸造船所ニ於テ建造セラル。就役後第四戰隊ニ編入サレ、侵華戦争中輸送船團ノ護衛ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争下、比島及ビアリューシャン列島上陸作戦ノ支援、昭和十七年至十八年ニ亘リ第二次ソロモン海戰、南太平洋海戰、コマンドルスキー諸島海戰等ニ参加セリ。</p><p class=\"p_spacing\"> </p><p>昭和十八年、本艦ハ修理改造ヲ受ケ、主砲塔一基及ビ航空機格納庫ヲ撤去シ、其ノ代償トシテ高角砲群ヲ増備セリ。同十九年、比島沖海戰及ビレイテ湾海戰ニ従事セシガ、同年十月二十三日、米國潜水艦デイスノ雷撃ヲ受ケ急速ニ沈没セリ。</p>"
 
 msgid "IDS_PJSC517_FULL"
 msgstr "摩耶"
@@ -95600,7 +95606,7 @@ msgid "IDS_PJSC520"
 msgstr "吉野"
 
 msgid "IDS_PJSC520_DESCR"
-msgstr "<p>A variant of a large high-speed cruiser project with 310-mm main battery artillery, torpedo armament consisting of four quadruple 610-mm launchers, and enhanced anti-aircraft armament.</p><p class=\"p_spacing\"> </p><p>This project's ship was intended for combat against enemy heavy cruisers.</p>"
+msgstr "<p>本計畫艦ハ、主砲トシテ三十一糎砲、魚雷兵装トシテ四聯装六十糎魚雷発射管四基、並ニ強化セル對空兵装ヲ備ヘタル大型高速巡洋艦ノ一案ナリ。</p><p class=\"p_spacing\"> </p><p>該案ニ基ク艦艇ハ、敵國ノ重巡洋艦ト交戰スルヲ以テ目的トセリ。</p>"
 
 msgid "IDS_PJSC520_FULL"
 msgstr "吉野"
@@ -95615,7 +95621,7 @@ msgid "IDS_PJSC530"
 msgstr "九頭龍"
 
 msgid "IDS_PJSC530_DESCR"
-msgstr "<p>In the late 1930s, Japan developed a project for a cruiser designed to lead submarine flotillas. The ship was supposed to carry aircraft and have versatile main battery guns.</p><p class=\"p_spacing\"> </p><p>In one version of the project, a sizable hangar, similar to an aircraft carrier, was positioned between the bow and stern turret groups, with a full-fledged flight deck and island-type superstructure.</p>"
+msgstr "<p>昭和十年代後半、日本ニ於テ潜水艦水雷戰隊旗艦タル巡洋艦ノ設計案ガ硏究セラレタリ。本艦ハ航空機搭載能力ヲ有シ、主砲トシテ高角兩用砲ヲ装備セシメタリ。</p><p class=\"p_spacing\"> </p><p>本艦ノ一設計案ニ於テハ、艦首砲塔群ト艦尾砲塔群ノ間ニ、空母様ノ大型格納庫ヲ設ケ、本體飛行甲板及ビアイランド型艦橋ヲ具備セリ。</p>"
 
 msgid "IDS_PJSC530_FULL"
 msgstr "九頭龍"
@@ -95630,7 +95636,7 @@ msgid "IDS_PJSC540"
 msgstr "筑後"
 
 msgid "IDS_PJSC540_DESCR"
-msgstr "<p>The 1941 fleet replenishment program included four specialized AA cruisers to lead Akizuki-class destroyer flotillas. These \"Project 815\" ships were small cruisers with 5,800t standard displacement.</p><p class=\"p_spacing\"> </p><p>An alternative considered converting Ōyodo-class cruisers or building new ones based on their hulls. The cruisers would carry twelve twin 100-mm/65 guns, matching three Akizuki-class destroyers' firepower. Enclosed mounts were planned amidships, semi-enclosed along sides.</p>"
+msgstr "<p>昭和十六年度ノ艦隊補充計畫ニハ、秋月型驅逐艦水雷戰隊ノ旗艦タル四隻ノ專用對空巡洋艦ノ建造ヲ包含セリ。該艦ハ「第八百十五號案」ト稱セラル小型巡洋艦ニシテ、基準排水量五千八百噸ト定メラレタリ。</p><p class=\"p_spacing\"> </p><p>代替案トシテハ、建造中ノ大淀型巡洋艦ノ改造、若クハ同型船體ヲ基トスル新造艦ガ考察セラレタリ。本艦ニ装備セシムベキ兵装ハ、十糎六十五口径二聯裝高角砲十二基タリシカ故ニ、一隻ニテ三隻ノ秋月型驅逐艦ト同等ノ火力ヲ有スベキ筈ナリキ。該砲塔配置トシテハ、中心線上ニ閉鎖式砲塔、舷側ニ半閉鎖式砲塔ヲ配スル計畫ナリキ。</p>"
 
 msgid "IDS_PJSC540_FULL"
 msgstr "筑後"
@@ -95645,7 +95651,7 @@ msgid "IDS_PJSC550"
 msgstr "海門"
 
 msgid "IDS_PJSC550_DESCR"
-msgstr "<p>Shortly before World War II, Japan learned that the United States had begun designing large cruisers of the Alaska class. Almost immediately, Japanese shipbuilders began developing a ship that could counter the American cruisers.</p><p class=\"p_spacing\"> </p><p>The project received the designation B-65, which, according to Japanese classification, allows it to be classified as a battlecruiser. In terms of architecture, the ship under development was similar to the Yamato-class battleships, and in one variant of the project, the armament consisted of 356-mm guns. The construction of the ships was canceled shortly after the Battle of Midway.</p>"
+msgstr "<p>太平洋戰争直前、日本ニ於テ米國ガアラスカ型大型巡洋艦ノ設計ニ着手セル情報ヲ得タリ。直ニ日本造船官ハ該米國巡洋艦ニ對抗シ得ル艦艇ノ設計ヲ開始セリ。</p><p class=\"p_spacing\"> </p><p>本計畫ハ乙第六十五號案ト稱シ、日本ノ艦種分類ニ從ヘバ巡洋戰艦ニ屬ス。設計中ノ艦艇ハ構造上大和型戰艦ニ近似シ、一設計案ニ於テハ三十五糎六砲ヲ主砲ト爲セリ。本建造計畫ハミッドウェー海戰後間モナクシテ全ク中止セラレタリ。</p>"
 
 msgid "IDS_PJSC550_FULL"
 msgstr "海門"
@@ -95660,7 +95666,7 @@ msgid "IDS_PJSC590"
 msgstr "吉野 B"
 
 msgid "IDS_PJSC590_DESCR"
-msgstr "<p>Variant of a large high-speed cruiser project with 310-mm main battery artillery, torpedo armament consisting of four quadruple 610-mm launchers, and enhanced anti-aircraft armament.</p><p class=\"p_spacing\"> </p><p>This project's ship was intended for combating enemy heavy cruisers.</p>"
+msgstr "<p>本計畫艦ハ、主砲トシテ三十一糎砲、魚雷兵装トシテ四聯装六十糎魚雷発射管四基、並ニ強化セル對空兵装ヲ備ヘタル大型高速巡洋艦ノ一案ナリ。</p><p class=\"p_spacing\"> </p><p>該案ニ基ク艦艇ハ、敵國ノ重巡洋艦ト交戰スルヲ以テ目的トセリ。</p>"
 
 msgid "IDS_PJSC590_FULL"
 msgstr "吉野 B"
@@ -95675,7 +95681,7 @@ msgid "IDS_PJSC598"
 msgstr "愛宕 B"
 
 msgid "IDS_PJSC598_DESCR"
-msgstr "<p>Atago, a Takao-class cruiser, was built in Kure. Upon commissioning, the ship was assigned to the 4th Cruiser Division.</p><p class=\"p_spacing\"> </p><p>During World War II, it supported landings during the invasions of Malaya and the Philippines, participated in the Battle of the Java Sea, the Battle of the Eastern Solomons, the Battle of the Santa Cruz Islands, the Naval Battle of Guadalcanal, and the Battle of the Philippine Sea.</p><p class=\"p_spacing\"> </p><p>From July 1944, the cruiser served as the flagship of Admiral Takeo Kurita's 1st Mobile Strike Force. Atago was sunk by the submarine USS Darter during the Battle of Leyte Gulf on October 23, 1944.</p>"
+msgstr "<p>愛宕ハ高雄型重巡洋艦ニシテ、呉海軍工廠ニ於テ建造セラル。就役後、第四戰隊ニ編入サレタリ。</p><p class=\"p_spacing\"> </p><p>太平洋戦争下、馬來及ビ比島上陸作戰ノ支援、ジャワ海海戰、第二次ソロモン海戰、南太平洋海戰、ガダルカナル島戰役、比島沖海戰等ニ広ク従事セリ。</p><p class=\"p_spacing\"> </p><p>昭和十九年七月以降、栗田健男提督ノ第一機動部隊旗艦トナレリ。同年十月二十三日、レイテ湾海戰ニ於テ米國潜水艦ダーターノ雷撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSC598_FULL"
 msgstr "愛宕 B"
@@ -95690,7 +95696,7 @@ msgid "IDS_PJSC610"
 msgstr "北上"
 
 msgid "IDS_PJSC610_DESCR"
-msgstr "<p>Kitakami, a Kuma-class vessel, was built in Sasebo. With the outbreak of the Second Sino-Japanese War, the cruiser covered Japanese troop landing operations. In 1941, Kitakami was converted into a torpedo cruiser, receiving an armament of ten quadruple 610-mm torpedo tubes.</p><p class=\"p_spacing\"> </p><p>In 1941–42, Kitakami primarily performed convoy and training missions, after which it was converted into a high-speed transport. In this role, it escorted convoys to New Guinea, the Solomon Islands, and Truk.</p><p class=\"p_spacing\"> </p><p>In 1944, Kitakami sustained two torpedo hits from the British submarine HMS Templar. During repairs, the ship was converted into a carrier for Kaiten manned torpedoes.</p><p class=\"p_spacing\"> </p><p>In July 1945, the cruiser was damaged by bombers from Task Force 38 and subsequently used as a tender. Kitakami was decommissioned from the fleet in November 1945.</p>"
+msgstr "<p>北上ハ、球磨型輕巡洋艦ニシテ佐世保ニ於テ建造セラル。</p><p class=\"p_spacing\"> </p><p>昭和十六年至十七年、主トシテ船團護衛及ビ訓練任務ニ従事シタル後、高速輸送艦トシテ再改装セラル。此ノ状態ニ於テ、ニューギニア、ソロモン諸島、トラック島等ヘノ船團護衛ヲ擔ヘリ。</p><p class=\"p_spacing\"> </p><p>昭和十九年、英國潜水艦テンプラーノ雷撃ヲ受ケ二本ノ魚雷命中ヲ見タリ。修理中ニ特殊兵器搭載艦トシテ改造ヲ施行セリ。</p><p class=\"p_spacing\"> </p><p>同二十年七月、米軍第三十八任務部隊ノ艦載機ノ爆撃ヲ受ケ損傷シ、爾後工作艦トシテ使用セラル。北上ハ同年十一月、艦籍簿ヨリ抹消セラレタリ。</p>"
 
 msgid "IDS_PJSC610_FULL"
 msgstr "北上"
@@ -95843,7 +95849,7 @@ msgid "IDS_PJSC810"
 msgstr "蔵王 P"
 
 msgid "IDS_PJSC810_DESCR"
-msgstr "<p>According to Japan's fleet replenishment program, it was planned to build eight heavy cruisers, which represented a further development of the Takao, Tone, and Mogami types.</p><p class=\"p_spacing\"> </p><p>The ships' armament was to consist of twelve 203-mm guns in four turrets arranged in the classic layout, and their armor was to provide protection against 203-mm high-explosive shells. Subsequently, the number of ships was reduced to four, and then their construction was canceled altogether.</p>"
+msgstr "<p>日本海軍ノ艦隊補充計畫ニ従ヒ、高雄型、利根型及ビ最上型ヲ更ニ發展セル八隻ノ重巡洋艦建造ヲ計畫セリ。</p><p class=\"p_spacing\"> </p><p>本計畫艦ノ兵装ハ、従来ノ配置ニ則リ四基三聯装砲塔ニ収ムル二十糎砲十二門ヲ以テ構成シ、其ノ装甲ハ同口径榴弹ニ抗シ得ル程度ト定メラレタリ。後ニ建造隻數ハ四隻ニ減ジ、更ニ其ノ建造計畫全般ハ中止セラレタリ。</p>"
 
 msgid "IDS_PJSC810_FULL"
 msgstr "蔵王 P"
@@ -95870,7 +95876,7 @@ msgid "IDS_PJSC918"
 msgstr "利根 2"
 
 msgid "IDS_PJSC918_DESCR"
-msgstr "<p>To augment the Japanese fleet, the construction of two cruisers based on the Mogami-class design was planned. To improve protection and stability, the design omitted the fifth turret, and the remaining four were relocated to the bow. This allowed for a reduction in the length of the armored belt, lightening the hull and ends of the ship, which in turn improved seakeeping qualities. The freed-up stern section allowed for the placement of seaplanes.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, the Tone, was built in Nagasaki. In 1941, the cruiser participated in the attack on Pearl Harbor and the invasion of Wake Island. In 1942, the Tone covered landings at Rabaul, participated in the Battle of the Java Sea, the Indian Ocean raid, the Battle of Midway, as well as the battles of the Eastern Solomons and the Santa Cruz Islands. In 1944, the ship fought in the Philippine Sea and in Leyte Gulf. The cruiser Tone was sunk in Kure Harbor during an American bomber raid on July 24, 1945.</p>"
+msgstr "<p>最上型ヲ基トセル二隻ノ巡洋艦ガ日本海軍ノ補充計畫ニ於テ建造予定トナレリ。防御力及ビ復原性向上ノ爲、第五砲塔ヲ廃シ、残餘ノ四砲塔ヲ全て艦首部ニ集約配置セリ。此ノ設計変更ニ依リテ装甲帯ノ長サヲ短縮シ、船體重量ヲ軽減シ、艦首艦尾ノ構造モ簡素化サレ、耐航性ノ向上ヲ得タリ。解放サレタル艦尾部ニハ水上偵察機ノ搭載設備ヲ設ケタリ。</p><p class=\"p_spacing\"> </p><p>同型首艦利根ハ長崎ニ於テ建造セラル。昭和十六年、真珠湾攻击及ビウエーキ島攻略作戦ニ従事セリ。同十七年、ラバウル上陸掩護、ジャワ海海戰、印度洋作戰、ミッドウェー海戰、第二次ソロモン海戰、南太平洋海戰等ニ参加セリ。同十九年、比島沖海戰及ビレイテ湾海戰ニ於テ交戰シ、同二十年七月二十四日、呉軍港ニ於テ米軍爆撃機ノ攻撃ヲ受ケ沈没セリ。</p>"
 
 msgid "IDS_PJSC918_FULL"
 msgstr "利根 2"
@@ -95885,7 +95891,7 @@ msgid "IDS_PJSC919"
 msgstr "利根 3"
 
 msgid "IDS_PJSC919_DESCR"
-msgstr "<p>To augment the Japanese fleet, the construction of two cruisers based on the Mogami-class design was planned. To improve protection and stability, the design omitted the fifth turret, and the remaining four were relocated to the bow. This allowed for a reduction in the length of the armored belt, lightening the hull and ends of the ship, which in turn improved seakeeping qualities. The freed-up stern section allowed for the placement of seaplanes.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, the Tone, was built in Nagasaki. In 1941, the cruiser participated in the attack on Pearl Harbor and the invasion of Wake Island. In 1942, the Tone covered landings at Rabaul, participated in the Battle of the Java Sea, the Indian Ocean raid, the Battle of Midway, as well as the battles of the Eastern Solomons and the Santa Cruz Islands. In 1944, the ship fought in the Philippine Sea and in Leyte Gulf. The cruiser Tone was sunk in Kure Harbor during an American bomber raid on July 24, 1945.</p>"
+msgstr "<p>最上型ヲ基トセル二隻ノ巡洋艦ガ日本海軍ノ補充計畫ニ於テ建造予定トナレリ。防御力及ビ復原性向上ノ爲、第五砲塔ヲ廃シ、残餘ノ四砲塔ヲ全て艦首部ニ集約配置セリ。此ノ設計変更ニ依リテ装甲帯ノ長サヲ短縮シ、船體重量ヲ軽減シ、艦首艦尾ノ構造モ簡素化サレ、耐航性ノ向上ヲ得タリ。解放サレタル艦尾部ニハ水上偵察機ノ搭載設備ヲ設ケタリ。</p><p class=\"p_spacing\"> </p><p>同型首艦利根ハ長崎ニ於テ建造セラル。昭和十六年、真珠湾攻击及ビウエーキ島攻略作戦ニ従事セリ。同十七年、ラバウル上陸掩護、ジャワ海海戰、印度洋作戰、ミッドウェー海戰、第二次ソロモン海戰、南太平洋海戰等ニ参加セリ。同十九年、比島沖海戰及ビレイテ湾海戰ニ於テ交戰シ、同二十年七月二十四日、呉軍港ニ於テ米軍爆撃機ノ攻撃ヲ受ケ沈没セリ。</p>"
 
 msgid "IDS_PJSC919_FULL"
 msgstr "利根 3"
@@ -95915,7 +95921,7 @@ msgid "IDS_PJSD001"
 msgstr "橘"
 
 msgid "IDS_PJSD001_DESCR"
-msgstr "<p>The Sakura-class destroyers were designed based on the Umikaze-class ships. Unlike their predecessors, the new destroyers were equipped with steam engines rather than turbines.</p><p class=\"p_spacing\"> </p><p>Ships of this class became the first destroyers fully designed in Japan, as well as the most modern ships of this type in the Imperial Navy at the start of World War I. In the West, the Sakura-class destroyers became a symbol of the success of Japanese shipbuilding, leading France to order twelve Arabe-class destroyers from Japan.</p><p class=\"p_spacing\"> </p><p>Tachibana, a Sakura-class destroyer, was built in Maizuru. From 1919 to 1925, the ship was engaged in patrolling the Chinese coast. In April 1932, the destroyer was placed in reserve, and in 1936, it was finally decommissioned.</p>"
+msgstr "<p>桜型驅逐艦ハ、海風型驅逐艦ヲ基トシテ設計セラル。前型トノ差異トシテ、新造艦ハタービン機関ノ代リニ往復機関ヲ装備セリ。</p><p class=\"p_spacing\"> </p><p>本型ハ日本ニ於テ全般ノ設計ヲ完了セル初ノ水雷艇ニシテ、第一次大戰開戰時ノ日本海軍ニ於ケル最新鋭ノ同種艦艇タリ。西方諸國ニ於テ本型ハ日本造船技術成功ノ一端ト見做サレ、佛國ハ日本ニ對シアラブ型驅逐艦十二隻ノ建造ヲ發注セリ。</p><p class=\"p_spacing\"> </p><p>同型艦橘ハ舞鶴海軍工廠ニ於テ建造セラル。大正八年至昭和四年、中国沿岸ノ哨戒任務ニ従事セリ。昭和七年四月予備艦ト定メラレ、同十一年全ク除籍セラレタリ。</p>"
 
 msgid "IDS_PJSD001_FULL"
 msgstr "橘"
@@ -95930,7 +95936,7 @@ msgid "IDS_PJSD002"
 msgstr "海風"
 
 msgid "IDS_PJSD002_DESCR"
-msgstr "<p>The experience of the Russo-Japanese War showed that the existing types of destroyers were too small for operations on the open sea. For normal cooperation with the fleet, ships much larger than the 300-ton torpedo boat destroyers were required.</p><p class=\"p_spacing\"> </p><p>Immediately after the war ended, Japan began developing destroyers of increased size. The first were the two Umikaze-class destroyers, whose design was based on British ships of this class. The new destroyers were the first to use steam turbines.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Umikaze, was built in Maizuru. During the First World War, the destroyer participated in the hunt for Admiral Maximilian von Spee's squadron. From 1930, the obsolete Umikaze was used as a minesweeper.</p>"
+msgstr "<p>日露戰争ノ經驗ハ、當時ノ水雷艇ガ外洋作戰ニ不適ナル小型艦タリシコトヲ示セリ。艦隊行動ニ適応スル為ニハ、三百噸級水雷艇ヨリ遥ニ大型ノ艦艇ヲ要セリ。</p><p class=\"p_spacing\"> </p><p>終戰直後、日本ハ増大トン水雷艇ノ設計ニ着手セリ。最初ノ成果トシテ海風型驅逐艦二隻ガ出現セリ。本型ハ英國同種艦ヲ範トシ、新造艦ニ初メテ蒸氣タービン機関ヲ採用セリ。</p><p class=\"p_spacing\"> </p><p>同型首艦海風ハ舞鶴海軍工廠ニ於テ建造セラレ、第一次大戰中、シュペー提督ノ艦隊追撃作戰ニ従事セリ。昭和五年以降、舊式化セル本艦ハ掃海艇トシテ使用セラレタリ。</p>"
 
 msgid "IDS_PJSD002_FULL"
 msgstr "海風"
@@ -95945,7 +95951,7 @@ msgid "IDS_PJSD003"
 msgstr "磯風"
 
 msgid "IDS_PJSD003_DESCR"
-msgstr "<p>The Isokaze-class destroyers were built based on an improved design derived from the Umikaze class. The new destroyers featured increased engine power and were equipped with stronger armament. These ships were intended to escort the Ise and Fusō-class battleships.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Isokaze, was built in Kure. The destroyer participated in World War I, patrolling the coast of China.</p>"
+msgstr "<p>磯風型驅逐艦ハ、海風型ヲ改良セル設計ニ基キ建造セラレタリ。新造艦ニ於テハ機關出力ヲ増大シ、更ニ強力ナル兵装ヲ施セリ。本型ハ伊勢型及ビ扶桑型戰艦ノ護衛艦トシテ計画セラレタリ。</p><p class=\"p_spacing\"> </p><p>同型首艦磯風ハ呉海軍工廠ニ於テ建造セラル。本艦ハ第一次大戰ニ従事シ、中国沿岸ノ哨戒任務ニ任ゼリ。</p>"
 
 msgid "IDS_PJSD003_FULL"
 msgstr "磯風"
@@ -95960,7 +95966,7 @@ msgid "IDS_PJSD004"
 msgstr "峯風"
 
 msgid "IDS_PJSD004_DESCR"
-msgstr "<p>To escort the Amagi-class battlecruisers, Japan built a series of large destroyers. Compared to their predecessors, the Minekaze class featured increased size, a greater number of guns, and the placement of the forward torpedo mount behind the forecastle break. These new ships became the first mass-produced Japanese destroyers equipped with geared turbines.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Minekaze, was built in Maizuru. Upon entering service, the ship was assigned to the 2nd Destroyer Division, which in the 1930s formed the escort for the aircraft carrier Akagi.</p><p class=\"p_spacing\"> </p><p>During the Second Sino-Japanese War, Minekaze patrolled the Chinese coast. In World War II, the by-then obsolete ship participated in patrol and escort operations in the East China Sea and the western Pacific Ocean. The destroyer Minekaze was torpedoed and sunk by the American submarine USS Pogy off the coast of Taiwan on February 10, 1944.</p>"
+msgstr "<p>峯風型驅逐艦ハ、天城型巡洋戰艦ノ護衛ヲ目的トシテ日本ニ於テ建造セル大型驅逐艦シリーズナリ。本型ハ前型ヨリ船體規模ヲ擴大シ、砲門数ヲ増加シ、艦首魚雷發射管ヲ船首楼甲板後方ニ配置セル點ニ特徵アリ。新造艦ハ減速機付タービン機関ヲ装備セル日本初ノ量産驅逐艦タリ。</p><p class=\"p_spacing\"> </p><p>同型首艦峯風ハ舞鶴海軍工廠ニ於テ建造セラル。就役後第二駆逐隊ニ編入サレ、昭和十年代ニ於テ空母赤城ノ護衛任務ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>侵華戦争中、本艦ハ中国沿岸ノ哨戒ニ任ジ、太平洋戰争下既ニ旧式艦トナレルモ、東シナ海及ビ西太平洋方面ノ哨戒・護衛任務ニ従事セリ。昭和十九年二月十日、台灣近海ニ於テ米國潜水艦ポギーノ雷撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD004_FULL"
 msgstr "峯風"
@@ -96035,7 +96041,7 @@ msgid "IDS_PJSD012"
 msgstr "島風"
 
 msgid "IDS_PJSD012_DESCR"
-msgstr "<p>An experimental destroyer with an exceptionally powerful propulsion system, as well as enhanced anti-aircraft and torpedo armament. The planned performance improvements were to be achieved through new boilers with higher steam parameters, developed based on the experience of German designers. Shimakaze was intended to be the lead ship in a series of 16 destroyers, but ultimately remained the only ship of its class ever built.</p><p class=\"p_spacing\"> </p><p>The destroyer Shimakaze was built in Maizuru. During World War II, the ship participated in the evacuation of the Aleutian Islands, escorted convoys, and took part in the Battle of Leyte Gulf. During the Battle of Ormoc Bay on November 11, 1944, the destroyer Shimakaze was sunk by American carrier-based aircraft.</p>"
+msgstr "<p>實驗的驅逐艦島風ハ、超強力機關及ビ強化セル對空・魚雷兵装ヲ有ス。性能向上ハ獨逸技術ノ經驗ニ基ク高圧高温蒸気罐ノ新設計ニ依リ達成セントセリ。島風ハ十六隻シリーズノ首艦タルベキモ、遂ニ同型唯一ノ竣工艦タリシ。</p><p class=\"p_spacing\"> </p><p>本艦ハ舞鶴海軍工廠ニ於テ建造セラル。太平洋戰争下、アリューシャン列島撤収作戰、船團護衛、レイテ湾海戰ニ参加セリ。昭和十九年十一月十一日、オルモック湾海戰ニ於テ米軍艦上機ノ攻撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD012_FULL"
 msgstr "島風"
@@ -96050,7 +96056,7 @@ msgid "IDS_PJSD014"
 msgstr "橘 L"
 
 msgid "IDS_PJSD014_DESCR"
-msgstr "<p>The Sakura-class destroyers were designed based on the Umikaze-class ships. Unlike their predecessors, the new destroyers were equipped with steam engines rather than turbines.</p><p class=\"p_spacing\"> </p><p>Ships of this class became the first destroyers fully designed in Japan, as well as the most modern ships of this type in the Imperial Navy at the start of World War I. In the West, the Sakura-class destroyers became a symbol of the success of Japanese shipbuilding, leading France to order twelve Arabe-class destroyers from Japan.</p><p class=\"p_spacing\"> </p><p>Tachibana, a Sakura-class destroyer, was built in Maizuru. From 1919 to 1925, the ship was engaged in patrolling the Chinese coast. In April 1932, the destroyer was placed in reserve, and in 1936, it was finally decommissioned.</p>"
+msgstr "<p>桜型驅逐艦ハ、海風型驅逐艦ヲ基トシテ設計セラル。前型トノ差異トシテ、新造艦ハタービン機関ノ代リニ往復機関ヲ装備セリ。</p><p class=\"p_spacing\"> </p><p>本型ハ日本ニ於テ全般ノ設計ヲ完了セル初ノ水雷艇ニシテ、第一次大戰開戰時ノ日本海軍ニ於ケル最新鋭ノ同種艦艇タリ。西方諸國ニ於テ本型ハ日本造船技術成功ノ一端ト見做サレ、佛國ハ日本ニ對シアラブ型驅逐艦十二隻ノ建造ヲ發注セリ。</p><p class=\"p_spacing\"> </p><p>同型艦橘ハ舞鶴海軍工廠ニ於テ建造セラル。大正八年至昭和四年、中国沿岸ノ哨戒任務ニ従事セリ。昭和七年四月予備艦ト定メラレ、同十一年全ク除籍セラレタリ。</p>"
 
 msgid "IDS_PJSD014_FULL"
 msgstr "橘 Lima"
@@ -96065,7 +96071,7 @@ msgid "IDS_PJSD017"
 msgstr "風神"
 
 msgid "IDS_PJSD017_DESCR"
-msgstr "<p>The second series of the Minekaze-class destroyers, also known as the Kamikaze class, differed from its predecessors in its draft, which was increased to improve seaworthiness. The lead ship of the series was built in Nagasaki at the Mitsubishi shipyard.</p><p class=\"p_spacing\"> </p><p>During World War II, the ship participated in the Aleutian Islands campaign and escorted convoys to the Kuril Islands. In January 1945, the destroyer was transferred to the Combined Fleet, after which it escorted the Ise-class battleships on their voyage from Singapore to Japan and then patrolled the Malay coast.</p><p class=\"p_spacing\"> </p><p>In October 1945, the ship was decommissioned from the fleet and used as a transport for demobilized Japanese soldiers. The destroyer ran aground off Cape Omaezaki on June 7, 1946, and was scrapped the following year.</p>"
+msgstr "<p>神風型驅逐艦ハ、峯風型ノ第二群ニシテ、前型トノ差異トシテ、耐航性ノ改善ヲ圖リ喫水ヲ増大セリ。同型首艦ハ三菱長崎造船所ニ於テ建造セラレタリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争中、本艦ハアリューシャン作戰ニ參加シ、千島列島方面ノ船團護衛ニ従事セリ。昭和二十年一月、聯合艦隊ニ編入サレタル後、伊勢型戰艦ヲ昭南ヨリ内地迄護衛シ、更ニ馬來沿岸ノ哨戒任務ニ就ケリ。</p><p class=\"p_spacing\"> </p><p>同年十月、除籍サレタル後、復員者輸送任務ニ従事セリ。昭和二十一年六月七日、御前崎沖ニ於テ坐礁シ、翌年解体處分ト爲レリ。</p>"
 
 msgid "IDS_PJSD017_FULL"
 msgstr "風神"
@@ -96080,7 +96086,7 @@ msgid "IDS_PJSD024"
 msgstr "若竹"
 
 msgid "IDS_PJSD024_DESCR"
-msgstr "<p>In the Japanese Navy of the 1910s, destroyers were divided into Class I and Class II. The latter were significantly smaller and cheaper, meaning they could be built in larger numbers. The last of these small destroyers were the Wakatake-class ships, built between 1921 and 1923. These ships were an enlarged version of the preceding Momi-class.</p><p class=\"p_spacing\"> </p><p>The destroyer Wakatake was built in Kobe at the Kawasaki shipyard. The ship participated in the Second Sino-Japanese War, patrolling the Chinese coast. During World War II, it served as an escort vessel. The ship was sunk during an Allied air raid on Palau on March 30, 1944.</p>"
+msgstr "<p>大正年代ノ日本海軍ニ於テ、驅逐艦ハ一等及ビ二等ニ類別サレタリ。後者ハ船體著シク小型廉價ニシテ、故ニ多数建造ノ可能ナリシ。最後ノ二等驅逐艦トシテ、大正十至十二年ニ建造セラレタル若竹型アリ。本型ハ前型樅型ヲ擴大セルモノタリ。</p><p class=\"p_spacing\"> </p><p>同型艦若竹ハ川崎神戸造船所ニ於テ建造セラレ、侵華戦争ニ從ヒ中国沿岸哨戒ニ任ジ、太平洋戰争下ニ於テハ護衛艦任務ニ従事セリ。昭和十九年三月三十日、連合軍ノパラオ空襲ニ際シ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD024_FULL"
 msgstr "若竹"
@@ -96095,7 +96101,7 @@ msgid "IDS_PJSD025"
 msgstr "神風"
 
 msgid "IDS_PJSD025_DESCR"
-msgstr "<p>The second series of the Minekaze-class destroyers, also known as the Kamikaze class, differed from its predecessors in its draft, which was increased to improve seaworthiness.</p><p class=\"p_spacing\"> </p><p>The lead ship of the series was built in Nagasaki at the Mitsubishi shipyard. In August 1928, the destroyer was named Kamikaze.</p><p class=\"p_spacing\"> </p><p>During World War II, the ship participated in the Aleutian Islands campaign and escorted convoys to the Kuril Islands. In January 1945, the destroyer was transferred to the Combined Fleet, after which it escorted the Ise-class battleships on their voyage from Singapore to Japan and then patrolled the Malay coast.</p><p class=\"p_spacing\"> </p><p>In October 1945, the ship was decommissioned and used as a transport for demobilized Japanese soldiers. The destroyer ran aground off Cape Omaezaki on June 7, 1946, and was scrapped the following year.</p>"
+msgstr "<p>神風型驅逐艦ハ、峯風型ノ第二群ニシテ、前型トノ差異トシテ、耐航性ノ改善ヲ圖リ喫水ヲ増大セリ。</p><p class=\"p_spacing\"> </p><p>同型首艦ハ三菱長崎造船所ニ於テ建造サレ、昭和三年八月「神風」ト命名セラレタリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争中、本艦ハアリューシャン作戰ニ參加シ、千島列島方面ノ船團護衛ニ従事セリ。昭和二十年一月、聯合艦隊ニ編入サレタル後、伊勢型戰艦ヲ昭南ヨリ内地迄護衛シ、更ニ馬來沿岸ノ哨戒任務ニ就ケリ。</p><p class=\"p_spacing\"> </p><p>昭和二十年十月、除籍サレタル後、復員者輸送任務ニ従事セリ。同二十一年六月七日、御前崎沖ニ於テ坐礁シ、翌年解体處分ト爲レリ。</p>"
 
 msgid "IDS_PJSD025_FULL"
 msgstr "神風"
@@ -96110,7 +96116,7 @@ msgid "IDS_PJSD026"
 msgstr "神風 R"
 
 msgid "IDS_PJSD026_DESCR"
-msgstr "<p>The second series of the Minekaze-class destroyers, also known as the Kamikaze class, differed from its predecessors in its draft, which was increased to improve seaworthiness.</p><p class=\"p_spacing\"> </p><p>The lead ship of the series was built in Nagasaki at the Mitsubishi shipyard. In August 1928, the destroyer was named Kamikaze.</p><p class=\"p_spacing\"> </p><p>During World War II, the ship participated in the Aleutian Islands campaign and escorted convoys to the Kuril Islands. In January 1945, the destroyer was transferred to the Combined Fleet, after which it escorted the Ise-class battleships on their voyage from Singapore to Japan and then patrolled the Malay coast.</p><p class=\"p_spacing\"> </p><p>In October 1945, the ship was decommissioned and used as a transport for demobilized Japanese soldiers. The destroyer ran aground off Cape Omaezaki on June 7, 1946, and was scrapped the following year.</p>"
+msgstr "<p>神風型驅逐艦ハ、峯風型ノ第二群ニシテ、前型トノ差異トシテ、耐航性ノ改善ヲ圖リ喫水ヲ増大セリ。</p><p class=\"p_spacing\"> </p><p>同型首艦ハ三菱長崎造船所ニ於テ建造サレ、昭和三年八月「神風」ト命名セラレタリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争中、本艦ハアリューシャン作戰ニ參加シ、千島列島方面ノ船團護衛ニ従事セリ。昭和二十年一月、聯合艦隊ニ編入サレタル後、伊勢型戰艦ヲ昭南ヨリ内地迄護衛シ、更ニ馬來沿岸ノ哨戒任務ニ就ケリ。</p><p class=\"p_spacing\"> </p><p>同年十月、除籍サレタル後、復員者輸送任務ニ従事セリ。昭和二十一年六月七日、御前崎沖ニ於テ坐礁シ、翌年解体處分ト爲レリ。</p>"
 
 msgid "IDS_PJSD026_FULL"
 msgstr "神風 R"
@@ -96125,7 +96131,7 @@ msgid "IDS_PJSD105"
 msgstr "睦月"
 
 msgid "IDS_PJSD105_DESCR"
-msgstr "<p>The Mutsuki-class destroyers were built to an improved design based on the Kamikaze class. These new ships became the last type of Japanese destroyers with a torpedo launcher mounted forward of the bridge superstructure. Furthermore, the torpedo launchers became triple-tube mounts, which allowed their number to be reduced while maintaining the same number of torpedoes in a broadside salvo, and the torpedo caliber was increased to 610 mm.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Mutsuki, was built in Sasebo. The destroyer participated in the Second Sino-Japanese War and World War II. In December 1941, serving as the flagship of the 30th Destroyer Division, it took part in the unsuccessful landing on Wake Island, and in 1942—in landings on the Solomon Islands and New Guinea. The ship was sunk by American land-based aircraft as a result of a bomb hit near the Solomon Islands on August 24, 1942.</p>"
+msgstr "<p>睦月型驅逐艦ハ、神風型ヲ改良セル設計ニ基キテ建造セラレタリ。新造艦ハ、艦首構造物前方ニ魚雷發射管ヲ配置セル最後ノ日本驅逐艦タリ。該發射管ハ三聯装トナリ、舷側斉射雷数ハ變ラザルモ發射管数ヲ減ジ、魚雷口径ハ六十糎ニ増大セリ。</p><p class=\"p_spacing\"> </p><p>同型首艦睦月ハ佐世保ニ於テ建造セラル。本艦ハ侵華戦争及ビ太平洋戰争ニ従事セリ。昭和十六年十二月、第三十驅逐隊旗艦トシテウエーキ島上陸作戰ニ参加シ、同十七年ニハソロモン諸島及ビニューギニア上陸作戰ニ従事セリ。昭和十七年八月二十四日、ソロモン諸島近海ニ於テ米國基地航空隊ノ爆撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD105_FULL"
 msgstr "睦月"
@@ -96140,7 +96146,7 @@ msgid "IDS_PJSD106"
 msgstr "吹雪"
 
 msgid "IDS_PJSD106_DESCR"
-msgstr "<p>In 1922, Japan signed the Washington Naval Treaty, which limited the total tonnage of battleships and aircraft carriers. However, the restrictions did not apply to ships with a displacement of up to 10,000 tons.</p><p class=\"p_spacing\"> </p><p>In October 1922, the technical design for a destroyer with a displacement of 2000 tons was created. During its development, the displacement was reduced to 1900 tons, while the caliber of the main artillery was increased and a third torpedo launcher was added. As a result, the destroyers possessed outstanding specific combat power, but this came at the cost of significant construction overload and poor stability.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Fubuki, was built in Maizuru. During World War II, the destroyer covered Japanese landings in French Indochina, Malaya, and the Dutch East Indies, participated in the Battle of the Sunda Strait and the Battle of Midway. Fubuki was sunk by artillery fire from American cruisers and destroyers in the Battle of Cape Esperance on October 11, 1942.</p>"
+msgstr "<p>大正十一年、日本國華府海軍條約ヲ締結シ、戰艦及航空母艦ノ總噸數制限ヲ受ケタリ。然レドモ一萬噸以下ノ艦艇ニ對シテハ何等ノ制限ナカリキ。</p><p class=\"p_spacing\"> </p><p>同年十月、二千噸型驅逐艦ノ基本計畫成ル。設計途上、排水量千九百噸ニ減ジタルモ、主砲口径増大シ、更ニ第三番魚雷發射管増設セリ。是ニ因リテ本型ハ格別ノ單位戰闘力ヲ得タレドモ、著シキ建造過重及ビ復原性不良ノ代償トナレリ。</p><p class=\"p_spacing\"> </p><p>同型首艦吹雪ハ舞鶴海軍工廠ニ於テ建造セラル。第二次世界大戰中、本艦ハ佛印、馬來、蘭印方面ノ上陸作戰掩護、スンダ海峡海戰、ミッドウェー海戰等ニ従事セリ。昭和十七年十月十一日、エスペランス岬沖海戰ニ於テ、米國巡洋艦及ビ驅逐艦ノ砲撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD106_FULL"
 msgstr "吹雪"
@@ -96155,7 +96161,7 @@ msgid "IDS_PJSD107"
 msgstr "暁"
 
 msgid "IDS_PJSD107_DESCR"
-msgstr "<p>The Akatsuki-class destroyer project was based on the Fubuki class, featuring a slightly shorter hull and reduced displacement. By increasing boiler steam production, it was possible to reduce their total number from four to three.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Akatsuki, was built in Sasebo. Upon commissioning, the destroyer was assigned to the 6th Destroyer Division. During World War II, the ship covered Japanese landings in Malaya, the Dutch East Indies, and the Philippines, and participated in the Solomon Islands campaign. The destroyer was involved in the \"Tokyo Express\" runs—reinforcement deliveries by light combat vessels. Akatsuki was sunk by naval gunfire from a U.S. Navy cruiser and destroyer task force in the Battle of Cape Esperance on October 13, 1942.</p>"
+msgstr "<p>暁型駆逐艦ノ設計ハ吹雪型ニ基キ、船体稍々短縮、排水量軽減セリ。罐ノ蒸気発生量増大ニ因リ、罐数四基ヲ三基ニ減ジ得タリ。</p><p class=\"p_spacing\"> </p><p>同型首艦暁ハ佐世保ニ於テ建造セラル。就役後第六駆逐隊ニ編入サレタリ。第二次世界大戦中、本艦ハ馬來、蘭印、比島方面ノ上陸掩護、並ニソロモン諸島戰役ニ従事シ、所謂「東京急行」ノ増援輸送任務ニ従事セリ。昭和十七年十月十三日、サボ島沖海戰ニ於テ、米國巡洋艦・駆逐艦部隊ノ砲撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD107_FULL"
 msgstr "暁"
@@ -96170,7 +96176,7 @@ msgid "IDS_PJSD108"
 msgstr "秋月"
 
 msgid "IDS_PJSD108_DESCR"
-msgstr "<p>The Akizuki-class destroyers were planned as specialized anti-aircraft ships for escorting fast carrier task forces. Their primary armament was to consist of eight state-of-the-art 100mm/65 caliber guns, around which the ship was essentially designed. The destroyers turned out to be significantly larger than their predecessors.</p><p class=\"p_spacing\"> </p><p>The lead ship, Akizuki, was built in Maizuru. During World War II, the destroyer participated in the Battle of the Eastern Solomons and the Guadalcanal Campaign, the Battle of the Philippine Sea, and the Battle of Leyte Gulf. During the Battle off Cape Engaño on October 25, 1944, Akizuki was sunk by an American torpedo.</p>"
+msgstr "<p>秋月型驅逐艦ハ、高速空母機動部隊ノ護衛タル專用對空艦トシテ計畫セラレタリ。主兵装ハ新式十糎六十五口径砲八門ニシテ、本艦ハ實質的ニ該兵装ヲ中心トシテ設計セラレタリ。本型ハ前型諸艦ヨリ著シク大型トナレリ。</p><p class=\"p_spacing\"> </p><p>同型首艦秋月ハ舞鶴海軍工廠ニ於テ建造セラル。第二次世界大戰中、本艦ハ第二次ソロモン海戰、ガダルカナル島戰役、比島沖海戰、レイテ灣海戰等ニ従事セリ。昭和十九年十月二十五日、エンガノ岬沖海戰ニ於テ、米軍ノ放チシ魚雷ニ依リ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD108_FULL"
 msgstr "秋月"
@@ -96185,7 +96191,7 @@ msgid "IDS_PJSD111"
 msgstr "山霧"
 
 msgid "IDS_PJSD111_DESCR"
-msgstr "<p>In 1939, Japan ordered an experimental destroyer based on an improved design of the Yūgumo class. The ship was equipped with enhanced torpedo armament and a powerful propulsion system that allowed it to achieve high speeds during trials.</p><p class=\"p_spacing\"> </p><p>The initial design proposed using six- or seven-tube torpedo launchers to create a powerful broadside salvo. However, the project had to be abandoned due to the excessive total weight of the torpedo launchers and their rapid reload systems.</p>"
+msgstr "<p>昭和十四年、夕雲型駆逐艦ヲ基トスル改良設計ニ基キ、實驗的駆逐艦一隻ノ建造ヲ發注セリ。本艦ハ強化セル魚雷兵装及ビ强力ナル機關ヲ備ヘ、公試運轉ニ於テ高速ヲ發揮シ得タリ。</p><p class=\"p_spacing\"> </p><p>当初ノ計畫ニ於テハ、强力ナる舷側斉射火力ヲ得ンガ爲、六乃至七聯装魚雷發射管ノ採用ヲ考ヘタレドモ、該發射管及ビ迅速再装填装置ノ過大ナる重量ノ爲、本計畫ハ遂ニ見合ハセラレタリ。</p>"
 
 msgid "IDS_PJSD111_FULL"
 msgstr "山霧"
@@ -96200,7 +96206,7 @@ msgid "IDS_PJSD206"
 msgstr "初春"
 
 msgid "IDS_PJSD206_DESCR"
-msgstr "<p>A lighter version of the Fubuki-class destroyer, constructed with extensive use of welding and stronger grades of steel. The ship represented an attempt to create a destroyer that complied with the limitations of the London Naval Treaty while not being inferior to its predecessors in combat capabilities.</p><p class=\"p_spacing\"> </p><p>The Hatsuharu-class destroyers initially had a classic turret arrangement but later underwent radical modernization. The ships' displacement increased and their speed decreased, but the risk of capsizing was reduced.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Hatsuharu, was built in Sasebo. The destroyer participated in World War II: it covered landings in the Dutch East Indies and took part in the Aleutian Islands campaign. In October 1942, the ship was damaged by an aerial bomb and spent a year under repair. In 1944, it participated in the Battle of Leyte Gulf. The destroyer Hatsuharu was sunk by American bombers in Manila Bay on November 13, 1944.</p>"
+msgstr "<p>初春型駆逐艦ハ、溶接技術及ビ高強度鋼材ヲ広ク用ヒ、吹雪型ノ軽量版トシテ建造セラレタリ。本艦ハ、倫敦海軍條約ノ制限内ニ於テ、戦闘能力ヲ前型ニ劣ラシメザル駆逐艦ノ創出ヲ試ミタルモノナリ。</p><p class=\"p_spacing\"> </p><p>初春型駆逐艦ハ本来、通常ノ砲塔配置ヲ有セシガ、後ニ徹底的ナル改造ヲ受ケタリ。是ニ因リ排水量増大、速力低下セルモ、転覆ノ危険ハ減ジタリ。</p><p class=\"p_spacing\"> </p><p>同型首艦初春ハ佐世保ニ於テ建造セラル。本艦ハ第二次世界大戦ニ従事シ、蘭印方面上陸掩護、アリューシャン作戦等ニ参加セリ。昭和十七年十月、爆弾命中ニ依リ損傷、一年間修復工事ヲ要セリ。同十九年、レイテ湾海戦ニ従事セシガ、同年十一月十三日、マニラ湾ニ於テ米軍爆撃機ノ攻撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD206_FULL"
 msgstr "初春"
@@ -96215,7 +96221,7 @@ msgid "IDS_PJSD207"
 msgstr "白露"
 
 msgid "IDS_PJSD207_DESCR"
-msgstr "<p>The Shiratsuyu-class destroyers were built to an improved design based on the Hatsuharu class. The new ships had an increased draft and were armed with two quadruple torpedo launchers.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Shuratsuyu, was built in Sasebo. Upon commissioning, the destroyer joined the 27th Destroyer Division.</p><p class=\"p_spacing\"> </p><p>During World War II, the ship escorted convoys in the western Pacific, participated in the Battle of Midway, the campaigns in the Solomon and Marshall Islands, the First Naval Battle of Guadalcanal, and the Battle of Empress Augusta Bay. On June 14, 1944, near the Surigao Strait, Shiratsuyu collided with the tanker Seiyo Maru and sank due to the damage sustained.</p>"
+msgstr "<p>白露型駆逐艦ハ、初春型ヲ改良セル設計ニ基キテ建造セラレタリ。新造艦ハ喫水ヲ増大シ、四聯装魚雷発射管二基ヲ装備セリ。</p><p class=\"p_spacing\"> </p><p>同型首艦白露ハ佐世保ニ於テ建造セラル。就役後第二十七駆逐隊ニ編入サレタリ。</p><p class=\"p_spacing\"> </p><p>第二次世界大戦中、本艦ハ西太平洋方面ノ船団護衛、ミッドウェー海戦、ソロモン諸島及ビマーシャル諸島戰役、第一次ガダルカナル島海戦、オーガスタ皇后湾海戦等ニ従事セリ。昭和十九年六月十四日、スリガオ海峡近海ニ於テ油槽船清洋丸ト衝突シ、損傷ニ依リ沈没セリ。</p>"
 
 msgid "IDS_PJSD207_FULL"
 msgstr "白露"
@@ -96230,7 +96236,7 @@ msgid "IDS_PJSD208"
 msgstr "陽炎"
 
 msgid "IDS_PJSD208_DESCR"
-msgstr "<p>Japan's refusal to sign the Second London Naval Treaty in 1937 removed all tonnage restrictions for Japanese warships. Consequently, the Imperial Japanese Navy General Staff prepared requirements for a new destroyer: improved stability and increased range compared to preceding ships of this class while retaining their armament. Welding was extensively used in the construction.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Kagerō, was built in Maizuru. During World War II, the destroyer fought in the battles of the Eastern Solomons, the Santa Cruz Islands, Guadalcanal, and Tassafaronga. The destroyer Kagerō was damaged by a naval mine near Vila port in the Solomon Islands on May 7, 1943, was nearly immobilized, and was destroyed a short time later by aircraft.</p>"
+msgstr "<p>昭和十二年、日本國第二回倫敦海軍條約ヲ調印セザリシヲ以テ、日本國艦船ノ噸數制限ハ全ク撤廢セラレタリ。依テ軍令部ハ新造駆逐艦ニ對シ、従来ノ同種艦ト同等ノ兵装ヲ保チツツ、復原性ノ改善及ビ航續力ノ増大ヲ要求セリ。船體構造ニ熔接技術ヲ廣ク應用セリ。</p><p class=\"p_spacing\"> </p><p>同型首艦陽炎ハ舞鶴海軍工廠ニ於テ建造セラル。太平洋戰爭中、本艦ハ第二次ソロモン海戰、南太平洋海戰、ガダルカナル島戰役、タサファロング岬沖海戰等ニ従事セリ。昭和十八年五月七日、ソロモン諸島ビラ港近海ニ於て機雷ニ觸レ損傷、殆ド航行能力ヲ喪失セシガ、間モ無ク航空攻撃ニ依リ撃破セラレタリ。</p>"
 
 msgid "IDS_PJSD208_FULL"
 msgstr "陽炎"
@@ -96245,7 +96251,7 @@ msgid "IDS_PJSD209"
 msgstr "夕雲"
 
 msgid "IDS_PJSD209_DESCR"
-msgstr "<p>The Yūgumo-class destroyers were built to an improved design based on the Kagerō class. They differed from their predecessors primarily in their new type of gun mount.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Yūgumo, was built in Maizuru. During World War II, the destroyer fought at the Battle of Midway, the Eastern Solomons, and the Santa Cruz Islands, and delivered reinforcements to Guadalcanal. In 1943, the ship was primarily engaged in troop evacuations — from the Aleutians to the Solomons. The destroyer Yūgumo was sunk by American destroyers near Vella Lavella Island on October 7, 1943.</p>"
+msgstr "<p>夕雲型驅逐艦ハ、陽炎型ヲ改良セル設計ニ基キテ建造セラレタリ。本型ハ主トシテ新式砲架ノ採用ニ於テ前型ト相違ス。</p><p class=\"p_spacing\"> </p><p>同型首艦夕雲ハ舞鶴海軍工廠ニ於テ建造セラル。太平洋戰爭中、本艦ハミッドウェー海戰、第二次ソロモン海戰、南太平洋海戰ニ従事シ、ガダルカナル島ヘノ増援輸送ヲ擔ヘリ。昭和十八年、主トシテアリューシャン列島乃至ソロモン諸島ニ於ケル友軍撤収作戦ニ従事セリ。同年十月七日、ベララベラ島近海ニ於テ米國駆逐艦ノ攻撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD209_FULL"
 msgstr "夕雲"
@@ -96260,7 +96266,7 @@ msgid "IDS_PJSD210"
 msgstr "春雲"
 
 msgid "IDS_PJSD210_DESCR"
-msgstr "<p>A variant of Japanese destroyer development aimed at enhancing combat capabilities based on the Akizuki-class ships.</p><p class=\"p_spacing\"> </p><p>The number of main battery turrets has been increased to five, and to maintain an acceptable speed, the main propulsion system from the experimental destroyer Shimakaze has been adopted. For the basis of the small-caliber anti-aircraft artillery, a 40-mm mount developed by Japanese engineers based on captured Bofors guns is used.</p>"
+msgstr "<p>秋月型駆逐艦ノ戰闘能力向上ヲ目的トセル發展案ナリ。</p><p class=\"p_spacing\"> </p><p>本計畫ニ於テハ主砲塔ヲ五基ニ増加シ、速力維持ノ爲實驗駆逐艦島風ノ主機關ヲ採用セリ。近接防空火器トシテハ、鹵獲セルボフォース砲ニ基キ日本技術ヲ以テ開發セル四十粍機銃ヲ基本トセリ。</p>"
 
 msgid "IDS_PJSD210_FULL"
 msgstr "春雲"
@@ -96275,7 +96281,7 @@ msgid "IDS_PJSD219"
 msgstr "北風"
 
 msgid "IDS_PJSD219_DESCR"
-msgstr "<p>After the experimental destroyer Shimakaze was laid down in 1941, intended to mark a new milestone in Japanese shipbuilding, 16 ships of this type were included in the fleet replenishment program. However, the heavy losses inflicted by American aviation in 1942 forced Japan to revise the program and replace some of these ships with Akizuki-class destroyers.</p><p class=\"p_spacing\"> </p><p>In October 1943, seven ships based on an improved design of the Akizuki class were ordered. In May of the following year, their construction was canceled, as the fleet required mass-produced and inexpensive ships for convoy escort, not expensive and time-consuming destroyers. Subsequently, the resources intended for these destroyers were used in the construction of Tachibana-class escort destroyers and Kaibōkan — Japanese escort ships.</p>"
+msgstr "<p>昭和十六年實驗駆逐艦島風ノ起工ヲ以テ日本造船術新段階ヲ画セシ後、同型十六隻ノ建造ガ艦隊補充計畫ニ包含セラレタリ。然ルニ昭和十七年米國航空兵力ニ因ル甚大ナル損害ヲ受ケタルガ故ニ、日本ハ當該計畫ヲ再檢討シ、該艦數隻ヲ秋月型駆逐艦ニ代替セシメタリ。</p><p class=\"p_spacing\"> </p><p>昭和十八年十月、秋月型ヲ改良セル設計ニ基キ七隻ノ建造ヲ發注セリ。翌十九年五月、本建造計畫ハ全テ中止サレ、其ノ由トシテ、艦隊ハ高價且建造長期ヲ要スル駆逐艦ヨリモ、量産容易ニシテ廉價ナル輸送船護衛艦艇ヲ要セシ爲ナリ。爾後、本駆逐艦建造用資材ハ、橘型海防艦及ビ海防艦ノ建造ニ轉用セラレタリ。</p>"
 
 msgid "IDS_PJSD219_FULL"
 msgstr "北風"
@@ -96320,7 +96326,7 @@ msgid "IDS_PJSD507"
 msgstr "夕立"
 
 msgid "IDS_PJSD507_DESCR"
-msgstr "<p>Yūdachi, a Shiratsuyu-class destroyer, was built in Sasebo. During World War II, the ship escorted troop transports during the invasions of the Philippines and the Dutch East Indies, and participated in the Battle of the Java Sea and the Battle of the Santa Cruz Islands. In September 1942, the destroyer began running supply runs on the route to Guadalcanal.</p><p class=\"p_spacing\"> </p><p>During the Naval Battle of Guadalcanal, the ship lost power due to damage inflicted by the destroyer USS Sterett and was abandoned by its crew. The abandoned Yūdachi was finished off by gunfire from the cruiser USS Portland southeast of Savo Island.</p>"
+msgstr "<p>夕立ハ白露型驅逐艦ニシテ、佐世保ニ於テ建造セラル。太平洋戰爭中、本艦ハ比島及ビ蘭印進攻作戦ニ於ケル兵員輸送船護衛、ジャワ海海戰、南太平洋海戰等ニ従事セリ。昭和十七年九月、ガダルカナル島ヘノ補給線任務ニ就ケリ。</p><p class=\"p_spacing\"> </p><p>ガダルカナル島海戰ニ際シ、本艦ハ米國驅逐艦ステレットノ攻撃ヲ受ケ航行不能トナリ、乗員ハ之ヲ放棄セリ。遺棄サレタル夕立ハ、サボ島南東海面ニ於テ米國巡洋艦ポートランドノ砲撃ヲ受ケ轟沈セリ。</p>"
 
 msgid "IDS_PJSD507_FULL"
 msgstr "夕立"
@@ -96335,7 +96341,7 @@ msgid "IDS_PJSD510"
 msgstr "疾風"
 
 msgid "IDS_PJSD510_DESCR"
-msgstr "<p>A hypothetical project of a Shimakaze-class destroyer, armed with a twin 127-mm universal naval gun mount.</p><p class=\"p_spacing\"> </p><p>The new mount was developed towards the end of World War II; its key features were the use of unitary ammunition and an increased rate of fire. Equipped with such modern armament, this ship could have been significantly more effective in countering enemy aircraft at high altitudes and would have gained a firepower advantage in artillery duels with enemy light forces.</p>"
+msgstr "<p>本計畫ハ島風型驅逐艦ノ假想改修案ニシテ、十二糎七高角兩用砲二聯装砲塔ヲ装備セシムルモノナリ。</p><p class=\"p_spacing\"> </p><p>本新砲塔ハ大戰末期ニ於テ開發サレ、薬莢一体型弾使用及ビ高射速ヲ特徵トセリ。本近代的兵装ニ因リ、該艦ハ高空侵入スル敵航空兵力ニ對シ著シク効果的ナル對抗能力ヲ得、更ニ敵軽快艦艇トノ砲撃戰ニ於テモ火力優位ヲ占ムルコトヲ得ベシ。</p>"
 
 msgid "IDS_PJSD510_FULL"
 msgstr "疾風"
@@ -96350,7 +96356,7 @@ msgid "IDS_PJSD512"
 msgstr "漣"
 
 msgid "IDS_PJSD512_DESCR"
-msgstr "<p>The Ikazuchi-class torpedo boats were built between 1897 and 1899 by the British firm Yarrow. The ships participated in the suppression of the Boxer Rebellion in China and then fought in the Russo-Japanese War.</p><p class=\"p_spacing\"> </p><p>Sazanami was laid down in June 1897, launched and commissioned in August 1899, and arrived in Japan in 1900. It participated in the Russo-Japanese War, engaging in battle with the Russian torpedo boat Steregushchy and capturing the severely wounded Admiral Z. Rozhestvensky, who was aboard the destroyer Bedovy during the Battle of Tsushima.</p>"
+msgstr "<p>雷型水雷艇ハ明治三十乃至三十二年、英國ヤーロウ社ニ於テ建造サレタリ。本型ハ北清義和団事變鎮圧作戰ニ従事シ、後ニ日露戰争ニ參加セリ。</p><p class=\"p_spacing\"> </p><p>漣ハ明治三十年六月起工、同三十二年八月進水竝ニ就役ス。同三十三年日本國ニ廻航セリ。日露戰争ニ於テは露國水雷艇ステレグーシチー號トノ交戰、日本海海戰ニ從事シ、同海戰ニ於テ重傷ヲ負ヒタルロジェストヴェンスキー提督ガ搭乘セル露國驅逐艦ベードーヴイ號ヲ捕獲セリ。</p>"
 
 msgid "IDS_PJSD512_FULL"
 msgstr "漣"
@@ -96365,7 +96371,7 @@ msgid "IDS_PJSD518"
 msgstr "朝潮"
 
 msgid "IDS_PJSD518_DESCR"
-msgstr "<p>The Imperial Japanese Navy General Staff was dissatisfied that the Shiratsuyu class was inferior in speed and firepower to the Fubuki-class ships. As a result, the new Asashio-class destroyers were built with a design significantly altered from their predecessors. Meeting the new requirements was only possible if the displacement exceeded the limits of the London Naval Treaty, but by this time Japan had already privately abandoned compliance with them.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Asashio, was built in Sasebo. During World War II, the destroyer participated in the landings in the Philippines and Malaya, fought in the Badung Strait, and in the battles of Midway and Guadalcanal. The destroyer Asashio was sunk by American bombers in the Battle of the Bismarck Sea on March 3, 1943.</p>"
+msgstr "<p>朝潮型駆逐艦ハ、白露型ガ吹雪型ニ比シ速力及火力ニ於テ劣レルコトヲ以テ、海軍軍令部ノ不興ヲ招ケリ。是故ニ新造艦ハ其ノ構造ヲ前型ヨリ著シク變更セリ。新要求ヲ充足スルハ排水量ガ倫敦海軍條約ノ制限ヲ超ユルヲ以テノミ可能ナリシガ、此時既ニ日本國ハ私的ニ該條約遵守ヲ放棄セリ。</p><p class=\"p_spacing\"> </p><p>同型首艦朝潮ハ佐世保ニ於テ建造セラル。太平洋戰爭中、本艦ハ比島及馬來上陸作戦、バドゥン海峡海戰、ミッドウェー海戰、ガダルカナル島戰役等ニ従事セリ。昭和十八年三月三日、ビスマルク海海戰ニ於テ米軍爆撃機ノ攻撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD518_FULL"
 msgstr "朝潮"
@@ -96412,7 +96418,7 @@ msgid "IDS_PJSD596"
 msgstr "東雲 B"
 
 msgid "IDS_PJSD596_DESCR"
-msgstr "<p>Shinonome, a Fubuki-class destroyer, was built in Sasebo. Upon commissioning, the ship was assigned to the Imperial Japanese Navy's 12th Destroyer Division. During the Second Sino-Japanese War, it patrolled the coast.</p><p class=\"p_spacing\"> </p><p>In World War II, the destroyer participated in the invasion of French Indochina, covered the Japanese troop landings at Kota Bharu in Malaya and the Borneo landings. Shinonome was sunk on December 17, 1941, off the coast of Sarawak by two bombs from a Dornier Do 24 flying boat, which detonated the aft magazines.</p>"
+msgstr "<p>東雲ハ吹雪型驅逐艦ニシテ、佐世保ニ於テ建造セラル。就役後、日本海軍第十二駆逐隊ニ編入サレタリ。侵華戦争中、沿岸哨戒ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争ニ於テハ、佛印進駐作戰、馬來コタバル上陸掩護、ボルネオ島上陸作戰等ニ參與セリ。昭和十六年十二月十七日、サラワク沖ニ於テ獨逸飛行艇ドルニエDo二十四ノ投下セル爆彈二発ヲ受ケ、艦尾火藥庫誘爆ニ因リ沈没セリ。</p>"
 
 msgid "IDS_PJSD596_FULL"
 msgstr "東雲 B"
@@ -96427,7 +96433,7 @@ msgid "IDS_PJSD598"
 msgstr "朝潮 B"
 
 msgid "IDS_PJSD598_DESCR"
-msgstr "<p>The Imperial Japanese Navy General Staff was dissatisfied that the Shiratsuyu class was inferior in speed and firepower to the Fubuki-class ships. As a result, the new Asashio-class destroyers were built with a design significantly altered from their predecessors. Meeting the new requirements was only possible if the displacement exceeded the limits of the London Naval Treaty, but by this time Japan had already privately abandoned compliance with them.</p><p class=\"p_spacing\"> </p><p>The lead ship of the class, Asashio, was built in Sasebo. During World War II, the destroyer participated in the landings in the Philippines and Malaya, fought in the Badung Strait, and in the battles of Midway and Guadalcanal. The destroyer Asashio was sunk by American bombers in the Battle of the Bismarck Sea on March 3, 1943.</p>"
+msgstr "<p>朝潮型駆逐艦ハ、白露型ガ吹雪型ニ比シ速力及火力ニ於テ劣レルコトヲ以テ、海軍軍令部ノ不興ヲ招ケリ。是故ニ新造艦ハ其ノ構造ヲ前型ヨリ著シク變更セリ。新要求ヲ充足スルハ排水量ガ倫敦海軍條約ノ制限ヲ超ユルヲ以テノミ可能ナリシガ、此時既ニ日本國ハ私的ニ該條約遵守ヲ放棄セリ。</p><p class=\"p_spacing\"> </p><p>同型首艦朝潮ハ佐世保ニ於テ建造セラル。太平洋戰爭中、本艦ハ比島及馬來上陸作戦、バドゥン海峡海戰、ミッドウェー海戰、ガダルカナル島戰役等ニ従事セリ。昭和十八年三月三日、ビスマルク海海戰ニ於テ米軍爆撃機ノ攻撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD598_FULL"
 msgstr "朝潮 B"
@@ -96442,7 +96448,7 @@ msgid "IDS_PJSD610"
 msgstr "夏風"
 
 msgid "IDS_PJSD610_DESCR"
-msgstr "<p>The experimental destroyer Shimakaze, commissioned in 1943, was intended to be the lead ship of a new class. Under this project, 15 more destroyers were prepared for construction.</p><p class=\"p_spacing\"> </p><p>If one of the planned ships had been built, it could have received 533-mm torpedo tubes with fast reload and high torpedo speed.</p>"
+msgstr "<p>島風ハ昭和十八年に就役せる實驗的駆逐艦ニシテ、新シキ艦型ノ嚆矢タルベキモノナリキ。本設計ニ基キ、更ニ十五隻ノ駆逐艦建造ノ準備整ヘリ。</p><p class=\"p_spacing\"> </p><p>若シ該計畫艦一隻ナリトモ建造セラレシナラバ、速やかなる再装填可能ナる五十三糎三魚雷発射管及ビ高速魚雷ヲ装備シ得シモノト思考セラル。</p>"
 
 msgid "IDS_PJSD610_FULL"
 msgstr "夏風"
@@ -96457,7 +96463,7 @@ msgid "IDS_PJSD706"
 msgstr "東雲"
 
 msgid "IDS_PJSD706_DESCR"
-msgstr "<p>Shinonome, a Fubuki-class destroyer, was built in Sasebo. Upon commissioning, the ship was assigned to the Imperial Japanese Navy's 12th Destroyer Division. During the Second Sino-Japanese War, it patrolled the coast.</p><p class=\"p_spacing\"> </p><p>In World War II, the destroyer participated in the invasion of French Indochina, covered the Japanese troop landings at Kota Bharu in Malaya and the Borneo landings. Shinonome was sunk on December 17, 1941, off the coast of Sarawak by two bombs from a Dornier Do 24 flying boat, which detonated the aft magazines.</p>"
+msgstr "<p>東雲ハ吹雪型驅逐艦ニシテ、佐世保ニ於テ建造セラル。就役後、日本海軍第十二駆逐隊ニ編入サレタリ。侵華戦争中、沿岸哨戒ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争ニ於テハ、佛印進駐作戰、馬來コタバル上陸掩護、ボルネオ島上陸作戰等ニ參與セリ。昭和十六年十二月十七日、サラワク沖ニ於テ獨逸飛行艇ドルニエDo二十四ノ投下セル爆彈二発ヲ受ケ、艦尾火藥庫誘爆ニ因リ沈没セリ。</p>"
 
 msgid "IDS_PJSD706_FULL"
 msgstr "東雲"
@@ -96516,7 +96522,7 @@ msgid "IDS_PJSD808"
 msgstr "秋月 CLR"
 
 msgid "IDS_PJSD808_DESCR"
-msgstr "<p>The Akizuki-class destroyers were planned as specialized anti-aircraft ships for escorting fast carrier task forces. Their primary armament was to consist of eight state-of-the-art 100mm/65 caliber guns, around which the ship was essentially designed. The destroyers turned out to be significantly larger than their predecessors.</p><p class=\"p_spacing\"> </p><p>The lead ship, Akizuki, was built in Maizuru. During World War II, the destroyer participated in the Battle of the Eastern Solomons and the Guadalcanal Campaign, the Battle of the Philippine Sea, and the Battle of Leyte Gulf. During the Battle off Cape Engaño on October 25, 1944, Akizuki was sunk by an American torpedo.</p>"
+msgstr "<p>秋月型驅逐艦ハ、高速空母機動部隊ノ護衛タル專用對空艦トシテ計畫セラレタリ。主兵装ハ新式十糎六十五口径砲八門ニシテ、本艦ハ實質的ニ該兵装ヲ中心トシテ設計セラレタリ。本型ハ前型諸艦ヨリ著シク大型トナレリ。</p><p class=\"p_spacing\"> </p><p>同型首艦秋月ハ舞鶴海軍工廠ニ於テ建造セラル。第二次世界大戰中、本艦ハ第二次ソロモン海戰、ガダルカナル島戰役、比島沖海戰、レイテ灣海戰等ニ従事セリ。昭和十九年十月二十五日、エンガノ岬沖海戰ニ於テ、米軍ノ放チシ魚雷ニ依リ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD808_FULL"
 msgstr "秋月 CLR"
@@ -96561,7 +96567,7 @@ msgid "IDS_PJSS508"
 msgstr "伊 58"
 
 msgid "IDS_PJSS508_DESCR"
-msgstr "<p>The I-58, a submarine of the Otsu-Gata B3 type, was built in Yokosuka. Even during its construction, it was converted to carry Kaitens—manned torpedoes.</p><p class=\"p_spacing\"> </p><p>During World War II, the I-58 participated in the attack on Guam, the raid on Okinawa, and hunted convoys south of Japan. In July 1945, the submarine sank the cruiser USS Indianapolis. After the war ended, in 1946, the I-58 was scuttled in the Goto Islands area.</p>"
+msgstr "<p>伊號第五十八潜水艦ハ乙型改三潜水艦ニシテ、横須賀海軍工廠ニ於テ建造セラル。建造中既ニ特殊兵器搭載ノ爲改造ヲ受ケ、回天ノ運用可能トナレリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰爭中、本艦ハグアム島攻撃、沖縄襲撃、南方航路ニ於ケル船団攻撃等ニ従事セリ。昭和二十年七月、米國巡洋艦インディアナポリスヲ撃沈セリ。終戰後、同二十一年、五島列島洋上ニ於テ海没処分トナレリ。</p>"
 
 msgid "IDS_PJSS508_FULL"
 msgstr "伊 58"
@@ -96576,7 +96582,7 @@ msgid "IDS_PJSS518"
 msgstr "伊 56"
 
 msgid "IDS_PJSS518_DESCR"
-msgstr "<p>The third submarine of the Otsu-Gata B3 type was built in Yokosuka. I-56 participated in the defense of the Philippine Islands and the Battle of Leyte Gulf, during which it sustained damage.</p><p class=\"p_spacing\"> </p><p>In 1944, the submarine was converted to carry Kaitens — manned torpedoes. In April 1945, during the Battle of Okinawa, I-56 went missing. It is presumed to have been sunk by the escort of the American battleship Missouri.</p>"
+msgstr "<p>伊號第五十六潜水艦ハ乙型改三潜水艦ノ第三番艦ニシテ、横須賀海軍工廠ニ於テ建造セラル。本艦ハ比島防衛作戰及ビレイテ湾海戰ニ參加セシガ、該海戰ニ於テ損傷ヲ受ケタリ。</p><p class=\"p_spacing\"> </p><p>昭和十九年、特殊兵器搭載ノ爲ノ改造ヲ受ケ、回天ノ運用可能トナレリ。同二十年四月、沖縄戰役中消息ヲ絶チタリ。推定ニ依レバ、米國戰艦ミズーリノ護衛艦艇ニ依リ撃沈セラレシモノト思考セラル。</p>"
 
 msgid "IDS_PJSS518_FULL"
 msgstr "伊 56"
@@ -96591,7 +96597,7 @@ msgid "IDS_PJSS520"
 msgstr "伊 2"
 
 msgid "IDS_PJSS520_DESCR"
-msgstr "<p>Within the Kai-Ko-Taka AM type, which was an improvement of the Ko-Gata A2 type, the construction of two series of submarines was planned.</p><p class=\"p_spacing\"> </p><p>The second series was a development of the first: the submarines were to carry not one, but two aircraft, and not reconnaissance planes, but attack aircraft. The cylindrical hangar was shifted to the side, giving the entire structure an unusual appearance. Such submarines were intended to be used for strikes against the locks of the Panama Canal.</p><p class=\"p_spacing\"> </p><p>A total of four boats of this series were planned for construction, but they were never laid down because the attention of the Japanese naval command shifted towards aircraft carriers.</p>"
+msgstr "<p>巡潜甲型改二潜水艦ハ、甲二型潜水艦ノ改良型タリ、二シリーズノ建造計畫アリ。</p><p class=\"p_spacing\"> </p><p>第二シリーズハ第一シリーズノ發展型ニシテ、搭載航空機ヲ偵察機一機カラ攻撃機二機ニ増備セリ。圓筒型格納庫ハ舷側ニ偏倚シ、全体ノ構造特異ナリ。本型潜水艦ハパナマ運河水門攻撃作戦ニ使用セラルルヲ企圖セリ。</p><p class=\"p_spacing\"> </p><p>本シリーズノ潜水艦四隻建造計畫アリシモ、海軍司令部ノ関心ガ航空母艦ニ移行セシ爲遂ニ起工セラレズ。</p>"
 
 msgid "IDS_PJSS520_FULL"
 msgstr "伊 2"
@@ -96606,7 +96612,7 @@ msgid "IDS_PJSS528"
 msgstr "伊 54"
 
 msgid "IDS_PJSS528_DESCR"
-msgstr "<p>The Otsu-Gata type submarine cruisers were designed for long-range reconnaissance and joint operations with surface and other submarine forces. Specifically for this purpose, they were equipped with a catapult and a hangar for one seaplane. The Kaidai 6B type was used as the basis for the project. Compared to other cruiser submarines, the Otsu-Gata type was distinguished by more streamlined forms.</p><p class=\"p_spacing\"> </p><p>Submarines of this type were built in several series. The third series of the type, Otsu-Gata B3, differed from its predecessors by having reduced engine power, which allowed for a significant increase in operational range. The number of spare torpedoes was slightly increased.</p><p class=\"p_spacing\"> </p><p>The lead submarine of the series, I-54, was built in Yokosuka. In the summer of 1944, the submarine participated in the Mariana Islands campaign, evacuating Japanese troops, and in the fall, it took part in the Philippine campaign. At the end of October 1944, during the Battle of Leyte Gulf, I-54 disappeared without a trace.</p>"
+msgstr "<p>乙型潜水巡洋艦ハ、遠距離哨戒及ビ水上艦艇並ニ他ノ潜水艦トノ協同作戰ヲ目的トシテ設計セラレタリ。特ニ本型ハ水上機一機搭載ノ爲ノ射出機及ビ格納庫ヲ備フ。基本設計ハ海大六型乙ニ基ク。他ノ巡航潜水艦トノ差異トシテ、本型ハ流線型ノ船体形状ヲ有セリ。</p><p class=\"p_spacing\"> </p><p>本型潜水艦ハ數次ノシリーズニ分チテ建造セラレタリ。第三シリーズ乙型改三ハ、前型ト比較シ機關出力ヲ減ジ、航續距離ヲ著シク増大セリ。予備魚雷數モ稍々増加セリ。</p><p class=\"p_spacing\"> </p><p>同型首艦伊號第五十四潜水艦ハ横須賀海軍工廠ニ於テ建造セラル。昭和十九年夏、マーシャル諸島作戰ニ従事シテ友軍ノ撤收ニ任ジ、秋季ニハ比島作戰ニ参加セリ。同年十月下旬、レイテ湾海戰ノ際ニ於テ消息絕エタリ。</p>"
 
 msgid "IDS_PJSS528_FULL"
 msgstr "伊 54"
@@ -128014,7 +128020,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL238_STALCRAFT_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL238_STALCRAFT_TITLE"
-msgstr "Stalker's Loot"
+msgstr "ストーカーの採掘品"
 
 msgid "IDS_REWARD_LOOTBOX_PCL238_STALCRAFT_TITLE_QUOTES"
 msgstr "「Stalker's Loot」"
@@ -131004,13 +131010,13 @@ msgid "IDS_SHIP_COMPONENTS_EXCHANGE_WARNING_1"
 msgstr "資材不足"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_WARNING_2"
-msgstr "All available ships are already in your Port"
+msgstr "修復完了なすべての艦艇は、すでに港にあります。"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_WARNING_3"
-msgstr "All available ships are already in your Repair Dock"
+msgstr "修復可能なすべての艦艇は、すでに修理ドックにあります。"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_WARNING_4"
-msgstr "All available ships are already in your Repair Dock or Port"
+msgstr "修復可能なすべての艦艇は、すでに修理ドックまたは港にあります。"
 
 msgid "IDS_SHIP_COMPONENTS_GET_TITLE"
 msgstr "設計図の取得"
@@ -136195,7 +136201,7 @@ msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_JASON_TUMANOFF"
 msgstr "Jason Tumanoff"
 
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_CURATOR"
-msgstr "Curator"
+msgstr "キュレーター"
 
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_ROBOT"
 msgstr "キュレーター"
@@ -137147,13 +137153,13 @@ msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_6"
 msgstr "煙幕による援護、挑発、敵の探知、ミサイルの迎撃"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_7"
-msgstr "Hit with guided missile"
+msgstr "誘導ミサイルによる命中"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_8"
-msgstr "Hitting the citadel"
+msgstr "中央防郭を命中"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_9"
-msgstr "Destroy the enemy"
+msgstr "撃沈"
 
 msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_SCORE"
 msgstr "獲得ポイント"
@@ -137168,7 +137174,7 @@ msgid "IDS_SPACE_BOSS_TEAM1"
 msgstr "攻城兵器"
 
 msgid "IDS_SPACE_CURATOR"
-msgstr "Curator"
+msgstr "キュレーター"
 
 msgid "IDS_SPACE_ENEMY_BOSS_SPAWNED"
 msgstr "敵が超戦艦を召喚しました。味方基地を破壊させてはなりません。敵の注意を引き、総攻撃を仕掛けてください!"
@@ -140393,7 +140399,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr "三国志トークンの削除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
-msgstr "Colorful Tokens written off"
+msgstr "カラフル・トークンが引き落とされました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
 msgstr "レイダートークンの削除"

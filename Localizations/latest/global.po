@@ -835,7 +835,7 @@ msgid "IDS_ACCOUNT_COMPLETION_PROMO_BTN"
 msgstr "アカウント作成"
 
 msgid "IDS_ACCOUNT_COMPLETION_PROMO_DESCRIPTION"
-msgstr "Lesta ユニバースの統合アカウントを作成すると、『Mir Korabley』のゲーム進行を保存可能になり、新たな特典を利用できるようになります。登録するだけで価値あるギフトを取得しましょう!"
+msgstr "Lesta ユニバースの統合アカウントを作成すると、『軍艦世界』(Мир кораблей) のゲーム進行を保存可能になり、新たな特典を利用できるようになります。登録するだけで価値あるギフトを取得しましょう!"
 
 msgid "IDS_ACCOUNT_COMPLETION_PROMO_HEADER"
 msgstr "アカウントを作成して褒賞を取得"
@@ -12915,7 +12915,7 @@ msgid "IDS_COACH_TUTORIALS_HINT_0"
 msgstr "ゲームの基本をマスターし、海戦を詳しく知るための最良の方法です。"
 
 msgid "IDS_COACH_TUTORIALS_HINT_1"
-msgstr "艦艇の歴史や、このゲームで再現された出来事など、Mir Korabley に関連する様々なことを知ることができます。"
+msgstr "艦艇の歴史や、このゲームで再現された出来事など、『軍艦世界』(Мир кораблей) に関連する様々なことを知ることができます。"
 
 msgid "IDS_COLLAPSE_CURRENCIES_PANEL_MOUSE_INSTRUCTION"
 msgstr "通貨一覧を畳む"
@@ -21780,7 +21780,7 @@ msgid "IDS_DESCRIPTION_PCZA019_HAPPYNEWYEAR2020"
 msgstr "このコレクションでは第二次世界大戦期のアメリカ大型巡洋艦を例に、艦艇の起工に不可欠な要素、建艦に必要な人員、造船所で使用される設備、そして最後に軍艦に搭載する兵装や機器など、様々な角度から艦艇が建造される過程を紹介します。"
 
 msgid "IDS_DESCRIPTION_PCZA020_TM"
-msgstr "このコレクションは『Mir Korabley』の刺激的な競技会に捧げられています! 個人プレイヤーやチーム全体が戦闘術を競い、海の皇帝の称号をかけて戦います! 参加者がどのカテゴリーに分けられるのか、なぜ一部の審判が飴より鞭を好むのか、主催者の責務には何が含まれるのか、駆逐艦が制圧ポイントを確保するためになぜ艦尾を向けて展開するのかを解説します。"
+msgstr "このコレクションは『軍艦世界』(Мир кораблей) の刺激的な競技会に捧げられています! 個人プレイヤーやチーム全体が戦闘術を競い、海の皇帝の称号をかけて戦います! 参加者がどのカテゴリーに分けられるのか、なぜ一部の審判が飴より鞭を好むのか、主催者の責務には何が含まれるのか、駆逐艦が制圧ポイントを確保するためになぜ艦尾を向けて展開するのかを解説します。"
 
 msgid "IDS_DESCRIPTION_PCZA021_CAPT"
 msgstr "<p>皆さん、ポップコーンを用意しましょう! その優れた手腕でたくさんの、とってもたくさんの軍艦を残骸に変えてきた最も勇敢で恐れ知らずな船乗りの物語に、きっと夢中になるはずです。</p><p class=\"p_spacing\"> </p><p>彼は決して挫けませんでした! それどころか、どんなに手痛い敗北を喫しても、繰り返し戦いに挑み続けたのです。このコレクションを通じて、彼の実績豊富な経歴の概要をご紹介します!</p>"
@@ -21837,7 +21837,7 @@ msgid "IDS_DESCRIPTION_PCZA037_SCARLET_BIRTHDAY_2"
 msgstr "<p>MK-8 の建造完了後、人類は技術を急速に発展させ、新たな地平を探求し続けた。新技術五カ年計画の一環として、MK-9 では海洋と宇宙の開拓のための先進的な艦艇を建造可能なロボット造船所という革新的プロジェクトが開発された。</p><p class=\"p_spacing\"></p><p>1987 年までに、MK-9 は相対論的時間シフトの分野を含む極秘研究の中心地となった。この研究を通じて、時間転移を可能にする相対論的シフト装置 (USD) の試作機が開発された。</p><p class=\"p_spacing\"></p><p>しかし、進歩には問題がつきものだ。元々 MK-9 の管理用に開発された高性能ロボットが、造船所と施設全体の制御権掌握を企てた。進歩省のミハイル・オルロフとヴァシリーサが MK-8 での事件を調査しようとする中、彼らは現在だけでなく過去をも脅かす新たな危険に直面する…</p>"
 
 msgid "IDS_DESCRIPTION_PCZA038_TSAR_MOREY"
-msgstr "<p>熱い情熱、チームワーク、一瞬で戦いの行方を決める意外な状況 — これらはすべて「Mir Korabley」のトーナメント参加者や観戦者によく知られています。</p><p class=\"p_spacing\"> </p><p>このコレクションは、トーナメントを熱心に追う人々、それを主催する人々、そしてもちろん、勝利への道を歩み始め、最後までやり遂げるまで決して諦めない人々に捧げられます!</p>"
+msgstr "<p>熱い情熱、チームワーク、一瞬で戦いの行方を決める意外な状況 — これらはすべて『軍艦世界』(Мир кораблей) のトーナメント参加者や観戦者によく知られています。</p><p class=\"p_spacing\"> </p><p>このコレクションは、トーナメントを熱心に追う人々、それを主催する人々、そしてもちろん、勝利への道を歩み始め、最後までやり遂げるまで決して諦めない人々に捧げられます!</p>"
 
 msgid "IDS_DESCRIPTION_PCZA039_UTOPIA"
 msgstr "ユートピア・ショーは、科学に関する一般向けの動画を配信するウェブ番組です。制作者の主な目的は、神秘的な現象に関する一般的な神話を払拭し、陰謀論を暴くことです。このコレクションは、ユートピア・ショーの人気エピソードのトピックに焦点を当てています。"
@@ -27279,7 +27279,7 @@ msgid "IDS_DOGTAG_PCNB374_NAME"
 msgstr "東雲"
 
 msgid "IDS_DOGTAG_PCNB375_DESCRIPTION"
-msgstr "「Mir Korabley」、「Mir Tankov」、Tanks Blitz を記念して。"
+msgstr "『軍艦世界』(Мир кораблей)、『戦車世界』(Мир танков)、Tanks Blitz を記念して。"
 
 msgid "IDS_DOGTAG_PCNB375_NAME"
 msgstr "軍事技術の世界"
@@ -27830,7 +27830,7 @@ msgid "IDS_DOGTAG_PCNB472_NAME"
 msgstr "黄金伝承"
 
 msgid "IDS_DOGTAG_PCNB473_DESCRIPTION"
-msgstr "VK Playオンラインサービスでの「Mir Korabley」リリースを記念して。"
+msgstr "VK Play オンラインサービスでの『軍艦世界』(Мир кораблей) リリースを記念して。"
 
 msgid "IDS_DOGTAG_PCNB473_NAME"
 msgstr "VK Play"
@@ -28634,25 +28634,25 @@ msgid "IDS_DOGTAG_PCNU109_NAME"
 msgstr "突破、優勝者"
 
 msgid "IDS_DOGTAG_PCNU110_DESCRIPTION"
-msgstr "これは「Mir Korabley」で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
+msgstr "これは『軍艦世界』(Мир кораблей) で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
 
 msgid "IDS_DOGTAG_PCNU110_NAME"
 msgstr "海の皇帝、初心者"
 
 msgid "IDS_DOGTAG_PCNU111_DESCRIPTION"
-msgstr "これは「Mir Korabley」で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
+msgstr "これは『軍艦世界』(Мир кораблей) で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
 
 msgid "IDS_DOGTAG_PCNU111_NAME"
 msgstr "海の皇帝、ベテラン"
 
 msgid "IDS_DOGTAG_PCNU112_DESCRIPTION"
-msgstr "これは「Mir Korabley」で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
+msgstr "これは『軍艦世界』(Мир кораблей) で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
 
 msgid "IDS_DOGTAG_PCNU112_NAME"
 msgstr "海の皇帝、エリート"
 
 msgid "IDS_DOGTAG_PCNU113_DESCRIPTION"
-msgstr "これは「Mir Korabley」で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
+msgstr "これは『軍艦世界』(Мир кораблей) で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
 
 msgid "IDS_DOGTAG_PCNU113_NAME"
 msgstr "海の皇帝、優勝者"
@@ -68972,7 +68972,7 @@ msgid "IDS_PCEE560_MK_MT_FLAG"
 msgstr "軍事技術の世界"
 
 msgid "IDS_PCEE560_MK_MT_FLAG_DESCRIPTION"
-msgstr "「Mir Korabley」、「Mir Tankov」、Tanks Blitz を記念して。"
+msgstr "『軍艦世界』(Мир кораблей)、『戦車世界』(Мир танков)、Tanks Blitz を記念して。"
 
 msgid "IDS_PCEE561_LEIPZIG_FLAG"
 msgstr "Leipzig"
@@ -70206,7 +70206,7 @@ msgid "IDS_PCEE764_BIRTHDAY2025_FLAG"
 msgstr "MK 記念日のお祝い"
 
 msgid "IDS_PCEE764_BIRTHDAY2025_FLAG_DESCRIPTION"
-msgstr "「Mir Korabley」の 10 周年を記念して。"
+msgstr "『軍艦世界』(Мир кораблей) の 10 周年を記念して。"
 
 msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG"
 msgstr "尾張の鬼"
@@ -70248,7 +70248,7 @@ msgid "IDS_PCEE771_VKPLAY_FLAG"
 msgstr "VK Play"
 
 msgid "IDS_PCEE771_VKPLAY_FLAG_DESCRIPTION"
-msgstr "VK Play オンラインサービスでの「Mir Korabley」リリースを記念して。"
+msgstr "VK Play オンラインサービスでの『軍艦世界』(Мир кораблей) リリースを記念して。"
 
 msgid "IDS_PCEE772_SABIE_FLAG"
 msgstr "Sabie"
@@ -70404,7 +70404,7 @@ msgid "IDS_PCEE797_STALCRAFT_FLAG"
 msgstr "Zone 旗"
 
 msgid "IDS_PCEE797_STALCRAFT_FLAG_DESCRIPTION"
-msgstr "「Mir Korabley」と STALCRAFT: X の共同イベントを記念して"
+msgstr "『軍艦世界』(Мир кораблей) と STALCRAFT: X の共同イベントを記念して"
 
 msgid "IDS_PCEE798_STALCRAFT_LATANU_FLAG"
 msgstr "Zavet"
@@ -76927,7 +76927,7 @@ msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3"
 msgstr "V.A.N.S.H.O.T."
 
 msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3_DESCRIPTION"
-msgstr "<p>The highly efficient automatic targeting triple-barreled main gun – the main caliber weapon of the 'Scarlet Thunder'. A salvo from one turret can deal damage comparable to the salvo of an entire battery of battleship guns from World War II.</p><p class=\"p_spacing\"> </p><p>The V.A.N.S.H.O.T. guns performed excellently in suppressing the crisis near MC-8.</p>"
+msgstr "<p>The highly efficient automated aiming standard triple-barrel gun — the main caliber weapon of the Scarlet Thunder. A single turret's salvo can deliver damage comparable in force to the salvo of an entire battleship's battery from the Second World War era.</p><p class=\"p_spacing\"> </p><p>The V.A.N.Sh.O.T. guns performed excellently during the suppression of the crisis near MK-8.</p>"
 
 msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4"
 msgstr "OKO Enemy Detection System"
@@ -77215,7 +77215,7 @@ msgid "IDS_PCZC897_ARIA_3_5"
 msgstr "Prize Guitar"
 
 msgid "IDS_PCZC897_ARIA_3_5_DESCRIPTION"
-msgstr "A guitar with autographs of Aria's musicians, intended to be raffled off among players of 'Mir Korabley'."
+msgstr "A guitar with autographs of Aria's musicians, intended to be raffled off among players of \"Universe of Warships (Мир кораблей)\"."
 
 msgid "IDS_PCZC898_ARIA_4_1"
 msgstr "20 年: 意志と理性!"
@@ -77254,7 +77254,7 @@ msgid "IDS_PCZC903_SCARLET_BIRTHDAY_2_1_1_DESCRIPTION"
 msgstr "PAL-9 is an upgraded second-generation courier robot that not only retains the capabilities of its predecessor to transport loads of up to 400 tons over long distances but also demonstrates innovative mechanics adapted to the growing technological demands of modernity. Integrated into the MK-9 robotic shipyard system, the robot plays a central role in the construction of new ships, ensuring the seamless delivery and assembly of ship components."
 
 msgid "IDS_PCZC904_SCARLET_BIRTHDAY_2_1_2"
-msgstr "MK-9 Safe Container"
+msgstr "セーフコンテナ MK-9"
 
 msgid "IDS_PCZC904_SCARLET_BIRTHDAY_2_1_2_DESCRIPTION"
 msgstr "This special container is delivered by the reliable PAL-9 robot and is designed for transporting highly valuable cargo. The container is equipped with a sophisticated locking system and advanced security mechanisms that ensure the valuable contents reach only those with the proper authorization to open it. The materials used in the container's construction allow it to preserve the integrity of its contents even in the most extreme delivery conditions."
@@ -77272,13 +77272,13 @@ msgid "IDS_PCZC906_SCARLET_BIRTHDAY_2_1_4_DESCRIPTION"
 msgstr "<p>This unique device is designed for analyzing global sea and air routes. Equipped with an advanced tracking system, the globe allows port operators to see and plan ship routes in real-time.</p><p class=\"p_spacing\"> </p><p>The integration with MK-9's AI allows for the analysis of global data and the suggestion of optimized routes, as well as the calculation of potential risks, ensuring the safety and efficiency of transport operations.</p><p class=\"p_spacing\"> </p><p>It is unknown what other hidden functions this device may perform, but its role in strategic planning is invaluable.</p>"
 
 msgid "IDS_PCZC907_SCARLET_BIRTHDAY_2_1_5"
-msgstr "MK-9 Staff ID"
+msgstr "MK-9社員証"
 
 msgid "IDS_PCZC907_SCARLET_BIRTHDAY_2_1_5_DESCRIPTION"
 msgstr "The ID provides its holder with access to the most important and secret facilities of MK-9, including research laboratories and command centers. The interactive screen with personal data and built-in identification features makes this pass indispensable for work at MK-9. Integrated security systems protect against unauthorized access, and continuous location updates allow for tracking employee movements."
 
 msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1"
-msgstr "Vasilisa"
+msgstr "ヴァシリサ"
 
 msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1_DESCRIPTION"
 msgstr "Vasilisa is a talented researcher from the Ministry of Progress who accompanied Mikhail Orlov on the expedition to the site of the battle at MK-8. At the age of 25, she has already established herself as one of the most promising young scientists. As the most talented student of Arkady Kulibin, Vasilisa provides invaluable assistance to Orlov in his research and scientific tasks. Her sharp mind and innovative approach to science have made her indispensable in investigating the events at MK-8 and in Orlov's further missions."
@@ -94215,7 +94215,7 @@ msgid "IDS_PJSA104"
 msgstr "鳳翔"
 
 msgid "IDS_PJSA104_DESCR"
-msgstr "<p>日本海軍ニ於ケル全通甲板式航空母艦ノ初期的試行ハ、第一次世界大戦終結直後ニ開始セラル。大正八年十二月、小型給油船一隻ヲ起工セシモ、翌九年ニ至リ之ヲ航空母艦ニ改造スルコトニ決定セリ。其ノ設計ニ際シテハ、英国技術顧問団ノ参与ヲ仰ギタリ。</p><p class=\"p_spacing\"> </p><p>本邦初ノ航空母艦ハ、横須賀ニテ建造セラル。当初ハ主ニ艦上機ノ運用試験及ビ将来ノ航空母艦ニ適用スベキ構造上ノ諸問題解決ノ為ニ供用セリ。昭和恐慌後ノ一九三〇年代ニ至リ、本艦ハ第一次上海事変及ビ日本侵華戦争ニ従軍セリ。</p><p class=\"p_spacing\"> </p><p>昭和十六年、本艦ハ聯合艦隊ノ編制ニ加ハリ、主力部隊ノ為ニ偵察及ビ対潜哨戒ノ任務ヲ遂行セリ。昭和二十年、呉軍港ニ於テ米国爆撃機群ノ来襲ニ遭ヒ損傷ス。終戦後、「鳳翔」ハ復員輸送艦トシテ、外地ノ帰還将兵輸送ニ従事セリ。</p>"
+msgstr "<p>日本海軍ニ於ケル全通甲板式航空母艦ノ初期的試行ハ、第一次世界大戦終結直後ニ開始セラル。大正八年十二月、小型給油船一隻ヲ起工セシモ、翌九年ニ至リ之ヲ航空母艦ニ改造スルコトニ決定セリ。其ノ設計ニ際シテハ、英國技術顧問団ノ参与ヲ仰ギタリ。</p><p class=\"p_spacing\"> </p><p>本邦初ノ航空母艦ハ、横須賀ニテ建造セラル。当初ハ主ニ艦上機ノ運用試験及ビ将来ノ航空母艦ニ適用スベキ構造上ノ諸問題解決ノ為ニ供用セリ。昭和恐慌後ノ一九三〇年代ニ至リ、本艦ハ第一次上海事変及ビ日本侵華戦争ニ従軍セリ。</p><p class=\"p_spacing\"> </p><p>昭和十六年、本艦ハ聯合艦隊ノ編制ニ加ハリ、主力部隊ノ為ニ偵察及ビ對潜哨戒ノ任務ヲ遂行セリ。昭和二十年、呉軍港ニ於テ米國爆撃機群ノ来襲ニ遭ヒ損傷ス。終戦後、「鳳翔」ハ復員輸送艦トシテ、外地ノ帰還将兵輸送ニ従事セリ。</p>"
 
 msgid "IDS_PJSA104_FULL"
 msgstr "鳳翔"
@@ -94230,7 +94230,7 @@ msgid "IDS_PJSA106"
 msgstr "龍驤"
 
 msgid "IDS_PJSA106_DESCR"
-msgstr "<p>華盛頓海軍軍縮条約ニ於テハ、排水量一万噸以下ノ艦艇保有隻数ニ関スル制限ナカリシヲ以テ、日本海軍ハ大型航空母艦ノ外、更ニ小型航空母艦ノ計画ニ着手セリ。</p><p class=\"p_spacing\"> </p><p>当初ノ設計ニ於テハ格納庫ヲ一層トセシモ、建造ノ途次、之ヲ二層ニ変更セラル。是レニ依リ艦載機搭載数ハ増加セシモ、艦体ノ復原性低下及ビ過重積載ヲ招ク結果トナレリ。随テ新造航空母艦ハ、対魚雷バルジノ増設及ビ兵装ノ一部撤去等、性能改善工事ヲ余儀ナクセラレタリ。</p><p class=\"p_spacing\"> </p><p>航空母艦「龍驤」ハ、横浜ニテ建造セラル。昭和十二年ヨリ同十四年ニ至ル期間、本艦ハ日本侵華戦争ニ従軍セリ。太平洋戦争勃発後、比律賓攻略作戦ヲ支援シ、蘭領東印度諸島向ケ船団ノ護衛、印度洋作戦及ビ「アリューシャン」群島攻略作戦ニ参戦セリ。昭和十七年八月二十四日、第二次ソロモン海戦ニ於テ、本艦ハ米国航空母艦「サラトガ」艦上機ノ攻撃ヲ受ケ、遂ニ没沈セリ。</p>"
+msgstr "<p>華盛頓海軍軍縮条約ニ於テハ、排水量一万噸以下ノ艦艇保有隻数ニ関スル制限ナカリシヲ以テ、日本海軍ハ大型航空母艦ノ外、更ニ小型航空母艦ノ計畫ニ着手セリ。</p><p class=\"p_spacing\"> </p><p>当初ノ設計ニ於テハ格納庫ヲ一層トセシモ、建造ノ途次、之ヲ二層ニ変更セラル。是レニ依リ艦載機搭載数ハ増加セシモ、艦体ノ復原性低下及ビ過重積載ヲ招ク結果トナレリ。随テ新造航空母艦ハ、對魚雷バルジノ増設及ビ兵装ノ一部撤去等、性能改善工事ヲ余儀ナクセラレタリ。</p><p class=\"p_spacing\"> </p><p>航空母艦「龍驤」ハ、横浜ニテ建造セラル。昭和十二年ヨリ同十四年ニ至ル期間、本艦ハ日本侵華戦争ニ従軍セリ。太平洋戦争勃発後、比律賓攻略作戦ヲ支援シ、蘭領東印度諸島向ケ船団ノ護衛、印度洋作戦及ビ「アリューシャン」群島攻略作戦ニ参戦セリ。昭和十七年八月二十四日、第二次ソロモン海戦ニ於テ、本艦ハ米國航空母艦「サラトガ」艦上機ノ攻撃ヲ受ケ、遂ニ没沈セリ。</p>"
 
 msgid "IDS_PJSA106_FULL"
 msgstr "龍驤"
@@ -94530,7 +94530,7 @@ msgid "IDS_PJSB011"
 msgstr "三笠"
 
 msgid "IDS_PJSB011_DESCR"
-msgstr "<p>明治二十九年制定ノ「海軍拡張計画」ニ依リ發注セラレタル四隻ノ戰艦中、其ノ最後ヲ飾ル艦ナリ。艦型構造ハ前型艦ニ概ネ準ズルモ、副砲廓部ノ防禦力ヲ强化セルヲ最大ノ特徵トセリ。</p><p class=\"p_spacing\"> </p><p>三笠ハ英國アームストロング社エルジック造船所ニテ設計・建造セラレ、其ノ性能ハ當時ノ英國最新鋭戰艦ヲモ凌駕セリ。日露戰爭ニ際シテハ、東郷平八郎大將ノ旗艦トシテ黄海海戰及日本海海戰ニ参戰セリ。</p><p class=\"p_spacing\"> </p><p>明治三十八年九月、佐世保港内ニテ後部彈藥庫ノ爆發事故ニ由リ沈没スルモ、爾後引揚・修理ヲ施シ、新式ノ主砲ヲ換裝シテ戰列ニ復歸セリ。大正期ニ至リ、大正十年九月ニハ一等海防艦ニ編入セラル。</p><p class=\"p_spacing\"> </p><p>華盛頓海軍軍縮條約ノ規定ニ基ヅキ、本艦ハ除籍セラル。大正十五年ヨリ昭和二十年迄ハ記念艦トシテ保存セラルルモ、終戰後ハ荒廢ニ歸セリ。昭和三十五年度ヨリ復元工事ヲ開始シ、翌三十六年、記念艦トシテ永久保存セラルルニ至レリ。</p>"
+msgstr "<p>明治二十九年制定ノ「海軍拡張計畫」ニ依リ發注セラレタル四隻ノ戰艦中、其ノ最後ヲ飾ル艦ナリ。艦型構造ハ前型艦ニ概ネ準ズルモ、副砲廓部ノ防禦力ヲ强化セルヲ最大ノ特徵トセリ。</p><p class=\"p_spacing\"> </p><p>三笠ハ英國アームストロング社エルジック造船所ニテ設計・建造セラレ、其ノ性能ハ當時ノ英國最新鋭戰艦ヲモ凌駕セリ。日露戰爭ニ際シテハ、東郷平八郎大將ノ旗艦トシテ黄海海戰及日本海海戰ニ参戰セリ。</p><p class=\"p_spacing\"> </p><p>明治三十八年九月、佐世保港内ニテ後部彈藥庫ノ爆發事故ニ由リ沈没スルモ、爾後引揚・修理ヲ施シ、新式ノ主砲ヲ換裝シテ戰列ニ復歸セリ。大正期ニ至リ、大正十年九月ニハ一等海防艦ニ編入セラル。</p><p class=\"p_spacing\"> </p><p>華盛頓海軍軍縮條約ノ規定ニ基ヅキ、本艦ハ除籍セラル。大正十五年ヨリ昭和二十年迄ハ記念艦トシテ保存セラルルモ、終戰後ハ荒廢ニ歸セリ。昭和三十五年度ヨリ復元工事ヲ開始シ、翌三十六年、記念艦トシテ永久保存セラルルニ至レリ。</p>"
 
 msgid "IDS_PJSB011_FULL"
 msgstr "三笠"
@@ -94832,7 +94832,7 @@ msgid "IDS_PJSB549"
 msgstr "剣"
 
 msgid "IDS_PJSB549_DESCR"
-msgstr "<p>日本海軍新造艦計画ニ於ケル戰列艦ト巡洋戰艦ノ設計差異ハ極メテ微小ナリキ。即チ第十三號型巡洋戰艦ハ、紀伊型戰列艦ト速力ニ於テ差異無ク、従来日本海軍戦術ノ要トセル「高速艦隊」ノ概念ニ悖ルモノアリ。</p><p class=\"p_spacing\"> </p><p>真ノ巡洋戰艦タラシメン爲ニハ、速力向上ノ目的ヲ以テ主砲塔一基ノ割愛モ已ムヲ得ザルベシ。</p>"
+msgstr "<p>日本海軍新造艦計畫ニ於ケル戰列艦ト巡洋戰艦ノ設計差異ハ極メテ微小ナリキ。即チ第十三號型巡洋戰艦ハ、紀伊型戰列艦ト速力ニ於テ差異無ク、従来日本海軍戦術ノ要トセル「高速艦隊」ノ概念ニ悖ルモノアリ。</p><p class=\"p_spacing\"> </p><p>真ノ巡洋戰艦タラシメン爲ニハ、速力向上ノ目的ヲ以テ主砲塔一基ノ割愛モ已ムヲ得ザルベシ。</p>"
 
 msgid "IDS_PJSB549_FULL"
 msgstr "剣"
@@ -95229,7 +95229,7 @@ msgid "IDS_PJSC013"
 msgstr "球磨"
 
 msgid "IDS_PJSC013_DESCR"
-msgstr "<p>米國オマハ型艦ノ性能ヲ知ルニ及ビ、日本海軍首腦部ハ更ニ大型強力ナル巡洋艦ヲ發注セリ。天龍型ヲ基トシ、驅逐隊指揮官兼偵察任務ヲ擔フ巡洋艦ノ設計ヲ爲セリ。排水量増大ニ伴ヒ機關ヲ強化シテ高速ヲ得、主砲門數ヲ七門ニ増加セリ。</p><p class=\"p_spacing\"> </p><p>球磨ハ佐世保ニ於テ建造セラル。本艦ハ露國干涉作戰ニ參加セリ。大正末年乃至昭和十年代、中国沿岸ノ哨戒ニ従事ス。太平洋戰争下、比島上陸作戰ニ従事シ、同十七年至十九年、ニューギニア戰域ニ從事セシ後、蘭印方面ノ警備ニ任ゼリ。昭和十九年一月十一日、マラツカ海峡ニ於テ英國潜水艦タリーホーノ雷撃ヲ受ケ、火災ヲ生ジテ沈没セリ。</p>"
+msgstr "<p>米國オマハ型艦ノ性能ヲ知ルニ及ビ、日本海軍首腦部ハ更ニ大型強力ナル巡洋艦ヲ發注セリ。天龍型ヲ基トシ、驅逐隊指揮官兼偵察任務ヲ擔フ巡洋艦ノ設計ヲ爲セリ。排水量増大ニ伴ヒ機關ヲ強化シテ高速ヲ得、主砲門數ヲ七門ニ増加セリ。</p><p class=\"p_spacing\"> </p><p>球磨ハ佐世保ニ於テ建造セラル。本艦ハ露國干涉作戰ニ參加セリ。大正末年乃至昭和十年代、中國沿岸ノ哨戒ニ従事ス。太平洋戰争下、比島上陸作戰ニ従事シ、同十七年至十九年、ニューギニア戰域ニ從事セシ後、蘭印方面ノ警備ニ任ゼリ。昭和十九年一月十一日、マラツカ海峡ニ於テ英國潜水艦タリーホーノ雷撃ヲ受ケ、火災ヲ生ジテ沈没セリ。</p>"
 
 msgid "IDS_PJSC013_FULL"
 msgstr "球磨"
@@ -95424,7 +95424,7 @@ msgid "IDS_PJSC208"
 msgstr "四万十"
 
 msgid "IDS_PJSC208_DESCR"
-msgstr "<p>最上型巡洋艦ノ假想近代化案トシテ、昭和十九年開発ノ十五糎六十口径高角兩用砲ヲ主砲ト爲シ、對空巡洋艦トナス計畫ナリ。</p><p class=\"p_spacing\"> </p><p>十五糎兩用砲及ビ十糎高角砲ノ装備ハ、最上型ヲ以テ米國艦上並ニ基地航空兵力ニ対スル有效ナル防空艦ト成シ得ベキモノト思考セラレタリ。</p>"
+msgstr "<p>最上型巡洋艦ノ假想近代化案トシテ、昭和十九年開発ノ十五糎六十口径高角兩用砲ヲ主砲ト爲シ、對空巡洋艦トナス計畫ナリ。</p><p class=\"p_spacing\"> </p><p>十五糎兩用砲及ビ十糎高角砲ノ装備ハ、最上型ヲ以テ米國艦上並ニ基地航空兵力ニ對スル有效ナル防空艦ト成シ得ベキモノト思考セラレタリ。</p>"
 
 msgid "IDS_PJSC208_FULL"
 msgstr "四万十"
@@ -95439,7 +95439,7 @@ msgid "IDS_PJSC209"
 msgstr "高梁"
 
 msgid "IDS_PJSC209_DESCR"
-msgstr "<p>日本海軍補充計畫ニハ、三聯装十五糎五砲塔五基十五門ヲ装備シ、排水量八千四百五十噸トセル巡洋艦二隻ノ建造ヲ包含セリ。</p><p class=\"p_spacing\"> </p><p>本計畫ハ遂ニ實現セズ、其ノ後ノ硏究ハ利根型重巡洋艦ノ端緒トナレリ。別案トシテハ、米國艦上並ニ基地航空隊ニ対抗スル對空巡洋艦トナス爲、十五糎高角兩用砲ノ装備ヲ以テ本型ヲ發展セシムル案モ存セリ。</p>"
+msgstr "<p>日本海軍補充計畫ニハ、三聯装十五糎五砲塔五基十五門ヲ装備シ、排水量八千四百五十噸トセル巡洋艦二隻ノ建造ヲ包含セリ。</p><p class=\"p_spacing\"> </p><p>本計畫ハ遂ニ實現セズ、其ノ後ノ硏究ハ利根型重巡洋艦ノ端緒トナレリ。別案トシテハ、米國艦上並ニ基地航空隊ニ對抗スル對空巡洋艦トナス爲、十五糎高角兩用砲ノ装備ヲ以テ本型ヲ發展セシムル案モ存セリ。</p>"
 
 msgid "IDS_PJSC209_FULL"
 msgstr "高梁"
@@ -95921,7 +95921,7 @@ msgid "IDS_PJSD001"
 msgstr "橘"
 
 msgid "IDS_PJSD001_DESCR"
-msgstr "<p>桜型驅逐艦ハ、海風型驅逐艦ヲ基トシテ設計セラル。前型トノ差異トシテ、新造艦ハタービン機関ノ代リニ往復機関ヲ装備セリ。</p><p class=\"p_spacing\"> </p><p>本型ハ日本ニ於テ全般ノ設計ヲ完了セル初ノ水雷艇ニシテ、第一次大戰開戰時ノ日本海軍ニ於ケル最新鋭ノ同種艦艇タリ。西方諸國ニ於テ本型ハ日本造船技術成功ノ一端ト見做サレ、佛國ハ日本ニ對シアラブ型驅逐艦十二隻ノ建造ヲ發注セリ。</p><p class=\"p_spacing\"> </p><p>同型艦橘ハ舞鶴海軍工廠ニ於テ建造セラル。大正八年至昭和四年、中国沿岸ノ哨戒任務ニ従事セリ。昭和七年四月予備艦ト定メラレ、同十一年全ク除籍セラレタリ。</p>"
+msgstr "<p>桜型驅逐艦ハ、海風型驅逐艦ヲ基トシテ設計セラル。前型トノ差異トシテ、新造艦ハタービン機関ノ代リニ往復機関ヲ装備セリ。</p><p class=\"p_spacing\"> </p><p>本型ハ日本ニ於テ全般ノ設計ヲ完了セル初ノ水雷艇ニシテ、第一次大戰開戰時ノ日本海軍ニ於ケル最新鋭ノ同種艦艇タリ。西方諸國ニ於テ本型ハ日本造船技術成功ノ一端ト見做サレ、佛國ハ日本ニ對シアラブ型驅逐艦十二隻ノ建造ヲ發注セリ。</p><p class=\"p_spacing\"> </p><p>同型艦橘ハ舞鶴海軍工廠ニ於テ建造セラル。大正八年至昭和四年、中國沿岸ノ哨戒任務ニ従事セリ。昭和七年四月予備艦ト定メラレ、同十一年全ク除籍セラレタリ。</p>"
 
 msgid "IDS_PJSD001_FULL"
 msgstr "橘"
@@ -95951,7 +95951,7 @@ msgid "IDS_PJSD003"
 msgstr "磯風"
 
 msgid "IDS_PJSD003_DESCR"
-msgstr "<p>磯風型驅逐艦ハ、海風型ヲ改良セル設計ニ基キ建造セラレタリ。新造艦ニ於テハ機關出力ヲ増大シ、更ニ強力ナル兵装ヲ施セリ。本型ハ伊勢型及ビ扶桑型戰艦ノ護衛艦トシテ計画セラレタリ。</p><p class=\"p_spacing\"> </p><p>同型首艦磯風ハ呉海軍工廠ニ於テ建造セラル。本艦ハ第一次大戰ニ従事シ、中国沿岸ノ哨戒任務ニ任ゼリ。</p>"
+msgstr "<p>磯風型驅逐艦ハ、海風型ヲ改良セル設計ニ基キ建造セラレタリ。新造艦ニ於テハ機關出力ヲ増大シ、更ニ強力ナル兵装ヲ施セリ。本型ハ伊勢型及ビ扶桑型戰艦ノ護衛艦トシテ計畫セラレタリ。</p><p class=\"p_spacing\"> </p><p>同型首艦磯風ハ呉海軍工廠ニ於テ建造セラル。本艦ハ第一次大戰ニ従事シ、中國沿岸ノ哨戒任務ニ任ゼリ。</p>"
 
 msgid "IDS_PJSD003_FULL"
 msgstr "磯風"
@@ -95966,7 +95966,7 @@ msgid "IDS_PJSD004"
 msgstr "峯風"
 
 msgid "IDS_PJSD004_DESCR"
-msgstr "<p>峯風型驅逐艦ハ、天城型巡洋戰艦ノ護衛ヲ目的トシテ日本ニ於テ建造セル大型驅逐艦シリーズナリ。本型ハ前型ヨリ船體規模ヲ擴大シ、砲門数ヲ増加シ、艦首魚雷發射管ヲ船首楼甲板後方ニ配置セル點ニ特徵アリ。新造艦ハ減速機付タービン機関ヲ装備セル日本初ノ量産驅逐艦タリ。</p><p class=\"p_spacing\"> </p><p>同型首艦峯風ハ舞鶴海軍工廠ニ於テ建造セラル。就役後第二駆逐隊ニ編入サレ、昭和十年代ニ於テ空母赤城ノ護衛任務ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>侵華戦争中、本艦ハ中国沿岸ノ哨戒ニ任ジ、太平洋戰争下既ニ旧式艦トナレルモ、東シナ海及ビ西太平洋方面ノ哨戒・護衛任務ニ従事セリ。昭和十九年二月十日、台灣近海ニ於テ米國潜水艦ポギーノ雷撃ヲ受ケ撃沈セラレタリ。</p>"
+msgstr "<p>峯風型驅逐艦ハ、天城型巡洋戰艦ノ護衛ヲ目的トシテ日本ニ於テ建造セル大型驅逐艦シリーズナリ。本型ハ前型ヨリ船體規模ヲ擴大シ、砲門数ヲ増加シ、艦首魚雷發射管ヲ船首楼甲板後方ニ配置セル點ニ特徵アリ。新造艦ハ減速機付タービン機関ヲ装備セル日本初ノ量産驅逐艦タリ。</p><p class=\"p_spacing\"> </p><p>同型首艦峯風ハ舞鶴海軍工廠ニ於テ建造セラル。就役後第二駆逐隊ニ編入サレ、昭和十年代ニ於テ空母赤城ノ護衛任務ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>侵華戦争中、本艦ハ中國沿岸ノ哨戒ニ任ジ、太平洋戰争下既ニ旧式艦トナレルモ、東シナ海及ビ西太平洋方面ノ哨戒・護衛任務ニ従事セリ。昭和十九年二月十日、台灣近海ニ於テ米國潜水艦ポギーノ雷撃ヲ受ケ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD004_FULL"
 msgstr "峯風"
@@ -96056,7 +96056,7 @@ msgid "IDS_PJSD014"
 msgstr "橘 L"
 
 msgid "IDS_PJSD014_DESCR"
-msgstr "<p>桜型驅逐艦ハ、海風型驅逐艦ヲ基トシテ設計セラル。前型トノ差異トシテ、新造艦ハタービン機関ノ代リニ往復機関ヲ装備セリ。</p><p class=\"p_spacing\"> </p><p>本型ハ日本ニ於テ全般ノ設計ヲ完了セル初ノ水雷艇ニシテ、第一次大戰開戰時ノ日本海軍ニ於ケル最新鋭ノ同種艦艇タリ。西方諸國ニ於テ本型ハ日本造船技術成功ノ一端ト見做サレ、佛國ハ日本ニ對シアラブ型驅逐艦十二隻ノ建造ヲ發注セリ。</p><p class=\"p_spacing\"> </p><p>同型艦橘ハ舞鶴海軍工廠ニ於テ建造セラル。大正八年至昭和四年、中国沿岸ノ哨戒任務ニ従事セリ。昭和七年四月予備艦ト定メラレ、同十一年全ク除籍セラレタリ。</p>"
+msgstr "<p>桜型驅逐艦ハ、海風型驅逐艦ヲ基トシテ設計セラル。前型トノ差異トシテ、新造艦ハタービン機関ノ代リニ往復機関ヲ装備セリ。</p><p class=\"p_spacing\"> </p><p>本型ハ日本ニ於テ全般ノ設計ヲ完了セル初ノ水雷艇ニシテ、第一次大戰開戰時ノ日本海軍ニ於ケル最新鋭ノ同種艦艇タリ。西方諸國ニ於テ本型ハ日本造船技術成功ノ一端ト見做サレ、佛國ハ日本ニ對シアラブ型驅逐艦十二隻ノ建造ヲ發注セリ。</p><p class=\"p_spacing\"> </p><p>同型艦橘ハ舞鶴海軍工廠ニ於テ建造セラル。大正八年至昭和四年、中國沿岸ノ哨戒任務ニ従事セリ。昭和七年四月予備艦ト定メラレ、同十一年全ク除籍セラレタリ。</p>"
 
 msgid "IDS_PJSD014_FULL"
 msgstr "橘 Lima"
@@ -96086,7 +96086,7 @@ msgid "IDS_PJSD024"
 msgstr "若竹"
 
 msgid "IDS_PJSD024_DESCR"
-msgstr "<p>大正年代ノ日本海軍ニ於テ、驅逐艦ハ一等及ビ二等ニ類別サレタリ。後者ハ船體著シク小型廉價ニシテ、故ニ多数建造ノ可能ナリシ。最後ノ二等驅逐艦トシテ、大正十至十二年ニ建造セラレタル若竹型アリ。本型ハ前型樅型ヲ擴大セルモノタリ。</p><p class=\"p_spacing\"> </p><p>同型艦若竹ハ川崎神戸造船所ニ於テ建造セラレ、侵華戦争ニ從ヒ中国沿岸哨戒ニ任ジ、太平洋戰争下ニ於テハ護衛艦任務ニ従事セリ。昭和十九年三月三十日、連合軍ノパラオ空襲ニ際シ撃沈セラレタリ。</p>"
+msgstr "<p>大正年代ノ日本海軍ニ於テ、驅逐艦ハ一等及ビ二等ニ類別サレタリ。後者ハ船體著シク小型廉價ニシテ、故ニ多数建造ノ可能ナリシ。最後ノ二等驅逐艦トシテ、大正十至十二年ニ建造セラレタル若竹型アリ。本型ハ前型樅型ヲ擴大セルモノタリ。</p><p class=\"p_spacing\"> </p><p>同型艦若竹ハ川崎神戸造船所ニ於テ建造セラレ、侵華戦争ニ從ヒ中國沿岸哨戒ニ任ジ、太平洋戰争下ニ於テハ護衛艦任務ニ従事セリ。昭和十九年三月三十日、連合軍ノパラオ空襲ニ際シ撃沈セラレタリ。</p>"
 
 msgid "IDS_PJSD024_FULL"
 msgstr "若竹"
@@ -96281,7 +96281,7 @@ msgid "IDS_PJSD219"
 msgstr "北風"
 
 msgid "IDS_PJSD219_DESCR"
-msgstr "<p>昭和十六年實驗駆逐艦島風ノ起工ヲ以テ日本造船術新段階ヲ画セシ後、同型十六隻ノ建造ガ艦隊補充計畫ニ包含セラレタリ。然ルニ昭和十七年米國航空兵力ニ因ル甚大ナル損害ヲ受ケタルガ故ニ、日本ハ當該計畫ヲ再檢討シ、該艦數隻ヲ秋月型駆逐艦ニ代替セシメタリ。</p><p class=\"p_spacing\"> </p><p>昭和十八年十月、秋月型ヲ改良セル設計ニ基キ七隻ノ建造ヲ發注セリ。翌十九年五月、本建造計畫ハ全テ中止サレ、其ノ由トシテ、艦隊ハ高價且建造長期ヲ要スル駆逐艦ヨリモ、量産容易ニシテ廉價ナル輸送船護衛艦艇ヲ要セシ爲ナリ。爾後、本駆逐艦建造用資材ハ、橘型海防艦及ビ海防艦ノ建造ニ轉用セラレタリ。</p>"
+msgstr "<p>昭和十六年實驗駆逐艦島風ノ起工ヲ以テ日本造船術新段階ヲ畫セシ後、同型十六隻ノ建造ガ艦隊補充計畫ニ包含セラレタリ。然ルニ昭和十七年米國航空兵力ニ因ル甚大ナル損害ヲ受ケタルガ故ニ、日本ハ當該計畫ヲ再檢討シ、該艦數隻ヲ秋月型駆逐艦ニ代替セシメタリ。</p><p class=\"p_spacing\"> </p><p>昭和十八年十月、秋月型ヲ改良セル設計ニ基キ七隻ノ建造ヲ發注セリ。翌十九年五月、本建造計畫ハ全テ中止サレ、其ノ由トシテ、艦隊ハ高價且建造長期ヲ要スル駆逐艦ヨリモ、量産容易ニシテ廉價ナル輸送船護衛艦艇ヲ要セシ爲ナリ。爾後、本駆逐艦建造用資材ハ、橘型海防艦及ビ海防艦ノ建造ニ轉用セラレタリ。</p>"
 
 msgid "IDS_PJSD219_FULL"
 msgstr "北風"
@@ -96418,7 +96418,7 @@ msgid "IDS_PJSD596"
 msgstr "東雲 B"
 
 msgid "IDS_PJSD596_DESCR"
-msgstr "<p>東雲ハ吹雪型驅逐艦ニシテ、佐世保ニ於テ建造セラル。就役後、日本海軍第十二駆逐隊ニ編入サレタリ。侵華戦争中、沿岸哨戒ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争ニ於テハ、佛印進駐作戰、馬來コタバル上陸掩護、ボルネオ島上陸作戰等ニ參與セリ。昭和十六年十二月十七日、サラワク沖ニ於テ獨逸飛行艇ドルニエDo二十四ノ投下セル爆彈二発ヲ受ケ、艦尾火藥庫誘爆ニ因リ沈没セリ。</p>"
+msgstr "<p>東雲ハ吹雪型驅逐艦ニシテ、佐世保ニ於テ建造セラル。就役後、日本海軍第十二駆逐隊ニ編入サレタリ。侵華戦争中、沿岸哨戒ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争ニ於テハ、佛印進駐作戰、馬來コタバル上陸掩護、ボルネオ島上陸作戰等ニ參與セリ。昭和十六年十二月十七日、サラワク沖ニ於テ獨逸飛行艇ドルニエ Do 24 ノ投下セル爆彈二発ヲ受ケ、艦尾火藥庫誘爆ニ因リ沈没セリ。</p>"
 
 msgid "IDS_PJSD596_FULL"
 msgstr "東雲 B"
@@ -96463,7 +96463,7 @@ msgid "IDS_PJSD706"
 msgstr "東雲"
 
 msgid "IDS_PJSD706_DESCR"
-msgstr "<p>東雲ハ吹雪型驅逐艦ニシテ、佐世保ニ於テ建造セラル。就役後、日本海軍第十二駆逐隊ニ編入サレタリ。侵華戦争中、沿岸哨戒ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争ニ於テハ、佛印進駐作戰、馬來コタバル上陸掩護、ボルネオ島上陸作戰等ニ參與セリ。昭和十六年十二月十七日、サラワク沖ニ於テ獨逸飛行艇ドルニエDo二十四ノ投下セル爆彈二発ヲ受ケ、艦尾火藥庫誘爆ニ因リ沈没セリ。</p>"
+msgstr "<p>東雲ハ吹雪型驅逐艦ニシテ、佐世保ニ於テ建造セラル。就役後、日本海軍第十二駆逐隊ニ編入サレタリ。侵華戦争中、沿岸哨戒ニ従事セリ。</p><p class=\"p_spacing\"> </p><p>太平洋戰争ニ於テハ、佛印進駐作戰、馬來コタバル上陸掩護、ボルネオ島上陸作戰等ニ參與セリ。昭和十六年十二月十七日、サラワク沖ニ於テ獨逸飛行艇ドルニエ Do 24 ノ投下セル爆彈二発ヲ受ケ、艦尾火藥庫誘爆ニ因リ沈没セリ。</p>"
 
 msgid "IDS_PJSD706_FULL"
 msgstr "東雲"
@@ -101516,7 +101516,7 @@ msgid "IDS_PRES436_DMITRY_DONSKOY"
 msgstr "対馬海戦"
 
 msgid "IDS_PRES438_STALCRAFT_ALBATROS"
-msgstr "傭兵"
+msgstr "Mercenary"
 
 msgid "IDS_PRES440_SMOLENSKBLACK"
 msgstr "特別"
@@ -105290,7 +105290,7 @@ msgid "IDS_PRSC708"
 msgstr "Grem"
 
 msgid "IDS_PRSC708_DESCR"
-msgstr "<p>2025 年 8 月、『Mir Korabley』のアート部門責任者であったウラジーミル・グレミツキーが逝去されました。彼は 15 年にわたり同部門を率い、ゲーム開発に多大な貢献を果たしました。ウラジーミルはスタジオに生涯の 24 年を捧げました。</p><p class=\"p_spacing\"> </p><p>本艦はウラジーミル・グレミツキーを追悼して制作されました。「Grem」— これは彼が職場で親しまれていた呼称です。雷撃機戦術中隊を運用できるハイブリッド巡洋艦は、ウラジーミルが水上艦だけでなく航空機にも注いだ情熱を反映しています。</p>"
+msgstr "<p>2025 年 8 月、『軍艦世界』(Мир кораблей) のアート部門責任者であったウラジーミル・グレミツキーが逝去されました。彼は 15 年にわたり同部門を率い、ゲーム開発に多大な貢献を果たしました。ウラジーミルはスタジオに生涯の 24 年を捧げました。</p><p class=\"p_spacing\"> </p><p>本艦はウラジーミル・グレミツキーを追悼して制作されました。「Grem」— これは彼が職場で親しまれていた呼称です。雷撃機戦術中隊を運用できるハイブリッド巡洋艦は、ウラジーミルが水上艦だけでなく航空機にも注いだ情熱を反映しています。</p>"
 
 msgid "IDS_PRSC708_FULL"
 msgstr "Grem"
@@ -122460,6 +122460,12 @@ msgstr "その他 %(_count)s 件"
 msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
 msgstr "戦闘中に以下の違反行為を犯しました:"
 
+msgid "IDS_RESURRECTION_POINTS_HINT"
+msgstr "戦闘で取得した復活ポイント。"
+
+msgid "IDS_RESURRECTION_POINTS_HINT_HEADER"
+msgstr "復活ポイント"
+
 msgid "IDS_RETRAINED_FOR"
 msgstr "再訓練済み:"
 
@@ -128092,19 +128098,19 @@ msgid "IDS_REWARD_STRATEGIC_POINTS_TITLE"
 msgstr "進捗ポイント"
 
 msgid "IDS_REWARD_STREAM_PRM_BIG_DESCRIPTION"
-msgstr "ストリーミングプラットフォームにおける「Mir Korabley」カテゴリーのライブ配信視聴褒賞。コンテンツ一覧はポータルサイトでご確認いただけます。"
+msgstr "ストリーミングプラットフォームにおける『軍艦世界』(Мир кораблей) カテゴリーのライブ配信視聴褒賞。コンテンツ一覧はポータルサイトでご確認いただけます。"
 
 msgid "IDS_REWARD_STREAM_PRM_BIG_TITLE"
 msgstr "特賞"
 
 msgid "IDS_REWARD_STREAM_PRM_MYSTERY_DESCRIPTION"
-msgstr "ストリーミングプラットフォームにおける「Mir Korabley」カテゴリーのライブ配信視聴褒賞。コンテンツ一覧はポータルサイトでご確認いただけます。"
+msgstr "ストリーミングプラットフォームにおける『軍艦世界』(Мир кораблей) カテゴリーのライブ配信視聴褒賞。コンテンツ一覧はポータルサイトでご確認いただけます。"
 
 msgid "IDS_REWARD_STREAM_PRM_MYSTERY_TITLE"
 msgstr "神秘的な褒賞"
 
 msgid "IDS_REWARD_STREAM_PRM_SMALL_DESCRIPTION"
-msgstr "公式「Mir Korabley」Twitch チャンネルのライブ配信視聴褒賞。詳細なコンテンツリストはポータルサイトでご確認いただけます。"
+msgstr "公式『軍艦世界』(Мир кораблей) Twitch チャンネルのライブ配信視聴褒賞。詳細なコンテンツリストはポータルサイトでご確認いただけます。"
 
 msgid "IDS_REWARD_STREAM_PRM_SMALL_TITLE"
 msgstr "小賞"
@@ -145929,7 +145935,7 @@ msgid "IDS_WORKTIME"
 msgstr "動作時間"
 
 msgid "IDS_WORLD_OF_WARSHIPS"
-msgstr "軍艦世界"
+msgstr "Мир кораблей『軍艦世界』"
 
 msgid "IDS_WOWONIANG_FRANCE"
 msgstr "Wo Wo Niang"

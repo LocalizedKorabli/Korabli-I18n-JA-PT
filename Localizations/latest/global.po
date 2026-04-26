@@ -1846,7 +1846,7 @@ msgstr ""
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BD2_CREW"
 msgstr ""
-"エリート艦長 EXP や色んな新スキルを実装したけど、皆無線方向探知についてばかり話してる。\n"
+"精鋭艦長 EXP や色んな新スキルを実装したけど、皆無線方向探知についてばかり話してる。\n"
 "2 周年。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BD2_FR"
@@ -2236,7 +2236,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_PA"
 msgstr "自艦の基本 HP の %(damageRatio_percent)s を上回るダメージを被った上で生還する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ELITETOURNAMENT_22"
-msgstr "あなたはエリートトーナメント2022に出場し、決勝進出者となりました。おめでとうございます!"
+msgstr "あなたは精鋭トーナメント2022に出場し、決勝進出者となりました。おめでとうございます!"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ENGINEER"
 msgstr "艦艇を %(shipsCount)s 隻研究する。"
@@ -7609,7 +7609,7 @@ msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_CREW_RESET"
 msgstr "艦長スキルのリセット"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_CREW_RESET_ELXP"
-msgstr "エリート艦長 EXP による艦長スキルのリセット"
+msgstr "精鋭艦長 EXP による艦長スキルのリセット"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_CREW_RESET_GOLD"
 msgstr "金による艦長スキルのリセット"
@@ -7686,10 +7686,10 @@ msgid "IDS_BATTLEPASS_SPLASH_SCREEN_OBSERVE_ELITE_CREW_BOOK"
 msgstr "「BATTLE PASS」画面へ"
 
 msgid "IDS_BATTLEPASS_SPLASH_SCREEN_SUBTITLE"
-msgstr "あなたには、数々の戦闘を共に乗り越え、困難な局面で何度もあなたを救ってきた艦長がいますか? 今、あなたの艦長をエリートに昇格させ、国家の特徴と強化されたスキルを開放できます。そのためにはエリート艦長マニュアルが必要です — BATTLE PASS を進めて入手しましょう!"
+msgstr "あなたには、数々の戦闘を共に乗り越え、困難な局面で何度もあなたを救ってきた艦長がいますか? 今、あなたの艦長を精鋭に昇格させ、国家の特徴と強化されたスキルを開放できます。そのためには精鋭艦長マニュアルが必要です — BATTLE PASS を進めて入手しましょう!"
 
 msgid "IDS_BATTLEPASS_SPLASH_SCREEN_TITLE"
-msgstr "エリート艦長教本"
+msgstr "精鋭艦長教本"
 
 msgid "IDS_BATTLEPASS_STATUS_BUTTON_BOOST"
 msgstr "進行促進"
@@ -8021,10 +8021,10 @@ msgid "IDS_BATTLE_SIGNAL_RARITY_2"
 msgstr "特別信号旗"
 
 msgid "IDS_BATTLE_SIGNAL_RARITY_3"
-msgstr "レア信号旗"
+msgstr "希少信号旗"
 
 msgid "IDS_BATTLE_SIGNAL_RARITY_4"
-msgstr "エリート信号旗"
+msgstr "精鋭信号旗"
 
 msgid "IDS_BATTLE_START_TIME"
 msgstr "戦闘開始時間: %(battleDate)s"
@@ -8693,7 +8693,7 @@ msgid "IDS_BATTLE_STATS_TOTAL_CREW_EXP_COUNT_HINT"
 msgstr "戦闘で取得した艦長 EXP の合計"
 
 msgid "IDS_BATTLE_STATS_TOTAL_CREW_HINT"
-msgstr "戦闘で取得した艦長 EXP とエリート艦長 EXP の合計"
+msgstr "戦闘で取得した艦長 EXP と精鋭艦長 EXP の合計"
 
 msgid "IDS_BATTLE_STATS_TOTAL_EXP_COUNT_HINT"
 msgstr "艦艇 EXP の合計"
@@ -10096,7 +10096,7 @@ msgid "IDS_CAROUSEL_PCVE032_FILTER"
 msgstr "「求め求めて、パンドーラ」イベントに適合する艦艇をフィルター "
 
 msgid "IDS_CAROUSEL_PCVE033_FILTER"
-msgstr "「アグレッション」イベントに適合する艦艇をフィルター"
+msgstr "「猛進」イベントに適合する艦艇をフィルター"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "オペレーションに適合する艦艇をフィルター"
@@ -10883,7 +10883,7 @@ msgid "IDS_CHOOSE_EVENTBATTLE_PCVE032"
 msgstr "「求め求めて、パンドーラ」を選択"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE033"
-msgstr "「アグレッション」を選択"
+msgstr "「猛進」を選択"
 
 msgid "IDS_CHOOSE_MK_NAME"
 msgstr ""
@@ -13731,7 +13731,7 @@ msgid "IDS_CONTROL_OPTIONS"
 msgstr "操作"
 
 msgid "IDS_CONVERTED_TO_ELITE_XP"
-msgstr "エリート艦長 EXP に変換"
+msgstr "精鋭艦長 EXP に変換"
 
 msgid "IDS_CONVERT_CREDITS"
 msgstr "銀の変換"
@@ -13758,7 +13758,7 @@ msgid "IDS_CONVERT_RATE_COLON"
 msgstr "変換率:"
 
 msgid "IDS_CONVERT_TO_ELITE_XP_MOUSE_INSTRUCTION"
-msgstr "エリート艦長 EXP をフリー EXP に変換"
+msgstr "精鋭艦長 EXP をフリー EXP に変換"
 
 msgid "IDS_CONVERT_UPPER_CASE"
 msgstr "変換"
@@ -14725,22 +14725,22 @@ msgid "IDS_CREW_DEMOBILIZE_CONVERT_CREDITS"
 msgstr "艦長の解任: EXP +25%"
 
 msgid "IDS_CREW_DEMOBILIZE_CONVERT_CREDITS_TOOLTIP"
-msgstr "艦長を解任し、EXP の 25% をエリート艦長 EXP に変換します"
+msgstr "艦長を解任し、EXP の 25% を精鋭艦長 EXP に変換します"
 
 msgid "IDS_CREW_DEMOBILIZE_CONVERT_DOUBLOONS"
 msgstr "艦長の解任: EXP +100%"
 
 msgid "IDS_CREW_DEMOBILIZE_CONVERT_DOUBLOONS_TOOLTIP"
-msgstr "艦長を解任し、EXP の 100% をエリート艦長 EXP に変換します"
+msgstr "艦長を解任し、EXP の 100% を精鋭艦長 EXP に変換します"
 
 msgid "IDS_CREW_DEMOBILIZE_FREE"
 msgstr "艦長の解任"
 
 msgid "IDS_CREW_DEMOBILIZE_FREE_TOOLTIP"
-msgstr "艦長を解任しますが、EXP をエリート艦長 EXP に一切変換しません"
+msgstr "艦長を解任しますが、EXP を精鋭艦長 EXP に一切変換しません"
 
 msgid "IDS_CREW_EPIC_PROMOTE_DENY_REASON_IN_FORMATION"
-msgstr "ステータスが「戦闘準備完了」になっています。エリート艦長マニュアルを受け取るには「準備中」をクリックしてください。"
+msgstr "ステータスが「戦闘準備完了」になっています。精鋭艦長マニュアルを受け取るには「準備中」をクリックしてください。"
 
 msgid "IDS_CREW_EPIC_SKILL_DENIAL_ATTENTION_INFO"
 msgstr "スキルは基本特性に戻ります"
@@ -14755,7 +14755,7 @@ msgid "IDS_CREW_EPIC_SKILL_NO_OTHER_SKILL_HOSTS_ON_ACCOUNT"
 msgstr "あなたには、この強化されたスキルを持つ艦長がもういません。"
 
 msgid "IDS_CREW_EPIC_SKILL_WITH_NO_OTHER_SKILL_HOSTS_DENY_CONSEQUENCE"
-msgstr "もしあなたが強化を拒否すれば、他のエリート艦長はそれにアクセスできなくなります。"
+msgstr "もしあなたが強化を拒否すれば、他の精鋭艦長はそれにアクセスできなくなります。"
 
 msgid "IDS_CREW_FAST_LEARNING"
 msgstr "訓練促進"
@@ -14779,7 +14779,7 @@ msgid "IDS_CREW_FIRE"
 msgstr "解任"
 
 msgid "IDS_CREW_FIRE_CONVERT_EXP"
-msgstr "艦長 EXP をエリート艦長 EXP に変換"
+msgstr "艦長 EXP を精鋭艦長 EXP に変換"
 
 msgid "IDS_CREW_FIRE_FULL"
 msgstr "艦長を解任しますか:"
@@ -14794,10 +14794,10 @@ msgid "IDS_CREW_FIRING_TYPE_WITH_EXP_CONVERT_1"
 msgstr "艦長 EXP が失われます"
 
 msgid "IDS_CREW_FIRING_TYPE_WITH_EXP_CONVERT_2"
-msgstr "艦長 EXP の 25% をエリート艦長 EXP に変換"
+msgstr "艦長 EXP の 25% を精鋭艦長 EXP に変換"
 
 msgid "IDS_CREW_FIRING_TYPE_WITH_EXP_CONVERT_3"
-msgstr "艦長 EXP の 100% をエリート艦長 EXP に変換"
+msgstr "艦長 EXP の 100% を精鋭艦長 EXP に変換"
 
 msgid "IDS_CREW_FIRSTNAME_ARGENTINA_0"
 msgstr "Alejandro"
@@ -17182,10 +17182,10 @@ msgid "IDS_CREW_HIRE_TYPE_HEADER_2"
 msgstr "上級艦長育成コース"
 
 msgid "IDS_CREW_INFO_MODAL_ALTERNATE_SKILL_NO_MENTOR_INFO_STATUS"
-msgstr "代替スキルは、レア、エリート、伝説艦長から獲得できます"
+msgstr "代替スキルは、希少、精鋭、伝説艦長から獲得できます"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP"
-msgstr "エリート訓練"
+msgstr "精鋭訓練"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_NEXT_SKILL_PRICE_LABEL"
 msgstr "次のスキル:"
@@ -17206,7 +17206,7 @@ msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_COSTS_TALENT"
 msgstr "国家の固有スキル"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_EPIC_SKILLS_DESCRIPTION"
-msgstr "各艦種ごとに、エリート艦長は最大 3 つの強化スキルを獲得できます。各スキルのコストは、全艦種で獲得したスキルの総数に応じて決定されます。"
+msgstr "各艦種ごとに、精鋭艦長は最大 3 つの強化スキルを獲得できます。各スキルのコストは、全艦種で獲得したスキルの総数に応じて決定されます。"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_EPIC_SKILLS_HEADER"
 msgstr "強化版スキル"
@@ -17215,16 +17215,16 @@ msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_MAX_PERKS_UNLOCKED_STATUS_LI
 msgstr "スキルを最大数取得済み"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_NOT_MAX_LEVEL_STATUS_LINE"
-msgstr "エリート訓練は、艦長が最大レベルに達したときに利用可能になります"
+msgstr "精鋭訓練は、艦長が最大レベルに達したときに利用可能になります"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_TALENT_DESCRIPTION"
-msgstr "エリート艦長は、伝説艦長から 1 つの国家の固有スキルと固有効果を獲得できます。"
+msgstr "精鋭艦長は、伝説艦長から 1 つの国家の固有スキルと固有効果を獲得できます。"
 
 msgid "IDS_CREW_INFO_MODAL_ELITE_MENTORSHIP_TOOLTIP_TALENT_HEADER"
 msgstr "国家の固有スキル"
 
 msgid "IDS_CREW_INFO_MODAL_EPIC_SKILL_NO_MENTOR_INFO_STATUS"
-msgstr "強化版スキルは、レア、エリート、伝説艦長から入手できます"
+msgstr "強化版スキルは、希少、精鋭、伝説艦長から入手できます"
 
 msgid "IDS_CREW_INFO_MODAL_NATIONAL_TALENT_NO_MENTOR_INFO_STATUS"
 msgstr "%(_nationName)s伝説艦長を所有している場合、国家の固有スキルを入手できます"
@@ -19638,7 +19638,7 @@ msgid "IDS_CREW_MODAL_HEADER_FIRE_UPPERCASE"
 msgstr "艦長の解任"
 
 msgid "IDS_CREW_NOT_ENOUGH_EXP_TO_DEMOBILIZE"
-msgstr "この艦長はエリート艦長 EXP に変換できる十分な EXP を有していません"
+msgstr "この艦長は精鋭艦長 EXP に変換できる十分な EXP を有していません"
 
 msgid "IDS_CREW_ON_SHIPS_LIST_TITLE"
 msgstr "艦艇に配属済み"
@@ -20616,7 +20616,7 @@ msgid "IDS_CREW_RANK_YUGOSLAVIA_9"
 msgstr "Admiral"
 
 msgid "IDS_CREW_RARE_PROMOTE_DENY_REASON_IN_FORMATION"
-msgstr "ステータスが「戦闘準備完了」になっています。レア艦長マニュアルを受け取るには「準備中」をクリックしてください。"
+msgstr "ステータスが「戦闘準備完了」になっています。希少艦長マニュアルを受け取るには「準備中」をクリックしてください。"
 
 msgid "IDS_CREW_REDISTRIBUTE_PERKS"
 msgstr "再分配"
@@ -20655,7 +20655,7 @@ msgid "IDS_CREW_SKILL_DENIAL_ATTENTION_INFO"
 msgstr "スキルは再取得可能です"
 
 msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_0"
-msgstr "エリート艦長 EXP は失われます"
+msgstr "精鋭艦長 EXP は失われます"
 
 msgid "IDS_CREW_SKILL_DENIAL_ELITE_XP_REFUND_1"
 msgstr "消費した EXP の 25% は返還されます"
@@ -20772,7 +20772,7 @@ msgid "IDS_CREW_TRAINING_TYPE_DESCRIPTION_3"
 msgstr "高速訓練"
 
 msgid "IDS_CREW_TRAINING_TYPE_DISABLE_REASON_2"
-msgstr "エリート艦長 EXP が不足"
+msgstr "精鋭艦長 EXP が不足"
 
 msgid "IDS_CREW_TRAINING_TYPE_DISABLE_REASON_3"
 msgstr "金不足"
@@ -20784,7 +20784,7 @@ msgid "IDS_CREW_TRAINING_TYPE_HEADER_2"
 msgstr "金で"
 
 msgid "IDS_CREW_TRAINING_TYPE_HEADER_3"
-msgstr "エリート艦長 EXP で"
+msgstr "精鋭艦長 EXP で"
 
 msgid "IDS_CREW_TYPE"
 msgstr "希少性"
@@ -20793,13 +20793,13 @@ msgid "IDS_CREW_TYPE_COMMON"
 msgstr "標準"
 
 msgid "IDS_CREW_TYPE_ELITE"
-msgstr "エリート"
+msgstr "精鋭"
 
 msgid "IDS_CREW_TYPE_LEGENDARY"
 msgstr "伝説"
 
 msgid "IDS_CREW_TYPE_RARE"
-msgstr "レア"
+msgstr "希少"
 
 msgid "IDS_CREW_TYPE_UNCOMMON"
 msgstr "特別"
@@ -20912,7 +20912,7 @@ msgid "IDS_CURRENCY_CLIENTUM_2_GET_DESCRIPTION"
 msgstr "戦闘任務の達成、アップデート 12.8 終了時までの BATTLE PASS レベル到達、アップデート 12.8 でのイベント「Key Objective」での戦闘任務の達成、ならびにアップデート 12.8 および 12.9 のイベント期間中に武器庫で入手可能なセットからのボーナスとして、戦闘成果に対する褒賞が付与されます。"
 
 msgid "IDS_CURRENCY_CLIENTUM_2_SPEND_DESCRIPTION"
-msgstr "ランダムなセットには、エリートコンテナ「Tier VII プレミアム艦艇」、研究ポイント、鋼鉄、その他の物資が含まれ、エリートコンテナ「Tier VIII プレミアム艦艇」、Tier VI 巡洋艦 Dupleix、Tier X 艦艇と超艦艇のための経済セット、およびティアX戦艦 Preussen のための永久迷彩「Giant of Science」が、アップデート 12.8 および 12.9 のイベント期間中に提供されます。"
+msgstr "ランダムなセットには、精鋭コンテナ「Tier VII プレミアム艦艇」、研究ポイント、鋼鉄、その他の物資が含まれ、精鋭コンテナ「Tier VIII プレミアム艦艇」、Tier VI 巡洋艦 Dupleix、Tier X 艦艇と超艦艇のための経済セット、およびティアX戦艦 Preussen のための永久迷彩「Giant of Science」が、アップデート 12.8 および 12.9 のイベント期間中に提供されます。"
 
 msgid "IDS_CURRENCY_CLIENTUM_2_STATUS"
 msgstr "「進歩を享受せよ!」イベント一時リソース"
@@ -20969,10 +20969,10 @@ msgid "IDS_CURRENCY_DUBLICATES"
 msgstr "重複"
 
 msgid "IDS_CURRENCY_ELITEXP"
-msgstr "エリート艦長 EXP"
+msgstr "精鋭艦長 EXP"
 
 msgid "IDS_CURRENCY_ELITEXP_GET_DESCRIPTION"
-msgstr "各戦で取得した艦長 EXP の 5% 分を取得できます。艦長のスキルポイント数が上限に達すると、その艦長が取得する全ての EXP がエリート艦長 EXP になります。"
+msgstr "各戦で取得した艦長 EXP の 5% 分を取得できます。艦長のスキルポイント数が上限に達すると、その艦長が取得する全ての EXP が精鋭艦長 EXP になります。"
 
 msgid "IDS_CURRENCY_ELITEXP_MOUSE_INSTRUCTION"
 msgstr "EXP をフリー EXP に変換"
@@ -20981,7 +20981,7 @@ msgid "IDS_CURRENCY_ELITEXP_SPEND_DESCRIPTION"
 msgstr "任意の艦長の訓練促進と再訓練に使用できる他、フリー EXP に変換することも可能です。"
 
 msgid "IDS_CURRENCY_ELITE_XP"
-msgstr "エリート艦長 EXP"
+msgstr "精鋭艦長 EXP"
 
 msgid "IDS_CURRENCY_EVENTUM_1"
 msgstr "スペーストークン"
@@ -28025,7 +28025,7 @@ msgid "IDS_DOGTAG_PCNU004_DESCRIPTION"
 msgstr "星は赤軍の紋章であり、ソ連海軍の軍艦旗にも組み込まれました。赤い五芒星は、人口の多い地球上の五大陸すべてにわたるプロレタリアート (賃金労働者階級) の団結を象徴していました。"
 
 msgid "IDS_DOGTAG_PCNU004_NAME"
-msgstr "ソ連海軍エリート部隊"
+msgstr "ソ連海軍精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU005_DESCRIPTION"
 msgstr "島国である日本は海と深い繋がりがあり、海洋のテーマは伝統的に日本文化全体に浸透しており、国のアイデンティティにおいて重要な役割を果たしています。"
@@ -28073,7 +28073,7 @@ msgid "IDS_DOGTAG_PCNU012_DESCRIPTION"
 msgstr "アメリカのペンシルヴェニア州フィラデルフィアにある自由の鐘 (Liberty Bell) は、アメリカ独立闘争の象徴的なシンボルです。1776 年 7 月 8 日、アメリカ独立宣言の朗読の際に国民を呼び出すためにこの鐘が鳴らされました。この鐘は 1847 年に奴隷制度廃止運動のシンボルとして採用され、この名前が付けられました。"
 
 msgid "IDS_DOGTAG_PCNU012_NAME"
-msgstr "アメリカ海軍エリート部隊"
+msgstr "アメリカ海軍精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU013_DESCRIPTION"
 msgstr "ライオンのイメージはイギリスの国家アイデンティティにおいて重要な意味を持っています。ライオンはイギリスの紋章学においてよく使われており、伝統的に強さ、勇気、風格を象徴しています。"
@@ -28097,7 +28097,7 @@ msgid "IDS_DOGTAG_PCNU016_DESCRIPTION"
 msgstr "ライオンのイメージはイギリスの国家アイデンティティにおいて重要な意味を持っています。ライオンはイギリスの紋章学においてよく使われており、伝統的に強さ、勇気、風格を象徴しています。"
 
 msgid "IDS_DOGTAG_PCNU016_NAME"
-msgstr "イギリス海軍エリート部隊"
+msgstr "イギリス海軍精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU017_DESCRIPTION"
 msgstr "フルール・ド・リスはヨーロッパの数え切れないほどの紋章に描かれていますが、特にフランスの君主制と結びついています。"
@@ -28121,7 +28121,7 @@ msgid "IDS_DOGTAG_PCNU020_DESCRIPTION"
 msgstr "フルール・ド・リスはヨーロッパの数え切れないほどの紋章に描かれていますが、特にフランスの君主制と結びついています。"
 
 msgid "IDS_DOGTAG_PCNU020_NAME"
-msgstr "フランス海軍エリート部隊"
+msgstr "フランス海軍精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU021_DESCRIPTION"
 msgstr "ドイツ国家の象徴としての鷲のイメージは、教皇によって皇帝に戴冠した最初のフランク王国の統治者、カール大帝 (シャルルマーニュ) の時代にまで遡ります。この新たな帝国は旧西ローマ帝国の一部を包含し、ローマの象徴である鷲を継承しました。"
@@ -28145,7 +28145,7 @@ msgid "IDS_DOGTAG_PCNU024_DESCRIPTION"
 msgstr "ドイツ国家の象徴としての鷲のイメージは、教皇によって皇帝に戴冠した最初のフランク王国の統治者、カール大帝 (シャルルマーニュ) の時代にまで遡ります。この新たな帝国は旧西ローマ帝国の一部を包含し、ローマの象徴である鷲を継承しました。"
 
 msgid "IDS_DOGTAG_PCNU024_NAME"
-msgstr "ドイツ海軍エリート部隊"
+msgstr "ドイツ海軍精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU025_DESCRIPTION"
 msgstr "アジア諸国の神話では、竜は火よりも水の要素と関連付けられることがよくあります。この生き物は権威と知恵を表します。竜には雨をもたらし、豊饒を促進する能力があると信じられています。"
@@ -28169,7 +28169,7 @@ msgid "IDS_DOGTAG_PCNU028_DESCRIPTION"
 msgstr "アジア諸国の神話では、竜は火よりも水の要素と関連付けられることがよくあります。この生き物は権威と知恵を表します。竜には雨をもたらし、豊饒を促進する能力があると信じられています。"
 
 msgid "IDS_DOGTAG_PCNU028_NAME"
-msgstr "パンアジア艦隊エリート部隊"
+msgstr "パンアジア艦隊精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU029_DESCRIPTION"
 msgstr "駆逐艦は、敵の潜水艦や水上艦艇を撃破し、航海中や戦闘中に味方の艦艇や船舶に対空および対潜防御を提供し、水陸両用強襲作戦や海上輸送作戦を支援し、陸上の部隊に火力支援を提供し、機雷を敷設するために設計された軍艦です。"
@@ -28193,7 +28193,7 @@ msgid "IDS_DOGTAG_PCNU032_DESCRIPTION"
 msgstr "駆逐艦は、敵の潜水艦や水上艦艇を撃破し、航海中や戦闘中に味方の艦艇や船舶に対空および対潜防御を提供し、水陸両用強襲作戦や海上輸送作戦を支援し、陸上の部隊に火力支援を提供し、機雷を敷設するために設計された軍艦です。"
 
 msgid "IDS_DOGTAG_PCNU032_NAME"
-msgstr "駆逐艦艦長 エリート部隊"
+msgstr "駆逐艦艦長 精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU033_DESCRIPTION"
 msgstr "巡洋艦は、敵の艦船を撃破し、水陸両用強襲作戦を支援し、陸上部隊に火力支援を提供し、海上でその他の戦闘任務を遂行するために設計された大型軍艦です。巡洋艦は、様々な諸元に基づいていくつかのサブタイプに分類できます。これらのサブタイプには、巡洋戦艦、軽巡洋艦、防空巡洋艦などが含まれます。"
@@ -28217,7 +28217,7 @@ msgid "IDS_DOGTAG_PCNU036_DESCRIPTION"
 msgstr "巡洋艦は、敵の艦船を撃破し、水陸両用強襲作戦を支援し、陸上部隊に火力支援を提供し、海上でその他の戦闘任務を遂行するために設計された大型軍艦です。巡洋艦は、様々な諸元に基づいていくつかのサブタイプに分類できます。これらのサブタイプには、巡洋戦艦、軽巡洋艦、防空巡洋艦などが含まれます。"
 
 msgid "IDS_DOGTAG_PCNU036_NAME"
-msgstr "巡洋艦艦長 エリート部隊"
+msgstr "巡洋艦艦長 精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU037_DESCRIPTION"
 msgstr "近代的な戦艦は、20 世紀前半に目立った大型で重装甲の軍艦です。強力な大砲を備えた戦艦は、海戦であらゆる種類の水上艦艇を破壊し、陸上の目標を砲撃するように設計されました。これらは 20 世紀の最初の 10 年間の終わりに前弩級戦艦に取って代わりました。"
@@ -28241,7 +28241,7 @@ msgid "IDS_DOGTAG_PCNU040_DESCRIPTION"
 msgstr "近代的な戦艦は、20 世紀前半に目立った大型で重装甲の軍艦です。強力な大砲を備えた戦艦は、海戦であらゆる種類の水上艦艇を破壊し、陸上の目標を砲撃するように設計されました。これらは 20 世紀の最初の 10 年間の終わりに前弩級戦艦に取って代わりました。"
 
 msgid "IDS_DOGTAG_PCNU040_NAME"
-msgstr "戦艦艦長 エリート部隊"
+msgstr "戦艦艦長 精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU041_DESCRIPTION"
 msgstr "航空母艦は、攻撃能力を主に甲板から発艦する航空機に依存する水上軍艦です。その艦載機は、海上および基地にある敵の水上艦艇、潜水艦、輸送船、ならびに敵航空機を撃破できるように設計されています。また、海上通商網を妨害したり防衛したり、強襲上陸部隊や地上部隊を支援したりする際にも重要な役割を果たします。"
@@ -28265,7 +28265,7 @@ msgid "IDS_DOGTAG_PCNU044_DESCRIPTION"
 msgstr "航空母艦は、攻撃能力を主に甲板から発艦する航空機に依存する水上軍艦です。その艦載機は、海上および基地にある敵の水上艦艇、潜水艦、輸送船、ならびに敵航空機を撃破できるように設計されています。また、海上通商網を妨害したり防衛したり、強襲上陸部隊や地上部隊を支援したりする際にも重要な役割を果たします。"
 
 msgid "IDS_DOGTAG_PCNU044_NAME"
-msgstr "航空母艦艦長 エリート部隊"
+msgstr "航空母艦艦長 精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU045_DESCRIPTION"
 msgstr "艦艇に対する私たちの共通の情熱が私たちを団結させますが、それを真に実現するのは、このコミュニティ内の人々です。"
@@ -28337,7 +28337,7 @@ msgid "IDS_DOGTAG_PCNU056_DESCRIPTION"
 msgstr "ランク争いは常に熾烈を極めており、最も忍耐強く大胆なプレイヤーだけが、最も切望される褒賞を獲得できます。"
 
 msgid "IDS_DOGTAG_PCNU056_NAME"
-msgstr "ランク戦エキスパート: エリート"
+msgstr "ランク戦エキスパート: 精鋭"
 
 msgid "IDS_DOGTAG_PCNU057_DESCRIPTION"
 msgstr "クランは、外洋で共に戦ってくれる、絶対的なチームメイトを見つけるのに最適な場所です。"
@@ -28361,22 +28361,22 @@ msgid "IDS_DOGTAG_PCNU060_DESCRIPTION"
 msgstr "クランは、外洋で共に戦ってくれる、絶対的なチームメイトを見つけるのに最適な場所です。"
 
 msgid "IDS_DOGTAG_PCNU060_NAME"
-msgstr "クラン戦エキスパート: エリート"
+msgstr "クラン戦エキスパート: 精鋭"
 
 msgid "IDS_DOGTAG_PCNU061_DESCRIPTION"
-msgstr "スーパーテスターは私たちの艦隊の真のエリートであり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
+msgstr "スーパーテスターは私たちの艦隊の真の精鋭であり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
 
 msgid "IDS_DOGTAG_PCNU061_NAME"
 msgstr "ST ノービス"
 
 msgid "IDS_DOGTAG_PCNU062_DESCRIPTION"
-msgstr "スーパーテスターは私たちの艦隊の真のエリートであり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
+msgstr "スーパーテスターは私たちの艦隊の真の精鋭であり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
 
 msgid "IDS_DOGTAG_PCNU062_NAME"
 msgstr "ST エキスパート"
 
 msgid "IDS_DOGTAG_PCNU063_DESCRIPTION"
-msgstr "スーパーテスターは私たちの艦隊の真のエリートであり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
+msgstr "スーパーテスターは私たちの艦隊の真の精鋭であり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
 
 msgid "IDS_DOGTAG_PCNU063_NAME"
 msgstr "ST マスター"
@@ -28409,7 +28409,7 @@ msgid "IDS_DOGTAG_PCNU068_DESCRIPTION"
 msgstr "プレイヤーコミュニティで開催された大規模な競技会。チームは戦術と戦略を競い合い、観客は息を呑んで戦いの行方を見守りました。"
 
 msgid "IDS_DOGTAG_PCNU068_NAME"
-msgstr "プレイヤー対抗戦参加者 — エリート"
+msgstr "プレイヤー対抗戦参加者 — 精鋭"
 
 msgid "IDS_DOGTAG_PCNU069_DESCRIPTION"
 msgstr "プレイヤーコミュニティで開催された大規模な競技会。チームは戦術と戦略を競い合い、観客は息を呑んで戦いの行方を見守りました。"
@@ -28439,7 +28439,7 @@ msgid "IDS_DOGTAG_PCNU073_DESCRIPTION"
 msgstr "イタリア王立海軍 (Regia Marina) の紋章には、サヴォイア家の王朝のシンボルである十字架が飾られたローマの鷲 (Aquila) が描かれています。鷲は士官の帽章や提督の肩のマークに見られる海軍本部の錨の上に重ねられています。錨の上には、イタリア王国の国章に見られるように、国家統一を象徴する鉄の王冠が置かれています。"
 
 msgid "IDS_DOGTAG_PCNU073_NAME"
-msgstr "イタリア海軍エリート部隊"
+msgstr "イタリア海軍精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU074_DESCRIPTION"
 msgstr "公開テストは、先駆者たちが新たな艦艇をテストし、未知の領域を探索し、恐れることなく見知らぬ港に立ち寄ることができるスペースとして機能します。"
@@ -28499,7 +28499,7 @@ msgid "IDS_DOGTAG_PCNU081_DESCRIPTION"
 msgstr "騎士道は中世ヨーロッパの象徴となっており、剣と鎧は騎士道に関連した本質的なシンボルです。"
 
 msgid "IDS_DOGTAG_PCNU081_NAME"
-msgstr "ヨーロッパ艦隊エリート部隊"
+msgstr "ヨーロッパ艦隊精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU082_DESCRIPTION"
 msgstr "軍艦は 1 隻でも良いものですが、多数ある方がずっと良いですよね。真に熱心なコレクターだけが、様々な国、艦種、Tier の艦艇から成る大規模な艦隊を編成できるのです。"
@@ -28517,31 +28517,31 @@ msgid "IDS_DOGTAG_PCNU083_QUEST"
 msgstr "公開テストの全てのシーズンで最終結果を達成した場合に授与される記念エンブレムです。"
 
 msgid "IDS_DOGTAG_PCNU084_DESCRIPTION"
-msgstr "クランテスターは私たちの艦隊の真のエリートであり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
+msgstr "クランテスターは私たちの艦隊の真の精鋭であり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
 
 msgid "IDS_DOGTAG_PCNU084_NAME"
 msgstr "CST ノービス"
 
 msgid "IDS_DOGTAG_PCNU085_DESCRIPTION"
-msgstr "クランテスターは私たちの艦隊の真のエリートであり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
+msgstr "クランテスターは私たちの艦隊の真の精鋭であり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
 
 msgid "IDS_DOGTAG_PCNU085_NAME"
 msgstr "CST エキスパート"
 
 msgid "IDS_DOGTAG_PCNU086_DESCRIPTION"
-msgstr "クランテスターは私たちの艦隊の真のエリートであり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
+msgstr "クランテスターは私たちの艦隊の真の精鋭であり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
 
 msgid "IDS_DOGTAG_PCNU086_NAME"
 msgstr "CST マスター"
 
 msgid "IDS_DOGTAG_PCNU087_DESCRIPTION"
-msgstr "クランテスターは私たちの艦隊の真のエリートであり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
+msgstr "クランテスターは私たちの艦隊の真の精鋭であり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
 
 msgid "IDS_DOGTAG_PCNU087_NAME"
 msgstr "CST ベテラン"
 
 msgid "IDS_DOGTAG_PCNU088_DESCRIPTION"
-msgstr "スーパーテスターは私たちの艦隊の真のエリートであり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
+msgstr "スーパーテスターは私たちの艦隊の真の精鋭であり、その鋭い目により私たちのあらゆるアップデートの最高品質を保証します。"
 
 msgid "IDS_DOGTAG_PCNU088_NAME"
 msgstr "ST ベテラン"
@@ -28568,7 +28568,7 @@ msgid "IDS_DOGTAG_PCNU092_DESCRIPTION"
 msgstr "ライオンは、紋章の役割として、旧オランダ七連合共和国 (1581 ～ 1795 年) の国章から 1815 年に設立されたオランダ王国の国章まで受け継がれています。ライオンの足にある 7 本の矢は共和国の 7 つの州を表し、剣は自由を守る決意を象徴し、伯爵の王冠は主権を強調しています。"
 
 msgid "IDS_DOGTAG_PCNU092_NAME"
-msgstr "オランダ海軍エリート部隊"
+msgstr "オランダ海軍精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU093_DESCRIPTION"
 msgstr "軍艦は 1 隻でも良いものですが、多数ある方がずっと良いですよね。真に熱心なコレクターだけが、様々な国、艦種、Tier の艦艇から成る大規模な艦隊を編成できるのです。"
@@ -28598,7 +28598,7 @@ msgid "IDS_DOGTAG_PCNU097_DESCRIPTION"
 msgstr "潜水艦は、水中に潜って活動できる艦艇です。潜水艦の主な軍事的利点は、そのステルス能力にあります。戦闘用の潜水艦は、敵の艦船を撃破し、機雷原を敷設し、偵察活動を実行し、その他の戦闘および特殊な任務を遂行するように設計されています。"
 
 msgid "IDS_DOGTAG_PCNU097_NAME"
-msgstr "潜水艦艦長 エリート部隊"
+msgstr "潜水艦艦長 精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU098_DESCRIPTION"
 msgstr "古代に遡るスペインのシンボルである雄牛は、その印象的な大きさ、揺るぎない勇気、そして狡猾な性質を通じて武力の強さを体現しています。"
@@ -28622,7 +28622,7 @@ msgid "IDS_DOGTAG_PCNU101_DESCRIPTION"
 msgstr "古代に遡るスペインのシンボルである雄牛は、その印象的な大きさ、揺るぎない勇気、そして狡猾な性質を通じて武力の強さを体現しています。"
 
 msgid "IDS_DOGTAG_PCNU101_NAME"
-msgstr "スペイン海軍エリート部隊"
+msgstr "スペイン海軍精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU102_DESCRIPTION"
 msgstr "解放者とも呼ばれるシモン・ボリバルの剣は、ラテンアメリカの独立を求める戦いの象徴となっています。双頭の蛇は、木製の台座上にターコイズで作られた古代のアステカの彫刻です。蛇の像はアステカ神話の中で特別な役割を果たしており、この像は宗教儀式の際に使用されたと考えられています。"
@@ -28646,7 +28646,7 @@ msgid "IDS_DOGTAG_PCNU105_DESCRIPTION"
 msgstr "解放者とも呼ばれるシモン・ボリバルの剣は、ラテンアメリカの独立を求める戦いの象徴となっています。双頭の蛇は、木製の台座上にターコイズで作られた古代のアステカの彫刻です。蛇の像はアステカ神話の中で特別な役割を果たしており、この像は宗教儀式の際に使用されたと考えられています。"
 
 msgid "IDS_DOGTAG_PCNU105_NAME"
-msgstr "パンアメリカ艦隊エリート部隊"
+msgstr "パンアメリカ艦隊精鋭部隊"
 
 msgid "IDS_DOGTAG_PCNU106_DESCRIPTION"
 msgstr "「突破」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
@@ -28664,7 +28664,7 @@ msgid "IDS_DOGTAG_PCNU108_DESCRIPTION"
 msgstr "「突破」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
 
 msgid "IDS_DOGTAG_PCNU108_NAME"
-msgstr "突破、エリート"
+msgstr "突破、精鋭"
 
 msgid "IDS_DOGTAG_PCNU109_DESCRIPTION"
 msgstr "「突破」トーナメントは、ダイナミックな競技であり、感情、アドレナリン、競争精神、そして真の戦友関係に満ちています。"
@@ -28688,7 +28688,7 @@ msgid "IDS_DOGTAG_PCNU112_DESCRIPTION"
 msgstr "これは『軍艦世界』(Мир кораблей) で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
 
 msgid "IDS_DOGTAG_PCNU112_NAME"
-msgstr "海の皇帝、エリート"
+msgstr "海の皇帝、精鋭"
 
 msgid "IDS_DOGTAG_PCNU113_DESCRIPTION"
 msgstr "これは『軍艦世界』(Мир кораблей) で最も権威があり刺激的な競技会です。プレイヤー自身のイニシアチブで組織された大規模なトーナメントで、各チームが戦闘の技術を競い、最高の称号をかけて戦います!"
@@ -28718,7 +28718,7 @@ msgid "IDS_DOGTAG_PCNU117_DESCRIPTION"
 msgstr "トーナメント戦では、誰もが己の力を試し、自らの可能性を知ることができる。競争のるつぼをくぐり抜けることで、アマチュアはプロへと成長し、戦友たちは新たな勝利に向けて準備されたチャンピオンとなる。"
 
 msgid "IDS_DOGTAG_PCNU117_NAME"
-msgstr "マスター・トーナメント戦、エリート"
+msgstr "マスター・トーナメント戦、精鋭"
 
 msgid "IDS_DOGTAG_PCNU118_DESCRIPTION"
 msgstr "自分が持っているものに決して満足しない人もいますが、その落ち着きのなさが素晴らしい結果をもたらす可能性があります! 試行錯誤する人は、実験と新しい解決策の追求に対する情熱によって動かされています。"
@@ -28766,7 +28766,7 @@ msgid "IDS_DOGTAG_PCNU125_DESCRIPTION"
 msgstr "レーティング戦に挑むのは、リスクを恐れず、認められたいと渇望する者たちだ。一戦一戦が、自らの戦闘技術を証明し、ランキングの上位を目指すチャンスとなる。"
 
 msgid "IDS_DOGTAG_PCNU125_NAME"
-msgstr "レーティング戦エキスパート: エリート"
+msgstr "レーティング戦エキスパート: 精鋭"
 
 msgid "IDS_DOGTAG_PCNU126_DESCRIPTION"
 msgstr "伝説は生まれつきではない — 誰もが戦いの炎の中で自らの歴史を鍛え上げる。真に不屈で揺るぎない艦長のみが、自らの艦を最高のレベルで操る境地に到達できるのだ。"
@@ -29266,10 +29266,10 @@ msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_COMMON"
 msgstr "標準"
 
 msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_ELITE"
-msgstr "エリート"
+msgstr "精鋭"
 
 msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_RARE"
-msgstr "レア"
+msgstr "希少"
 
 msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_UNCOMMON"
 msgstr "特別"
@@ -29314,10 +29314,10 @@ msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_2"
 msgstr "特別消費型ボーナス"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_3"
-msgstr "レア消費型ボーナス"
+msgstr "希少消費型ボーナス"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_4"
-msgstr "エリート消費型ボーナス"
+msgstr "精鋭消費型ボーナス"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_1"
 msgstr "標準ボーナス"
@@ -29326,10 +29326,10 @@ msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_2"
 msgstr "特別ボーナス"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_3"
-msgstr "レア・ボーナス"
+msgstr "希少ボーナス"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_4"
-msgstr "エリート・ボーナス"
+msgstr "精鋭ボーナス"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPFACTOR_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "艦艇 EXP"
@@ -29425,16 +29425,16 @@ msgid "IDS_ELITETOURNAMENT22"
 msgstr "Da Lan"
 
 msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_0"
-msgstr "レベル 21 に到達したエリート艦長は、他の所有艦長から国家の固有スキル及び強化版スキルを獲得できます。"
+msgstr "レベル 21 に到達した精鋭艦長は、他の所有艦長から国家の固有スキル及び強化版スキルを獲得できます。"
 
 msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_1"
-msgstr "強化版スキルと国家の固有スキルを取得するには、エリート艦長 EXP が必要です。将来的には、それらを他のスキルに変更できます。"
+msgstr "強化版スキルと国家の固有スキルを取得するには、精鋭艦長 EXP が必要です。将来的には、それらを他のスキルに変更できます。"
 
 msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TEXT_2"
-msgstr "エリート艦長の能力を管理するには、艦長が最高レベルに到達した後、「個人ファイル」画面に移動する必要があります。"
+msgstr "精鋭艦長の能力を管理するには、艦長が最高レベルに到達した後、「個人ファイル」画面に移動する必要があります。"
 
 msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TITLE_0"
-msgstr "エリート艦長の能力"
+msgstr "精鋭艦長の能力"
 
 msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TITLE_1"
 msgstr "スキルと固有スキル"
@@ -29443,7 +29443,7 @@ msgid "IDS_ELITE_CREW_ACADEMY_ONBOARDING_TITLE_2"
 msgstr "個人ファイル"
 
 msgid "IDS_ELITE_CREW_BANNER_TITLE"
-msgstr "エリート訓練"
+msgstr "精鋭訓練"
 
 msgid "IDS_ELITE_CREW_CAN_GET_TALENT_TOOLTIP_STATUS"
 msgstr "国家の固有スキルを取得できます"
@@ -29452,16 +29452,16 @@ msgid "IDS_ELITE_CREW_CAN_UPGRADE_SKILL_TOOLTIP_STATUS"
 msgstr "スキルを強化できます"
 
 msgid "IDS_ELITE_CREW_MANUAL"
-msgstr "エリート艦長教本"
+msgstr "精鋭艦長教本"
 
 msgid "IDS_ELITE_CREW_MANUAL_PROMOTE_CREW_MODAL_EFFECT_DESCRIPTION"
-msgstr "艦長はエリートになる。"
+msgstr "艦長は精鋭になる。"
 
 msgid "IDS_ELITE_CREW_MANUAL_PROMOTE_CREW_MODAL_QUESTION"
-msgstr "エリート艦長教本を使用しますか?"
+msgstr "精鋭艦長教本を使用しますか?"
 
 msgid "IDS_ELITE_CREW_MANUAL_PURPOSE_TOOLTIP_DESCRIPTION"
-msgstr "任意の標準、特別、またはレア艦長のエリート化。レベル 21 に到達すると、エリート艦長は他の艦長から国家の固有スキル及び強化版スキルを獲得できます。"
+msgstr "任意の標準、特別、または希少艦長の精鋭化。レベル 21 に到達すると、精鋭艦長は他の艦長から国家の固有スキル及び強化版スキルを獲得できます。"
 
 msgid "IDS_ELITE_CREW_NOT_READY_ONBOARDING_BANNER_SUBTITLE"
 msgstr "艦長が最大レベルに到達した後、利用可能になります"
@@ -29470,28 +29470,28 @@ msgid "IDS_ELITE_CREW_READY_ONBOARDING_BANNER_SUBTITLE"
 msgstr "「個人ファイル」に移動して、スキルと国家の固有スキルを選択してください"
 
 msgid "IDS_ELITE_CREW_STATUS"
-msgstr "エリート艦長"
+msgstr "精鋭艦長"
 
 msgid "IDS_ELITE_SHIPS"
-msgstr "エリート艦艇"
+msgstr "精鋭艦艇"
 
 msgid "IDS_ELITE_SHIPS_DESCRIPTION"
-msgstr "全てのモジュールおよび後続艦艇を研究すると、エリート艦艇になります。"
+msgstr "全てのモジュールおよび後続艦艇を研究すると、精鋭艦艇になります。"
 
 msgid "IDS_ELITE_XP"
-msgstr "エリート艦長 EXP"
+msgstr "精鋭艦長 EXP"
 
 msgid "IDS_ELITE_XP_DESC"
 msgstr "艦長 EXP の合計の 5% 分として取得するか、艦長が最高レベルに達している場合は艦長 EXP の代わりに取得できます。"
 
 msgid "IDS_ELITE_XP_INFO"
-msgstr "最高ランクに到達した艦長は、戦闘でエリート艦長 EXP を取得できるようになります。"
+msgstr "最高ランクに到達した艦長は、戦闘で精鋭艦長 EXP を取得できるようになります。"
 
 msgid "IDS_ELITE_XP_INSTRUCTION_0"
-msgstr "最高ランクの艦長は、戦闘でエリート艦長 EXP を取得します。"
+msgstr "最高ランクの艦長は、戦闘で精鋭艦長 EXP を取得します。"
 
 msgid "IDS_ELITE_XP_INSTRUCTION_1"
-msgstr "エリート艦長 EXP は、他の艦長に分配することも、フリー EXP に変換することもできます。"
+msgstr "精鋭艦長 EXP は、他の艦長に分配することも、フリー EXP に変換することもできます。"
 
 msgid "IDS_EMAIL"
 msgstr "メールアドレス:"
@@ -29734,7 +29734,7 @@ msgid "IDS_EPICENTER"
 msgstr "中央攻略戦"
 
 msgid "IDS_EPICENTER_RING_START_TASK"
-msgstr "エピセンターゾーンの確保および敵艦撃沈により、1000 ポイントを獲得する。"
+msgstr "中央ゾーンの確保および敵艦撃沈により、1000 ポイントを獲得する。"
 
 msgid "IDS_EQUIPMENT"
 msgstr "装備"
@@ -30500,7 +30500,7 @@ msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_BOOSTS_PREINTSTALLING"
 msgstr "搭載中のボーナスが尽きた場合、より低い希少性のボーナスに自動的に置き換えられます。"
 
 msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_BOOSTS_RARITY"
-msgstr "標準ボーナスと特別ボーナスはダブロンで購入できます。レア・ボーナスとエリート・ボーナスは各種のイベントに参加することで獲得できます。"
+msgstr "標準ボーナスと特別ボーナスはダブロンで購入できます。希少ボーナスと精鋭ボーナスは各種のイベントに参加することで獲得できます。"
 
 msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_HOW_COUNTED"
 msgstr "永久ボーナスの値は搭載中の消費型ボーナスの値に追加されます。"
@@ -32126,10 +32126,10 @@ msgid "IDS_FILTERS"
 msgstr "艦艇フィルター"
 
 msgid "IDS_FILTER_ELITE"
-msgstr "エリート"
+msgstr "精鋭"
 
 msgid "IDS_FILTER_NOT_ELITE"
-msgstr "非エリート"
+msgstr "非精鋭"
 
 msgid "IDS_FILTER_PREMIUM"
 msgstr "プレミアム"
@@ -32225,7 +32225,7 @@ msgid "IDS_FIRST_BATTLE_CARD_MOVEMENT_0"
 msgstr "艦船の旋回および加減速には慣性が働きます。操作反応にタイムラグが生じるため、行動は必ず事前に計画してください。"
 
 msgid "IDS_FIRST_BATTLE_CARD_MOVEMENT_1"
-msgstr "速度はキーで切り替えられます。艦艇を動かし続けるためにキーを押し続ける必要はありません！"
+msgstr "速度はキーで切り替えられます。艦艇を動かし続けるためにキーを押し続ける必要はありません!"
 
 msgid "IDS_FIRST_BATTLE_CARD_SHOOTING"
 msgstr "発砲"
@@ -33226,7 +33226,7 @@ msgid "IDS_GET_ACHIEVEMENTS_IN"
 msgstr "この戦闘タイプでは、以下の実績を獲得できます:"
 
 msgid "IDS_GET_EXP_PLAYING_ON_ELITE_AND_PREMIUM_SHIPS"
-msgstr "エリートおよびプレミアム艦艇で戦闘参加し EXP を稼ぎましょう。"
+msgstr "精鋭およびプレミアム艦艇で戦闘参加し EXP を稼ぎましょう。"
 
 msgid "IDS_GET_FOR_ACHIEVEMENTS"
 msgstr "実績に対する褒賞"
@@ -33484,7 +33484,7 @@ msgid "IDS_GUIDING_TIP_104_HEADER"
 msgstr "艦長スキル"
 
 msgid "IDS_GUIDING_TIP_105_DESC"
-msgstr "習得済みの艦長スキルは毎戦において有効です。習得済みのスキルをリセットして再分配する場合には、金またはエリート艦長 EXP が必要になります。"
+msgstr "習得済みの艦長スキルは毎戦において有効です。習得済みのスキルをリセットして再分配する場合には、金または精鋭艦長 EXP が必要になります。"
 
 msgid "IDS_GUIDING_TIP_105_HEADER"
 msgstr "スキルの習得"
@@ -34402,7 +34402,7 @@ msgid "IDS_GUIDING_TIP_3_HEADER"
 msgstr "技術ツリー"
 
 msgid "IDS_GUIDING_TIP_40_DESC"
-msgstr "習得済みの艦長スキルは毎戦において有効です。習得済みのスキルをリセットして再分配する場合には、金またはエリート艦長 EXP が必要になります。"
+msgstr "習得済みの艦長スキルは毎戦において有効です。習得済みのスキルをリセットして再分配する場合には、金または精鋭艦長 EXP が必要になります。"
 
 msgid "IDS_GUIDING_TIP_40_HEADER"
 msgstr "スキルの習得"
@@ -35576,10 +35576,10 @@ msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_COMMON_DISABLE"
 msgstr "標準艦長をリセット"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ELITE"
-msgstr "エリート艦長を表示"
+msgstr "精鋭艦長を表示"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_ELITE_DISABLE"
-msgstr "エリート艦長をリセット"
+msgstr "精鋭艦長をリセット"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_LEGENDARY"
 msgstr "伝説艦長を表示"
@@ -35591,22 +35591,22 @@ msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_COMMON"
 msgstr "標準艦長を所有していません"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_ELITE"
-msgstr "エリート艦長を所有していません"
+msgstr "精鋭艦長を所有していません"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_LEGENDARY"
 msgstr "伝説艦長を所有していません"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_RARE"
-msgstr "レア艦長を所有していません"
+msgstr "希少艦長を所有していません"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_NOT_AVAILABLE_UNCOMMON"
 msgstr "特別艦長を所有していません"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_RARE"
-msgstr "レア艦長を表示"
+msgstr "希少艦長を表示"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_RARE_DISABLE"
-msgstr "レア艦長をリセット"
+msgstr "希少艦長をリセット"
 
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_TYPE_UNCOMMON"
 msgstr "特別艦長を表示"
@@ -35675,10 +35675,10 @@ msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_SUBMARINE_DISABLE"
 msgstr "潜水艦をリセット"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_ELITE"
-msgstr "エリート艦艇を表示"
+msgstr "精鋭艦艇を表示"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_ELITE_DISABLE"
-msgstr "エリート艦艇をリセット"
+msgstr "精鋭艦艇をリセット"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_EXP_BONUS"
 msgstr "EXP の戦闘ボーナスを有する艦艇を表示"
@@ -35831,13 +35831,13 @@ msgid "IDS_HINT_CHECKBOX_FILTER_NATION_USA_DISABLE"
 msgstr "アメリカ艦艇をリセット"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_ELITE"
-msgstr "エリート艦艇を所有していません"
+msgstr "精鋭艦艇を所有していません"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_EXP_BONUS"
 msgstr "戦闘 EXP ボーナスを有する艦艇を所有していません"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_NOT_ELITE"
-msgstr "非エリート艦艇を所有していません"
+msgstr "非精鋭艦艇を所有していません"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_PREMIUM"
 msgstr "プレミアム艦艇を所有していません"
@@ -35870,10 +35870,10 @@ msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_WITH_COMMANDER"
 msgstr "艦長が配属されている艦艇を所有していません"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_ELITE"
-msgstr "エリートステータスを持たない艦艇を表示"
+msgstr "精鋭ステータスを持たない艦艇を表示"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_ELITE_DISABLE"
-msgstr "エリートステータスを持たない艦艇を表示"
+msgstr "精鋭ステータスを持たない艦艇を表示"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_PARAGON_BONUS"
 msgstr "研究ポイントの戦闘ボーナスを有する艦艇を表示"
@@ -36983,7 +36983,7 @@ msgid "IDS_INSTRUCTION_CAMERA_EXCURSION_RESET"
 msgstr "カメラ位置をリセットするにはクリックしてください"
 
 msgid "IDS_INSTRUCTION_CONVERT_EXP"
-msgstr "エリート艦艇で取得した全ての EXP は、フリー EXP へと変換可能です。"
+msgstr "精鋭艦艇で取得した全ての EXP は、フリー EXP へと変換可能です。"
 
 msgid "IDS_INSTRUCTION_CREW_PERKS_0"
 msgstr "艦長スキルにより戦闘中に艦艇のパラメータを高め、新たな能力を得ることができます。"
@@ -36998,7 +36998,7 @@ msgid "IDS_INSTRUCTION_DESTROY_CAMO"
 msgstr "迷彩を破棄"
 
 msgid "IDS_INSTRUCTION_ELITE_STATUS_1"
-msgstr "エリートステータスは、全てのモジュールおよび後続艦艇を研究済みの艦艇に与えられます。エリート艦艇で取得した EXP はフリー EXP に変換可能。"
+msgstr "精鋭ステータスは、全てのモジュールおよび後続艦艇を研究済みの艦艇に与えられます。精鋭艦艇で取得した EXP はフリー EXP に変換可能。"
 
 msgid "IDS_INSTRUCTION_FIRE_CREW"
 msgstr "解任した艦長は呼び戻し不可"
@@ -40640,7 +40640,7 @@ msgid "IDS_MAX_LEVEL_CREW"
 msgstr "最高レベル"
 
 msgid "IDS_MAX_LEVEL_CREW_TOOLTIP_DESCRIPTION"
-msgstr "この艦長は最高訓練レベルに到達しました。この艦長が戦闘で取得した全ての EXP がエリート艦長 EXP に変換されます。"
+msgstr "この艦長は最高訓練レベルに到達しました。この艦長が戦闘で取得した全ての EXP が精鋭艦長 EXP に変換されます。"
 
 msgid "IDS_MAX_PLANES_PER_BATTLE"
 msgstr "敵機撃墜数"
@@ -41594,7 +41594,7 @@ msgid "IDS_MODAL_WINDOW_EVENT_RULES_PARAGRAPH_2_TEXT_2"
 msgstr "必要数の諜報報告を集め、その後の戦闘で新登場の超戦艦での公試に挑みましょう。"
 
 msgid "IDS_MODAL_WINDOW_HEADER_ELITE_CREW_ACADEMY"
-msgstr "エリート訓練"
+msgstr "精鋭訓練"
 
 msgid "IDS_MODAL_WINDOW_LEARNSKILLS_HEADER"
 msgstr "艦長スキルの習得"
@@ -41612,7 +41612,7 @@ msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_1"
 msgstr "艦艇のブランチをリセットしてから再び研究し購入すると、研究ポイントを獲得できます。"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "研究ポイントは武器庫の研究局で特別艦艇、プレミアム艦艇、エリート・アップグレード、特別信号旗と交換できます。"
+msgstr "研究ポイントは武器庫の研究局で特別艦艇、プレミアム艦艇、精鋭アップグレード、特別信号旗と交換できます。"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_2_HEADER"
 msgstr "艦艇はどうなりますか"
@@ -42227,7 +42227,7 @@ msgid "IDS_MODAL_WINDOW_PCVE032_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "潜水艦「Leninets」と「Stingray 」は、イベント参加のためにあなたにレンタルされました。"
 
 msgid "IDS_MODAL_WINDOW_PCVE033_RULES_HEADER"
-msgstr "「アグレッション」"
+msgstr "猛進"
 
 msgid "IDS_MODAL_WINDOW_PCVE033_RULES_PARAGRAPH_1_HEADER"
 msgstr "戦闘の特徴"
@@ -42506,7 +42506,7 @@ msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_4_TEXT_2"
 msgstr "戦闘終了時に、チーム内で獲得 EXP が 1 位の場合、スターを失うことはありません"
 
 msgid "IDS_MODAL_WINDOW_RARE_CREW_MANUAL_HEADER"
-msgstr "レア艦長教本の付与"
+msgstr "希少艦長教本の付与"
 
 msgid "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_HEADER"
 msgstr "レーティング戦"
@@ -42821,7 +42821,7 @@ msgid "IDS_MODERNIZATION_COST"
 msgstr "アップグレードコスト:"
 
 msgid "IDS_MODERNIZATION_ELITE"
-msgstr "エリート・アップグレード"
+msgstr "精鋭アップグレード"
 
 msgid "IDS_MODERNIZATION_IS_INSTALLED"
 msgstr "アップグレード搭載完了"
@@ -42833,13 +42833,13 @@ msgid "IDS_MODERNIZATION_QUANTITY"
 msgstr "アップグレード数"
 
 msgid "IDS_MODERNIZATION_RARE"
-msgstr "レア・アップグレード"
+msgstr "希少アップグレード"
 
 msgid "IDS_MODERNIZATION_TYPE_LEGENDARY"
-msgstr "エリート・アップグレードを利用可能"
+msgstr "精鋭アップグレードを利用可能"
 
 msgid "IDS_MODERNIZATION_TYPE_RARE"
-msgstr "レア・アップグレード利用可能"
+msgstr "希少アップグレード利用可能"
 
 msgid "IDS_MODERNIZATION_TYPE_SPECIAL"
 msgstr "特別アップグレード利用可能"
@@ -51926,7 +51926,7 @@ msgid "IDS_PARAGON_BONUS_FOOTER_NO_MULTIPLIER_INFO"
 msgstr "ツリーをリセットして、研究ポイントを獲得しましょう。"
 
 msgid "IDS_PARAGON_BONUS_FOOTER_SPECIAL_STORAGE_INFO"
-msgstr "研究ポイントは武器庫の研究局で特別艦艇、プレミアム艦艇、エリート・アップグレード、特別信号旗と交換できます。"
+msgstr "研究ポイントは武器庫の研究局で特別艦艇、プレミアム艦艇、精鋭アップグレード、特別信号旗と交換できます。"
 
 msgid "IDS_PARAGON_BONUS_SEASON_UPDATE"
 msgstr "シーズン開始まで: %(timeUntilMultiplier)s"
@@ -54908,7 +54908,7 @@ msgid "IDS_PASB990"
 msgstr "Vermont (EM)"
 
 msgid "IDS_PASB990_DESCR"
-msgstr "エリート・アップグレードのテスト用に複製された艦艇。"
+msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
 
 msgid "IDS_PASB990_FULL"
 msgstr "Vermont (EM)"
@@ -56076,13 +56076,13 @@ msgid "IDS_PASD519_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASD529"
-msgstr "Black Black"
+msgstr "Black B"
 
 msgid "IDS_PASD529_DESCR"
 msgstr "フレッチャー級駆逐艦ブラックは、第二次世界大戦中に太平洋中部における哨戒作戦に従事し、サイパンやグアムへの上陸作戦、レイテ沖海戦、沖縄襲撃にも参加しました。本艦は第二次世界大戦を通して 6 個の従軍星章を受章しました。"
 
 msgid "IDS_PASD529_FULL"
-msgstr "Black Black"
+msgstr "Black B"
 
 msgid "IDS_PASD529_NUMBER"
 msgstr "175"
@@ -58502,7 +58502,7 @@ msgid "IDS_PAUH818_HALFORD"
 msgstr "Halford"
 
 msgid "IDS_PAUH819_HULL_BLACK_BLACK"
-msgstr "Black Black"
+msgstr "Black B"
 
 msgid "IDS_PAUH820_D9_HULL_STOCK"
 msgstr "Maffitt"
@@ -62919,7 +62919,7 @@ msgid "IDS_PBSC910"
 msgstr "Goliath (EM)"
 
 msgid "IDS_PBSC910_DESCR"
-msgstr "エリート・アップグレードのテスト用に複製された艦艇。"
+msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
 
 msgid "IDS_PBSC910_FULL"
 msgstr "Goliath (EM)"
@@ -70875,13 +70875,13 @@ msgid "IDS_PCEF103_HPBOOST_SIGNALFLAG_3"
 msgstr "November"
 
 msgid "IDS_PCEF103_HPBOOST_SIGNALFLAG_3_3"
-msgstr "November∣レア"
+msgstr "November∣希少"
 
 msgid "IDS_PCEF104_HPBOOST_SIGNALFLAG_4"
 msgstr "November"
 
 msgid "IDS_PCEF104_HPBOOST_SIGNALFLAG_4_4"
-msgstr "November∣エリート"
+msgstr "November∣精鋭"
 
 msgid "IDS_PCEF111_GM_SIGNALFLAG_1"
 msgstr "Yankee"
@@ -70899,13 +70899,13 @@ msgid "IDS_PCEF113_GM_SIGNALFLAG_3"
 msgstr "Yankee"
 
 msgid "IDS_PCEF113_GM_SIGNALFLAG_3_3"
-msgstr "Yankee∣レア"
+msgstr "Yankee∣希少"
 
 msgid "IDS_PCEF114_GM_SIGNALFLAG_4"
 msgstr "Yankee"
 
 msgid "IDS_PCEF114_GM_SIGNALFLAG_4_4"
-msgstr "Yankee∣エリート"
+msgstr "Yankee∣精鋭"
 
 msgid "IDS_PCEF121_ATBA_SIGNALFLAG_1"
 msgstr "Foxtrot"
@@ -70923,13 +70923,13 @@ msgid "IDS_PCEF123_ATBA_SIGNALFLAG_3"
 msgstr "Foxtrot"
 
 msgid "IDS_PCEF123_ATBA_SIGNALFLAG_3_3"
-msgstr "Foxtrot∣レア"
+msgstr "Foxtrot∣希少"
 
 msgid "IDS_PCEF124_ATBA_SIGNALFLAG_4"
 msgstr "Foxtrot"
 
 msgid "IDS_PCEF124_ATBA_SIGNALFLAG_4_4"
-msgstr "Foxtrot∣エリート"
+msgstr "Foxtrot∣精鋭"
 
 msgid "IDS_PCEF131_SPEED_SIGNALFLAG_1"
 msgstr "Sierra"
@@ -70947,13 +70947,13 @@ msgid "IDS_PCEF133_SPEED_SIGNALFLAG_3"
 msgstr "Sierra"
 
 msgid "IDS_PCEF133_SPEED_SIGNALFLAG_3_3"
-msgstr "Sierra∣レア"
+msgstr "Sierra∣希少"
 
 msgid "IDS_PCEF134_SPEED_SIGNALFLAG_4"
 msgstr "Sierra"
 
 msgid "IDS_PCEF134_SPEED_SIGNALFLAG_4_4"
-msgstr "Sierra∣エリート"
+msgstr "Sierra∣精鋭"
 
 msgid "IDS_PCEF141_CONSUMABLE_SIGNALFLAG_1"
 msgstr "India"
@@ -70971,13 +70971,13 @@ msgid "IDS_PCEF143_CONSUMABLE_SIGNALFLAG_3"
 msgstr "India"
 
 msgid "IDS_PCEF143_CONSUMABLE_SIGNALFLAG_3_3"
-msgstr "India∣レア"
+msgstr "India∣希少"
 
 msgid "IDS_PCEF144_CONSUMABLE_SIGNALFLAG_4"
 msgstr "India"
 
 msgid "IDS_PCEF144_CONSUMABLE_SIGNALFLAG_4_4"
-msgstr "India∣エリート"
+msgstr "India∣精鋭"
 
 msgid "IDS_PCEF151_SHIFT_SIGNALFLAG_1"
 msgstr "Charlie"
@@ -70995,13 +70995,13 @@ msgid "IDS_PCEF153_SHIFT_SIGNALFLAG_3"
 msgstr "Charlie"
 
 msgid "IDS_PCEF153_SHIFT_SIGNALFLAG_3_3"
-msgstr "Charlie∣レア"
+msgstr "Charlie∣希少"
 
 msgid "IDS_PCEF154_SHIFT_SIGNALFLAG_4"
 msgstr "Charlie"
 
 msgid "IDS_PCEF154_SHIFT_SIGNALFLAG_4_4"
-msgstr "Charlie∣エリート"
+msgstr "Charlie∣精鋭"
 
 msgid "IDS_PCEM001_HALLOWEEN19_MSKIN"
 msgstr "地獄"
@@ -71726,7 +71726,7 @@ msgid "IDS_PCVE032_SUBHEADER"
 msgstr "試せ、支援潜水艦"
 
 msgid "IDS_PCVE033"
-msgstr "「アグレッション」"
+msgstr "猛進"
 
 msgid "IDS_PCVE033_DESCRIPTION"
 msgstr "2 つのプレイヤーチームによる戦闘。ユニークなキーエリア配置を備えた 2 つのモードが利用可能です。"
@@ -73153,7 +73153,7 @@ msgid "IDS_PCZC101_MK_CAPREWORK"
 msgstr "変化の風"
 
 msgid "IDS_PCZC101_MK_CAPREWORK_DESCRIPTION"
-msgstr "<p>アップデート 0.6.0 のハイライトは、艦長スキルが全面的に刷新されたことでした。従来のスキルの再構成に加え、新スキルも登場し、エリート艦長 EXP という新機能も実装されました。これらに関しては、公開テスト中から活発な議論が交わされました。</p><p class=\"p_spacing\"> </p><p>これは大変な作業でしたが、プレイヤーの皆様からのサポート (およびちょっとした黒魔術) のおかげで、何とか正式リリースすることができました。そしてその努力は報われたのです。刷新版の艦長スキル・システムは、プレイヤーのニーズにとてもうまく応えてくれました。</p>"
+msgstr "<p>アップデート 0.6.0 のハイライトは、艦長スキルが全面的に刷新されたことでした。従来のスキルの再構成に加え、新スキルも登場し、精鋭艦長 EXP という新機能も実装されました。これらに関しては、公開テスト中から活発な議論が交わされました。</p><p class=\"p_spacing\"> </p><p>これは大変な作業でしたが、プレイヤーの皆様からのサポート (およびちょっとした黒魔術) のおかげで、何とか正式リリースすることができました。そしてその努力は報われたのです。刷新版の艦長スキル・システムは、プレイヤーのニーズにとてもうまく応えてくれました。</p>"
 
 msgid "IDS_PCZC1020_BD25_PUZZLE_44"
 msgstr "パズルのピース"
@@ -76882,7 +76882,7 @@ msgid "IDS_PCZC727_MAY_DAY_1_1"
 msgstr "Gremyashchy"
 
 msgid "IDS_PCZC727_MAY_DAY_1_1_DESCRIPTION"
-msgstr "<p>プロイェークト 7 駆逐艦グリミャーシイは 1936 年 7 月にレニングレラードのズダーノフ造船所で起工され、1937 年 8 月に進水し、1939 年 8 月に就役しました。同年 9 月、本艦は白海・バルト海運河に沿って北に移動しました。</p><p class=\"p_spacing\"> </p><p>グリミャーシイは第二次世界大戦中に広く運用されました。北方艦隊の一員として、哨戒任務、北極船団の護衛、潜水艦の掃討、襲撃に従事しました。そして 1943 年 3 月 1 日、グリミャーシイは国への貢献が認められ、ソ連親衛隊のエリート駆逐艦になりました。戦争全体を通じて、この駆逐艦は 90 回もの戦闘任務を遂行しました。</p><p class=\"p_spacing\"> </p><p>1954 年からは、グリミャーシイはベロモール艦隊の一員として運用されました。最終的には 1957 年に OS-5 と改称されてノヴァヤゼムリャにおける核兵器実験の標的艦の 1 隻に選ばれ、この実験でかなりの損傷を被りました。それ以来、本艦の船体は実験場に残されたままになっています。</p>"
+msgstr "<p>プロイェークト 7 駆逐艦グリミャーシイは 1936 年 7 月にレニングレラードのズダーノフ造船所で起工され、1937 年 8 月に進水し、1939 年 8 月に就役しました。同年 9 月、本艦は白海・バルト海運河に沿って北に移動しました。</p><p class=\"p_spacing\"> </p><p>グリミャーシイは第二次世界大戦中に広く運用されました。北方艦隊の一員として、哨戒任務、北極船団の護衛、潜水艦の掃討、襲撃に従事しました。そして 1943 年 3 月 1 日、グリミャーシイは国への貢献が認められ、ソ連親衛隊の精鋭駆逐艦になりました。戦争全体を通じて、この駆逐艦は 90 回もの戦闘任務を遂行しました。</p><p class=\"p_spacing\"> </p><p>1954 年からは、グリミャーシイはベロモール艦隊の一員として運用されました。最終的には 1957 年に OS-5 と改称されてノヴァヤゼムリャにおける核兵器実験の標的艦の 1 隻に選ばれ、この実験でかなりの損傷を被りました。それ以来、本艦の船体は実験場に残されたままになっています。</p>"
 
 msgid "IDS_PCZC728_MAY_DAY_1_2"
 msgstr "Gurin, Anton Iosifovich"
@@ -84245,7 +84245,7 @@ msgid "IDS_PGSA990"
 msgstr "M. Richthofen (EM)"
 
 msgid "IDS_PGSA990_DESCR"
-msgstr "エリート・アップグレードのテスト用に複製された艦艇。"
+msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
 
 msgid "IDS_PGSA990_FULL"
 msgstr "Manfred von Richthofen (EM)"
@@ -85790,7 +85790,7 @@ msgid "IDS_PGSD990"
 msgstr "Elbing (EM)"
 
 msgid "IDS_PGSD990_DESCR"
-msgstr "エリート・アップグレードのテスト用に複製された艦艇。"
+msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
 
 msgid "IDS_PGSD990_FULL"
 msgstr "Elbing (EM)"
@@ -90297,7 +90297,7 @@ msgid "IDS_PISB990"
 msgstr "C. Colombo (EM)"
 
 msgid "IDS_PISB990_DESCR"
-msgstr "エリート・アップグレードのテスト用に複製された艦艇。"
+msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
 
 msgid "IDS_PISB990_FULL"
 msgstr "Cristoforo Colombo (EM)"
@@ -90687,7 +90687,7 @@ msgid "IDS_PISC990"
 msgstr "Venezia (EM)"
 
 msgid "IDS_PISC990_DESCR"
-msgstr "エリート・アップグレードのテスト用に複製された艦艇。"
+msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
 
 msgid "IDS_PISC990_FULL"
 msgstr "Venezia (EM)"
@@ -90882,7 +90882,7 @@ msgid "IDS_PISD990"
 msgstr "A. Regolo (EM)"
 
 msgid "IDS_PISD990_DESCR"
-msgstr "エリート・アップグレードのテスト用に複製された艦艇。"
+msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
 
 msgid "IDS_PISD990_FULL"
 msgstr "Attilio Regolo (EM)"
@@ -104386,7 +104386,7 @@ msgid "IDS_PRSA990"
 msgstr "Nakhimov (EM)"
 
 msgid "IDS_PRSA990_DESCR"
-msgstr "エリート・アップグレードのテスト用に複製された艦艇。"
+msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
 
 msgid "IDS_PRSA990_FULL"
 msgstr "Admiral Nakhimov (EM)"
@@ -105890,7 +105890,7 @@ msgid "IDS_PRSC990"
 msgstr "Petropavlovsk (EM)"
 
 msgid "IDS_PRSC990_DESCR"
-msgstr "エリート・アップグレードのテスト用に複製された艦艇。"
+msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
 
 msgid "IDS_PRSC990_FULL"
 msgstr "Petropavlovsk (EM)"
@@ -113236,7 +113236,7 @@ msgid "IDS_PWSD990"
 msgstr "Halland (EM)"
 
 msgid "IDS_PWSD990_DESCR"
-msgstr "エリート・アップグレードのテスト用に複製された艦艇。"
+msgstr "精鋭アップグレードのテスト用に複製された艦艇。"
 
 msgid "IDS_PWSD990_FULL"
 msgstr "Halland (EM)"
@@ -115829,7 +115829,7 @@ msgid "IDS_PXSC103"
 msgstr "Swift"
 
 msgid "IDS_PXSC103_DESCR"
-msgstr "長く輝かしい任務を遂行し、名を馳せた艦艇。かつてはウォルラス艦長が海軍キャリアをスタートさせた船と言われている！この巡洋艦は、幅広くゆっくりとしたウェーブを放つウェーブキャスターを1基搭載している。また、作動時間の長い「エンジンブースト」も装備している。"
+msgstr "長く輝かしい任務を遂行し、名を馳せた艦艇。かつてはウォルラス艦長が海軍キャリアをスタートさせた船と言われている! この巡洋艦は、幅広くゆっくりとしたウェーブを放つウェーブキャスターを1基搭載している。また、作動時間の長い「エンジンブースト」も装備している。"
 
 msgid "IDS_PXSC103_FULL"
 msgstr "Swift"
@@ -121139,7 +121139,7 @@ msgid "IDS_QUESTION_MARK_ICON_ON_SHIP_MANAGMENT_SCREEN_TOOLTIP_TEXT_2"
 msgstr "各艦艇で取得した EXP またはフリー EXP を使用してモジュールを研究し、銀で購入して艦艇に搭載しましょう。"
 
 msgid "IDS_QUESTION_MARK_ICON_ON_SHIP_MANAGMENT_SCREEN_TOOLTIP_TEXT_3"
-msgstr "エリートステータスは、全てのモジュールおよび後続艦艇を研究済みの艦艇に与えられます。エリート艦艇で取得した EXP はフリー EXP に変換可能。"
+msgstr "精鋭ステータスは、全てのモジュールおよび後続艦艇を研究済みの艦艇に与えられます。精鋭艦艇で取得した EXP はフリー EXP に変換可能。"
 
 msgid "IDS_QUESTION_MSKIN_LINK"
 msgstr "割り当て & 適用"
@@ -121963,22 +121963,22 @@ msgid "IDS_RARE_CREW_BOOK_PROMOTION_UNCHANGABLE_ATTENTION_STEP_1"
 msgstr "選択したスキルは、このステージ以降変更できなくなります"
 
 msgid "IDS_RARE_CREW_MANUAL"
-msgstr "レア艦長教本"
+msgstr "希少艦長教本"
 
 msgid "IDS_RARE_CREW_MANUAL_PROMOTE_BUTTON_FINAL"
 msgstr "完了"
 
 msgid "IDS_RARE_CREW_MANUAL_PROMOTE_CREW_MODAL_EFFECT_DESCRIPTION"
-msgstr "艦長はレアになる。"
+msgstr "艦長は希少になる。"
 
 msgid "IDS_RARE_CREW_MANUAL_PROMOTE_CREW_MODAL_QUESTION"
-msgstr "レア艦長教本を使用しますか?"
+msgstr "希少艦長教本を使用しますか?"
 
 msgid "IDS_RARE_CREW_MANUAL_PURPOSE_TOOLTIP_DESCRIPTION"
-msgstr "任意の標準または特別な艦長のレア化。艦長は、選択した艦種の艦艇向けに 2 つの強化スキル、さらにランダムな艦種の艦艇向けに同数を獲得します。"
+msgstr "任意の標準または特別な艦長の希少化。艦長は、選択した艦種の艦艇向けに 2 つの強化スキル、さらにランダムな艦種の艦艇向けに同数を獲得します。"
 
 msgid "IDS_RARE_CREW_STATUS"
-msgstr "レア艦長"
+msgstr "希少艦長"
 
 msgid "IDS_RASPUTIN"
 msgstr "Rasputin"
@@ -122872,7 +122872,7 @@ msgid "IDS_RESET_CREW_FILTERS_BUTTON_LABEL"
 msgstr "フィルターをリセット"
 
 msgid "IDS_RESET_SKILLPOINTS_DISABLED_NOT_ENOUGH_ELXP"
-msgstr "エリート艦長 EXP が不足"
+msgstr "精鋭艦長 EXP が不足"
 
 msgid "IDS_RESET_SKILLPOINTS_HEADER"
 msgstr "スキルポイントの分配"
@@ -122881,7 +122881,7 @@ msgid "IDS_RESET_SKILLPOINTS_TYPE_0"
 msgstr "金で"
 
 msgid "IDS_RESET_SKILLPOINTS_TYPE_1"
-msgstr "エリート艦長 EXP で"
+msgstr "精鋭艦長 EXP で"
 
 msgid "IDS_RESISTANCE_RECOGNITION_DESCRIPTION"
 msgstr "敗北しましたが、取得 EXP に基づきチーム内で TOP %(topPlayersAmount)s に入賞し、英雄勲章を取得しました。"
@@ -122893,7 +122893,7 @@ msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_CREW_EXP"
 msgstr "艦長 EXP"
 
 msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_ELITE_EXP"
-msgstr "エリート艦長 EXP"
+msgstr "精鋭艦長 EXP"
 
 msgid "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_EXP"
 msgstr "艦艇 EXP"
@@ -123052,7 +123052,7 @@ msgid "IDS_REWARDS_CREWPOINTS_TITLE"
 msgstr "%(_amount)s 艦長 EXP"
 
 msgid "IDS_REWARDS_ELITEXP_TITLE"
-msgstr "%(_amount)s エリート艦長 EXP"
+msgstr "%(_amount)s 精鋭艦長 EXP"
 
 msgid "IDS_REWARDS_MOLYBDENUM_TITLE"
 msgstr "クラントークン %(_amount)s"
@@ -123184,10 +123184,10 @@ msgid "IDS_REWARD_EARNED_MODERNIZATION"
 msgstr "取得:"
 
 msgid "IDS_REWARD_ELITEXP_TITLE"
-msgstr "エリート艦長 EXP"
+msgstr "精鋭艦長 EXP"
 
 msgid "IDS_REWARD_ELITE_CREW_BOOK_TITLE"
-msgstr "エリート艦長教本"
+msgstr "精鋭艦長教本"
 
 msgid "IDS_REWARD_EVENTUM_10_TITLE"
 msgstr "サマートークン"
@@ -123364,10 +123364,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -123394,10 +123394,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -123424,10 +123424,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -123454,10 +123454,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -124639,10 +124639,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL060_AZURLANE_COLL_PREM_SLOT_1_VALUABLE_GROUP_1_TITL
 msgstr "特別"
 
 msgid "IDS_REWARD_LOOTBOX_PCL060_AZURLANE_COLL_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "レア艦長"
+msgstr "希少艦長"
 
 msgid "IDS_REWARD_LOOTBOX_PCL060_AZURLANE_COLL_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "レア"
+msgstr "希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL060_AZURLANE_COLL_PREM_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -125203,10 +125203,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL086_GIFT_TIER_THREE_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL086_GIFT_TIER_THREE_TITLE"
-msgstr "レア・ボーナス"
+msgstr "希少ボーナス"
 
 msgid "IDS_REWARD_LOOTBOX_PCL086_GIFT_TIER_THREE_TITLE_QUOTES"
-msgstr "「レア・ボーナス」"
+msgstr "「希少ボーナス」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL087_CATSAM_FREE_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -126163,10 +126163,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_VALUABLE_GROUP_1_TITL
 msgstr "ユニーク"
 
 msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "レア永久迷彩"
+msgstr "希少永久迷彩"
 
 msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "レア"
+msgstr "希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL128_SKINCONTAINER_PREM_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
 msgstr "特別永久迷彩"
@@ -126463,10 +126463,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -126787,10 +126787,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL155_GIFT_TIER_FOUR_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL155_GIFT_TIER_FOUR_TITLE"
-msgstr "エリート・ボーナス"
+msgstr "精鋭ボーナス"
 
 msgid "IDS_REWARD_LOOTBOX_PCL155_GIFT_TIER_FOUR_TITLE_QUOTES"
-msgstr "「エリート・ボーナス」"
+msgstr "「精鋭ボーナス」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL156_BD118_COLL_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127153,10 +127153,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -127429,10 +127429,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -127459,10 +127459,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -127903,10 +127903,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -127933,10 +127933,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -128131,10 +128131,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_TITLE"
-msgstr "レア信号旗"
+msgstr "希少信号旗"
 
 msgid "IDS_REWARD_LOOTBOX_PCL222_SIGNALS_T3_TITLE_QUOTES"
-msgstr "「レア信号旗」"
+msgstr "「希少信号旗」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -128155,10 +128155,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_TITLE"
-msgstr "エリート信号旗"
+msgstr "精鋭信号旗"
 
 msgid "IDS_REWARD_LOOTBOX_PCL223_SIGNALS_T4_TITLE_QUOTES"
-msgstr "「エリート信号旗」"
+msgstr "「精鋭信号旗」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL224_JAPAN_COLL_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -128341,10 +128341,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier IX 艦艇またはレア艦艇"
+msgstr "Tier IX 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX またはレア"
+msgstr "IX または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VI–VIII 艦艇"
@@ -128389,10 +128389,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL233_NY_2026_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -128425,10 +128425,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_TITLE_FULL"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Tier X 艦艇またはレア艦艇"
+msgstr "Tier X 艦艇または希少艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X またはレア"
+msgstr "X または希少"
 
 msgid "IDS_REWARD_LOOTBOX_PCL234_NY_2026_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr "Tier VIII–IX 艦艇"
@@ -128605,7 +128605,7 @@ msgid "IDS_REWARD_PUREXP_TITLE"
 msgstr "基本 EXP"
 
 msgid "IDS_REWARD_RARE_CREW_BOOK_TITLE"
-msgstr "レア艦長教本"
+msgstr "希少艦長教本"
 
 msgid "IDS_REWARD_REASON"
 msgstr "褒賞対象:"
@@ -131012,10 +131012,10 @@ msgid "IDS_SESSION_REWARD_CREWXP_TITLE"
 msgstr "艦長 EXP"
 
 msgid "IDS_SESSION_REWARD_ELITEXP_DESCRIPTION"
-msgstr "今日のすべての戦闘で取得したエリート艦長 EXP の合計。"
+msgstr "今日のすべての戦闘で取得した精鋭艦長 EXP の合計。"
 
 msgid "IDS_SESSION_REWARD_ELITEXP_TITLE"
-msgstr "エリート艦長 EXP"
+msgstr "精鋭艦長 EXP"
 
 msgid "IDS_SESSION_REWARD_EXP_DESCRIPTION"
 msgstr "今日のすべての戦闘で取得した艦艇 EXP の合計。"
@@ -131610,7 +131610,7 @@ msgid "IDS_SHIP_DUR_TURRET_WEAKARMOR_BAD"
 msgstr "砲塔装甲が弱い"
 
 msgid "IDS_SHIP_ELITE"
-msgstr "エリート艦艇"
+msgstr "精鋭艦艇"
 
 msgid "IDS_SHIP_EXCLUDED_IN_DIVISION"
 msgstr "分艦隊に禁止艦艇を含めることはできません。"
@@ -132111,7 +132111,7 @@ msgid "IDS_SHIP_HAS_NO_MODERNIZATIONS"
 msgstr "この艦にはアップグレードはありません"
 
 msgid "IDS_SHIP_HAVE_JUST_GOT_ELITE_STATUS"
-msgstr "%(shipType)s %(shipName)s はエリートステータスを取得しました"
+msgstr "%(shipType)s %(shipName)s は精鋭ステータスを取得しました"
 
 msgid "IDS_SHIP_INFO_HIDDEN_IN_TRAINING"
 msgstr "敵の装備は隠されている"
@@ -132139,7 +132139,7 @@ msgid "IDS_SHIP_IN_FORMATION_MESSAGE_1"
 msgstr "別の艦艇を選択したり艦の構成を変更したりするには、「準備中」をクリックしてください。"
 
 msgid "IDS_SHIP_IS_ELITE_HEADING"
-msgstr "エリート艦艇ステータス"
+msgstr "精鋭艦艇ステータス"
 
 msgid "IDS_SHIP_LEVEL"
 msgstr "Tier %(_shipLevel)s %(_shipClass)s"
@@ -135033,7 +135033,7 @@ msgid "IDS_SHIP_PECULIARITIES_HEADER"
 msgstr "特徴"
 
 msgid "IDS_SHIP_PECULIARITIES_HEADER_COLLAPSE_ELITE_TOOLTIP"
-msgstr "エリート艦艇の特徴を非表示"
+msgstr "精鋭艦艇の特徴を非表示"
 
 msgid "IDS_SHIP_PECULIARITIES_HEADER_COLLAPSE_PREMIUM_TOOLTIP"
 msgstr "プレミアム艦艇の特徴を非表示"
@@ -135042,7 +135042,7 @@ msgid "IDS_SHIP_PECULIARITIES_HEADER_COLLAPSE_SPECIAL_TOOLTIP"
 msgstr "艦艇の特徴を非表示"
 
 msgid "IDS_SHIP_PECULIARITIES_HEADER_EXPAND_ELITE_TOOLTIP"
-msgstr "エリート艦艇の特徴を表示"
+msgstr "精鋭艦艇の特徴を表示"
 
 msgid "IDS_SHIP_PECULIARITIES_HEADER_EXPAND_PREMIUM_TOOLTIP"
 msgstr "プレミアム艦艇の特徴を表示"
@@ -135599,10 +135599,10 @@ msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_COMMON"
 msgstr "標準"
 
 msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_ELITE"
-msgstr "エリート"
+msgstr "精鋭"
 
 msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_RARE"
-msgstr "レア"
+msgstr "希少"
 
 msgid "IDS_SIGNALS_INFOTIP_RARITY_TYPE_UNCOMMON"
 msgstr "特別"
@@ -138814,7 +138814,7 @@ msgid "IDS_ST"
 msgstr "スーパーテスト"
 
 msgid "IDS_STALCRAFT_M01_DESC"
-msgstr "<p>この Zone は 2014 年の謎の大災害の後に出現し、周囲の世界を永遠に変えました。ここでは、通常の自然法則はもはや通用しません: 異常現象が空間を歪め、廃墟となった地域には危険な生物が生息し、瓦礫の中には驚異的な特性を持つ、レアで貴重な品々であるアーティファクトを見つけることができます。Zone は危険ですが、それがかえって人々を惹きつけるのです。</p><p class=\"p_spacing\"> </p><p>Zone に足を踏み入れる決心をした人々はストーカーと呼ばれます。彼らは未知の領域を探検し、アーティファクトを採取し、任務を遂行し、どんな間違いも命取りになり得る場所で生き延びようとします。ある者にとって Zone は稼ぐ手段であり、他の者にとっては知識の源、あるいは新たな人生が始まる場所です。</p><p class=\"p_spacing\"> </p><p>Zone は不安定で絶えず変化しています。放出現象は見慣れた経路を罠に変え、危険は最も静かな場所でさえも潜んでいる可能性があります。ここでは武器だけでなく、考え、適応し、選択する能力が重要です。</p><p class=\"p_spacing\"> </p><p>時が経つにつれ、ストーカーたちは単独行動者ではなくなりました。Zone 内部では、独自の見解、目的、生存方法を持つ共同体であるファクションが形成されました。彼らこそが勢力図を決定し、Zone の未来を形作るのです。</p>"
+msgstr "<p>この Zone は 2014 年の謎の大災害の後に出現し、周囲の世界を永遠に変えました。ここでは、通常の自然法則はもはや通用しません: 異常現象が空間を歪め、廃墟となった地域には危険な生物が生息し、瓦礫の中には驚異的な特性を持つ、希少で貴重な品々であるアーティファクトを見つけることができます。Zone は危険ですが、それがかえって人々を惹きつけるのです。</p><p class=\"p_spacing\"> </p><p>Zone に足を踏み入れる決心をした人々はストーカーと呼ばれます。彼らは未知の領域を探検し、アーティファクトを採取し、任務を遂行し、どんな間違いも命取りになり得る場所で生き延びようとします。ある者にとって Zone は稼ぐ手段であり、他の者にとっては知識の源、あるいは新たな人生が始まる場所です。</p><p class=\"p_spacing\"> </p><p>Zone は不安定で絶えず変化しています。放出現象は見慣れた経路を罠に変え、危険は最も静かな場所でさえも潜んでいる可能性があります。ここでは武器だけでなく、考え、適応し、選択する能力が重要です。</p><p class=\"p_spacing\"> </p><p>時が経つにつれ、ストーカーたちは単独行動者ではなくなりました。Zone 内部では、独自の見解、目的、生存方法を持つ共同体であるファクションが形成されました。彼らこそが勢力図を決定し、Zone の未来を形作るのです。</p>"
 
 msgid "IDS_STALCRAFT_M02_DESC"
 msgstr "<p>「Zarya」はかつて、疑わしい階層構造を持つ戦闘員の集団であったが、ヴォロシーロフの登場によって大きく変貌を遂げた。</p><p class=\"p_spacing\"> </p><p>現在の「Zarya」は、チャツキー率いる軍事部門と、ヴォロシーロフが監督する科学部門という二つの翼に分かれた、重要な勢力となっている。両部門は協力し合い、集団の発展のために共同で努力している。</p><p class=\"p_spacing\"> </p><p>「Zarya」には、戦闘員、職人、そして著名な科学者に至るまで、全く異なる人々が集まっている。参加者の考え方も様々である。</p><p class=\"p_spacing\"> </p><p>内部構造はマトリックス型をしている。各部門の参加者は協議機関を形成し、全体の意思決定に影響を与えている。</p><p class=\"p_spacing\"> </p><p>集団全体のイデオロギーは、ゾーンを多角的かつ独立して研究することの重要性、そしてゾーンの知識や資源へのアクセスを制限する国家機関や大企業からの干渉からゾーンを守ることの重要性を理解することに基づいている。</p><p class=\"p_spacing\"> </p><p>「Zarya」の資金源は、医薬品やユニークな物品の闇市場での販売である。</p>"
@@ -139956,7 +139956,7 @@ msgid "IDS_SYS_MSG_BOUGHT_DOGTAGITEM"
 msgstr "パーソナルマーク購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_ELITEXP"
-msgstr "エリート艦長 EXP 購入完了"
+msgstr "精鋭艦長 EXP 購入完了"
 
 msgid "IDS_SYS_MSG_BOUGHT_ENSIGN"
 msgstr "旗の購入完了"
@@ -140178,10 +140178,10 @@ msgid "IDS_SYS_MSG_CREW_FIRE"
 msgstr "艦長の解任完了"
 
 msgid "IDS_SYS_MSG_CREW_LEARNED_ELITE_CREW_BOOK"
-msgstr "エリート艦長教本が付与されました"
+msgstr "精鋭艦長教本が付与されました"
 
 msgid "IDS_SYS_MSG_CREW_LEARNED_RARE_CREW_BOOK"
-msgstr "レア艦長教本が付与されました"
+msgstr "希少艦長教本が付与されました"
 
 msgid "IDS_SYS_MSG_CREW_LEARN_SKILL"
 msgstr "艦長スキルを習得"
@@ -140202,7 +140202,7 @@ msgid "IDS_SYS_MSG_CREW_MENTORSHIP_ACTION_UNIQUE_SKILL_UNLOCKING"
 msgstr "固有スキルを取得しました"
 
 msgid "IDS_SYS_MSG_CREW_MENTORSHIP_AVAILABLE"
-msgstr "エリート訓練が利用可能です"
+msgstr "精鋭訓練が利用可能です"
 
 msgid "IDS_SYS_MSG_CREW_RESET_SKILLS"
 msgstr "艦長スキルのリセット完了"
@@ -140499,10 +140499,10 @@ msgid "IDS_SYS_MSG_RECEIVED_DOGTAGITEM"
 msgstr "パーソナルマーク取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_ELITEXP"
-msgstr "エリート艦長 EXP 取得"
+msgstr "精鋭艦長 EXP 取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_ELITE_CREW_BOOK"
-msgstr "エリート艦長教本取得"
+msgstr "精鋭艦長教本取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_ENSIGN"
 msgstr "旗を取得"
@@ -140589,7 +140589,7 @@ msgid "IDS_SYS_MSG_RECEIVED_PREMIUM_ACCOUNT"
 msgstr "プレミアムアカウント取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_RARE_CREW_BOOK"
-msgstr "レア艦長教本取得"
+msgstr "希少艦長教本取得"
 
 msgid "IDS_SYS_MSG_RECEIVED_RECRUITMENT_POINTS"
 msgstr "ナビゲーター・トークン取得"
@@ -140733,7 +140733,7 @@ msgid "IDS_SYS_MSG_SHIPYARD_LEVEL_REWARDED"
 msgstr "造船フェーズ褒賞"
 
 msgid "IDS_SYS_MSG_SHIP_BECAME_ELITE"
-msgstr "艦艇がエリートステータスを取得"
+msgstr "艦艇が精鋭ステータスを取得"
 
 msgid "IDS_SYS_MSG_SHIP_BECAME_ELITE_DESCRIPTION"
 msgstr ""
@@ -140957,10 +140957,10 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_DOGTAGITEM"
 msgstr "パーソナルマークが削除されました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_ELITEXP"
-msgstr "エリート艦長 EXP が削除されました"
+msgstr "精鋭艦長 EXP が削除されました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_ELITE_CREW_BOOK"
-msgstr "エリート艦長教本が削除されました"
+msgstr "精鋭艦長教本が削除されました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_ENSIGN"
 msgstr "旗が削除されました"
@@ -141041,7 +141041,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_PREMIUM_ACCOUNT"
 msgstr "プレミアムアカウントが削除されました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_RARE_CREW_BOOK"
-msgstr "レア艦長教本が削除されました"
+msgstr "希少艦長教本が削除されました"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_RECRUITMENT_POINTS"
 msgstr "ナビゲータートークンが削除されました"
@@ -143769,7 +143769,7 @@ msgid "IDS_TOOLTIP_CONTACTS"
 msgstr "連絡先を開く"
 
 msgid "IDS_TOOLTIP_CONVERT_EXP"
-msgstr "エリート/プレミアム艦艇で取得した EXP をフリー EXP へと変換"
+msgstr "精鋭/プレミアム艦艇で取得した EXP をフリー EXP へと変換"
 
 msgid "IDS_TOOLTIP_CREDIT_BALANCE"
 msgstr "金を銀に変換"
@@ -145516,16 +145516,16 @@ msgid "IDS_UNABLE_TO_SET_WHILE_READY_FOR_BATTLE"
 msgstr "分艦隊での戦闘準備中、変更できません"
 
 msgid "IDS_UNAVAILABLE_RARE_ECOBOOST_FOR_PURCHASE"
-msgstr "レア・ボーナスは購入不可"
+msgstr "希少ボーナスは購入不可"
 
 msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_2"
 msgstr "特別信号旗は武器庫で購入できます"
 
 msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_3"
-msgstr "レア信号旗は購入できません"
+msgstr "希少信号旗は購入できません"
 
 msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_4"
-msgstr "エリート信号旗は購入不可"
+msgstr "精鋭信号旗は購入不可"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_DEMOWITHOUTSTATS"
 msgstr "本艦は一時的にご利用いただけません。"
@@ -145552,7 +145552,7 @@ msgid "IDS_UNAVAILABLE_UNIQUE_CAMOUFLAGE_FOR_PURCHASE"
 msgstr "特別迷彩は購入不可"
 
 msgid "IDS_UNAVAILABLE_UNIQUE_ECOBOOST_FOR_PURCHASE"
-msgstr "エリート・ボーナスは購入不可"
+msgstr "精鋭ボーナスは購入不可"
 
 msgid "IDS_UNCOMMON_CREW_STATUS"
 msgstr "特別艦長"
@@ -145747,7 +145747,7 @@ msgid "IDS_UNLOCKS_DESCRIPTION_6"
 msgstr "<p>戦闘で EXP を取得し、褒賞を含むコンテナを各日 3 個まで入手可能です。十分な EXP を取得すると、コンテナは自動的に付与されます。</p><p class=\"p_spacing\"> </p><p>毎日のコンテナからは、特に貴重な褒賞が含まれたスーパーコンテナを入手できる可能性があります。</p><p class=\"p_spacing\"> </p><p>取得したコンテナを開封するには、「活動」タブに移動し、その後「コンテナ」を選択してください。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_7"
-msgstr "<p>武器庫では、取得したリソースを様々な価値あるアイテムと交換することができるほか、特定のテーマに沿ったアクティビティに参加することも可能です。</p><p class=\"p_spacing\"> </p><p>武器庫で入手できるアイテムには、艦艇、港スロット、コンテナ、エコノミーボーナス、アップグレード、信号旗、迷彩、パッチがあり、その他にもレア艦長や伝説艦長を採用することができます。</p><p class=\"p_spacing\"> </p><p>武器庫では、金、プレミアムアカウント、そしてその他のプレミアムショップのアイテムを購入できます。</p><p class=\"p_spacing\"> </p><p>武器庫に移動するには、同じ名前のタブをクリックします。</p>"
+msgstr "<p>武器庫では、取得したリソースを様々な価値あるアイテムと交換することができるほか、特定のテーマに沿ったアクティビティに参加することも可能です。</p><p class=\"p_spacing\"> </p><p>武器庫で入手できるアイテムには、艦艇、港スロット、コンテナ、エコノミーボーナス、アップグレード、信号旗、迷彩、パッチがあり、その他にも希少艦長や伝説艦長を採用することができます。</p><p class=\"p_spacing\"> </p><p>武器庫では、金、プレミアムアカウント、そしてその他のプレミアムショップのアイテムを購入できます。</p><p class=\"p_spacing\"> </p><p>武器庫に移動するには、同じ名前のタブをクリックします。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_9"
 msgstr "<p>戦闘任務を達成して価値ある褒賞を入手しましょう。</p><p class=\"p_spacing\"> </p><p>利用可能な任務リストを確認するには、「活動」セクションに移動し、その後「戦闘任務」を選択してください。</p>"
@@ -146430,7 +146430,7 @@ msgid "IDS_WAFFENTRAGER_NULL_FIELD_BATTLESHIP_FRAG_BOOST"
 msgstr "戦艦の撃沈"
 
 msgid "IDS_WAFFENTRAGER_NULL_FIELD_CHARGE_SPEED"
-msgstr "Point holding"
+msgstr "維持中"
 
 msgid "IDS_WAFFENTRAGER_NULL_FIELD_CHARGE_SPEED_VALUE"
 msgstr "+ 2 / 3 秒"
@@ -147065,7 +147065,7 @@ msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_1"
 msgstr "<p>Be careful! Some bonuses significantly increase the earnings of one resource but decrease the earnings of another.</p><p class=\"p_spacing\"> </p><p>Each bonus can be upgraded to increase resource earnings even more!</p>"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_2"
-msgstr "<p>ボーナスは 4 つのカテゴリーに分かれています: 銀、エリート艦長 EXP、フリー EXP、リアクトロイです。</p><p class=\"p_spacing\"> </p><p>各カテゴリーで有効にできるボーナスは 1 つだけです。</p>"
+msgstr "<p>ボーナスは 4 つのカテゴリーに分かれています: 銀、精鋭艦長 EXP、フリー EXP、リアクトロイです。</p><p class=\"p_spacing\"> </p><p>各カテゴリーで有効にできるボーナスは 1 つだけです。</p>"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_0"
 msgstr "技術局"
